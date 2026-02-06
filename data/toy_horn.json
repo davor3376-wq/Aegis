@@ -1,0 +1,98 @@
+{
+    "title": "Toy Horn",
+    "stats": {},
+    "data_tables": [
+        {
+            "Possible Stats": [
+                {
+                    "Stat Caustic Req.": "Chance",
+                    "Base": "Chance",
+                    "Max": "Limit"
+                },
+                {
+                    "Stat Caustic Req.": "+Convert Amount",
+                    "Base": "30 to 60",
+                    "Max": "180",
+                    "Upgrade": "3, 6Bias: 3"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "100%",
+                    "Max": "20"
+                },
+                {
+                    "Stat Caustic Req.": "+%Ability Pollen",
+                    "Base": "1% to 5%",
+                    "Max": "25%",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "5% to 25%",
+                    "Max": "20"
+                },
+                {
+                    "Stat Caustic Req.": "-%Energy",
+                    "Base": "-20% to -10%",
+                    "Max": "-10%",
+                    "Upgrade": "-"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "-",
+                    "Max": "-"
+                },
+                {
+                    "Stat Caustic Req.": "+%Bee Ability Rate",
+                    "Base": "1% to 3%",
+                    "Max": "6%",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "5% to 90%",
+                    "Base": "1% to 10%",
+                    "Max": "3"
+                },
+                {
+                    "Stat Caustic Req.": "Ability"
+                },
+                {
+                    "Stat Caustic Req.": "+Melody",
+                    "Base": "-",
+                    "Max": "-",
+                    "Upgrade": "-"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "-",
+                    "Max": "-"
+                },
+                {
+                    "Stat Caustic Req.": "Hive Bonus"
+                },
+                {
+                    "Stat Caustic Req.": "+%Bee Ability Pollen",
+                    "Base": "-",
+                    "Max": "5%",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "-",
+                    "Base": "2% to 5%",
+                    "Max": "5"
+                },
+                {
+                    "Stat Caustic Req.": "+%Convert Rate",
+                    "Base": "-",
+                    "Max": "20%",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "-",
+                    "Base": "5% to 10%",
+                    "Max": "20"
+                }
+            ]
+        }
+    ]
+}

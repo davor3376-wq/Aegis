@@ -1,0 +1,178 @@
+{
+    "title": "Wild Windy Bee",
+    "stats": {},
+    "data_tables": [
+        {
+            "Health per Level": [
+                {
+                    "Level": "1",
+                    "Health": "500"
+                },
+                {
+                    "Level": "2",
+                    "Health": "1,250"
+                },
+                {
+                    "Level": "3",
+                    "Health": "2,500"
+                },
+                {
+                    "Level": "4",
+                    "Health": "4,250"
+                },
+                {
+                    "Level": "5",
+                    "Health": "6,500"
+                },
+                {
+                    "Level": "6",
+                    "Health": "9,250"
+                },
+                {
+                    "Level": "7",
+                    "Health": "12,500"
+                },
+                {
+                    "Level": "8",
+                    "Health": "16,250"
+                },
+                {
+                    "Level": "9",
+                    "Health": "20,500"
+                },
+                {
+                    "Level": "10",
+                    "Health": "25,250"
+                },
+                {
+                    "Level": "11",
+                    "Health": "30,500"
+                },
+                {
+                    "Level": "12",
+                    "Health": "36,250"
+                },
+                {
+                    "Level": "13",
+                    "Health": "42,500"
+                },
+                {
+                    "Level": "14",
+                    "Health": "49,250"
+                },
+                {
+                    "Level": "15",
+                    "Health": "56,500"
+                },
+                {
+                    "Level": "16",
+                    "Health": "64,250"
+                },
+                {
+                    "Level": "17",
+                    "Health": "72,500"
+                },
+                {
+                    "Level": "18",
+                    "Health": "81,250"
+                },
+                {
+                    "Level": "19",
+                    "Health": "90,500"
+                },
+                {
+                    "Level": "20",
+                    "Health": "100,250"
+                },
+                {
+                    "Level": "21",
+                    "Health": "115,500"
+                },
+                {
+                    "Level": "22",
+                    "Health": "129,250"
+                },
+                {
+                    "Level": "23",
+                    "Health": "140,500"
+                },
+                {
+                    "Level": "24",
+                    "Health": "152,250"
+                },
+                {
+                    "Level": "25",
+                    "Health": "164,500"
+                }
+            ]
+        },
+        {
+            "Path": [
+                {
+                    "Current Field": "Sunflower Field",
+                    "Possible Fields to go": "Mushroom Field\nDandelion Field\nCoconut Field\nRose Field"
+                },
+                {
+                    "Current Field": "Dandelion Field",
+                    "Possible Fields to go": "Clover Field\nRose Field\nSunflower Field\nBlue Flower Field\nMushroom Field"
+                },
+                {
+                    "Current Field": "Mushroom Field",
+                    "Possible Fields to go": "Sunflower Field\nStrawberry Field\nCoconut Field\nSpider Field\nDandelion Field"
+                },
+                {
+                    "Current Field": "Blue Flower Field",
+                    "Possible Fields to go": "Bamboo Field\nSpider Field\nCoconut Field\nClover Field"
+                },
+                {
+                    "Current Field": "Clover Field",
+                    "Possible Fields to go": "Dandelion Field\nMushroom Field\nBlue Flower Field\nBamboo Field"
+                },
+                {
+                    "Current Field": "Spider Field",
+                    "Possible Fields to go": "Dandelion Field\nStrawberry Field\nBamboo Field\nCoconut Field"
+                },
+                {
+                    "Current Field": "Strawberry Field",
+                    "Possible Fields to go": "Sunflower Field\nSpider Field\nCactus Field\nRose Field\nCoconut Field"
+                },
+                {
+                    "Current Field": "Bamboo Field",
+                    "Possible Fields to go": "Spider Field\nPineapple Patch\nBlue Flower Field\nClover Field"
+                },
+                {
+                    "Current Field": "Pineapple Patch",
+                    "Possible Fields to go": "Mountain Top Field\nClover Field"
+                },
+                {
+                    "Current Field": "Cactus Field",
+                    "Possible Fields to go": "Pumpkin Patch\nPine Tree Forest\nMountain Top Field\nCoconut Field"
+                },
+                {
+                    "Current Field": "Pumpkin Patch",
+                    "Possible Fields to go": "Cactus Field\nPine Tree Forest\nMountain Top Field"
+                },
+                {
+                    "Current Field": "Pine Tree Forest",
+                    "Possible Fields to go": "Cactus Field\nPumpkin Patch\nMountain Top Field\nRose Field"
+                },
+                {
+                    "Current Field": "Rose Field",
+                    "Possible Fields to go": "Sunflower Field\nDandelion Field\nStrawberry Field\nCoconut Field"
+                },
+                {
+                    "Current Field": "Mountain Top Field",
+                    "Possible Fields to go": "Pineapple Patch\nCoconut Field\nPepper Patch\nClover Field\nRose Field"
+                },
+                {
+                    "Current Field": "Coconut Field",
+                    "Possible Fields to go": "Dandelion Field\nSunflower Field\nClover Field\nPepper Patch\nRose Field"
+                },
+                {
+                    "Current Field": "Pepper Patch",
+                    "Possible Fields to go": "Sunflower Field\nRose Field\nCoconut Field\nDandelion Field"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "title": "Petal Wand",
+    "stats": {},
+    "data_tables": [
+        {
+            "Unknown_Table": [
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                }
+            ]
+        },
+        {
+            "Unknown_Table": [
+                {
+                    "Flowers": "White",
+                    "Single": "12",
+                    "Double": "24",
+                    "Triple": "36",
+                    "Large": "48",
+                    "Star": "60"
+                },
+                {
+                    "Flowers": "Red",
+                    "Single": "12",
+                    "Double": "24",
+                    "Triple": "36",
+                    "Large": "48",
+                    "Star": "60"
+                },
+                {
+                    "Flowers": "Blue",
+                    "Single": "12",
+                    "Double": "24",
+                    "Triple": "36",
+                    "Large": "48",
+                    "Star": "60"
+                },
+                {
+                    "Flowers": "Special Multiplier(s): 100% Pollen Multiplier"
+                }
+            ]
+        },
+        {
+            "Unknown_Table": [
+                {
+                    "Crafting Ingredients": "1.5B Honey\n10 Star Jellies\n25 Glitter\n75 Enzymes\n1 Spirit Petal"
+                }
+            ]
+        }
+    ]
+}

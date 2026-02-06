@@ -1,0 +1,78 @@
+{
+    "title": "Spark Staff",
+    "stats": {},
+    "data_tables": [
+        {
+            "Unknown_Table": [
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                }
+            ]
+        },
+        {
+            "Unknown_Table": [
+                {
+                    "Flowers": "White",
+                    "Single": "36",
+                    "Double": "72",
+                    "Triple": "108",
+                    "Large": "144",
+                    "Star": "180"
+                },
+                {
+                    "Flowers": "Red",
+                    "Single": "36",
+                    "Double": "72",
+                    "Triple": "108",
+                    "Large": "144",
+                    "Star": "180"
+                },
+                {
+                    "Flowers": "Blue",
+                    "Single": "36",
+                    "Double": "72",
+                    "Triple": "108",
+                    "Large": "144",
+                    "Star": "180"
+                },
+                {
+                    "Flowers": "Special Multiplier(s): None"
+                }
+            ]
+        },
+        {
+            "Unknown_Table": [
+                {
+                    "Crafting Ingredients": "60,000,000 Honey"
+                }
+            ]
+        }
+    ]
+}

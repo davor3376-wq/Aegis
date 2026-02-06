@@ -1,0 +1,73 @@
+{
+    "title": "Mutation",
+    "stats": {},
+    "data_tables": [
+        {
+            "Possible Bee Bonuses": [
+                {
+                    "Stat": "%Attack",
+                    "Chance": "17.9%",
+                    "Range": "5-20%",
+                    "Color": "Red"
+                },
+                {
+                    "Stat": "+Attack",
+                    "Chance": "3.87%",
+                    "Range": "1-2"
+                },
+                {
+                    "Stat": "%Convert Amount",
+                    "Chance": "17.9%",
+                    "Range": "10-30%",
+                    "Color": "Orange"
+                },
+                {
+                    "Stat": "+Convert Amount",
+                    "Chance": "8.55%",
+                    "Range": "20-80"
+                },
+                {
+                    "Stat": "%Gather Amount",
+                    "Chance": "17.9%",
+                    "Range": "10-30%",
+                    "Color": "Light\nGreen"
+                },
+                {
+                    "Stat": "+Gather Amount",
+                    "Chance": "8.55%",
+                    "Range": "2-10"
+                },
+                {
+                    "Stat": "%Energy",
+                    "Chance": "17.9%",
+                    "Range": "10-40%",
+                    "Color": "Brown"
+                },
+                {
+                    "Stat": "%Bee Ability Rate",
+                    "Chance": "1.87%",
+                    "Range": "1-4%",
+                    "Color": "Purple"
+                },
+                {
+                    "Stat": "%Critical Chance",
+                    "Chance": "1.87%",
+                    "Range": "1-3%",
+                    "Color": "Green"
+                },
+                {
+                    "Stat": "+Movespeed",
+                    "Chance": "1.87%",
+                    "Range": "2-6",
+                    "Color": "Dark\nCyan"
+                },
+                {
+                    "Stat": "%Instant Conversion",
+                    "Chance": "4.57%",
+                    "Range": "8-20%",
+                    "Color": "Yellow"
+                }
+            ]
+        }
+    ]
+}

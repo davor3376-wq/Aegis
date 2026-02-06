@@ -1,0 +1,87 @@
+{
+    "title": "Toy Drum",
+    "stats": {},
+    "data_tables": [
+        {
+            "Possible Stats": [
+                {
+                    "Stat Caustic Req.": "Chance",
+                    "Base": "Chance",
+                    "Max": "Limit"
+                },
+                {
+                    "Stat Caustic Req.": "+Gather Amount",
+                    "Base": "10 to 20",
+                    "Max": "60",
+                    "Upgrade": "1, 2Bias: 4"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "100%",
+                    "Max": "20"
+                },
+                {
+                    "Stat Caustic Req.": "+%Bee Attack",
+                    "Base": "1% to 5%",
+                    "Max": "25%",
+                    "Upgrade": "1%, 2%Bias: 4"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "50% to 75%",
+                    "Max": "10"
+                },
+                {
+                    "Stat Caustic Req.": "-%Energy",
+                    "Base": "-20% to -10%",
+                    "Max": "-10%",
+                    "Upgrade": "-"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "-",
+                    "Max": "-"
+                },
+                {
+                    "Stat Caustic Req.": "+%Critical Chance",
+                    "Base": "1%",
+                    "Max": "1%",
+                    "Upgrade": "-"
+                },
+                {
+                    "Stat Caustic Req.": "5% to 90%",
+                    "Base": "-",
+                    "Max": "-"
+                },
+                {
+                    "Stat Caustic Req.": "Ability"
+                },
+                {
+                    "Stat Caustic Req.": "+Haste",
+                    "Base": "-",
+                    "Max": "-",
+                    "Upgrade": "-"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "-",
+                    "Max": "-"
+                },
+                {
+                    "Stat Caustic Req.": "Hive Bonus"
+                },
+                {
+                    "Stat Caustic Req.": "+%Bee Ability Pollen",
+                    "Base": "-",
+                    "Max": "10%",
+                    "Upgrade": "1%, 2%Bias: 4"
+                },
+                {
+                    "Stat Caustic Req.": "-",
+                    "Base": "1% to 10%",
+                    "Max": "5"
+                }
+            ]
+        }
+    ]
+}

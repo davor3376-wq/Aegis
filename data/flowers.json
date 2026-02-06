@@ -1,0 +1,50 @@
+{
+    "title": "Flowers",
+    "stats": {},
+    "data_tables": [
+        {
+            "Unknown_Table": [
+                {
+                    "Type": "White",
+                    "Flower": "Red",
+                    "Locations": "Blue"
+                },
+                {
+                    "Type": "Single",
+                    "Flower": "",
+                    "Locations": "",
+                    "col_3": "",
+                    "col_4": "Sunflower Field, Dandelion Field, Mushroom Field, Clover Field, Blue Flower Field, Spider Field, Strawberry Field, Bamboo Field, Pineapple Patch, Pine Tree Forest, Rose Field, Ant Field."
+                },
+                {
+                    "Type": "Double",
+                    "Flower": "",
+                    "Locations": "",
+                    "col_3": "",
+                    "col_4": "Sunflower Field, Dandelion Field, Mushroom Field, Clover Field, Blue Flower Field, Spider Field, Strawberry Field, Bamboo Field, Pineapple Patch, Cactus Field, Pumpkin Patch, Pine Tree Forest, Rose Field."
+                },
+                {
+                    "Type": "Triple",
+                    "Flower": "",
+                    "Locations": "",
+                    "col_3": "",
+                    "col_4": "Spider Field, Strawberry Field, Bamboo Field, Pineapple Patch, Stump Field, Cactus Field, Pumpkin Patch, Pine Tree Forest, Rose Field, Mountain Top Field, Coconut Field, Pepper Patch."
+                },
+                {
+                    "Type": "Large",
+                    "Flower": "",
+                    "Locations": "",
+                    "col_3": "",
+                    "col_4": "Can only be created by pollination."
+                },
+                {
+                    "Type": "Star",
+                    "Flower": "",
+                    "Locations": "",
+                    "col_3": "",
+                    "col_4": "Can only be created by pollination."
+                }
+            ]
+        }
+    ]
+}

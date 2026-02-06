@@ -1,0 +1,208 @@
+{
+    "title": "Demon Talisman",
+    "stats": {},
+    "data_tables": [
+        {
+            "Possible Stats": [
+                {
+                    "Stat Caustic Req.": "Chance",
+                    "Base": "Chance",
+                    "Max": "Limit"
+                },
+                {
+                    "Stat Caustic Req.": "+%Bee Attack",
+                    "Base": "50% to 70%",
+                    "Max": "95%",
+                    "Upgrade": "3%, 5%Bias: 2"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "33%",
+                    "Max": "5"
+                },
+                {
+                    "Stat Caustic Req.": "+%Gather Amount",
+                    "Base": "50% to 70%",
+                    "Max": "160%",
+                    "Upgrade": "4%, 6%Bias: 2"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "16%",
+                    "Max": "15"
+                },
+                {
+                    "Stat Caustic Req.": "+%Ability Pollen",
+                    "Base": "50% to 70%",
+                    "Max": "160%",
+                    "Upgrade": "4%, 6%Bias: 2"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "16%",
+                    "Max": "15"
+                },
+                {
+                    "Stat Caustic Req.": "+%Gathering Flames Chance",
+                    "Base": "10% to 15%",
+                    "Max": "21%",
+                    "Upgrade": "1%, 2%Bias: 3"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "23%",
+                    "Max": "3"
+                },
+                {
+                    "Stat Caustic Req.": "+%Super-Crit Chance",
+                    "Base": "5% to 10%",
+                    "Max": "30%",
+                    "Upgrade": "2%"
+                },
+                {
+                    "Stat Caustic Req.": "1% to 5%",
+                    "Base": "10%",
+                    "Max": "10"
+                },
+                {
+                    "Stat Caustic Req.": "-%Movespeed",
+                    "Base": "-70% to -60%",
+                    "Max": "-60%",
+                    "Upgrade": "-"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "-",
+                    "Max": "-"
+                },
+                {
+                    "Stat Caustic Req.": "-%Energy",
+                    "Base": "-30% to -20%",
+                    "Max": "-20%",
+                    "Upgrade": "-"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "-",
+                    "Max": "-"
+                },
+                {
+                    "Stat Caustic Req.": "Ability"
+                },
+                {
+                    "Stat Caustic Req.": "+InfernoCaustic Only",
+                    "Base": "-",
+                    "Max": "-",
+                    "Upgrade": "-"
+                },
+                {
+                    "Stat Caustic Req.": "-",
+                    "Base": "0.0125% to 0.1%",
+                    "Max": "-"
+                },
+                {
+                    "Stat Caustic Req.": "Hive Bonus"
+                },
+                {
+                    "Stat Caustic Req.": "+%Red Bomb Pollen",
+                    "Base": "7% to 13%",
+                    "Max": "35%",
+                    "Upgrade": "1%, 2%Bias: 3"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "40% to 60%",
+                    "Max": "11"
+                },
+                {
+                    "Stat Caustic Req.": "+%Flame Pollen",
+                    "Base": "7% to 13%",
+                    "Max": "35%",
+                    "Upgrade": "1%, 2%Bias: 3"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "40% to 60%",
+                    "Max": "11"
+                },
+                {
+                    "Stat Caustic Req.": "+%Instant Red Bomb Conversion",
+                    "Base": "6% to 9%",
+                    "Max": "14%",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "10% to 25%",
+                    "Max": "5"
+                },
+                {
+                    "Stat Caustic Req.": "+%Instant Flame Conversion",
+                    "Base": "6% to 9%",
+                    "Max": "14%",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "10% to 25%",
+                    "Max": "5"
+                },
+                {
+                    "Stat Caustic Req.": "+%Instant Demon Bee Conversion",
+                    "Base": "10%",
+                    "Max": "10%",
+                    "Upgrade": "-"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "-",
+                    "Max": "-"
+                },
+                {
+                    "Stat Caustic Req.": "+%Super-Crit PowerCaustic Only",
+                    "Base": "-",
+                    "Max": "10%",
+                    "Upgrade": "2%"
+                },
+                {
+                    "Stat Caustic Req.": "-",
+                    "Base": "5% to 20%",
+                    "Max": "5"
+                },
+                {
+                    "Stat Caustic Req.": "-%Max Bee Energy",
+                    "Base": "-25% to -20%",
+                    "Max": "-20%",
+                    "Upgrade": "-"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "-",
+                    "Max": "-"
+                },
+                {
+                    "Stat Caustic Req.": "-Player Movespeed",
+                    "Base": "-5",
+                    "Max": "-5",
+                    "Upgrade": "-"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "-",
+                    "Max": "-"
+                },
+                {
+                    "Stat Caustic Req.": "xBlue Pollen",
+                    "Base": "x0.5",
+                    "Max": "x0.5",
+                    "Upgrade": "-"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "-",
+                    "Max": "-"
+                }
+            ]
+        }
+    ]
+}

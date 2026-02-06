@@ -1,0 +1,15 @@
+{
+    "title": "Werewolf",
+    "stats": {},
+    "data_tables": [
+        {
+            "Locations": [
+                {
+                    "Field": "Entire level containing the Cactus Field, Pumpkin Patch, and Pine Tree Forest.",
+                    "Quantity": "1",
+                    "Level": "7"
+                }
+            ]
+        }
+    ]
+}

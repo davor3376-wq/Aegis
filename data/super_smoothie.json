@@ -1,0 +1,40 @@
+{
+    "title": "Super Smoothie",
+    "stats": {},
+    "data_tables": [
+        {
+            "Crafting Uses": [
+                {
+                    "Super Smoothies": "10",
+                    "Other ingredients": "10 Caustic Waxes\n100 Star Jellies\n1,000 Honeysuckles",
+                    "Result": "Turpentine"
+                },
+                {
+                    "Super Smoothies": "25",
+                    "Other ingredients": "5T Honey\n100 Magic Beans\n100 Glitter\n250 Soft Waxes\n50 Swirled Waxes",
+                    "Result": "Petal Planter"
+                },
+                {
+                    "Super Smoothies": "50",
+                    "Other ingredients": "2.5T Honey\n1,500 Red Extracts\n150 Stingers\n100 Hard Waxes\n50 Caustic Waxes",
+                    "Result": "Dark Scythe"
+                },
+                {
+                    "Super Smoothies": "50",
+                    "Other ingredients": "2.5T Honey\n1,500 Blue Extracts\n150 Stingers\n150 Tropical Drinks\n75 Swirled Waxes",
+                    "Result": "Tide Popper"
+                },
+                {
+                    "Super Smoothies": "50",
+                    "Other ingredients": "10T Honey\n1,500 Glues\n2,000 Gumdrops\n50 Caustic Waxes\n5 Turpentines\n3 Satisfying Vials",
+                    "Result": "Gummyballer"
+                },
+                {
+                    "Super Smoothies": "100",
+                    "Other ingredients": "100T Honey\n500 Magic Beans\n100 Swirled Waxes\n100 Caustic Waxes\n25 Turpentines",
+                    "Result": "The Planter Of Plenty"
+                }
+            ]
+        }
+    ]
+}

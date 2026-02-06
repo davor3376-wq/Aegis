@@ -1,0 +1,65 @@
+{
+    "title": "Bees/Event",
+    "stats": {},
+    "data_tables": [
+        {
+            "Unknown_Table": [
+                {
+                    "Bee": "Bear Bee",
+                    "Icon": "",
+                    "Description": "A friendly bee who transforms you into different bears!"
+                },
+                {
+                    "Bee": "Cobalt Bee",
+                    "Icon": "",
+                    "Description": "A superhero and defender of all things Blue! Together with Crimson Bee it works to unite bees of all colors."
+                },
+                {
+                    "Bee": "Crimson Bee",
+                    "Icon": "",
+                    "Description": "A superhero and defender of all things Red! Together with Cobalt Bee it works to unite bees of all colors."
+                },
+                {
+                    "Bee": "Digital Bee",
+                    "Icon": "",
+                    "Description": "A virtual bee with malfunctioning AI. It corrupts the game itself."
+                },
+                {
+                    "Bee": "Festive Bee",
+                    "Icon": "",
+                    "Description": "A jolly bee who loves giving gifts! It's purely motivated by the joy of others."
+                },
+                {
+                    "Bee": "Gummy Bee",
+                    "Icon": "",
+                    "Description": "A squishy bee who's sweet as sugar. Covers flowers in goo to grant you bonus honey!"
+                },
+                {
+                    "Bee": "Photon Bee",
+                    "Icon": "",
+                    "Description": "An entity made of pure light temporarily taking on the form of a bee."
+                },
+                {
+                    "Bee": "Puppy Bee",
+                    "Icon": "",
+                    "Description": "A playful bee who only cares about two things, its tennis ball and you!"
+                },
+                {
+                    "Bee": "Tabby Bee",
+                    "Icon": "",
+                    "Description": "This affectionate bee was raised by cats. It becomes a better worker as it warms up to you."
+                },
+                {
+                    "Bee": "Vicious Bee",
+                    "Icon": "",
+                    "Description": "This cold-blooded bee takes great pleasure in inflicting pain."
+                },
+                {
+                    "Bee": "Windy Bee",
+                    "Icon": "",
+                    "Description": "An ethereal bee as powerful and unpredictable as the weather."
+                }
+            ]
+        }
+    ]
+}

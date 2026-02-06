@@ -1,0 +1,54 @@
+{
+    "title": "Bamboo Field",
+    "stats": {},
+    "data_tables": [
+        {
+            "Unknown_Table": [
+                {
+                    "Flowers": "Single",
+                    "White": "35",
+                    "Red": "5%",
+                    "Blue": "0",
+                    "Total": "0%",
+                    "col_5": "105",
+                    "col_6": "15%",
+                    "col_7": "140",
+                    "col_8": "20%"
+                },
+                {
+                    "Flowers": "Double",
+                    "White": "132",
+                    "Red": "18.75%",
+                    "Blue": "0",
+                    "Total": "0%",
+                    "col_5": "395",
+                    "col_6": "56.25%",
+                    "col_7": "527",
+                    "col_8": "75%"
+                },
+                {
+                    "Flowers": "Triple",
+                    "White": "9",
+                    "Red": "1.25%",
+                    "Blue": "0",
+                    "Total": "0%",
+                    "col_5": "26",
+                    "col_6": "3.75%",
+                    "col_7": "35",
+                    "col_8": "5%"
+                },
+                {
+                    "Flowers": "Total",
+                    "White": "176",
+                    "Red": "25%",
+                    "Blue": "0",
+                    "Total": "0%",
+                    "col_5": "527",
+                    "col_6": "75%",
+                    "col_7": "702",
+                    "col_8": "100%"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "title": "Bees/Legendary",
+    "stats": {},
+    "data_tables": [
+        {
+            "Unknown_Table": [
+                {
+                    "Bee": "Baby Bee",
+                    "Icon": "",
+                    "Description": "This little bee isn't very good at bee tasks yet, but it's guaranteed to bring you joy (and luck)."
+                },
+                {
+                    "Bee": "Carpenter Bee",
+                    "Icon": "",
+                    "Description": "A bee with a knack for construction. It built its own body out of wood."
+                },
+                {
+                    "Bee": "Demon Bee",
+                    "Icon": "",
+                    "Description": "A powerful bee with magical powers fueled by pure hatred."
+                },
+                {
+                    "Bee": "Diamond Bee",
+                    "Icon": "",
+                    "Description": "An extremely wealthy and pompous bee who has the money and talent to justify its attitude."
+                },
+                {
+                    "Bee": "Lion Bee",
+                    "Icon": "",
+                    "Description": "Half lion, half bee. This is the king of both the jungle and bee hive."
+                },
+                {
+                    "Bee": "Music Bee",
+                    "Icon": "",
+                    "Description": "This bee's buzz is so beautiful it can bring anyone to tears. It uses this gift to motivate others."
+                },
+                {
+                    "Bee": "Ninja Bee",
+                    "Icon": "",
+                    "Description": "This bee trained vigorously for years to become the swiftest bee that has ever lived."
+                },
+                {
+                    "Bee": "Shy Bee",
+                    "Icon": "",
+                    "Description": "This talented bee doesn't like to socialize, it just wants to work and be left alone."
+                }
+            ]
+        },
+        {
+            "Unknown_Table": [
+                {
+                    "Egg and Jelly Probability": "Item",
+                    "col_1": "Base Probability",
+                    "col_2": "Probability of getting a particular legendary bee."
+                },
+                {
+                    "Egg and Jelly Probability": "Basic Egg",
+                    "col_1": "0.5%",
+                    "col_2": "0.0625%"
+                },
+                {
+                    "Egg and Jelly Probability": "Silver Egg",
+                    "col_1": "5%",
+                    "col_2": "0.625%"
+                },
+                {
+                    "Egg and Jelly Probability": "Gold Egg",
+                    "col_1": "20%",
+                    "col_2": "2.5%"
+                },
+                {
+                    "Egg and Jelly Probability": "Diamond Egg",
+                    "col_1": "95%",
+                    "col_2": "11.875%"
+                },
+                {
+                    "Egg and Jelly Probability": "Mythic Egg",
+                    "col_1": "0%",
+                    "col_2": "0%"
+                },
+                {
+                    "Egg and Jelly Probability": "Royal Jelly",
+                    "col_1": "3%",
+                    "col_2": "0.375%"
+                }
+            ]
+        }
+    ]
+}

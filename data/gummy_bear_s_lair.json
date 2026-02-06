@@ -1,0 +1,32 @@
+{
+    "title": "Gummy Bear's Lair",
+    "stats": {},
+    "data_tables": [
+        {
+            "Shop": [
+                {
+                    "Item": "Gummy Mask",
+                    "Cost": "5B Honey\n250 Glues\n100 Enzymes\n100 Oils\n100 Glitter\n1 Satisfying Vial",
+                    "Description": "\"The official mask of a Gummy Soldier.\"\n\n+75% Goo.\n+10% Goo Conversion.\nx1.25 White Pollen.\n+25% Pollen.\nx1.5 Capacity.\nx1.5 White Field Capacity.\n+30% Defense.\n+20% Bee Ability Rate.\n+Passive: Coin Scatter (see Honey Mask, needs Honey Mask in order to use).\n+Passive: Gummy Morph."
+                },
+                {
+                    "Item": "Gummy Boots",
+                    "Cost": "100B Honey\n500 Glues\n250 Glitter\n250 Red Extracts\n250 Blue Extracts\n1 Satisfying Vial\n1 Motivating Vial",
+                    "Description": "\"Squishy boots that leave a trail of Goo wherever you go.\"\n\n+25% Goo.\n+20% Pollen.\n+3 Bee Attack.\n+50% Honey From Tokens.\n+8 Player Movespeed.\n+22 Jump Power.\n+16 Movement Collection.\n+Passive: Coconut Haste (see Coconut Clogs, needs Coconut Clogs in order to use).\n+Passive: Goo Trail."
+                },
+                {
+                    "Item": "Gummyballer",
+                    "Cost": "10T Honey\n1,500 Glues\n2,000 Gumdrops\n50 Caustic Waxes\n50 Super Smoothies\n5 Turpentines\n3 Satisfying Vials",
+                    "Description": "Conjures up a delectible arsenal of gummy wrecking balls. Bombard Marks and Honey Tokens for massive gooey gains."
+                }
+            ]
+        },
+        {
+            "Gummy Bear's Dialogue": [
+                {
+                    "Dialogue": "A beekeeper approaches, Gummy Bee!\nThe player is given two options: \"Talk to Gummy Bear\" or \"Return to hive\".\n-Talk to Gummy Bear-\nOur Gummy Army marches forward at a steady, viscous pace. An inevitable ooze that envelopes all things, uniting us all! This glorious gummy world awaits you and your Gummy Bee as well. A place where nothing is bitter, and EVERYTHING is sweet!\n-Return to hive-\nBack to work, soldier!\nThe player is teleported to their hive.\n\nIf the player has bought the Gummy Mask after Beesmas 2021, only the dialogue of talking to Gummy Bear will activate."
+                }
+            ]
+        }
+    ]
+}

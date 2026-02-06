@@ -1,0 +1,87 @@
+{
+    "title": "Kazoo",
+    "stats": {},
+    "data_tables": [
+        {
+            "Possible Stats": [
+                {
+                    "Stat Caustic Req.": "Chance",
+                    "Base": "Chance",
+                    "Max": "Limit"
+                },
+                {
+                    "Stat Caustic Req.": "+%Convert Amount",
+                    "Base": "20% to 30%",
+                    "Max": "90%",
+                    "Upgrade": "1%, 3%Bias: 2"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "50%",
+                    "Max": "20"
+                },
+                {
+                    "Stat Caustic Req.": "+%Critical Power",
+                    "Base": "20% to 30%",
+                    "Max": "90%",
+                    "Upgrade": "1%, 3%Bias: 2"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "50%",
+                    "Max": "20"
+                },
+                {
+                    "Stat Caustic Req.": "-%Energy",
+                    "Base": "-55% to -45%",
+                    "Max": "-45%",
+                    "Upgrade": "-"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "-",
+                    "Max": "-"
+                },
+                {
+                    "Stat Caustic Req.": "Ability"
+                },
+                {
+                    "Stat Caustic Req.": "+Melody",
+                    "Base": "-",
+                    "Max": "-",
+                    "Upgrade": "-"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "-",
+                    "Max": "-"
+                },
+                {
+                    "Stat Caustic Req.": "Hive Bonus"
+                },
+                {
+                    "Stat Caustic Req.": "+%Critical Power",
+                    "Base": "2% to 5%",
+                    "Max": "10%",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "5% to 25%",
+                    "Base": "1% to 5%",
+                    "Max": "5"
+                },
+                {
+                    "Stat Caustic Req.": "+%Super-Crit PowerCaustic Only",
+                    "Base": "-",
+                    "Max": "5%",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "-",
+                    "Base": "2% to 8%",
+                    "Max": "5"
+                }
+            ]
+        }
+    ]
+}

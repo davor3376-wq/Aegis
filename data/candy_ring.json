@@ -1,0 +1,84 @@
+{
+    "title": "Candy Ring",
+    "stats": {},
+    "data_tables": [
+        {
+            "Possible Stats": [
+                {
+                    "Stat Caustic Req.": "Chance",
+                    "Base": "Chance",
+                    "Max": "Limit"
+                },
+                {
+                    "Stat Caustic Req.": "+Energy",
+                    "Base": "60 to 80",
+                    "Max": "240",
+                    "Upgrade": "6, 8"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "100%",
+                    "Max": "20"
+                },
+                {
+                    "Stat Caustic Req.": "+%Convert Amount",
+                    "Base": "20% to 30%",
+                    "Max": "80%",
+                    "Upgrade": "3%, 5%"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "50%",
+                    "Max": "10"
+                },
+                {
+                    "Stat Caustic Req.": "+%Bee Ability RateCaustic Only",
+                    "Base": "1% to 2%",
+                    "Max": "5%",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "10% to 20%",
+                    "Max": "3"
+                },
+                {
+                    "Stat Caustic Req.": "Hive Bonus"
+                },
+                {
+                    "Stat Caustic Req.": "+%Honey At Hive",
+                    "Base": "2% to 5%",
+                    "Max": "25%",
+                    "Upgrade": "1%, 2%Bias: 3"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "1% to 10%",
+                    "Max": "10"
+                },
+                {
+                    "Stat Caustic Req.": "+%Honey Per Goo",
+                    "Base": "1%",
+                    "Max": "7%",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "0.5% to 5%",
+                    "Max": "6"
+                },
+                {
+                    "Stat Caustic Req.": "xHoney From TokensCaustic Only",
+                    "Base": "-",
+                    "Max": "x1.01",
+                    "Upgrade": "1.01%"
+                },
+                {
+                    "Stat Caustic Req.": "-",
+                    "Base": "0.005% to 0.02%",
+                    "Max": "1"
+                }
+            ]
+        }
+    ]
+}

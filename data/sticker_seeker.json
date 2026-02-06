@@ -1,0 +1,219 @@
+{
+    "title": "Sticker-Seeker",
+    "stats": {},
+    "data_tables": [
+        {
+            "Unknown_Table": [
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                }
+            ]
+        },
+        {
+            "Unknown_Table": [
+                {
+                    "Flowers": "White",
+                    "Single": "10",
+                    "Double": "20",
+                    "Triple": "30",
+                    "Large": "40",
+                    "Star": "50"
+                },
+                {
+                    "Flowers": "Red",
+                    "Single": "10",
+                    "Double": "20",
+                    "Triple": "30",
+                    "Large": "40",
+                    "Star": "50"
+                },
+                {
+                    "Flowers": "Blue",
+                    "Single": "10",
+                    "Double": "20",
+                    "Triple": "30",
+                    "Large": "40",
+                    "Star": "50"
+                },
+                {
+                    "Flowers": "Special Multiplier(s): Grants the ability to use the Sticker-Seeker Quest Machine, dig up Stickers, and find Seeker-Stickers"
+                }
+            ]
+        },
+        {
+            "Unknown_Table": [
+                {
+                    "Crafting Ingredients": "7,000,000 Honey\n1 Glue\n1 Oil\n5 Soft Waxes\n5 Neonberries\n10 Micro-Converters"
+                }
+            ]
+        },
+        {
+            "Stickers Obtainable from Sticker-Seeker": [
+                {
+                    "Any Field": "Green Plus Sign\n Green Check Mark\n Yellow Right Arrow\n Yellow Left Arrow\n Simple Sun\n Rubber Duck\n Yellow Coffee Mug\n Orphan Dog\n Interrobang Block\n Evil Pig\n Red X (uncommon)\n Yellow Hi (uncommon)\n Alert Icon (rare)\n Pizza Delivery Man (rare)\n Theatrical Intruder (rare)\n Desperate Booth (rare)\n Built Ship (rare)\n Grey Shape Companion (rare)\n Waving Townsperson (rare)\n Cop and Robber (rare)\n Uplooking Bear (very rare)\n Happy Fish (very rare)\n Red Palm Hand (extremely rare)\n Yellow Sticky Hand (unbelievably rare)\n Orange Swirled Marble (unbelievably rare, extremely rare in Hub Field)\n Blue And Green Marble (unbelievably rare, extremely rare in Hub Field)\n Yellow Swirled Marble (unbelievably rare, extremely rare in Hub Field)\n Squashed Head Bear (nearly impossible)\n Stretched Head Bear (nearly impossible)"
+                }
+            ]
+        },
+        {
+            "Stickers Obtainable from Sticker-Seeker": [
+                {
+                    "Starter Zone": "Tiny House\n Baseball Swing (uncommon)\n Green SELL (rare)"
+                },
+                {
+                    "Starter Zone": "5 Bee Zone"
+                },
+                {
+                    "Starter Zone": "Barcode (rare)"
+                },
+                {
+                    "Starter Zone": "15 Bee Zone"
+                },
+                {
+                    "Starter Zone": "Giraffe\n Taunting Doodle Person (unbelievably rare)"
+                },
+                {
+                    "Starter Zone": "35 Bee Zone"
+                },
+                {
+                    "Starter Zone": "Prehistoric Hand (very rare)\n Prehistoric Boar (very rare)"
+                }
+            ]
+        },
+        {
+            "Stickers Obtainable from Sticker-Seeker": [
+                {
+                    "Sunflower Field": "Sitting Mother Bear (extremely rare)\n Orange Step Array (extremely rare)\n Leo Star Sign (during nighttime, unfathomably rare)\n Sunflower Field Stamp (unfathomably rare)"
+                },
+                {
+                    "Sunflower Field": "Dandelion Field"
+                },
+                {
+                    "Sunflower Field": "Flying Magenta Critter (very rare)\n Orange Green Tri Deco (extremely rare)\n Gemini Star Sign (during nighttime, unfathomably rare)\n Dandelion Field Stamp (unfathomably rare)"
+                },
+                {
+                    "Sunflower Field": "Mushroom Field"
+                },
+                {
+                    "Sunflower Field": "Aquarius Star Sign (during nighttime, unfathomably rare)\n Mushroom Field Stamp (unfathomably rare)"
+                },
+                {
+                    "Sunflower Field": "Blue Flower Field"
+                },
+                {
+                    "Sunflower Field": "Blue Triangle Critter\n Libra Star Sign (during nighttime, unfathomably rare)\n Blue Flower Field Stamp (unfathomably rare)"
+                },
+                {
+                    "Sunflower Field": "Clover Field"
+                },
+                {
+                    "Sunflower Field": "Round Green Critter (very rare)\n Clover Field Stamp (unfathomably rare)"
+                },
+                {
+                    "Sunflower Field": "Strawberry Field"
+                },
+                {
+                    "Sunflower Field": "Pink Cupcake (extremely rare)\n Strawberry Field Stamp (unfathomably rare)"
+                },
+                {
+                    "Sunflower Field": "Spider Field"
+                },
+                {
+                    "Sunflower Field": "Doodle S (rare)\n Forward Facing Spider (extremely rare)\n Scorpio Star Sign (during nighttime, unfathomably rare)\n Spider Field Stamp (unfathomably rare)"
+                },
+                {
+                    "Sunflower Field": "Bamboo Field"
+                },
+                {
+                    "Sunflower Field": "Virgo Star Sign (during nighttime, unfathomably rare)\n Bamboo Field Stamp (unfathomably rare)"
+                },
+                {
+                    "Sunflower Field": "Pineapple Patch"
+                },
+                {
+                    "Sunflower Field": "Pisces Star Sign (during nighttime, unfathomably rare)\n Pineapple Patch Stamp (unfathomably rare)"
+                },
+                {
+                    "Sunflower Field": "Stump Field"
+                },
+                {
+                    "Sunflower Field": "Capricorn Star Sign (during nighttime, unfathomably rare)\n Cancer Star Sign (during nighttime, unfathomably rare)\n Stump Field Stamp (unfathomably rare)"
+                },
+                {
+                    "Sunflower Field": "Cactus Field"
+                },
+                {
+                    "Sunflower Field": "Purple Pointed Critter\n Young Elf (very rare)\n Cactus Field Stamp (unfathomably rare)"
+                },
+                {
+                    "Sunflower Field": "Pumpkin Patch"
+                },
+                {
+                    "Sunflower Field": "Jack-O-Lantern (extremely rare)\n Orange Step Array (extremely rare)\n Orange Green Tri Deco (extremely rare)\n Pumpkin Patch Stamp (unfathomably rare)"
+                },
+                {
+                    "Sunflower Field": "Pine Tree Forest"
+                },
+                {
+                    "Sunflower Field": "Pine Tree Forest Stamp (unfathomably rare)"
+                },
+                {
+                    "Sunflower Field": "Rose Field"
+                },
+                {
+                    "Sunflower Field": "Shrugging Heart (very rare)\n Taurus Star Sign (during nighttime, unfathomably rare)\n Rose Field Stamp (unfathomably rare)"
+                },
+                {
+                    "Sunflower Field": "Mountain Top Field"
+                },
+                {
+                    "Sunflower Field": "Simple Skyscraper (rare)\n Simple Mountain (rare)\n Sagittarius Star Sign (during nighttime, unfathomably rare)\n Mountain Top Field Stamp (unfathomably rare)"
+                },
+                {
+                    "Sunflower Field": "Hub Field"
+                },
+                {
+                    "Sunflower Field": "Green SELL (rare)\n Abstract Color Painting (unbelievably rare)\n Hub Field Stamp (unfathomably rare)"
+                },
+                {
+                    "Sunflower Field": "Pepper Patch"
+                },
+                {
+                    "Sunflower Field": "Aries Star Sign (unfathomably rare)\n Pepper Patch Stamp (unfathomably rare)"
+                },
+                {
+                    "Sunflower Field": "Coconut Field"
+                },
+                {
+                    "Sunflower Field": "Palm Tree (very rare)\n Coconut Field Stamp (unfathomably rare)"
+                }
+            ]
+        }
+    ]
+}

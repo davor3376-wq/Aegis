@@ -1,0 +1,22 @@
+{
+    "title": "Gumdrop Shop",
+    "stats": {},
+    "data_tables": [
+        {
+            "Prices": [
+                {
+                    "Gumdrops": "3",
+                    "Tickets": "1"
+                },
+                {
+                    "Gumdrops": "30",
+                    "Tickets": "10"
+                },
+                {
+                    "Gumdrops": "300",
+                    "Tickets": "100"
+                }
+            ]
+        }
+    ]
+}

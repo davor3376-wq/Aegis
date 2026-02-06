@@ -1,0 +1,991 @@
+{
+    "title": "Buffs & Debuffs",
+    "stats": {},
+    "data_tables": [
+        {
+            "From Ability Tokens": [
+                {
+                    "Buff's Name": "Boost",
+                    "Icon": "",
+                    "Ways to Obtain": "Ability tokens from specific red or blue bees or Windy Bee, tokens from red or blue flowers, and tokens from Balloons during a Surprise Party.",
+                    "Individual\nEffect": "x1.2 Red, Blue, or White Pollen (depends on boost color)",
+                    "Effect at Max\nCap (Stack)": "x3 Red, White, or Blue Pollen",
+                    "Duration\nof Effect": "15 seconds"
+                },
+                {
+                    "Buff's Name": "Bomb Combo",
+                    "Icon": "",
+                    "Ways to Obtain": "Collecting any bomb ability tokens, catching fuzz bombs, and tokens from Balloons during a Surprise Party.",
+                    "Individual\nEffect": "x1.25 Bomb Power",
+                    "Effect at Max\nCap (Stack)": "x3.50 Bomb Power",
+                    "Duration\nof Effect": "5 seconds"
+                },
+                {
+                    "Buff's Name": "Haste",
+                    "Icon": "",
+                    "Ways to Obtain": "Ability tokens from Hasty, Shocked, Ninja, and Photon Bees, and bees with the Toy Drum Beequip equipped.",
+                    "Individual\nEffect": "x1.1 Player Movespeed",
+                    "Effect at Max\nCap (Stack)": "x2 Player Movespeed",
+                    "Duration\nof Effect": "20 seconds"
+                },
+                {
+                    "Buff's Name": "Focus",
+                    "Icon": "",
+                    "Ways to Obtain": "Ability tokens from Looker, Commander, and Music Bees, and Puppy Bee with the Reindeer Antlers Beequip equipped.",
+                    "Individual\nEffect": "+3% Critical Chance",
+                    "Effect at Max\nCap (Stack)": "+30% Critical Chance",
+                    "Duration\nof Effect": "20 seconds"
+                },
+                {
+                    "Buff's Name": "Melody",
+                    "Icon": "",
+                    "Ways to Obtain": "Ability tokens from Music Bee, bees with the Toy Horn Beequip equipped, and tokens from Balloons during a Surprise Party.",
+                    "Individual\nEffect": "+100% Critical Power",
+                    "Effect at Max\nCap (Stack)": "-",
+                    "Duration\nof Effect": "30 seconds"
+                },
+                {
+                    "Buff's Name": "Rage",
+                    "Icon": "",
+                    "Ways to Obtain": "Ability tokens from Rage Bee and Spicy Bee.",
+                    "Individual\nEffect": "+1 Bee Attack",
+                    "Effect at Max\nCap (Stack)": "+4 Bee Attack",
+                    "Duration\nof Effect": "45 seconds"
+                },
+                {
+                    "Buff's Name": "Baby Love",
+                    "Icon": "",
+                    "Ways to Obtain": "Ability tokens from Baby Bee and Gifted Tadpole Bee.",
+                    "Individual\nEffect": "x2 Pollen and +50% Loot Luck",
+                    "Effect at Max\nCap (Stack)": "-",
+                    "Duration\nof Effect": "30 seconds"
+                },
+                {
+                    "Buff's Name": "Tabby Love",
+                    "Icon": "",
+                    "Ways to Obtain": "Ability tokens from Tabby Bee.",
+                    "Individual\nEffect": "+1% Tabby Bee Convert Rate, +1% Tabby Bee Pollen Collection, and +1% Pollen from Scratch",
+                    "Effect at Max\nCap (Stack)": "+1000% Tabby Bee Convert Rate, +1000% Tabby Bee Pollen Collection, and +1000% Pollen from Scratch",
+                    "Duration\nof Effect": "-"
+                },
+                {
+                    "Buff's Name": "Tabby Blessing",
+                    "Icon": "",
+                    "Ways to Obtain": "Ability tokens from Tabby Bee.",
+                    "Individual\nEffect": "+25% Critical Power, +1% Critical Chance",
+                    "Effect at Max\nCap (Stack)": "-",
+                    "Duration\nof Effect": "20 seconds (+2 seconds for every Tabby bee's level)"
+                },
+                {
+                    "Buff's Name": "Tabby Blessing+",
+                    "Icon": "",
+                    "Ways to Obtain": "Ability tokens from Gifted Tabby Bee.",
+                    "Individual\nEffect": "+25% Critical Power, +1% Critical Chance, +1% Super Critical Chance",
+                    "Effect at Max\nCap (Stack)": "-",
+                    "Duration\nof Effect": "20 seconds (+2 seconds for every Tabby bee's level)"
+                },
+                {
+                    "Buff's Name": "Puppy Love",
+                    "Icon": "",
+                    "Ways to Obtain": "Ability token from Puppy Bee.",
+                    "Individual\nEffect": "+10% Bee Movespeed, +50% Bee Gather Amount",
+                    "Effect at Max\nCap (Stack)": "-",
+                    "Duration\nof Effect": "10 seconds (+1 second for every puppy bee's level)"
+                },
+                {
+                    "Buff's Name": "Balloon Aura",
+                    "Icon": "",
+                    "Ways to Obtain": "By being in an area of a balloon.",
+                    "Individual\nEffect": "x1.02 Pollen, +2% Honey From Tokens",
+                    "Effect at Max\nCap (Stack)": "x1.2 Pollen, +20% Honey From Tokens",
+                    "Duration\nof Effect": "-"
+                },
+                {
+                    "Buff's Name": "Pollen Mark",
+                    "Icon": "",
+                    "Ways to Obtain": "Stand in range of a Pollen Mark.",
+                    "Individual\nEffect": "x1.5 Pollen",
+                    "Effect at Max\nCap (Stack)": "x2.5 Pollen",
+                    "Duration\nof Effect": "When the player steps away from Pollen Mark or it disappears"
+                },
+                {
+                    "Buff's Name": "Honey Mark",
+                    "Icon": "",
+                    "Ways to Obtain": "Stand in range of a Honey Mark.",
+                    "Individual\nEffect": "x1.25 Convert Rate, 2 Conversion Links which convert pollen through random bees",
+                    "Effect at Max\nCap (Stack)": "x1.75 Convert Rate, 6 Conversion Links",
+                    "Duration\nof Effect": "When the player steps away from Honey Mark or it disappears"
+                },
+                {
+                    "Buff's Name": "Festive Mark",
+                    "Icon": "",
+                    "Ways to Obtain": "Stand in range of a Festive Mark.",
+                    "Individual\nEffect": "+10% Honey Per Pollen, x1.4 Bomb Pollen, x1.4 Red Bomb Pollen, 100% Instant Bomb Conversion, +5 Conversion Links",
+                    "Effect at Max\nCap (Stack)": "-",
+                    "Duration\nof Effect": "When the player steps away from Festive Mark or it disappears"
+                },
+                {
+                    "Buff's Name": "Bomb Sync",
+                    "Icon": "",
+                    "Ways to Obtain": "Ability tokens from Cobalt and Crimson Bees.",
+                    "Individual\nEffect": "+10% red/blue pollen (depends on color)\n+10% instant red/ blue conversion (depends on color)\nAllow red/blue bombs (depends on color) to collect from white flowers. If both are active, bombs can collect from any flower.",
+                    "Effect at Max\nCap (Stack)": "-",
+                    "Duration\nof Effect": "30 seconds"
+                },
+                {
+                    "Buff's Name": "Bear Morph",
+                    "Icon": "",
+                    "Ways to Obtain": "Ability tokens from Bear Bee and through codes.",
+                    "Individual\nEffect": "x2 Pollen, +24 Movespeed, and +65 Jump Power",
+                    "Effect at Max\nCap (Stack)": "-",
+                    "Duration\nof Effect": "30 seconds"
+                },
+                {
+                    "Buff's Name": "Science Bear Morph",
+                    "Icon": "",
+                    "Ways to Obtain": "Ability tokens from Gifted Bear Bee and through codes.",
+                    "Individual\nEffect": "x2 Pollen, +1 Conversion Link, +24 Movespeed, and +65 Jump Power",
+                    "Effect at Max\nCap (Stack)": "-",
+                    "Duration\nof Effect": "30 seconds"
+                },
+                {
+                    "Buff's Name": "Mother Bear Morph",
+                    "Icon": "",
+                    "Ways to Obtain": "Ability tokens from Gifted Bear Bee and through codes.",
+                    "Individual\nEffect": "x2.5 pollen, x1.5 Bee Gather Pollen, +24 Movespeed, and +65 Jump Power",
+                    "Effect at Max\nCap (Stack)": "-",
+                    "Duration\nof Effect": "30 seconds"
+                },
+                {
+                    "Buff's Name": "Inspire",
+                    "Icon": "",
+                    "Ways to Obtain": "Ability tokens from Gifted bees and through codes.",
+                    "Individual\nEffect": "x2 Pollen",
+                    "Effect at Max\nCap (Stack)": "x51 Pollen",
+                    "Duration\nof Effect": "5 Seconds"
+                },
+                {
+                    "Buff's Name": "Festive Blessing",
+                    "Icon": "",
+                    "Ways to Obtain": "Festive Gift and Festive Sprout.",
+                    "Individual\nEffect": "+100% Instant Conversion, x2 Convert Rate",
+                    "Effect at Max\nCap (Stack)": "-",
+                    "Duration\nof Effect": "Festive Gift: +10 seconds\nFestive Sprout: +30 seconds\nUp to 5 minutes"
+                },
+                {
+                    "Buff's Name": "Beesmas Cheer",
+                    "Icon": "",
+                    "Ways to Obtain": "Festive Gift (when Festive Bee is gifted) and Festive Sprout.",
+                    "Individual\nEffect": "x2 Bee Movespeed and x1.5 Pollen",
+                    "Effect at Max\nCap (Stack)": "-",
+                    "Duration\nof Effect": "Festive Gift: +10 seconds\nFestive Sprout: +30 seconds\nUp to 5 minutes"
+                },
+                {
+                    "Buff's Name": "Flame Fuel",
+                    "Icon": "",
+                    "Ways to Obtain": "Ability tokens from Gifted Spicy Bee.",
+                    "Individual\nEffect": "x1.5 Flame Duration;\nWhen flames are created, they instantly convert 50,000 +5% of Convert Total",
+                    "Effect at Max\nCap (Stack)": "-",
+                    "Duration\nof Effect": "15 seconds"
+                },
+                {
+                    "Buff's Name": "Cool Breeze",
+                    "Icon": "",
+                    "Ways to Obtain": "The Snowglobe Shake ability token from bees with the Snowglobe Beequip equipped.",
+                    "Individual\nEffect": "+10% Convert Rate At Hive, +5% Pollen From Tools, +5% Bee Gather Pollen, +1% Honey Per Pollen, +1% Loot Luck, x1.25 Capacity (fixed to x1.25)",
+                    "Effect at Max\nCap (Stack)": "+50% Convert Rate At Hive, +25% Pollen From Tools, +25% Bee Gather Pollen, +5% Honey Per Pollen, +10% Loot Luck, x1.25 Capacity",
+                    "Duration\nof Effect": "+20 seconds\nUp to 15 minutes"
+                },
+                {
+                    "Buff's Name": "Reindeer Guidance",
+                    "Icon": "",
+                    "Ways to Obtain": "Making combos with Reindeer Fetch from Puppy Bee with the Reindeer Antlers Beequip equipped.",
+                    "Individual\nEffect": "x1.01 Capacity",
+                    "Effect at Max\nCap (Stack)": "x1.1 Capacity",
+                    "Duration\nof Effect": "15 minutes or until the player leaves the game"
+                },
+                {
+                    "Buff's Name": "Precision",
+                    "Icon": "",
+                    "Ways to Obtain": "Hitting all 3 targets of Precise Bee's Target Practice Ability.",
+                    "Individual\nEffect": "2% Super-Crit Chance",
+                    "Effect at Max\nCap (Stack)": "20% Super-Crit Chance",
+                    "Duration\nof Effect": "1 minute"
+                },
+                {
+                    "Buff's Name": "Precise Mark",
+                    "Icon": "",
+                    "Ways to Obtain": "Hitting the purple (Farthest) target of Gifted Precise Bee's Target Practice.",
+                    "Individual\nEffect": "7% Critical Chance, 7% Super-Crit Chance",
+                    "Effect at Max\nCap (Stack)": "21% Critical Chance, 21% Super-Crit Chance",
+                    "Duration\nof Effect": "When the player steps away from Precise Mark or it disappears"
+                },
+                {
+                    "Buff's Name": "Field Corruption",
+                    "Icon": "",
+                    "Ways to Obtain": "Ability tokens from Digital Bee.",
+                    "Individual\nEffect": "+1% Ability Duplication Chance, x1.01 Duped Ability Pollen, +1% Instant Duped Ability Conversion",
+                    "Effect at Max\nCap (Stack)": "+20% Ability Duplication Chance, x3 Duped Ability Pollen, +90% Instant Duped Ability Conversion",
+                    "Duration\nof Effect": "When the player steps away from the field, or when the corruption ends"
+                },
+                {
+                    "Buff's Name": "APM",
+                    "Icon": "",
+                    "Ways to Obtain": "Collecting Focus tokens with the APM upgrade purchased during a Robo Bear Challenge round.",
+                    "Individual\nEffect": "x1.03 Pollen from Tools, x1.03 Collector Tool Speed",
+                    "Effect at Max\nCap (Stack)": "x1.3 Pollen from Tools, x1.3 Collector Tool Speed",
+                    "Duration\nof Effect": "20 seconds"
+                },
+                {
+                    "Buff's Name": "Demarcate",
+                    "Icon": "TBA",
+                    "Ways to Obtain": "Collecting Mark tokens with the Demarcate upgrade purchased during a Robo Bear Challenge round.",
+                    "Individual\nEffect": "x1.03 Critical Power",
+                    "Effect at Max\nCap (Stack)": "x1.3 Critical Power",
+                    "Duration\nof Effect": "15 seconds"
+                },
+                {
+                    "Buff's Name": "Blue Screen",
+                    "Icon": "",
+                    "Ways to Obtain": "Collecting Blue Boost tokens with the Blue Screen upgrade purchased during a Robo Bear Challenge round.",
+                    "Individual\nEffect": "x1.03 Attack x1.03 Blue Bee Attack",
+                    "Effect at Max\nCap (Stack)": "x1.3 Attack, x1.3 Blue Bee Attack",
+                    "Duration\nof Effect": "15 seconds"
+                },
+                {
+                    "Buff's Name": "Proxy",
+                    "Icon": "TBA",
+                    "Ways to Obtain": "Collecting Haste tokens with the Proxy upgrade purchased during a Robo Bear Challenge Round.",
+                    "Individual\nEffect": "+2% Dodge Chance",
+                    "Effect at Max\nCap (Stack)": "+20% Dodge Chance",
+                    "Duration\nof Effect": "20 Seconds"
+                }
+            ]
+        },
+        {
+            "From Passives": [
+                {
+                    "Buff's Name": "Gummy Bear Morph",
+                    "Icon": "",
+                    "Ways to Obtain": "Triggers every 10th Gummy Bee ability token or 30th gumdrops with the Gummy Mask equipped.",
+                    "Individual\nEffect": "+24 Movespeed, +60 Jump Power, +75% Goo, +200% Instant Goo Conversion, +200% Gummy Bee speed, +1000% Gummy Bee gather amount, and +300 Gummy Bee attack.",
+                    "Effect at Max\nCap (Stack)": "-",
+                    "Duration\nof Effect": "10 seconds"
+                },
+                {
+                    "Buff's Name": "Haste",
+                    "Icon": "",
+                    "Ways to Obtain": "Catching a falling coconut with the Coconut Clogs or Gummy Boots (requires Coconut Clogs) equipped.",
+                    "Individual\nEffect": "x1.1 Player Movespeed",
+                    "Effect at Max\nCap (Stack)": "x2 Player Movespeed",
+                    "Duration\nof Effect": "20 seconds"
+                },
+                {
+                    "Buff's Name": "Coconut Haste Surge",
+                    "Icon": "",
+                    "Ways to Obtain": "Catching a falling coconut with the Coconut Clogs or Gummy Boots equipped.",
+                    "Individual\nEffect": "x1.5 Bee Movespeed, +10 Player Movespeed.",
+                    "Effect at Max\nCap (Stack)": "-",
+                    "Duration\nof Effect": "2 seconds"
+                },
+                {
+                    "Buff's Name": "Emergency Coconut Shield",
+                    "Icon": "",
+                    "Ways to Obtain": "Taking damage with the Coconut Canister equipped.",
+                    "Individual\nEffect": "x1.25 Bee Attack Power, +100% Defense.",
+                    "Effect at Max\nCap (Stack)": "-",
+                    "Duration\nof Effect": "10 seconds"
+                },
+                {
+                    "Buff's Name": "Flame Heat",
+                    "Icon": "",
+                    "Ways to Obtain": "Standing next to a flame emanated from either a bee passive or from X-Flame/Ignite.",
+                    "Individual\nEffect": "x1.2 Red Pollen, +5% Bee Attack.",
+                    "Effect at Max\nCap (Stack)": "x2 Red Pollen, +25% Bee Attack.",
+                    "Duration\nof Effect": "+varies\nUp to 20 seconds."
+                },
+                {
+                    "Buff's Name": "Unlimited Gumdrops",
+                    "Icon": "",
+                    "Ways to Obtain": "Having the Unlimited Gumdrops buff, which can be obtained by using the Glue Dispenser in Gummy Bear's Lair.",
+                    "Individual\nEffect": "Using gumdrops won't take away the player's gumdrops.",
+                    "Effect at Max\nCap (Stack)": "-",
+                    "Duration\nof Effect": "3 minutes from Glue Dispenser, varies from codes"
+                },
+                {
+                    "Buff's Name": "Guiding Star Aura",
+                    "Icon": "",
+                    "Ways to Obtain": "Being in a field where Guiding Star occurred.",
+                    "Individual\nEffect": "x2.5 Pollen, x2.5 Capacity, and x2.5 Convert Rate (to the player who summoned the star),\nx1.25 Pollen, x1.25 Capacity, and x1.25 Convert Rate (to other players)",
+                    "Effect at Max\nCap (Stack)": "-",
+                    "Duration\nof Effect": "When the player stays away from the field or when it fades away (10 minutes)"
+                },
+                {
+                    "Buff's Name": "Gummy Star Aura",
+                    "Icon": "",
+                    "Ways to Obtain": "2% chance when using gumdrops (or on the 75th gumdrop if not triggered yet) with the Gummy Star passive applied. Stack increased by the amount of goo collected.",
+                    "Individual\nEffect": "+10% Goo Conversion, +10% Instant White Conversion",
+                    "Effect at Max\nCap (Stack)": "x2 Goo, x2 White Pollen, +10% Goo Conversion, +10% Instant White Conversion.",
+                    "Duration\nof Effect": "45 seconds"
+                },
+                {
+                    "Buff's Name": "Pop Star Aura",
+                    "Icon": "",
+                    "Ways to Obtain": "Triggers every 30th boost token with the Pop Star passive applied. Stack increased by the amount of bubbles popped.",
+                    "Individual\nEffect": "10% Instant Blue Conversion, x2 Blue Pollen.",
+                    "Effect at Max\nCap (Stack)": "10% Instant Blue Conversion, x4.5 Blue Pollen.",
+                    "Duration\nof Effect": "45 seconds"
+                },
+                {
+                    "Buff's Name": "Bubble Bloat",
+                    "Icon": "",
+                    "Ways to Obtain": "Popping bubbles while Pop Star Aura is active.",
+                    "Individual\nEffect": "x1 Blue Field Capacity, x1 Convert Rate at Hive",
+                    "Effect at Max\nCap (Stack)": "x6 Blue Field Capacity, x6 Hive Convert Rate",
+                    "Duration\nof Effect": "+4 seconds (from own bubble)\n+1 second (from other's bubble)\n+6 seconds (from golden bubble)\nUp to 2 1/2 hours"
+                },
+                {
+                    "Buff's Name": "Scorching Star Aura",
+                    "Icon": "",
+                    "Ways to Obtain": "Triggers every 30th red boost token with the Scorching Star passive applied. Stack increased the longer the player stands near flames.",
+                    "Individual\nEffect": "+50% Instant Flame Conversion, x2 Red Pollen, x2 Convert Rate, +5 Conversion Links",
+                    "Effect at Max\nCap (Stack)": "50% Instant Flame Conversion, x5 Red Pollen,\nx5 Convert Rate, +30 Conversion Links",
+                    "Duration\nof Effect": "45 seconds"
+                },
+                {
+                    "Buff's Name": "Inspire",
+                    "Icon": "",
+                    "Ways to Obtain": "Catching a shooting star from the Star Shower passive.",
+                    "Individual\nEffect": "x2 Pollen",
+                    "Effect at Max\nCap (Stack)": "x51 Pollen",
+                    "Duration\nof Effect": "5 seconds"
+                }
+            ]
+        },
+        {
+            "From NPCs": [
+                {
+                    "Buff's Name": "Science Enhancement",
+                    "Icon": "",
+                    "Ways to Obtain": "Obtained from completing Science Bear's quests.",
+                    "Individual\nEffect": "+25% Convert Rate",
+                    "Effect at Max\nCap (Stack)": "775% Convert Rate or 800% Convert Rate, if player has completed the last quest before the nerf",
+                    "Duration\nof Effect": "-"
+                },
+                {
+                    "Buff's Name": "Polar Power",
+                    "Icon": "",
+                    "Ways to Obtain": "Obtained from completing Polar Bear's quests and giving a present to Polar Bear (Unavailable).",
+                    "Individual\nEffect": "x1.05 Maximum Bee Energy",
+                    "Effect at Max\nCap (Stack)": "Unlimited",
+                    "Duration\nof Effect": "-"
+                },
+                {
+                    "Buff's Name": "Conversion Boost",
+                    "Icon": "",
+                    "Ways to Obtain": "Obtained from completing the Honey Bee NPC's quests and through certain codes.",
+                    "Individual\nEffect": "2x Convert Rate",
+                    "Effect at Max\nCap (Stack)": "-",
+                    "Duration\nof Effect": "30 minutes"
+                },
+                {
+                    "Buff's Name": "Field Corruption",
+                    "Icon": "",
+                    "Ways to Obtain": "Standing in a field Science Bear corrupts while on the Corrupting The Glitched Drive quest.",
+                    "Individual\nEffect": "+1% Ability Duplication Chance, x1.01 Duped Ability Pollen, +1% Instant Duped Ability Conversion",
+                    "Effect at Max\nCap (Stack)": "+20% Ability Duplication Chance, x3 Duped Ability Pollen, +90% Instant Duped Ability Conversion",
+                    "Duration\nof Effect": "When the player steps away from the field, or when the corruption ends"
+                }
+            ]
+        },
+        {
+            "From Items": [
+                {
+                    "Buff's Name": "Stinger",
+                    "Icon": "",
+                    "Ways to Obtain": "Using the stinger item.",
+                    "Individual\nEffect": "x1.5 Bee Attack Power",
+                    "Effect at Max\nCap (Stack)": "-",
+                    "Duration\nof Effect": "30 seconds"
+                },
+                {
+                    "Buff's Name": "Whirligig Boost",
+                    "Icon": "",
+                    "Ways to Obtain": "Using the whirligig item.",
+                    "Individual\nEffect": "+0.1% Convert Rate At Hive",
+                    "Effect at Max\nCap (Stack)": "+100% Convert Rate At Hive",
+                    "Duration\nof Effect": "20 seconds"
+                },
+                {
+                    "Buff's Name": "Oil",
+                    "Icon": "",
+                    "Ways to Obtain": "Using the oil item.",
+                    "Individual\nEffect": "x1.2 Player and Bee Movespeed",
+                    "Effect at Max\nCap (Stack)": "-",
+                    "Duration\nof Effect": "10 minutes"
+                },
+                {
+                    "Buff's Name": "Enzymes",
+                    "Icon": "",
+                    "Ways to Obtain": "Using the enzymes item.",
+                    "Individual\nEffect": "x1.25 Convert Rate and 10% Instant Conversion",
+                    "Effect at Max\nCap (Stack)": "-",
+                    "Duration\nof Effect": "10 minutes"
+                },
+                {
+                    "Buff's Name": "Extract",
+                    "Icon": "",
+                    "Ways to Obtain": "Using the blue extract or red extract item.",
+                    "Individual\nEffect": "x1.25 Red or Blue Pollen (depends on extract color)",
+                    "Effect at Max\nCap (Stack)": "-",
+                    "Duration\nof Effect": "10 minutes"
+                },
+                {
+                    "Buff's Name": "Glue",
+                    "Icon": "",
+                    "Ways to Obtain": "Using the glue item.",
+                    "Individual\nEffect": "x1.25 Bee Gather Pollen and Tools",
+                    "Effect at Max\nCap (Stack)": "-",
+                    "Duration\nof Effect": "10 minutes"
+                },
+                {
+                    "Buff's Name": "Tropical Drink",
+                    "Icon": "",
+                    "Ways to Obtain": "Using the tropical drink item.",
+                    "Individual\nEffect": "x1.25 White Pollen, +10% Instant Conversion, and +5% Critical Chance",
+                    "Effect at Max\nCap (Stack)": "-",
+                    "Duration\nof Effect": "10 minutes"
+                },
+                {
+                    "Buff's Name": "Purple Potion",
+                    "Icon": "",
+                    "Ways to Obtain": "Using the purple potion item.",
+                    "Individual\nEffect": "x1.25 Capacity, x1.5 Red Pollen, x1.5 Blue Pollen, x1.3 Bee Gather Pollen, and x1.3 Pollen From Tools",
+                    "Effect at Max\nCap (Stack)": "-",
+                    "Duration\nof Effect": "15 minutes"
+                },
+                {
+                    "Buff's Name": "Super Smoothie",
+                    "Icon": "",
+                    "Ways to Obtain": "Using the super smoothie item.",
+                    "Individual\nEffect": "x1.5 Capacity, x1.6 Red Pollen, x1.6 Blue Pollen, x1.6 White Pollen, x1.4 Bee Gather Pollen, x1.4 Pollen From Tools, x2 Convert Rate, x1.5 Convert Rate At Hive, +12% Instant Conversion, +7% Critical Chance, x1.25 Bee Movespeed, x1.25 Player Movespeed, +1% Super-Crit Chance",
+                    "Effect at Max\nCap (Stack)": "-",
+                    "Duration\nof Effect": "20 minutes"
+                },
+                {
+                    "Buff's Name": "Marshmallow Bee",
+                    "Icon": "",
+                    "Ways to Obtain": "Using a marshmallow bee item.",
+                    "Individual\nEffect": "+50% White Pollen, +50% Capacity, and +250% Convert Rate",
+                    "Effect at Max\nCap (Stack)": "-",
+                    "Duration\nof Effect": "30 minutes"
+                },
+                {
+                    "Buff's Name": "Field Boost",
+                    "Icon": "",
+                    "Ways to Obtain": "Using glitter on a field; using field dice, smooth dice, loaded dice, giving a present, or through codes.",
+                    "Individual\nEffect": "+100% {Field Name} Pollen",
+                    "Effect at Max\nCap (Stack)": "+400% {Field Name} Pollen",
+                    "Duration\nof Effect": "15 minutes"
+                },
+                {
+                    "Buff's Name": "Cool Breeze",
+                    "Icon": "",
+                    "Ways to Obtain": "By the Snowglobe Beequip's Snowglobe Shake, or by using the Snowflake item (Beesmas only).",
+                    "Individual\nEffect": "+10% Convert Rate At Hive, +5% Pollen From Tools, +5% Bee Gather Pollen, +1% Honey Per Pollen, +1% Loot Luck, x1.25 Capacity (fixed to x1.25)",
+                    "Effect at Max\nCap (Stack)": "+25% Convert Rate At Hive, +25% Pollen From Tools, +25% Bee Gather Pollen, +5% Honey Per Pollen, +10% Loot Luck, x1.25 Capacity",
+                    "Duration\nof Effect": "+10 seconds\nUp to 15 minutes"
+                }
+            ]
+        },
+        {
+            "From Jelly Beans": [
+                {
+                    "Buff's Name": "Red Jelly Bean",
+                    "Icon": "",
+                    "Ways to Obtain": "Collect a red jelly bean token.",
+                    "Individual\nEffect": "+25% Red Pollen",
+                    "Effect at Max\nCap (Stack)": "+50% Red Pollen",
+                    "Duration\nof Effect": "1 minute"
+                },
+                {
+                    "Buff's Name": "Maroon Jelly Bean",
+                    "Icon": "",
+                    "Ways to Obtain": "Collect a maroon jelly bean token.",
+                    "Individual\nEffect": "+10% Instant Red Conversion",
+                    "Effect at Max\nCap (Stack)": "+15% Instant Red Conversion",
+                    "Duration\nof Effect": "1 minute"
+                },
+                {
+                    "Buff's Name": "Blue Jelly Bean",
+                    "Icon": "",
+                    "Ways to Obtain": "Collect a blue jelly bean token.",
+                    "Individual\nEffect": "+25% Blue Pollen",
+                    "Effect at Max\nCap (Stack)": "+50% Blue Pollen",
+                    "Duration\nof Effect": "1 minute"
+                },
+                {
+                    "Buff's Name": "Navy Jelly Bean",
+                    "Icon": "",
+                    "Ways to Obtain": "Collect a navy jelly bean token.",
+                    "Individual\nEffect": "+10% Instant Blue Conversion",
+                    "Effect at Max\nCap (Stack)": "+15% Instant Blue Conversion",
+                    "Duration\nof Effect": "1 minute"
+                },
+                {
+                    "Buff's Name": "White Jelly Bean",
+                    "Icon": "",
+                    "Ways to Obtain": "Collect a white jelly bean token.",
+                    "Individual\nEffect": "+25% White Pollen",
+                    "Effect at Max\nCap (Stack)": "+50% White Pollen",
+                    "Duration\nof Effect": "1 minute"
+                },
+                {
+                    "Buff's Name": "Slate Jelly Bean",
+                    "Icon": "",
+                    "Ways to Obtain": "Collect a slate jelly bean token.",
+                    "Individual\nEffect": "+10% Instant White Conversion",
+                    "Effect at Max\nCap (Stack)": "+15% Instant White Conversion",
+                    "Duration\nof Effect": "1 minute"
+                },
+                {
+                    "Buff's Name": "Brown Jelly Bean",
+                    "Icon": "",
+                    "Ways to Obtain": "Collect a brown jelly bean token.",
+                    "Individual\nEffect": "+25% Instant Bomb Conversion",
+                    "Effect at Max\nCap (Stack)": "+35% Instant Bomb Conversion",
+                    "Duration\nof Effect": "1 minute"
+                },
+                {
+                    "Buff's Name": "Periwinkle Jelly Bean",
+                    "Icon": "",
+                    "Ways to Obtain": "Collect a periwinkle jelly bean token.",
+                    "Individual\nEffect": "+25% Pollen",
+                    "Effect at Max\nCap (Stack)": "+50% Pollen",
+                    "Duration\nof Effect": "1 minute"
+                },
+                {
+                    "Buff's Name": "Teal Jelly Bean",
+                    "Icon": "",
+                    "Ways to Obtain": "Collect a teal jelly bean token.",
+                    "Individual\nEffect": "+25% Instant Tool Conversion",
+                    "Effect at Max\nCap (Stack)": "+35% Instant Tool Conversion",
+                    "Duration\nof Effect": "1 minute"
+                },
+                {
+                    "Buff's Name": "Pink Jelly Bean",
+                    "Icon": "",
+                    "Ways to Obtain": "Collect a pink jelly bean token.",
+                    "Individual\nEffect": "+25% Instant Bee Gather Conversion",
+                    "Effect at Max\nCap (Stack)": "+35% Instant Bee Gather Conversion",
+                    "Duration\nof Effect": "1 minute"
+                },
+                {
+                    "Buff's Name": "Black Jelly Bean",
+                    "Icon": "",
+                    "Ways to Obtain": "Collect a black jelly bean token.",
+                    "Individual\nEffect": "+25% Bomb Pollen",
+                    "Effect at Max\nCap (Stack)": "+50% Bomb Pollen",
+                    "Duration\nof Effect": "1 minute"
+                },
+                {
+                    "Buff's Name": "Green Jelly Bean",
+                    "Icon": "",
+                    "Ways to Obtain": "Collect a green jelly bean token.",
+                    "Individual\nEffect": "+3% Critical Chance",
+                    "Effect at Max\nCap (Stack)": "+5% Critical Chance",
+                    "Duration\nof Effect": "1 minute"
+                },
+                {
+                    "Buff's Name": "Yellow Jelly Bean",
+                    "Icon": "",
+                    "Ways to Obtain": "Collect a yellow jelly bean token.",
+                    "Individual\nEffect": "x1.1 Convert Rate",
+                    "Effect at Max\nCap (Stack)": "x1.2 Convert Rate",
+                    "Duration\nof Effect": "1 minute"
+                },
+                {
+                    "Buff's Name": "Merigold Jelly Bean",
+                    "Icon": "",
+                    "Ways to Obtain": "Collect a merigold jelly bean token.",
+                    "Individual\nEffect": "+10% Instant Conversion",
+                    "Effect at Max\nCap (Stack)": "+15% Instant Conversion",
+                    "Duration\nof Effect": "1 minute"
+                },
+                {
+                    "Buff's Name": "Jelly Bean Sharing Bonus",
+                    "Icon": "",
+                    "Ways to Obtain": "Using jelly beans on a field with another player collecting the player's jelly bean tokens.",
+                    "Individual\nEffect": "+100% Convert Rate, +10% White Pollen, +10% Red Pollen, +10% Blue Pollen",
+                    "Effect at Max\nCap (Stack)": "-",
+                    "Duration\nof Effect": "+30 seconds\nUp to 30 minutes."
+                }
+            ]
+        },
+        {
+            "From Nectars": [
+                {
+                    "Buffs's Name": "Refreshing Nectar",
+                    "Icon": "",
+                    "Ways to Obtain": "Through bees sipping nectars of planters deployed at Blue Flower Field, Strawberry Field, or Coconut Field, using a Refreshing Vial, by claiming planters, claiming Nectar from the Nectar Pot or using the Samovar during Beesmas.",
+                    "Individual Effect": "x1.2 Blue Convert Rate, x1.1 Red Pollen, +5% Unique Instant Conversion, x1.01 Honey Per Pollen",
+                    "Effect at Max": "x2 Blue Bee Convert Rate, x1.5 Red Pollen, +25% Unique Instant Conversion, x1.05 Honey Per Pollen",
+                    "Duration of Effect": "1 second\nUp to 24 Hours"
+                },
+                {
+                    "Buffs's Name": "Comforting Nectar",
+                    "Icon": "",
+                    "Ways to Obtain": "Through bees sipping nectars of planters deployed at Dandelion Field, Bamboo Field, or Pine Tree Forest, using a Comforting Vial, by claiming planters, claiming Nectar from the Nectar Pot or using the Samovar during Beesmas.",
+                    "Individual Effect": "x1.1 Blue Pollen, x1.2 Convert Rate at Hive, x1.2 Colorless Convert Rate, x1.01 Honey Per Pollen",
+                    "Effect at Max": "x1.5 Blue Pollen, x2 Convert Rate at Hive, x2 Colorless Bee Convert Rate, x1.05 Honey Per Pollen",
+                    "Duration of Effect": "1 second\nUp to 24 hours"
+                },
+                {
+                    "Buffs's Name": "Satisfying Nectar",
+                    "Icon": "",
+                    "Ways to Obtain": "Through bees sipping nectars of planters deployed at Sunflower Field, Pineapple Patch, or Pumpkin Patch, using a Satisfying Vial, by claiming planters, claiming Nectar from the Nectar Pot or using the Samovar during Beesmas.",
+                    "Individual Effect": "x1.1 Honey at Hive, x1.2 Red Convert Rate, x1.2 White Pollen, x1.01 Honey Per Pollen",
+                    "Effect at Max": "x1.5 Honey at Hive, x2 Red Bee Convert Rate, x2 White Pollen, x1.05 Honey Per Pollen",
+                    "Duration of Effect": "1 second\nUp to 24 hours"
+                },
+                {
+                    "Buffs's Name": "Motivating Nectar",
+                    "Icon": "",
+                    "Ways to Obtain": "Through bees sipping nectars of planters deployed at Mushroom Field, Spider Field, Stump Field, or Rose Field, using a Motivating Vial, by claiming planters, claiming Nectar from the Nectar Pot or using the Samovar during Beesmas.",
+                    "Individual Effect": "x1.1 Blue Pollen, x1.1 Convert Rate, +1% Bee Ability Rate, x1.01 Honey Per Pollen",
+                    "Effect at Max": "x1.5 Blue Pollen, x1.5 Convert Rate, +5% Bee Ability Rate, x1.05 Honey Per Pollen",
+                    "Duration of Effect": "1 second\nUp to 24 hours"
+                },
+                {
+                    "Buffs's Name": "Invigorating Nectar",
+                    "Icon": "",
+                    "Ways to Obtain": "Through bees sipping nectars of planters deployed at Clover Field, Ant Field, Cactus Field, Mountain Top Field, or Pepper Patch, using an Invigorating Vial, by claiming planters, claiming Nectar from the Nectar Pot or using the Samovar during Beesmas.",
+                    "Individual Effect": "x1.1 Red Pollen, 1.1x Convert Rate, +2% Bee Attack, x1.01 Honey Per Pollen",
+                    "Effect at Max": "x1.5 Red Pollen, 1.5x Convert Rate, +10% Bee Attack, x1.05 Honey Per Pollen",
+                    "Duration of Effect": "1 second\nUp to 24 hours"
+                }
+            ]
+        },
+        {
+            "From Codes": [
+                {
+                    "Buff's Name": "Capacity Code",
+                    "Icon": "",
+                    "Ways to Obtain": "Using certain codes",
+                    "Individual\nEffect": "x2 Capacity, x2 Hive Convert Rate",
+                    "Effect at Max\nCap (Stack)": "-",
+                    "Duration\nof Effect": "Varied"
+                },
+                {
+                    "Buff's Name": "Pollen Boost",
+                    "Icon": "",
+                    "Ways to Obtain": "Using certain codes",
+                    "Individual\nEffect": "x2 Pollen",
+                    "Effect at Max\nCap (Stack)": "-",
+                    "Duration\nof Effect": "1 hour and 20 minutes"
+                },
+                {
+                    "Buff's Name": "Field Capacity",
+                    "Icon": "",
+                    "Ways to Obtain": "Using certain codes",
+                    "Individual\nEffect": "+100% {Field Name} Capacity",
+                    "Effect at Max\nCap (Stack)": "Unknown",
+                    "Duration\nof Effect": "30 minutes"
+                },
+                {
+                    "Buff's Name": "Field Code Buff",
+                    "Icon": "",
+                    "Ways to Obtain": "Using certain codes",
+                    "Individual\nEffect": "+100% {Field Name} Pollen, +100% {Field Name} Capacity",
+                    "Effect at Max\nCap (Stack)": "-",
+                    "Duration\nof Effect": "30 minutes"
+                },
+                {
+                    "Buff's Name": "Launch Code Boost",
+                    "Icon": "",
+                    "Ways to Obtain": "Using certain codes",
+                    "Individual\nEffect": "x1.25 Pollen From Tools, x1.25 Bee Gather Pollen, x1.25 Event Bee Ability Pollen, +100 Convert Amount, +50% Capacity, +10% Nectar, +1% Critical Chance, +1% Super-crit Chance",
+                    "Effect at Max\nCap (Stack)": "-",
+                    "Duration\nof Effect": "2 days"
+                }
+            ]
+        },
+        {
+            "From Areas": [
+                {
+                    "Buff's Name": "Haste",
+                    "Icon": "",
+                    "Ways to Obtain": "Using the Honey Dispenser, Treat Dispenser, Strawberry Dispenser, Blueberry Dispenser, and the Royal Jelly Dispenser.",
+                    "Individual\nEffect": "x1.1 Player Movespeed",
+                    "Effect at Max\nCap (Stack)": "x2 Player Movespeed",
+                    "Duration\nof Effect": "20 seconds"
+                },
+                {
+                    "Buff's Name": "Haste+",
+                    "Icon": "",
+                    "Ways to Obtain": "Using the Royal Jelly Dispenser in the Star Hall and through codes.",
+                    "Individual\nEffect": "x2 Player Movespeed",
+                    "Effect at Max\nCap (Stack)": "-",
+                    "Duration\nof Effect": "1 minute"
+                },
+                {
+                    "Buff's Name": "Boost",
+                    "Icon": "",
+                    "Ways to Obtain": "Using the Strawberry Dispenser or the Blueberry Dispenser.",
+                    "Individual\nEffect": "x1.2 Red/Blue Pollen (depends on boost color)",
+                    "Effect at Max\nCap (Stack)": "x3 Red/Blue Pollen (depends on boost color)",
+                    "Duration\nof Effect": "15 seconds"
+                },
+                {
+                    "Buff's Name": "Unlimited Gumdrops",
+                    "Icon": "",
+                    "Ways to Obtain": "Using the Glue Dispenser in Gummy Bear's Lair and through codes.",
+                    "Individual\nEffect": "Using gumdrops won't take away gumdrops from the player's inventory",
+                    "Effect at Max\nCap (Stack)": "-",
+                    "Duration\nof Effect": "Up to 3 minutes from Glue Dispenser, varies from codes"
+                },
+                {
+                    "Buff's Name": "Wealth Clock",
+                    "Icon": "",
+                    "Ways to Obtain": "Using the Wealth Clock or through codes.",
+                    "Individual\nEffect": "x1.01 Honey Per Pollen",
+                    "Effect at Max\nCap (Stack)": "x1.05 Honey Per Pollen",
+                    "Duration\nof Effect": "Until the player leaves the game for more than 15 minutes"
+                },
+                {
+                    "Buff's Name": "Field Boost",
+                    "Icon": "",
+                    "Ways to Obtain": "Using the Field Booster, Red Field Booster, Blue Field Booster, Coconut Dispenser, or through certain codes.",
+                    "Individual\nEffect": "+100% Field Pollen",
+                    "Effect at Max\nCap (Stack)": "+400% Field Pollen",
+                    "Duration\nof Effect": "15 minutes"
+                },
+                {
+                    "Buff's Name": "Field Winds",
+                    "Icon": "",
+                    "Ways to Obtain": "Possible reward from the Wind Shrine and through codes. The more early the field, the more pollen the Winds give.",
+                    "Individual\nEffect": "+25% Instant Field Conversion, +28-32% Field Pollen, +1% White Pollen",
+                    "Effect at Max\nCap (Stack)": "+67% Instant Field Conversion, +98-102% Field Pollen, +15% White Pollen\n(In the case of the Hub Field, it gives 175% Field Pollen. Not obtainable from the Wind Shrine.)",
+                    "Duration\nof Effect": "30 minutes"
+                },
+                {
+                    "Buff's Name": "Ant Challenge Buff",
+                    "Icon": "",
+                    "Ways to Obtain": "Participating in the Ant Challenge.",
+                    "Individual\nEffect": "+100% Instant Ant Field Conversion",
+                    "Effect at Max\nCap (Stack)": "-",
+                    "Duration\nof Effect": "5 minutes, or until the player dies or leaves the game"
+                },
+                {
+                    "Buff's Name": "Market Boost",
+                    "Icon": "",
+                    "Ways to Obtain": "Redeeming certain codes.",
+                    "Individual\nEffect": "x1.5 Field Capacity, x1.25 Field Pollen, varying other buffs.",
+                    "Effect at Max\nCap (Stack)": "-",
+                    "Duration\nof Effect": "30 minutes"
+                },
+                {
+                    "Buff's Name": "Galentine's Blessing (Beesmas only)",
+                    "Icon": "",
+                    "Ways to Obtain": "Possible reward from the Galentine Shrine.",
+                    "Individual\nEffect": "+50% Capacity, +15% Instant Bee Ability Conversion, +50% Rose Field Pollen, +50% Blue Flower Field Pollen, +50% Sunflower Field Pollen, +5% Ticket Chance, +5% Loot Luck, +1% Super-Crit Chance.",
+                    "Effect at Max\nCap (Stack)": "-",
+                    "Duration\nof Effect": "2 days"
+                },
+                {
+                    "Buff's Name": "Beesmas Repentance (Beesmas only)",
+                    "Icon": "",
+                    "Ways to Obtain": "Dying from the Naughty List.",
+                    "Individual\nEffect": "x1.05 Capacity, +1% Bubble Pollen, +1% Blue Pollen, +1% Blue Flower Field Pollen, +1% Pine Tree Forest Pollen, +1% Stump Field Pollen, +1% Movement Collection Pollen, +1% Bee Attack, +1% Loot Luck",
+                    "Effect at Max\nCap (Stack)": "-",
+                    "Duration\nof Effect": "2 hours (duration can stack)"
+                },
+                {
+                    "Buff's Name": "Balloon Blessing",
+                    "Icon": "",
+                    "Ways to Obtain": "Fully Converting a Balloon at the hive.",
+                    "Individual\nEffect": "x1.03 Capacity, x1.015 Honey At Hive",
+                    "Effect at Max\nCap (Stack)": "x4 Capacity, x2.5 Honey At Hive",
+                    "Duration\nof Effect": "1 hour"
+                },
+                {
+                    "Buff's Name": "Sticker Stack Buff",
+                    "Icon": "",
+                    "Ways to Obtain": "Activating the Sticker Stack",
+                    "Individual\nEffect": "+20% Convert Rate, +10% Capacity, +5% Pollen",
+                    "Effect at Max\nCap (Stack)": "+315,000 Capacity, +10% Blue Bee Convert Rate, +10% Colorless Bee Convert Rate, +20% Red Bee Convert Rate, +175% Convert Rate, +30% Convert Rate At Hive, +56% Capacity, +5% White Field Capacity, +4% Red Field Capacity, +2% Blue Field Capacity, +19% Cactus Field Capacity, +10% Coconut Field Capacity, +19% Mountain Top Field Capacity, +5% Pumpkin Patch Capacity, +10% Spider Field Capacity, x1.01 Pollen, +7.5% Pollen, +11% White Pollen, +8% Red Pollen, +10% Blue Pollen, +2.5% Gifted Bee Pollen, +2% Mythic Bee Pollen, +15% Legendary Bee Pollen, +2% Ungifted Bee Pollen, +35% Rare Bee Pollen, x3 Common Bee Pollen, +25% Common Bee Pollen, +15% Epic Bee Pollen, +8% Event Bee Pollen, +21% Bee Gather Pollen, +44% Tool Pollen, +5% Movement Collection Pollen, +7% Bomb Pollen, +10% Buzz Bomb Pollen, +10% Red Bomb Pollen, +5% Blue Bomb Pollen, +0.5% Bee Ability Pollen, +3% Duped Ability Pollen, +2% Mark Ability Pollen, +9% Flame Pollen, +6% Bubble Pollen, +10% Scratch Pollen, +5% Tornado Pollen, +10% Bamboo Field Pollen, +10% Blue Flower Field Pollen, +10% Cactus Field Pollen, +10% Clover Field Pollen, +10% Coconut Field Pollen, +15% Dandelion Field Pollen, +10% Hub Field Pollen, +10% Mountain Top Field Pollen, +15% Mushroom Field Pollen, +10% Pepper Patch Pollen, +10% Pine Tree Forest Pollen, +15% Pineapple Patch Pollen, +10% Pumpkin Patch Pollen, +15% Rose Field Pollen, +10% Spider Field Pollen, +10% Strawberry Field Pollen, +15% Stump Field Pollen, +15% Sunflower Field Pollen, +4.5% Honey Per Pollen, +12% Honey At Hive, +15% Critical Power, +7% Super-Crit Power, +10% Honey From Tokens, +1% Ability Token Lifespan, +0.5% Bee Movespeed, +9% Bee Attack, +1% Gifted Bee Attack, +0.5% Dodge Chance, +1 Legendary Bee Attack, +1% Tool Swing Speed, +10% Instant Rare Bee Conversion, +0.5 Blue Bee Attack, +10 Convert Amount, +1% Unique Instant Conversion, +5% Instant Event Bee Conversion, +5% Instant Colorless Bee Conversion, +1% Honey Per Goo, +3% Instant Gifted Bee Conversion, +20% Instant Bee Gather Conversion, +2 Epic Bee Attack, +5% Instant Bomb Conversion, +2 Rare Bee Attack, +2% Instant Red Bee Conversion, +10% Instant Tool Conversion, +0.25% Bee Ability Rate",
+                    "Duration\nof Effect": "15 minutes, +10 seconds for every different sticker\nUp to 1 hour."
+                },
+                {
+                    "Buff's Name": "Puffshroom Blessing",
+                    "Icon": "",
+                    "Ways to Obtain": "Defeating a Rare or better Puffshroom",
+                    "Individual\nEffect": "+1.4% Unique Instant Conversion, +1.4% Pollen, +1.4% Capacity, +1.4% Honey from Tokens",
+                    "Effect at Max\nCap (Stack)": "+10% Unique Instant Conversion, +10% Pollen, +10% Capacity, +10% Honey from Tokens",
+                    "Duration\nof Effect": "3 hours maximum, can stack up by defeating Rare and better Puffshrooms to get Puffshroom Blessing."
+                }
+            ]
+        },
+        {
+            "From Tools": [
+                {
+                    "Buff's Name": "Dark Heat",
+                    "Icon": "",
+                    "Ways to Obtain": "Granted when Dark Scythe's collection area hits a normal flame.",
+                    "Individual\nEffect": "x1.05 Super-Crit Power, +10% Instant Red Ability Conversion",
+                    "Effect at Max\nCap (Stack)": "x6 Super-Crit Power, +109% Instant Red Ability Conversion",
+                    "Duration\nof Effect": "Until all active dark flames despawn"
+                },
+                {
+                    "Buff's Name": "Gummyball",
+                    "Icon": "",
+                    "Ways to Obtain": "Granted by collecting goo covered flowers with the Gummyballer.",
+                    "Individual\nEffect": "x1.01 White Pollen",
+                    "Effect at Max\nCap (Stack)": "x1.1 White Pollen",
+                    "Duration\nof Effect": "12 seconds"
+                },
+                {
+                    "Buff's Name": "Gummyball Combo",
+                    "Icon": "",
+                    "Ways to Obtain": "Given when a gummyball hits any of these listed items: 2 stacks for hitting a field wall, 1 per ability token, 3 per honey token, 8 per mark, and 30 per precise mark.",
+                    "Individual\nEffect": "x1.1 White Pollen, x1.01 Goo",
+                    "Effect at Max\nCap (Stack)": "x1.1 White Pollen, x11 Goo",
+                    "Duration\nof Effect": "8 seconds"
+                },
+                {
+                    "Buff's Name": "Tide Power",
+                    "Icon": "",
+                    "Ways to Obtain": "Granted whenever one of the player's bubbles is popped in any way with Tide Popper equipped.",
+                    "Individual\nEffect": "x1.01 Collector Tool Speed",
+                    "Effect at Max\nCap (Stack)": "x2.50 Collector Tool Speed",
+                    "Duration\nof Effect": "Until this buff reaches x500, until the player leaves the game or until the player switches tools"
+                },
+                {
+                    "Buff's Name": "Tide Blessing",
+                    "Icon": "",
+                    "Ways to Obtain": "Granted when a tidal wave hits a balloon during 'Tidal Surge'. Hitting a balloon will add 3 seconds to this buff. (6 seconds if the balloon is gold.)",
+                    "Individual\nEffect": "x1.01 Blue Pollen, x1.01 Honey From Tokens, x1.01 Convert Rate At Hive, x1.01 Bee Gather Pollen, x1.01 Pollen From Tools",
+                    "Effect at Max\nCap (Stack)": "x1.2 Blue Pollen, x1.2 Honey From Tokens, x1.2 Convert Rate At Hive, x1.2 Bee Gather Pollen, x1.2 Pollen From Tools",
+                    "Duration\nof Effect": "Up to 4 hours or until the player switches tools"
+                },
+                {
+                    "Buff's Name": "Tidal Surge",
+                    "Icon": "",
+                    "Ways to Obtain": "Granted when 'Tide Power' reaches x500. Popping bubbles while this buff is active increases its length.",
+                    "Individual\nEffect": "x1.5 Collector Tool Speed",
+                    "Effect at Max\nCap (Stack)": "x2.50 Collector Tool Speed\n(Starts at x2.50, gradually goes down over time)",
+                    "Duration\nof Effect": "-"
+                }
+            ]
+        },
+        {
+            "From Other": [
+                {
+                    "Buff's Name": "Honeyday Event",
+                    "Icon": "",
+                    "Ways to Obtain": "Claiming a hive during Beesmas, opening the Mondo Present (Beesmas 2019), opening the Mondo Gift Box (Beesmas 2020, Beesmas 2021 and Beesmas 2022) and through certain codes.",
+                    "Individual\nEffect": "2x Pollen and Convert Rate",
+                    "Effect at Max\nCap (Stack)": "-",
+                    "Duration\nof Effect": "48 hours (2 days)"
+                },
+                {
+                    "Buff's Name": "Cloud Boost",
+                    "Icon": "",
+                    "Ways to Obtain": "Standing under a cloud.",
+                    "Individual\nEffect": "+25% Pollen\n+10% Unique Instant Conversion",
+                    "Effect at Max\nCap (Stack)": "-",
+                    "Duration\nof Effect": "+1 second\nUp to 8 seconds"
+                },
+                {
+                    "Buff's Name": "Cloud Boost+",
+                    "Icon": "",
+                    "Ways to Obtain": "Standing under a cloud while having Gifted Windy Bee.",
+                    "Individual\nEffect": "+50% Pollen\n+20% Unique Instant Conversion",
+                    "Effect at Max\nCap (Stack)": "-",
+                    "Duration\nof Effect": "+1 second\nUp to 8 seconds"
+                },
+                {
+                    "Buff's Name": "Mondo Chick Blessing",
+                    "Icon": "",
+                    "Ways to Obtain": "Defeating the Mondo Chick.",
+                    "Individual\nEffect": "x1.02 Capacity, x1.02 Convert Rate At Hive, +10% Pollen",
+                    "Effect at Max\nCap (Stack)": "x1.2 Capacity, x1.2 Convert Rate At Hive, +10% Pollen",
+                    "Duration\nof Effect": "45 minutes"
+                },
+                {
+                    "Buff's Name": "Inspire",
+                    "Icon": "",
+                    "Ways to Obtain": "Catching a falling Beesmas Light when gathering on a field, after completing Science Bear's Beesmas Quest. Or possibly generated ability token by a Gifted bee.",
+                    "Individual\nEffect": "x2 Pollen",
+                    "Effect at Max\nCap (Stack)": "x51 Pollen",
+                    "Duration\nof Effect": "5 seconds"
+                },
+                {
+                    "Buff's Name": "Festive Nymph Blessing (Beesmas only)",
+                    "Icon": "",
+                    "Ways to Obtain": "Guaranteed Token when a Festive Nymph is defeated.",
+                    "Individual\nEffect": "+1,000 Capacity, 1% Instant Bee Gather Conversion, +1% Honey Per Pollen, +1% Bee Attack",
+                    "Effect at Max\nCap (Stack)": "+250,000 Capacity, 5% Instant Bee Gather Conversion, 5% Honey Per Pollen, 5% Bee Attack",
+                    "Duration\nof Effect": "8 hours"
+                },
+                {
+                    "Buff's Name": "Robo Party Blessing (Beesmas Only)",
+                    "Icon": "",
+                    "Ways to Obtain": "Granted after completing a Robo Party, and can be granted from tokens dropped by Party Mobs. Can also be activated through certain code(s)",
+                    "Individual\nEffect": "+1,000 Capacity, +1% Critical Power, +1% White Pollen, +1% Red Pollen, +1% Blue Pollen",
+                    "Effect at Max\nCap (Stack)": "+100,000 Capacity, +50% Critical Power, +50% White Pollen, +50% Red Pollen, +50% Blue Pollen",
+                    "Duration\nof Effect": "1 hour"
+                }
+            ]
+        },
+        {
+            "Debuffs": [
+                {
+                    "Debuff's Name": "Splinter Trap",
+                    "Icon": "",
+                    "Ways to Obtain": "When Stick Bug traps the player with twigs.",
+                    "Individual\nEffect": "x0.75 Player Movespeed and Jump Power, 3 damage over time, until the affected player is dead",
+                    "Effect at Max\nCap (Stack)": "-",
+                    "Ways to Remove": "Collect pollen or wait until the player dies.",
+                    "Duration\nof Effect": "Until challenge ends"
+                },
+                {
+                    "Debuff's Name": "Spoiled Jelly Bean",
+                    "Icon": "",
+                    "Ways to Obtain": "Collect a spoiled jelly bean token.",
+                    "Individual\nEffect": "-30% Bee Movespeed",
+                    "Effect at Max\nCap (Stack)": "-70% Bee Movespeed",
+                    "Ways to Remove": "Wait until the timer runs out.",
+                    "Duration\nof Effect": "1 minute"
+                },
+                {
+                    "Debuff's Name": "Frozen",
+                    "Icon": "",
+                    "Ways to Obtain": "Receive damage from Snowbear's snowball.",
+                    "Individual\nEffect": "x0 Movespeed, x0 Jump Power, x0.2 Bee Movespeed",
+                    "Effect at Max\nCap (Stack)": "-",
+                    "Ways to Remove": "Wait until the timer runs out.",
+                    "Duration\nof Effect": "3 seconds"
+                },
+                {
+                    "Debuff's Name": "Mechsquito Toxin",
+                    "Icon": "",
+                    "Ways to Obtain": "When a Mechsquito laser touches the player during the Robo Bear Challenge or Robo Party.",
+                    "Individual\nEffect": "x0.9 Pollen, x0.9 Player Movespeed",
+                    "Effect at Max\nCap (Stack)": "x0.2 Pollen, x0.75 Player Movespeed",
+                    "Ways to Remove": "Wait until the timer runs out.",
+                    "Duration\nof Effect": "10 seconds"
+                },
+                {
+                    "Debuff's Name": "Robo Bear Challenge",
+                    "Icon": "",
+                    "Ways to Obtain": "During a Robo Bear Challenge Round",
+                    "Individual\nEffect": "x0.1 Capacity, x0.1 Pollen from Tools, x0.1 Movement Collection Pollen, x0.2 Pollen from Coconuts.",
+                    "Effect at Max\nCap (Stack)": "x0.5 Capacity, x0.5 Pollen from Tools, x0.5 Movement Collection Pollen, x1 Pollen from Coconuts.",
+                    "Ways to Remove": "Wait until the round ends, quit the Robo Bear Challenge, or complete the quest.",
+                    "Duration\nof Effect": "5 minutes"
+                }
+            ]
+        }
+    ]
+}

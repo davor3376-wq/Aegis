@@ -1,0 +1,35 @@
+{
+    "title": "Cog Amulet",
+    "stats": {},
+    "data_tables": [
+        {
+            "Requirement(s)": [
+                {
+                    "Requirement(s)": "Round 5+",
+                    "Amulet": "Bronze Cog Amulet",
+                    "Detail": ""
+                },
+                {
+                    "Requirement(s)": "Round 10+",
+                    "Amulet": "Silver Cog Amulet",
+                    "Detail": ""
+                },
+                {
+                    "Requirement(s)": "Round 15+",
+                    "Amulet": "Gold Cog Amulet",
+                    "Detail": "Access to purchasing Glitched Drives"
+                },
+                {
+                    "Requirement(s)": "Round 20+",
+                    "Amulet": "Diamond Cog Amulet",
+                    "Detail": "Access to the  Digital Bee"
+                },
+                {
+                    "Requirement(s)": "Round 25",
+                    "Amulet": "Supreme Cog Amulet",
+                    "Detail": "Challenge completion and obtaining the Robo Cub skin (only available through this method once)"
+                }
+            ]
+        }
+    ]
+}

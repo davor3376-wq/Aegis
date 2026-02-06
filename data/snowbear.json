@@ -1,0 +1,286 @@
+{
+    "title": "Snowbear",
+    "stats": {},
+    "data_tables": [
+        {
+            "Health": [
+                {
+                    "Level": "1",
+                    "Health": "250"
+                },
+                {
+                    "Level": "2",
+                    "Health": "1,500"
+                },
+                {
+                    "Level": "3",
+                    "Health": "5,000"
+                },
+                {
+                    "Level": "4",
+                    "Health": "6,000"
+                },
+                {
+                    "Level": "5",
+                    "Health": "20,000"
+                },
+                {
+                    "Level": "6",
+                    "Health": "40,000"
+                },
+                {
+                    "Level": "7",
+                    "Health": "45,000"
+                },
+                {
+                    "Level": "8",
+                    "Health": "50,000"
+                },
+                {
+                    "Level": "9",
+                    "Health": "70,000"
+                },
+                {
+                    "Level": "10",
+                    "Health": "100,000"
+                },
+                {
+                    "Level": "11",
+                    "Health": "105,000"
+                },
+                {
+                    "Level": "12",
+                    "Health": "110,000"
+                },
+                {
+                    "Level": "13",
+                    "Health": "115,000"
+                },
+                {
+                    "Level": "14",
+                    "Health": "120,000"
+                },
+                {
+                    "Level": "15",
+                    "Health": "125,000"
+                },
+                {
+                    "Level": "16",
+                    "Health": "130,000"
+                },
+                {
+                    "Level": "17",
+                    "Health": "135,000"
+                },
+                {
+                    "Level": "18",
+                    "Health": "140,000"
+                },
+                {
+                    "Level": "19",
+                    "Health": "145,000"
+                },
+                {
+                    "Level": "20",
+                    "Health": "150,000"
+                },
+                {
+                    "Level": "21",
+                    "Health": "155,000"
+                },
+                {
+                    "Level": "22",
+                    "Health": "160,000"
+                },
+                {
+                    "Level": "23",
+                    "Health": "165,000"
+                },
+                {
+                    "Level": "24",
+                    "Health": "170,000"
+                },
+                {
+                    "Level": "25",
+                    "Health": "175,000"
+                },
+                {
+                    "Level": "26",
+                    "Health": "180,000"
+                },
+                {
+                    "Level": "27",
+                    "Health": "185,000"
+                },
+                {
+                    "Level": "28",
+                    "Health": "190,000"
+                },
+                {
+                    "Level": "29",
+                    "Health": "195,000"
+                },
+                {
+                    "Level": "30",
+                    "Health": "200,000"
+                }
+            ]
+        },
+        {
+            "Drops": [
+                {
+                    "Reward": "3 Ant Passes",
+                    "Level": "4"
+                },
+                {
+                    "Reward": "3 Hard Waxes",
+                    "Level": "5"
+                },
+                {
+                    "Reward": "1 Thumbtack",
+                    "Level": "7"
+                },
+                {
+                    "Reward": "1 Invigorating Vial",
+                    "Level": "10"
+                },
+                {
+                    "Reward": "1 Robo Pass",
+                    "Level": "11"
+                },
+                {
+                    "Reward": "3 Swirled Waxes",
+                    "Level": "13"
+                },
+                {
+                    "Reward": "1 Icicles",
+                    "Level": "15"
+                },
+                {
+                    "Reward": "3 Caustic Waxes",
+                    "Level": "17"
+                },
+                {
+                    "Reward": "1 Robo Pass",
+                    "Level": "18"
+                },
+                {
+                    "Reward": "1 Snow Tiara",
+                    "Level": "20"
+                }
+            ]
+        },
+        {
+            "Drops": [
+                {
+                    "Reward": "Robo Pass",
+                    "Level": "4"
+                },
+                {
+                    "Reward": "3 Hard Waxes",
+                    "Level": "5"
+                },
+                {
+                    "Reward": "Thumbtack",
+                    "Level": "7"
+                },
+                {
+                    "Reward": "Bang Snap",
+                    "Level": "8"
+                },
+                {
+                    "Reward": "Invigorating Vial",
+                    "Level": "10"
+                },
+                {
+                    "Reward": "Robo Pass",
+                    "Level": "11"
+                },
+                {
+                    "Reward": "3 Swirled Waxes",
+                    "Level": "13"
+                },
+                {
+                    "Reward": "Icicles",
+                    "Level": "15"
+                },
+                {
+                    "Reward": "3 Caustic Waxes",
+                    "Level": "17"
+                },
+                {
+                    "Reward": "Robo Pass",
+                    "Level": "18"
+                },
+                {
+                    "Reward": "Snow Tiara",
+                    "Level": "20"
+                },
+                {
+                    "Reward": "Robo Pass",
+                    "Level": "23"
+                },
+                {
+                    "Reward": "Invigorating Vial",
+                    "Level": "24"
+                }
+            ]
+        },
+        {
+            "Drops": [
+                {
+                    "Reward": "3 Soft Waxes",
+                    "Level": "3 (?)"
+                },
+                {
+                    "Reward": "Single Mitten",
+                    "Level": "5"
+                },
+                {
+                    "Reward": "3 Hard Waxes",
+                    "Level": "7"
+                },
+                {
+                    "Reward": "Snowglobe",
+                    "Level": "10"
+                },
+                {
+                    "Reward": "3 Swirled Waxes",
+                    "Level": "13"
+                },
+                {
+                    "Reward": "Icicles",
+                    "Level": "15"
+                },
+                {
+                    "Reward": "3 Caustic Waxes",
+                    "Level": "17"
+                },
+                {
+                    "Reward": "Snow Tiara",
+                    "Level": "20"
+                }
+            ]
+        },
+        {
+            "Drops": [
+                {
+                    "Reward": "Single Mitten",
+                    "Level": "5"
+                },
+                {
+                    "Reward": "Snowglobe",
+                    "Level": "10"
+                },
+                {
+                    "Reward": "Icicles",
+                    "Level": "15"
+                },
+                {
+                    "Reward": "Snow Tiara",
+                    "Level": "20"
+                }
+            ]
+        }
+    ]
+}

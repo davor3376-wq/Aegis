@@ -1,0 +1,35 @@
+{
+    "title": "Neonberry",
+    "stats": {},
+    "data_tables": [
+        {
+            "Crafting Uses": [
+                {
+                    "Neonberries": "3",
+                    "Other ingredients": "3 Red Extracts\n3 Blue Extracts\n3 Glues",
+                    "Result": "Purple Potion"
+                },
+                {
+                    "Neonberries": "3",
+                    "Other ingredients": "3 Star Jellies\n3 Purple Potions\n6 Tropical Drinks",
+                    "Result": "Super Smoothie"
+                },
+                {
+                    "Neonberries": "5",
+                    "Other ingredients": "7,000,000 Honey\n1 Glue\n1 Oil\n5 Soft Waxes\n10 Micro-Converters",
+                    "Result": "Sticker-Seeker"
+                },
+                {
+                    "Neonberries": "25",
+                    "Other ingredients": "5 Hard Waxes\n5 Enzymes\n5,252 Royal Jellies",
+                    "Result": "Caustic Wax"
+                },
+                {
+                    "Neonberries": "25",
+                    "Other ingredients": "750,000,000 Honey\n25 Magic Beans\n15 Glues\n3 Caustic Waxes\n10 Hard Waxes",
+                    "Result": "Pesticide Planter"
+                }
+            ]
+        }
+    ]
+}

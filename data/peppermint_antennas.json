@@ -1,0 +1,84 @@
+{
+    "title": "Peppermint Antennas",
+    "stats": {},
+    "data_tables": [
+        {
+            "Possible Stats": [
+                {
+                    "Stat Caustic Req.": "Chance",
+                    "Base": "Chance",
+                    "Max": "Limit"
+                },
+                {
+                    "Stat Caustic Req.": "+%Convert Amount",
+                    "Base": "2% to 4%",
+                    "Max": "44%",
+                    "Upgrade": "1%, 2%Bias: 4"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "100%",
+                    "Max": "20"
+                },
+                {
+                    "Stat Caustic Req.": "+%Gather Amount",
+                    "Base": "2% to 4%",
+                    "Max": "44%",
+                    "Upgrade": "1%, 2%Bias: 4"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "100%",
+                    "Max": "20"
+                },
+                {
+                    "Stat Caustic Req.": "+%Ability Pollen",
+                    "Base": "1%",
+                    "Max": "6%",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "20% to 60%",
+                    "Base": "1% to 10%",
+                    "Max": "5"
+                },
+                {
+                    "Stat Caustic Req.": "+%Bee Ability Rate",
+                    "Base": "1%",
+                    "Max": "6%",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "20% to 60%",
+                    "Base": "1% to 10%",
+                    "Max": "5"
+                },
+                {
+                    "Stat Caustic Req.": "+%Movespeed",
+                    "Base": "1%",
+                    "Max": "1%",
+                    "Upgrade": "-"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "-",
+                    "Max": "-"
+                },
+                {
+                    "Stat Caustic Req.": "Hive Bonus"
+                },
+                {
+                    "Stat Caustic Req.": "+%Bee Ability Rate",
+                    "Base": "-",
+                    "Max": "1%",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "-",
+                    "Base": "0.1% to 1%",
+                    "Max": "1"
+                }
+            ]
+        }
+    ]
+}

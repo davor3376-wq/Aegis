@@ -1,0 +1,45 @@
+{
+    "title": "7-Pronged Cog",
+    "stats": {},
+    "data_tables": [
+        {
+            "Unknown_Table": [
+                {
+                    "Code": "Troggles",
+                    "Riddle Source": "Mother Bear",
+                    "Reward": "1 7-Pronged Cog, Clover Field Code Buff (+100% Clover Field Pollen, +100% Clover Field Capacity)"
+                },
+                {
+                    "Code": "WordFactory",
+                    "Riddle Source": "Onett's tweet",
+                    "Reward": "1 7-Pronged Cog, Pine Tree Forest Code Buff (+100% Pine Tree Forest Pollen, +100% Pine Tree Forest Capacity)"
+                },
+                {
+                    "Code": "Millie",
+                    "Riddle Source": "Wind Shrine",
+                    "Reward": "1 7-Pronged Cog, Sunflower Field Code Buff (+100% Sunflower Field Pollen, +100% Sunflower Field Capacity)"
+                },
+                {
+                    "Code": "Luther",
+                    "Riddle Source": "Onett (NPC)",
+                    "Reward": "1 7-Pronged Cog, Blue Flower Field Code Buff (+100% Blue Flower Field Pollen, +100% Blue Flower Field Capacity)"
+                },
+                {
+                    "Code": "CarmenSanDiego",
+                    "Riddle Source": "Elite Red Guard description",
+                    "Reward": "1 7-Pronged Cog, Rose Field Code Buff (+100% Rose Field Pollen, +100% Rose Field Capacity)"
+                },
+                {
+                    "Code": "Jumpstart",
+                    "Riddle Source": "Tutorial",
+                    "Reward": "1 7-Pronged Cog, Dandelion Field Code Buff (+100% Dandelion Field Pollen, +100% Dandelion Field Capacity)"
+                },
+                {
+                    "Code": "Dysentery",
+                    "Riddle Source": "Ant Challenge Info",
+                    "Reward": "1 7-Pronged Cog, Mushroom Field Code Buff (+100% Mushroom Field Pollen, +100% Mushroom Field Capacity)"
+                }
+            ]
+        }
+    ]
+}

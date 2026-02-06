@@ -1,0 +1,54 @@
+{
+    "title": "Strawberry Field",
+    "stats": {},
+    "data_tables": [
+        {
+            "Unknown_Table": [
+                {
+                    "Flowers": "Single",
+                    "White": "29",
+                    "Red": "5%",
+                    "Blue": "86",
+                    "Total": "15%",
+                    "col_5": "0",
+                    "col_6": "0%",
+                    "col_7": "114",
+                    "col_8": "20%"
+                },
+                {
+                    "Flowers": "Double",
+                    "White": "107",
+                    "Red": "18.75%",
+                    "Blue": "322",
+                    "Total": "56.25%",
+                    "col_5": "0",
+                    "col_6": "0%",
+                    "col_7": "429",
+                    "col_8": "75%"
+                },
+                {
+                    "Flowers": "Triple",
+                    "White": "7",
+                    "Red": "1.25%",
+                    "Blue": "21",
+                    "Total": "3.75%",
+                    "col_5": "0",
+                    "col_6": "0%",
+                    "col_7": "29",
+                    "col_8": "5%"
+                },
+                {
+                    "Flowers": "Total",
+                    "White": "143",
+                    "Red": "25%",
+                    "Blue": "429",
+                    "Total": "75%",
+                    "col_5": "0",
+                    "col_6": "0%",
+                    "col_7": "572",
+                    "col_8": "100%"
+                }
+            ]
+        }
+    ]
+}

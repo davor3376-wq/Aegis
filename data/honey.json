@@ -1,0 +1,527 @@
+{
+    "title": "Honey",
+    "stats": {},
+    "data_tables": [
+        {
+            "Convert Rate": [
+                {
+                    "Honey Production with Science Enhancement": "Levels 1-16Levels 17-31\n\n\nScience Enhancement\nProduction Rate\nHoney per second (Basic Bee)\n\n\n1\n25%\n25\n\n\n2\n50%\n30\n\n\n3\n75%\n35\n\n\n4\n100%\n40\n\n\n5\n125%\n45\n\n\n6\n150%\n50\n\n\n7\n175%\n55\n\n\n8\n200%\n60\n\n\n9\n225%\n65\n\n\n10\n250%\n70\n\n\n11\n275%\n75\n\n\n12\n300%\n80\n\n\n13\n325%\n85\n\n\n14\n350%\n90\n\n\n15\n375%\n95\n\n\n16\n400%\n100\n\n\n\n\nScience Enhancement\nProduction Rate\nHoney per second (Basic Bee)\n\n\n17\n425%\n105\n\n\n18\n450%\n110\n\n\n19\n475%\n115\n\n\n20\n500%\n120\n\n\n21\n525%\n125\n\n\n22\n550%\n130\n\n\n23\n575%\n135\n\n\n24\n600%\n140\n\n\n25\n625%\n145\n\n\n26\n650%\n150\n\n\n27\n675%\n155\n\n\n28\n700%\n160\n\n\n29\n725%\n165\n\n\n30\n750%\n170\n\n\n31\n775%\n175",
+                    "col_1": "Science Enhancement",
+                    "col_2": "Production Rate",
+                    "col_3": "Honey per second (Basic Bee)",
+                    "col_4": "1",
+                    "col_5": "25%",
+                    "col_6": "25",
+                    "col_7": "2",
+                    "col_8": "50%",
+                    "col_9": "30",
+                    "col_10": "3",
+                    "col_11": "75%",
+                    "col_12": "35",
+                    "col_13": "4",
+                    "col_14": "100%",
+                    "col_15": "40",
+                    "col_16": "5",
+                    "col_17": "125%",
+                    "col_18": "45",
+                    "col_19": "6",
+                    "col_20": "150%",
+                    "col_21": "50",
+                    "col_22": "7",
+                    "col_23": "175%",
+                    "col_24": "55",
+                    "col_25": "8",
+                    "col_26": "200%",
+                    "col_27": "60",
+                    "col_28": "9",
+                    "col_29": "225%",
+                    "col_30": "65",
+                    "col_31": "10",
+                    "col_32": "250%",
+                    "col_33": "70",
+                    "col_34": "11",
+                    "col_35": "275%",
+                    "col_36": "75",
+                    "col_37": "12",
+                    "col_38": "300%",
+                    "col_39": "80",
+                    "col_40": "13",
+                    "col_41": "325%",
+                    "col_42": "85",
+                    "col_43": "14",
+                    "col_44": "350%",
+                    "col_45": "90",
+                    "col_46": "15",
+                    "col_47": "375%",
+                    "col_48": "95",
+                    "col_49": "16",
+                    "col_50": "400%",
+                    "col_51": "100",
+                    "col_52": "Science Enhancement",
+                    "col_53": "Production Rate",
+                    "col_54": "Honey per second (Basic Bee)",
+                    "col_55": "17",
+                    "col_56": "425%",
+                    "col_57": "105",
+                    "col_58": "18",
+                    "col_59": "450%",
+                    "col_60": "110",
+                    "col_61": "19",
+                    "col_62": "475%",
+                    "col_63": "115",
+                    "col_64": "20",
+                    "col_65": "500%",
+                    "col_66": "120",
+                    "col_67": "21",
+                    "col_68": "525%",
+                    "col_69": "125",
+                    "col_70": "22",
+                    "col_71": "550%",
+                    "col_72": "130",
+                    "col_73": "23",
+                    "col_74": "575%",
+                    "col_75": "135",
+                    "col_76": "24",
+                    "col_77": "600%",
+                    "col_78": "140",
+                    "col_79": "25",
+                    "col_80": "625%",
+                    "col_81": "145",
+                    "col_82": "26",
+                    "col_83": "650%",
+                    "col_84": "150",
+                    "col_85": "27",
+                    "col_86": "675%",
+                    "col_87": "155",
+                    "col_88": "28",
+                    "col_89": "700%",
+                    "col_90": "160",
+                    "col_91": "29",
+                    "col_92": "725%",
+                    "col_93": "165",
+                    "col_94": "30",
+                    "col_95": "750%",
+                    "col_96": "170",
+                    "col_97": "31",
+                    "col_98": "775%",
+                    "col_99": "175"
+                },
+                {
+                    "Honey Production with Science Enhancement": "Science Enhancement",
+                    "col_1": "Production Rate",
+                    "col_2": "Honey per second (Basic Bee)"
+                },
+                {
+                    "Honey Production with Science Enhancement": "1",
+                    "col_1": "25%",
+                    "col_2": "25"
+                },
+                {
+                    "Honey Production with Science Enhancement": "2",
+                    "col_1": "50%",
+                    "col_2": "30"
+                },
+                {
+                    "Honey Production with Science Enhancement": "3",
+                    "col_1": "75%",
+                    "col_2": "35"
+                },
+                {
+                    "Honey Production with Science Enhancement": "4",
+                    "col_1": "100%",
+                    "col_2": "40"
+                },
+                {
+                    "Honey Production with Science Enhancement": "5",
+                    "col_1": "125%",
+                    "col_2": "45"
+                },
+                {
+                    "Honey Production with Science Enhancement": "6",
+                    "col_1": "150%",
+                    "col_2": "50"
+                },
+                {
+                    "Honey Production with Science Enhancement": "7",
+                    "col_1": "175%",
+                    "col_2": "55"
+                },
+                {
+                    "Honey Production with Science Enhancement": "8",
+                    "col_1": "200%",
+                    "col_2": "60"
+                },
+                {
+                    "Honey Production with Science Enhancement": "9",
+                    "col_1": "225%",
+                    "col_2": "65"
+                },
+                {
+                    "Honey Production with Science Enhancement": "10",
+                    "col_1": "250%",
+                    "col_2": "70"
+                },
+                {
+                    "Honey Production with Science Enhancement": "11",
+                    "col_1": "275%",
+                    "col_2": "75"
+                },
+                {
+                    "Honey Production with Science Enhancement": "12",
+                    "col_1": "300%",
+                    "col_2": "80"
+                },
+                {
+                    "Honey Production with Science Enhancement": "13",
+                    "col_1": "325%",
+                    "col_2": "85"
+                },
+                {
+                    "Honey Production with Science Enhancement": "14",
+                    "col_1": "350%",
+                    "col_2": "90"
+                },
+                {
+                    "Honey Production with Science Enhancement": "15",
+                    "col_1": "375%",
+                    "col_2": "95"
+                },
+                {
+                    "Honey Production with Science Enhancement": "16",
+                    "col_1": "400%",
+                    "col_2": "100"
+                },
+                {
+                    "Honey Production with Science Enhancement": "Science Enhancement",
+                    "col_1": "Production Rate",
+                    "col_2": "Honey per second (Basic Bee)"
+                },
+                {
+                    "Honey Production with Science Enhancement": "17",
+                    "col_1": "425%",
+                    "col_2": "105"
+                },
+                {
+                    "Honey Production with Science Enhancement": "18",
+                    "col_1": "450%",
+                    "col_2": "110"
+                },
+                {
+                    "Honey Production with Science Enhancement": "19",
+                    "col_1": "475%",
+                    "col_2": "115"
+                },
+                {
+                    "Honey Production with Science Enhancement": "20",
+                    "col_1": "500%",
+                    "col_2": "120"
+                },
+                {
+                    "Honey Production with Science Enhancement": "21",
+                    "col_1": "525%",
+                    "col_2": "125"
+                },
+                {
+                    "Honey Production with Science Enhancement": "22",
+                    "col_1": "550%",
+                    "col_2": "130"
+                },
+                {
+                    "Honey Production with Science Enhancement": "23",
+                    "col_1": "575%",
+                    "col_2": "135"
+                },
+                {
+                    "Honey Production with Science Enhancement": "24",
+                    "col_1": "600%",
+                    "col_2": "140"
+                },
+                {
+                    "Honey Production with Science Enhancement": "25",
+                    "col_1": "625%",
+                    "col_2": "145"
+                },
+                {
+                    "Honey Production with Science Enhancement": "26",
+                    "col_1": "650%",
+                    "col_2": "150"
+                },
+                {
+                    "Honey Production with Science Enhancement": "27",
+                    "col_1": "675%",
+                    "col_2": "155"
+                },
+                {
+                    "Honey Production with Science Enhancement": "28",
+                    "col_1": "700%",
+                    "col_2": "160"
+                },
+                {
+                    "Honey Production with Science Enhancement": "29",
+                    "col_1": "725%",
+                    "col_2": "165"
+                },
+                {
+                    "Honey Production with Science Enhancement": "30",
+                    "col_1": "750%",
+                    "col_2": "170"
+                },
+                {
+                    "Honey Production with Science Enhancement": "31",
+                    "col_1": "775%",
+                    "col_2": "175"
+                }
+            ]
+        },
+        {
+            "Convert Rate": [
+                {
+                    "Science Enhancement": "1",
+                    "Production Rate": "25%",
+                    "Honey per second (Basic Bee)": "25"
+                },
+                {
+                    "Science Enhancement": "2",
+                    "Production Rate": "50%",
+                    "Honey per second (Basic Bee)": "30"
+                },
+                {
+                    "Science Enhancement": "3",
+                    "Production Rate": "75%",
+                    "Honey per second (Basic Bee)": "35"
+                },
+                {
+                    "Science Enhancement": "4",
+                    "Production Rate": "100%",
+                    "Honey per second (Basic Bee)": "40"
+                },
+                {
+                    "Science Enhancement": "5",
+                    "Production Rate": "125%",
+                    "Honey per second (Basic Bee)": "45"
+                },
+                {
+                    "Science Enhancement": "6",
+                    "Production Rate": "150%",
+                    "Honey per second (Basic Bee)": "50"
+                },
+                {
+                    "Science Enhancement": "7",
+                    "Production Rate": "175%",
+                    "Honey per second (Basic Bee)": "55"
+                },
+                {
+                    "Science Enhancement": "8",
+                    "Production Rate": "200%",
+                    "Honey per second (Basic Bee)": "60"
+                },
+                {
+                    "Science Enhancement": "9",
+                    "Production Rate": "225%",
+                    "Honey per second (Basic Bee)": "65"
+                },
+                {
+                    "Science Enhancement": "10",
+                    "Production Rate": "250%",
+                    "Honey per second (Basic Bee)": "70"
+                },
+                {
+                    "Science Enhancement": "11",
+                    "Production Rate": "275%",
+                    "Honey per second (Basic Bee)": "75"
+                },
+                {
+                    "Science Enhancement": "12",
+                    "Production Rate": "300%",
+                    "Honey per second (Basic Bee)": "80"
+                },
+                {
+                    "Science Enhancement": "13",
+                    "Production Rate": "325%",
+                    "Honey per second (Basic Bee)": "85"
+                },
+                {
+                    "Science Enhancement": "14",
+                    "Production Rate": "350%",
+                    "Honey per second (Basic Bee)": "90"
+                },
+                {
+                    "Science Enhancement": "15",
+                    "Production Rate": "375%",
+                    "Honey per second (Basic Bee)": "95"
+                },
+                {
+                    "Science Enhancement": "16",
+                    "Production Rate": "400%",
+                    "Honey per second (Basic Bee)": "100"
+                }
+            ]
+        },
+        {
+            "Convert Rate": [
+                {
+                    "Science Enhancement": "17",
+                    "Production Rate": "425%",
+                    "Honey per second (Basic Bee)": "105"
+                },
+                {
+                    "Science Enhancement": "18",
+                    "Production Rate": "450%",
+                    "Honey per second (Basic Bee)": "110"
+                },
+                {
+                    "Science Enhancement": "19",
+                    "Production Rate": "475%",
+                    "Honey per second (Basic Bee)": "115"
+                },
+                {
+                    "Science Enhancement": "20",
+                    "Production Rate": "500%",
+                    "Honey per second (Basic Bee)": "120"
+                },
+                {
+                    "Science Enhancement": "21",
+                    "Production Rate": "525%",
+                    "Honey per second (Basic Bee)": "125"
+                },
+                {
+                    "Science Enhancement": "22",
+                    "Production Rate": "550%",
+                    "Honey per second (Basic Bee)": "130"
+                },
+                {
+                    "Science Enhancement": "23",
+                    "Production Rate": "575%",
+                    "Honey per second (Basic Bee)": "135"
+                },
+                {
+                    "Science Enhancement": "24",
+                    "Production Rate": "600%",
+                    "Honey per second (Basic Bee)": "140"
+                },
+                {
+                    "Science Enhancement": "25",
+                    "Production Rate": "625%",
+                    "Honey per second (Basic Bee)": "145"
+                },
+                {
+                    "Science Enhancement": "26",
+                    "Production Rate": "650%",
+                    "Honey per second (Basic Bee)": "150"
+                },
+                {
+                    "Science Enhancement": "27",
+                    "Production Rate": "675%",
+                    "Honey per second (Basic Bee)": "155"
+                },
+                {
+                    "Science Enhancement": "28",
+                    "Production Rate": "700%",
+                    "Honey per second (Basic Bee)": "160"
+                },
+                {
+                    "Science Enhancement": "29",
+                    "Production Rate": "725%",
+                    "Honey per second (Basic Bee)": "165"
+                },
+                {
+                    "Science Enhancement": "30",
+                    "Production Rate": "750%",
+                    "Honey per second (Basic Bee)": "170"
+                },
+                {
+                    "Science Enhancement": "31",
+                    "Production Rate": "775%",
+                    "Honey per second (Basic Bee)": "175"
+                }
+            ]
+        },
+        {
+            "Convert Rate": [
+                {
+                    "Honey Collection with In-game Clothing": "Clothing Category",
+                    "col_1": "Name",
+                    "col_2": "Instant Conversion",
+                    "col_3": "Convert Rate",
+                    "col_4": "Produced Honey (Basic Bee)"
+                },
+                {
+                    "Honey Collection with In-game Clothing": "Instant",
+                    "col_1": "Hive"
+                },
+                {
+                    "Honey Collection with In-game Clothing": "Bags",
+                    "col_1": "Canister",
+                    "col_2": "",
+                    "col_3": "25%",
+                    "col_4": "0",
+                    "col_5": "100"
+                },
+                {
+                    "Honey Collection with In-game Clothing": "Mega-Jug",
+                    "col_1": "",
+                    "col_2": "40%",
+                    "col_3": "0",
+                    "col_4": "112"
+                },
+                {
+                    "Honey Collection with In-game Clothing": "Compressor",
+                    "col_1": "",
+                    "col_2": "55%",
+                    "col_3": "0",
+                    "col_4": "124"
+                },
+                {
+                    "Honey Collection with In-game Clothing": "Elite Barrel",
+                    "col_1": "",
+                    "col_2": "70%",
+                    "col_3": "0",
+                    "col_4": "136"
+                },
+                {
+                    "Honey Collection with In-game Clothing": "Port-O-Hive",
+                    "col_1": "5%",
+                    "col_2": "100%",
+                    "col_3": "0.5",
+                    "col_4": "160"
+                },
+                {
+                    "Honey Collection with In-game Clothing": "Blue/Red Port-O-Hive",
+                    "col_1": "10% (Blue/Red)",
+                    "col_2": "150%",
+                    "col_3": "1 (Blue/Red)",
+                    "col_4": "200"
+                },
+                {
+                    "Honey Collection with In-game Clothing": "Porcelain Port-O-Hive",
+                    "col_1": "10%",
+                    "col_2": "250%",
+                    "col_3": "1",
+                    "col_4": "280"
+                },
+                {
+                    "Honey Collection with In-game Clothing": "Coconut Canister",
+                    "col_1": "10%",
+                    "col_2": "400%",
+                    "col_3": "1",
+                    "col_4": "400"
+                },
+                {
+                    "Honey Collection with In-game Clothing": "Hats",
+                    "col_1": "Gummy Mask",
+                    "col_2": "10% (Goo)",
+                    "col_3": "",
+                    "col_4": "1 (Goo)",
+                    "col_5": "80"
+                },
+                {
+                    "Honey Collection with In-game Clothing": "Bubble/Fire/Diamond/Demon Mask",
+                    "col_1": "15% (Blue/Red)",
+                    "col_2": "",
+                    "col_3": "1.5 (Blue/Red)",
+                    "col_4": "80"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "title": "Royal Jelly",
+    "stats": {},
+    "data_tables": [
+        {
+            "Royal Jelly": [
+                {
+                    "Variant": "Common",
+                    "Chance": "0%"
+                },
+                {
+                    "Variant": "Rare",
+                    "Chance": "~70%"
+                },
+                {
+                    "Variant": "Epic",
+                    "Chance": "27%"
+                },
+                {
+                    "Variant": "Legendary",
+                    "Chance": "3%"
+                },
+                {
+                    "Variant": "Mythic",
+                    "Chance": "0.004% (1/25,000)"
+                },
+                {
+                    "Variant": "Event",
+                    "Chance": "0%"
+                },
+                {
+                    "Variant": "Gifted",
+                    "Chance": "0.4% (1/250)"
+                },
+                {
+                    "Variant": "Mutated (Not radioactive)",
+                    "Chance": "0.02% (1/5,000)"
+                },
+                {
+                    "Variant": "Mutated (Radioactive)",
+                    "Chance": "1% (1/100)"
+                }
+            ]
+        },
+        {
+            "Royal Jelly": [
+                {
+                    "Royal Jellies": "10",
+                    "Other ingredients": "50 Strawberries",
+                    "Result": "Red Extract"
+                },
+                {
+                    "Royal Jellies": "10",
+                    "Other ingredients": "50 Blueberries",
+                    "Result": "Blue Extract"
+                },
+                {
+                    "Royal Jellies": "10",
+                    "Other ingredients": "50 Sunflower Seeds",
+                    "Result": "Oil"
+                },
+                {
+                    "Royal Jellies": "10",
+                    "Other ingredients": "50 Pineapples",
+                    "Result": "Enzymes"
+                },
+                {
+                    "Royal Jellies": "10",
+                    "Other ingredients": "50 Gumdrops",
+                    "Result": "Glue"
+                },
+                {
+                    "Royal Jellies": "10",
+                    "Other ingredients": "5 Honeysuckles\n1 Oil\n1 Enzymes",
+                    "Result": "Soft Wax"
+                },
+                {
+                    "Royal Jellies": "33",
+                    "Other ingredients": "3 Soft Waxes\n3 Enzymes\n33 Bitterberries",
+                    "Result": "Hard Wax"
+                },
+                {
+                    "Royal Jellies": "3,333",
+                    "Other ingredients": "3 Hard Waxes\n9 Soft Waxes\n6 Purple Potions",
+                    "Result": "Swirled Wax"
+                },
+                {
+                    "Royal Jellies": "5,252",
+                    "Other ingredients": "5 Hard Waxes\n5 Enzymes\n25 Neonberries",
+                    "Result": "Caustic Wax"
+                },
+                {
+                    "Royal Jellies": "100",
+                    "Other ingredients": "3 Glitter",
+                    "Result": "Star Jelly"
+                },
+                {
+                    "Royal Jellies": "1",
+                    "Other ingredients": "50 Strawberries\n1 Stinger",
+                    "Result": "Red Guard"
+                },
+                {
+                    "Royal Jellies": "1",
+                    "Other ingredients": "50 Blueberries\n3 Moon Charms",
+                    "Result": "Blue Guard"
+                },
+                {
+                    "Royal Jellies": "5",
+                    "Other ingredients": "1 Red Extract\n50 Strawberries\n5 Stingers",
+                    "Result": "Elite Red Guard"
+                },
+                {
+                    "Royal Jellies": "5",
+                    "Other ingredients": "1 Blue Extract\n50 Blueberries\n15 Moon Charms",
+                    "Result": "Elite Blue Guard"
+                }
+            ]
+        },
+        {
+            "Star Jelly": [
+                {
+                    "Star Jellies": "3",
+                    "Other ingredients": "3 Neonberries\n3 Purple Potions\n6 Tropical Drinks",
+                    "Result": "Super Smoothie"
+                },
+                {
+                    "Star Jellies": "100",
+                    "Other ingredients": "10 Super Smoothies\n10 Caustic Waxes\n1,000 Honeysuckles",
+                    "Result": "Turpentine"
+                },
+                {
+                    "Star Jellies": "10",
+                    "Other ingredients": "1.5B Honey\n25 Glitter\n75 Enzymes\n1 Spirit Petal",
+                    "Result": "Petal Wand"
+                },
+                {
+                    "Star Jellies": "25",
+                    "Other ingredients": "15B Honey\n50 Glitter\n100 Glues\n1 Spirit Petal",
+                    "Result": "Petal Belt"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "title": "Pollen",
+    "stats": {},
+    "data_tables": [
+        {
+            "Pollen Amount Per Flower": [
+                {
+                    "Flower size": "Appearance",
+                    "Single": "",
+                    "Double": "",
+                    "Triple": "",
+                    "Large": "",
+                    "Star": ""
+                },
+                {
+                    "Flower size": "",
+                    "Single": "",
+                    "Double": "",
+                    "Triple": "",
+                    "Large": ""
+                },
+                {
+                    "Flower size": "",
+                    "Single": "",
+                    "Double": "",
+                    "Triple": "",
+                    "Large": ""
+                },
+                {
+                    "Flower size": "Multiplier",
+                    "Single": "1",
+                    "Double": "2",
+                    "Triple": "3",
+                    "Large": "4",
+                    "Star": "5"
+                },
+                {
+                    "Flower size": "Total amount of pollen",
+                    "Single": "30",
+                    "Double": "45",
+                    "Triple": "60",
+                    "Large": "75",
+                    "Star": "90"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "title": "Spider Field",
+    "stats": {},
+    "data_tables": [
+        {
+            "Unknown_Table": [
+                {
+                    "Flowers": "Single",
+                    "White": "73",
+                    "Red": "10%",
+                    "Blue": "0",
+                    "Total": "0%",
+                    "col_5": "0",
+                    "col_6": "0%",
+                    "col_7": "73",
+                    "col_8": "10%"
+                },
+                {
+                    "Flowers": "Double",
+                    "White": "582",
+                    "Red": "80%",
+                    "Blue": "0",
+                    "Total": "0%",
+                    "col_5": "0",
+                    "col_6": "0%",
+                    "col_7": "582",
+                    "col_8": "80%"
+                },
+                {
+                    "Flowers": "Triple",
+                    "White": "73",
+                    "Red": "10%",
+                    "Blue": "0",
+                    "Total": "0%",
+                    "col_5": "0",
+                    "col_6": "0%",
+                    "col_7": "73",
+                    "col_8": "10%"
+                },
+                {
+                    "Flowers": "Total",
+                    "White": "728",
+                    "Red": "100%",
+                    "Blue": "0",
+                    "Total": "0%",
+                    "col_5": "0",
+                    "col_6": "0%",
+                    "col_7": "728",
+                    "col_8": "100%"
+                }
+            ]
+        }
+    ]
+}

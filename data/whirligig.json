@@ -1,0 +1,20 @@
+{
+    "title": "Whirligig",
+    "stats": {},
+    "data_tables": [
+        {
+            "Crafting Uses": [
+                {
+                    "Whirligigs": "1",
+                    "Other ingredients": "1 Soft Wax\n1 Red Extract\n1 Blue Extract",
+                    "Result": "Field Dice"
+                },
+                {
+                    "Whirligigs": "3",
+                    "Other ingredients": "3 Field Dice\n3 Oils\n3 Soft Waxes",
+                    "Result": "Smooth Dice"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,194 @@
+{
+    "title": "Gifted Bee",
+    "stats": {},
+    "data_tables": [
+        {
+            "List of Hive Bonuses": [
+                {
+                    "Bee": "Basic",
+                    "Hive Bonus": "x1.2 Pollen (Used to be +20% Pollen)"
+                },
+                {
+                    "Bee": "Bomber",
+                    "Hive Bonus": "1.1x Bomb Pollen"
+                },
+                {
+                    "Bee": "Brave",
+                    "Hive Bonus": "+1 Bee Attack"
+                },
+                {
+                    "Bee": "Bumble",
+                    "Hive Bonus": "x1.1 Capacity (Used to be +25% Blue Bomb Pollen)"
+                },
+                {
+                    "Bee": "Cool",
+                    "Hive Bonus": "1.1x Blue Pollen"
+                },
+                {
+                    "Bee": "Hasty",
+                    "Hive Bonus": "+15% Player Movespeed"
+                },
+                {
+                    "Bee": "Looker",
+                    "Hive Bonus": "+25% Critical Power (Used to be +50% Critical Power)"
+                },
+                {
+                    "Bee": "Rad",
+                    "Hive Bonus": "1.1x Red Pollen"
+                },
+                {
+                    "Bee": "Rascal",
+                    "Hive Bonus": "x1.25 Red Bomb Pollen (Used to be +30% Red Bomb Pollen)"
+                },
+                {
+                    "Bee": "Stubborn",
+                    "Hive Bonus": "+15% Ability Token Lifespan"
+                },
+                {
+                    "Bee": "Bubble",
+                    "Hive Bonus": "1.25x Bubble Pollen"
+                },
+                {
+                    "Bee": "Bucko",
+                    "Hive Bonus": "+20% Blue Field Capacity (Used to be +10% Blue Pollen)"
+                },
+                {
+                    "Bee": "Commander",
+                    "Hive Bonus": "+3% Critical Chance (Used to be +5% Critical Chance)"
+                },
+                {
+                    "Bee": "Demo",
+                    "Hive Bonus": "x1.25 Buzz Bomb Pollen (Used to be +30% Buzz Bomb Pollen)"
+                },
+                {
+                    "Bee": "Exhausted",
+                    "Hive Bonus": "+20% White Field Capacity (Used to be +25% Buzz Bomb Pollen)"
+                },
+                {
+                    "Bee": "Fire",
+                    "Hive Bonus": "1.25x Flame Pollen"
+                },
+                {
+                    "Bee": "Frosty",
+                    "Hive Bonus": "x1.25 Blue Bomb Pollen (Used to be +30% Blue Bomb Pollen)"
+                },
+                {
+                    "Bee": "Honey",
+                    "Hive Bonus": "x1.5 Honey From Tokens (Used to be x2 Honey From Tokens)"
+                },
+                {
+                    "Bee": "Rage",
+                    "Hive Bonus": "+10% Bee Attack"
+                },
+                {
+                    "Bee": "Riley",
+                    "Hive Bonus": "+20% Red Field Capacity (Used to be +10% Red Pollen)"
+                },
+                {
+                    "Bee": "Shocked",
+                    "Hive Bonus": "1.1x White Pollen"
+                },
+                {
+                    "Bee": "Baby",
+                    "Hive Bonus": "+25% Loot Luck (Used to be +20% Loot Luck)"
+                },
+                {
+                    "Bee": "Carpenter",
+                    "Hive Bonus": "x1.25 Tool Pollen (Used to be +25% Tool Pollen)"
+                },
+                {
+                    "Bee": "Demon",
+                    "Hive Bonus": "+20% Instant Bomb Conversion"
+                },
+                {
+                    "Bee": "Diamond",
+                    "Hive Bonus": "x1.2 Convert Rate (Used to be +100% Convert Rate)"
+                },
+                {
+                    "Bee": "Lion",
+                    "Hive Bonus": "+5% Gifted Bee Pollen (Used to be +2 Colorless Bee Attack)"
+                },
+                {
+                    "Bee": "Music",
+                    "Hive Bonus": "+25% Bee Gather Pollen"
+                },
+                {
+                    "Bee": "Ninja",
+                    "Hive Bonus": "+5% Bee Movespeed"
+                },
+                {
+                    "Bee": "Shy",
+                    "Hive Bonus": "+5% Bee Ability Pollen (Used to be +10% Red Pollen)"
+                },
+                {
+                    "Bee": "Buoyant",
+                    "Hive Bonus": "x1.2 Capacity (Used to be x1.25 Capacity)"
+                },
+                {
+                    "Bee": "Fuzzy",
+                    "Hive Bonus": "x1.1 Bomb Power"
+                },
+                {
+                    "Bee": "Precise",
+                    "Hive Bonus": "+3% Super-Crit Chance"
+                },
+                {
+                    "Bee": "Spicy",
+                    "Hive Bonus": "+25% Flame Duration"
+                },
+                {
+                    "Bee": "Tadpole",
+                    "Hive Bonus": "+25% Bubble Duration"
+                },
+                {
+                    "Bee": "Vector",
+                    "Hive Bonus": "+15% Mark Duration"
+                },
+                {
+                    "Bee": "Bear",
+                    "Hive Bonus": "+10% Pollen (Used to be +5% Pollen), Enhanced \"Bear Morph\""
+                },
+                {
+                    "Bee": "Cobalt",
+                    "Hive Bonus": "+15% Instant Blue Conversion"
+                },
+                {
+                    "Bee": "Crimson",
+                    "Hive Bonus": "+15% Instant Red Conversion"
+                },
+                {
+                    "Bee": "Digital",
+                    "Hive Bonus": "+1% Ability Duplication Chance"
+                },
+                {
+                    "Bee": "Festive",
+                    "Hive Bonus": "1.25x Convert Rate At Hive, Enhanced \"Festive Gift\""
+                },
+                {
+                    "Bee": "Gummy",
+                    "Hive Bonus": "+5% Honey Per Pollen, Enhanced \"Glob\""
+                },
+                {
+                    "Bee": "Photon",
+                    "Hive Bonus": "+5% Instant Conversion, Enhanced \"Beamstorm\""
+                },
+                {
+                    "Bee": "Puppy",
+                    "Hive Bonus": "+20% Bond From Treats"
+                },
+                {
+                    "Bee": "Tabby",
+                    "Hive Bonus": "+50% Critical Power, Enhanced \"Scratch\" and \"Tabby Blessing\""
+                },
+                {
+                    "Bee": "Vicious",
+                    "Hive Bonus": "-15% Monster Respawn Time, +1 Level of accuracy on Impale ability"
+                },
+                {
+                    "Bee": "Windy",
+                    "Hive Bonus": "+15% Instant White Conversion, x2 Boosts From Clouds"
+                }
+            ]
+        }
+    ]
+}

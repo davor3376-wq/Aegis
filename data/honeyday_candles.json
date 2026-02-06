@@ -1,0 +1,26 @@
+{
+    "title": "Honeyday Candles",
+    "stats": {},
+    "data_tables": [
+        {
+            "Unknown_Table": [
+                {
+                    "Wax": "3 Soft Waxes",
+                    "Chance": "81.3% (1/1.23)"
+                },
+                {
+                    "Wax": "3 Hard Waxes",
+                    "Chance": "16.3% (1/~6)"
+                },
+                {
+                    "Wax": "3 Swirled Waxes",
+                    "Chance": "1.63% (1/~61)"
+                },
+                {
+                    "Wax": "3 Caustic Waxes",
+                    "Chance": "0.81% (1/~123)"
+                }
+            ]
+        }
+    ]
+}

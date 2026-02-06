@@ -1,0 +1,15 @@
+{
+    "title": "Bitterberry",
+    "stats": {},
+    "data_tables": [
+        {
+            "Crafting Uses": [
+                {
+                    "Bitterberries": "33",
+                    "Other ingredients": "3 Soft Waxes\n3 Enzymes\n33 Royal Jellies",
+                    "Result": "Hard Wax"
+                }
+            ]
+        }
+    ]
+}

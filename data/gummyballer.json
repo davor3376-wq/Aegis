@@ -1,0 +1,78 @@
+{
+    "title": "Gummyballer",
+    "stats": {},
+    "data_tables": [
+        {
+            "Unknown_Table": [
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                }
+            ]
+        },
+        {
+            "Unknown_Table": [
+                {
+                    "Flowers": "White",
+                    "Single": "12",
+                    "Double": "24",
+                    "Triple": "36",
+                    "Large": "48",
+                    "Star": "60"
+                },
+                {
+                    "Flowers": "Red",
+                    "Single": "8",
+                    "Double": "16",
+                    "Triple": "24",
+                    "Large": "32",
+                    "Star": "40"
+                },
+                {
+                    "Flowers": "Blue",
+                    "Single": "8",
+                    "Double": "16",
+                    "Triple": "24",
+                    "Large": "32",
+                    "Star": "40"
+                },
+                {
+                    "Flowers": "Special Multiplier(s): Takes goo, if there is goo when collecting pollen it increases the stack of your gummyball."
+                }
+            ]
+        },
+        {
+            "Unknown_Table": [
+                {
+                    "Crafting Ingredients": "10T Honey\n1,500 Glues\n2,000 Gumdrops\n50 Caustic Waxes\n50 Super Smoothies\n5 Turpentines\n3 Satisfying Vials"
+                }
+            ]
+        }
+    ]
+}

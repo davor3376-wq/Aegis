@@ -1,0 +1,100 @@
+{
+    "title": "Sprout",
+    "stats": {},
+    "data_tables": [
+        {
+            "Drops Table": [
+                {
+                    "Sprout Type": "Common (Green)",
+                    "Special Drops": "Crafting Materials",
+                    "Tickets": "1",
+                    "Royal Jellies": "1-3",
+                    "Treats": "1",
+                    "Honey": "400",
+                    "Pollen": "From\n50,000\nto\n2,500,000"
+                },
+                {
+                    "Sprout Type": "Rare (Silver)",
+                    "Special Drops": "Silver Egg\nStar Jellies\nCrafting Materials",
+                    "Tickets": "1",
+                    "Royal Jellies": "1-3",
+                    "Treats": "3",
+                    "Honey": "2,000",
+                    "Pollen": "From\n250,000\nto\n12,500,000"
+                },
+                {
+                    "Sprout Type": "Epic (Gold)",
+                    "Special Drops": "Gold Egg\nStar Jellies\nCrafting Materials",
+                    "Tickets": "1",
+                    "Royal Jellies": "1-3",
+                    "Treats": "5",
+                    "Honey": "7,500",
+                    "Pollen": "From\n2,500,000\nto\n125,000,000"
+                },
+                {
+                    "Sprout Type": "Legendary (Teal)",
+                    "Special Drops": "Diamond Egg\nStar Jellies\nCrafting Materials",
+                    "Tickets": "",
+                    "Royal Jellies": "1-5",
+                    "Treats": "10",
+                    "Honey": "10,000",
+                    "Pollen": "From\n10,000,000\nto\n500,000,000"
+                },
+                {
+                    "Sprout Type": "Gummy (Translucent Pink)",
+                    "Special Drops": "Gumdrops\nGlues\nGlitter\nNeonberry",
+                    "Tickets": "x",
+                    "Royal Jellies": "x",
+                    "Treats": "x",
+                    "Honey": "4,500",
+                    "Pollen": "From\n1,000,000\nto\n50,000,000"
+                },
+                {
+                    "Sprout Type": "Moon (Luminescent Blue)",
+                    "Special Drops": "Glitter\nMoon Charms\nStar Jelly\nNeonberry",
+                    "Tickets": "x",
+                    "Royal Jellies": "x",
+                    "Treats": "1",
+                    "Honey": "1,500",
+                    "Pollen": "From\n500,000\nto\n25,000,000"
+                },
+                {
+                    "Sprout Type": "Supreme (Luminescent Green)",
+                    "Special Drops": "Diamond Egg\nStar Jellies\nCrafting Materials",
+                    "Tickets": "1",
+                    "Royal Jellies": "1-10",
+                    "Treats": "30",
+                    "Honey": "10,000",
+                    "Pollen": "From\n15,000,000\nto\n750,000,000"
+                },
+                {
+                    "Sprout Type": "Debug (Black)",
+                    "Special Drops": "Bitterberries\nNeonberries\nAtomic Treats",
+                    "Tickets": "x",
+                    "Royal Jellies": "x",
+                    "Treats": "x",
+                    "Honey": "x",
+                    "Pollen": "From\n10,000,000\nto\n30,000,000"
+                },
+                {
+                    "Sprout Type": "Festive (White and Red Stripes)",
+                    "Special Drops": "Festive Blessing\nBeesmas Cheer\nGumdrops\nSnowflakes\nGingerbread Bears\nCrafting Materials",
+                    "Tickets": "1",
+                    "Royal Jellies": "1",
+                    "Treats": "15",
+                    "Honey": "15,000",
+                    "Pollen": "From\n1,000,000\nto\n50,000,000"
+                },
+                {
+                    "Sprout Type": "Sticker Sprout (Rainbow)",
+                    "Special Drops": "Silver Egg\nGifted Silver Egg\nDiamond Egg\nGifted Diamond Egg\n Stickers\n Waxes\nSticker Planters\nStar Jellies\nCrafting Materials",
+                    "Tickets": "1-5",
+                    "Royal Jellies": "1",
+                    "Treats": "10",
+                    "Honey": "5,000",
+                    "Pollen": "1,000,000,000"
+                }
+            ]
+        }
+    ]
+}

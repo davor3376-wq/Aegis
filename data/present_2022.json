@@ -1,0 +1,158 @@
+{
+    "title": "Present/2022",
+    "stats": {},
+    "data_tables": [
+        {
+            "Recipients": [
+                {
+                    "NPC": "Black Bear",
+                    "Requirements": "-",
+                    "Rewards": "Honey Jar Ornament:\n+25% Convert Rate\n+25% Sunflower Field Capacity\n+5% Honey Per Pollen\n1 Royal Jelly\n3 Smooth Dice\n x3 Sunflower Field Boost"
+                },
+                {
+                    "NPC": "Mother Bear",
+                    "Requirements": "-",
+                    "Rewards": "Stuffed Heart Ornament:\n+25% Convert Rate\n+25% Strawberry Field Capacity\n+10% Pollen From Bees\n1 Gingerbread Bear\n2 Glitter\nx3 Dandelion Field Boost"
+                },
+                {
+                    "NPC": "Brown Bear",
+                    "Requirements": "-",
+                    "Rewards": "Royal Jelly Ornament:\n+25% Convert Rate\n+25% Clover Field Capacity\n+20% Bomb Pollen\n3 Royal Jellies\n2 Glues\nx3 Clover Field Boost"
+                },
+                {
+                    "NPC": "Panda Bear",
+                    "Requirements": "-",
+                    "Rewards": "Boxing Glove Ornament:\n+25% Convert Rate\n+25% Bamboo Field Capacity\n+5% Bee Attack\n10 Stingers\n1 Robo Pass\nx3 Bamboo Field Boost"
+                },
+                {
+                    "NPC": "Science Bear",
+                    "Requirements": "-",
+                    "Rewards": "Conical Flask Ornament:\n+25% Convert Rate\n+25% Pineapple Patch Capacity\n+25% Convert Rate At Hive\n1 White Balloon\n1 Atomic Treat\nx3 Pineapple Patch Boost"
+                },
+                {
+                    "NPC": "Polar Bear",
+                    "Requirements": "-",
+                    "Rewards": "Cast Iron Skillet Ornament:\n+25% Convert Rate\n+25% Pumpkin Patch Capacity\n+10% White Field Capacity\n2 Gingerbread Bears\n2 Oils\nx3 Pumpkin Patch Boost"
+                },
+                {
+                    "NPC": "Dapper Bear",
+                    "Requirements": "-",
+                    "Rewards": "Potpourri Ornament:\n+25% Convert Rate\n+25% Dandelion Field Capacity\n+5% Nectar\n1 Ticket Planter\nx3 Spider Field Boost"
+                },
+                {
+                    "NPC": "Onett",
+                    "Requirements": "-",
+                    "Rewards": "Candy Cane Reindeer Ornament:\n+25% Convert Rate\n+25% Mountain Top Field Capacity\n+20% Pollen From Tools\n3 Gingerbread Bears\n5 Jelly Beans\n1 Magic Bean\n1 Robo Pass\nSuper Smoothie Buff\nx3 Mountain Top Field Boost"
+                },
+                {
+                    "NPC": "Spirit Bear",
+                    "Requirements": "-",
+                    "Rewards": "Memory Match Champ Ornament:\n+25% Convert Rate\n+25% Stump Field Capacity\n+5% Bee Ability Pollen\n25 Snowflakes\n3 Glitter\n Summons a Snow Storm\nSummons a Level 8 Wild Windy Bee in the Dandelion Field"
+                },
+                {
+                    "NPC": "Robo Bear",
+                    "Requirements": "Completing Robo Bear's Repairing Robo Bear.",
+                    "Rewards": "Digital Pet Ornament:\n+10% Capacity\n+25% Spider Field Capacity\n+10% Event Bee Ability Pollen\n+5% Duped Ability Pollen\n1 Hard Wax\n1 Ant Pass\n1 Robo Pass\nx3 Cactus Field Boost"
+                },
+                {
+                    "NPC": "Gifted Riley Bee",
+                    "Requirements": "NPC must have been given a Translator.",
+                    "Rewards": "Electric Candle Ornament:\n+25% Convert Rate\n+25% Mushroom Field Capacity\n+25% Rose Field Capacity\n+10% Flame Pollen\n3 Gingerbread Bears\n1 Invigorating Vial\n1 Red Balloon\n1 Red Extract\nRed Extract buff\nx3 Rose Field Boost"
+                },
+                {
+                    "NPC": "Gifted Bucko Bee",
+                    "Requirements": "NPC must have been given a Translator.",
+                    "Rewards": "Snowman Ornament:\n+25% Convert Rate\n+25% Blue Flower Field Capacity\n+25% Pine Tree Forest Capacity\n+10% Blue Field Capacity\n25 Snowflakes\n1 Comforting Vial\n5 Micro-Converters\n1 Blue Extract\nBlue Extract buff\n x3 Blue Flower Field Boost"
+                },
+                {
+                    "NPC": "Stick Bug",
+                    "Requirements": "NPC must have been given a Translator.",
+                    "Rewards": "Partridge In A Stick Bug Ornament:\n+25% Convert Rate\n+25% Cactus Field Capacity\n+25% Pepper Patch Capacity\n+5% Pollen\n3 Gingerbread Bears\n1 Tropical Drink\n1 Robo Pass\n\u26a0\ufe0f Summons Stick Bug Challenge"
+                },
+                {
+                    "NPC": "Honey Bee",
+                    "Requirements": "Player must be wearing Honey Mask.",
+                    "Rewards": "Bag Of Honey Ornament:\n+25% Convert Rate\n+5% Mark Duration\n+10% Honey From Tokens\n3 Gingerbread Bears\n5 Micro-Converters\n1 Honey Bee Jelly\nx3 Pine Tree Forest Boost\n Conversion Boost (1 hour)"
+                },
+                {
+                    "NPC": "Gummy Bear",
+                    "Requirements": "Player must have completed Gummy Bear's Goo Years Beacon.",
+                    "Rewards": "Gummy Globe Ornament:\n+10% Capacity\n+25% Coconut Field Capacity\n+1% Super-Crit Chance\n+10% Goo\n1,000 Gumdrops\n50 Neonberries\n1 Caustic Wax\n1 Robo Pass\n x3 Coconut Field Boost"
+                },
+                {
+                    "NPC": "Bubble Bee Man",
+                    "Requirements": "Player must have gifted every other NPC a Present.",
+                    "Rewards": "Bread Climp Ornament:\n+10% Capacity\n+10% Bubble Pollen\n+10% Instant Bee Gather Conversion\n+5% Super Crit Power\n5 Boxes-O-Frogs\n17 Ant Passes\n1 Buoyant Bee Jelly\nx2 Blue Boost\n x4 Mushroom Field Boost"
+                }
+            ]
+        },
+        {
+            "Dialogue": [
+                {
+                    "NPC": "Black Bear",
+                    "Dialogue": "Oh, hello there!\n-Present Given-\nWhat've you gotten me this year? I'll bet it's something special ...(krumple krumple)... Wow! 12 Honey-glazed donuts, with Beesmas sprinkles!! You know, they don't use the best honey on these things. Companies are always trying to cut cost. But I'm not complaining. I'll savor these for sure! Thank you so much! Now here's your present: it's the ! With this on the Beesmas Tree, you'll receive the following boosts: +25% Convert Rate, +25% Capacity in the Sunflower Field and +5% Honey Per Pollen! Enjoy! And Happy Honeydays!"
+                },
+                {
+                    "NPC": "Mother Bear",
+                    "Dialogue": "The honeydays bring the bees so much joy!\n-Present Given-\nOh! What's this? A present for me? You're the sweetest! ...(krumple krumple)... Oooh! An adorable Puppy Bee Pillow! The Puppy Bee and I share a special connection: we're both about bond with bees. That was very thoughtful of you! No  on it though. Maybe next year? *wink wink* Hehe. Well, I've also got some gifts for you: A  some ... And the ! With this on the tree, you'll receive the following boosts: +25% Convert Rate, +25% Capacity in the Strawberry Field and +10% Pollen from Bees! Can't wait to test my new pillow out tonight. Merry Beesmas!"
+                },
+                {
+                    "NPC": "Brown Bear",
+                    "Dialogue": "Man, it's cold!\n-Present Given-\nMaybe your present will help warm me up! Can't wait to find out. ...(krumple krumple)... Whoa! A $25 Ubear Eats gift card! I'm ordering some warm soup and hot cocoa right away. I hope they deliver to ROBLOX games... Thanks bud. Now check out what I got you, some , A ... And the ! With that on the Beesmas Tree, you'll receive the following boosts: +25% Convert Rate, +25% Capacity in the Clover Field and +20% Pollen from \"bomb\" abilities! Happy Beesmas!"
+                },
+                {
+                    "NPC": "Panda Bear",
+                    "Dialogue": "Hmm...\n-Present Given-\nI can't help but feel like there's something wrong this Beesmas. Something... robotic and menacing. Let's exchange presents quickly. We might not have much time. ...(krumple krumple)... Nice! A bamboo baseball bat! This could help if things get sketchy. If that robot over there gets up to no good, I'll give it a few good WHACKS. Now you take this: the . I got you a few gifts, including the . With that on the tree, you'll recieve the following boosts: +25% Convert Rate +25% Capacity in the Bamboo Field And +5% Bee Attack Power! Stay alert! I don't trust that Robo Bear..."
+                },
+                {
+                    "NPC": "Science Bear",
+                    "Dialogue": "Beesmas is amazing! But it sure keeps us busy.\n-Present Given-\nThis is a good time to go ahead and exchange our gifts, though. Let's see what you brought me... ...(krumple krumple... Fascinating! A very peculiar sort of green . You found it on the flowers you say? Hmm... Could this be related to the Robo Bear who recently appeared on the mountain? I'll have to investigate more. For now take these gifts: A , an ... And the  ornament! With that on the Beesmas Tree, you'll receive the following boosts: +25% Convert Rate, +25% Capacity in the Pineapple Patch and +25% Convert Rate at the Hive! That ought to help make your beesmas productive. Now if you'll excuse me, I'm going to go run some tests."
+                },
+                {
+                    "NPC": "Polar Bear",
+                    "Dialogue": "I'm just happy it's Winter.\n-Present Given-\nMy cousin Bee Bear's been all about Beesmas for as long as I can remember. I used to worry about his obsession. But I've grown to accept it. At the end of the day, he brings joy to tons of beekeepers. I aim to do the same thing through my cooking. We aren't so different. Anyways, let's see what you brought me! ...(krumple krumple)... Oooh yeah! A cog-operated Blender! Finally, a blender that's not taller than I am. The one in the Badge Bearer's Guild is ridiculous. Do you know how hard it's been to make soups in  smoothies in that thing? How many hours I've spent wiping that thing down? Well no more! This gift will change my life. Now for your present! Some , ... And the  Ornament! With this on the tree, you'll receive the these boosts: +25% Convert Rate +25% Capacity in the Pumpkin Patch And +10% White Field Capacity! Well, good luck on the rest of your Bee Bear quests. Happy honeydays!"
+                },
+                {
+                    "NPC": "Dapper Bear",
+                    "Dialogue": "You're free to warm yourself up in my shop.\n-Present Given-\nSomehow I knew you'd get something for me this year. We're on the same page. I've been thinking about you too. I'll go ahead and open my gift now. ...(krumple krumple)... Ah hah, a funky little Bumble Bee pin for my lapel! I don't usually like accessories as gifts - I prefer to pick my own. But this one hits the right spot. Thank you! Now why don't you open mine? There's a few things in there: A , a vial of ...  And the . It's filled with flowers and leaves I grew in my Planters. The fragrance is pretty strong... but hey, smells like Beesmas. With this on the tree, you'll receive the following boosts: +25% Convert Rate, +25% Capacity in the Dandelion Field, And +5% Nectar. Hope you like it. I know I'll be flaunting this pin around for weeks. Thanks again, and Happy Honeydays."
+                },
+                {
+                    "NPC": "Onett",
+                    "Dialogue": "3 months of Beesmas! Yipee.\n-Present Given-\nA ! What a surprise! I bet you're giving this to me because you've heard I give the best gifts back. That doesn't mean I don't appreciate it! Of course I do. Come on. Uhh... let's just continue. ...(krumple. krumple)... Wow!! A finger painting of Basic Bee! And there's a Rascal Bee! They look like they're fighting a... is that an Armored Aphid? OH! A Cogmower! Of course. This is going straight on my refridgerator. My gift's handmade too, but not quite as impressive. It's the ! +25% Convert Rate, +25% Capacity on the Mountain Top Field and +20% Pollen from Tools! I also got you an assortment of beans. No  though... Anyways, good luck with Robo Bear. Thanks for the painting. Merry Beesmas!"
+                },
+                {
+                    "NPC": "Spirit Bear",
+                    "Dialogue": "Mmmmmhm... Lots of robots around all of a sudden Making a lot of noise. ... Whenever they walk around, I swear Sounds like an elephant falling down escalator. Not a very considerate sound, hm? ... And my ears aren't even that good Mmmhm...No good. I've never been a huge fan of machines. I don't like how they move so sharply. So abruptly, yet so precisely. There's no flow to it. It's a type of cold, calculated movement that could break your bones Without even realizing it! Imagine getting your fingers pinched in one of those cogs. Oooh, sends a shiver down my spine. And the noises! Achk. Just as sharp! Just as sudden! The types of noises that, sure, may be found in nature But only on rare occasions. Usually dangerous ones. Earthquakes. Thunderstorms. The culminated cries of accumulated forces. Not birdsong! Not background noise! ... I'm whining. I'll stop. Anyways, what brings you up here? What's that behind your back? Is it what I think it is? A  for me! I was beginning to think that you forgot. Silly me! Will you open it for spirit bear? ...(krumple krumple)... Ooooo! What I it? ...A bracelet? No, no. Oooh, I see! A sleeping eye mask, shaped like a cloud! How precious! Oh, and so soft! As if I didn't sleep enough already, heheh. Thank you, dear. very thoughtful of you. I'll test it out as soon as you take off. ... Oh, but I can't leave you empty handed. I prepared a small basket of gifts for you Including the ! The one I won myself in a Memory Match tournament back in... Some time long ago, I don't remember exactly. It says on the ornament. With that on the tree you will receive the following boosts: +25% Convert rate +25% Capacity in the Stump Field And +500% Pollen! ... No, that can't be right. Sorry. Let me check. ... Ah. It's +5% Pollen from Bee Abilities. Still useful. (Yawn) Enjoy! Now if you'll excuse me... I'd like to try this mask out."
+                },
+                {
+                    "NPC": "Robo Bear",
+                    "Dialogue": "(click click click click click)\n-Present Given-\nCHARITABLE GIFT DETECTED. I did not foresee this event occurring! >>Commencing Unwrapping Sequence ...(krumple krumple)... It appears I've been gifted a ! These are unfortunately incompatible with my motherboard. But I acknowledge and appreciate this gesture of camaraderie. In return I will grant you this: The ! With that on the Beesmas Tree, you'll receive the following boosts: +25% Convert Rate, +25% Capacity in Spider Field, +10% Pollen from Event Abilities and +5% Pollen from Duped Abilities! Thank you generous beekeeper. Enjoy your April!"
+                },
+                {
+                    "NPC": "Gifted Riley Bee",
+                    "Dialogue": "Bucko Bee better not use that Snow Machine! It's TOO DANG COLD!\n-Present Given-\nWHAT! A GIFT? No way! Youuuuuuuu Well hand it over! Come on! ...(krumple krumple)... Oh... my... gumdrops... A permanent Precise Mark! How did you get this?? Did it just, like, fail to despawn? Man, I know some beekeepers who would DIE for one of these. This is going to raise the Red HQ straight to the top! I got you something too. Not quite as OP though. It's the ! With that on the Beesmas Tree, you'll recieve these boosts: +25% Convert Rate, +25% Capacity in the Rose Field and Mushroom Field, and +10% Pollen from Flames! Now let's get out there and heat up the Honeydays! RED ROCKS!"
+                },
+                {
+                    "NPC": "Gifted Bucko Bee",
+                    "Dialogue": "I'm just happy it's Winter.\n-Present Given-\nWell, if it isn't the coolest beekeeper around! You bringing me a  makes you even cooler. Let's see what it is... ...(krumple krumple)... Well I'll be! An entire gallon of Comforting Nectar! No wonder that thing was so heavy. Soo... I happened to get you some Comforting Nectar as well.. That's just part of my gift though, so this isn't too awkward. The most important part is the ! With that on the Beesmas Tree, you'll recieve the following boosts: +25% Convert Rate, +25% Capacity in the Blue Flower Field and Pine Tree Forest, and +10% Blue Field Capacity! Thanks for the Nectar. Have a merry blue Beesmas!"
+                },
+                {
+                    "NPC": "Stick Bug",
+                    "Dialogue": "You flesh bugs are funny with your Beesmas traditions.\n-Present Given-\nFun to watch though. The nymphs get a kick out of it as well. Ok, let's see what you've brought me. ...(krumple krumple)... Ah hah, clever! A ! I guess it would be pretty cool to see how my nymphs and I fair  against those wacky robots. But I unfortunately can't accept. The Robo Bear and I have an arrangement. Can't attack each other. Only you lucky beekeepers. It's the thought that counts, though. Thanks flesh bug. You keep that , and take this as well: The . With that on the tree, you'll receieve the following buffs: +25% Convert Rate, +25% Capacity on the Cactus Field and Pepper Patch, and +5% Pollen. Put that up on the tree quick so we can have some fun."
+                },
+                {
+                    "NPC": "Honey Bee",
+                    "Dialogue": "Bzz zzz zzuh...\n-Present Given-\nBzzz buz ZZ! ZZZZZ BZZ BZZZZ!!! ...(krumple krumple)... (You open up the  for Honey Bee) (The box is filled to the brim with honey) BUZZZZZZZUH BZZZZZZZ! Bzz zz zz! (Honey Bee's eye open wide with joy) (You can tell it's very grateful) Bzzzz zzz buzz bz BUZ zz. (Honey Bee pulls out a plastic bag full of honey) (Inside floats a crude plastic figurine of Honey Bee) Zzzz! (You can sense that with this on the Beesmas Tree, you'll receive these boosts:) (+10% Convert Rate) (+10% Capacity) (+5% Mark Duration) (And +10% Honey From Tokens) Bzz zuh Buzz buzz BuzzZuhz (Honey Bee smiles warmly)"
+                },
+                {
+                    "NPC": "Gummy Bear",
+                    "Dialogue": "A beekeeper approaches, Gummy Bee!\n-If the player does not meet the requirements-\nA box wrapped in colorful paper... a gift? You believe you're worthy of exchanging gifts with US? HAH We do not accept trifles from meager meat-based civilians. Prove yourself by completing our quest and we may reconsider.\n-If the player has completed his quest-\nAll seasonal customs of you beekeepers will soon be replaced. A sweet, gooey-culture will envelope ALL seasons in time! Beesmas? NOPE! Halloween? DENIED! President's day? President's NO WAY! HAH! Every day will be Gummy Day. And all will know eternal sweetness. But I will accept your , Gummy Soldier. For now... ...(krumple krumple)... Yes... YES! A 3lb Gummy Worm. This is satisfactory. Gummy Bee and I shall absorb it with haste to enhance our powers. Or perhaps I'll launch it out my Gummy Cannon! RAIN A WRATH OF WORMS UPON MY FOES! Yes, many delicious options. Now take this: The ! With that ornament on the pathetic tree of Beesmas, you'll recieve the following boosts: +10% Capacity, +25% Coconut Field Capacity, +1% Super-Crit Chance, and +10% GOO! USE IT WELL!"
+                },
+                {
+                    "NPC": "Bubble Bee Man",
+                    "Dialogue": "Bees arent real\n-If the player does not meet the requirements-\n..,. Let me get this straight You want to give a , to me? Errrr.. do you know who I am? are you even aware of TO WHOM YOU ARE CURRENTLY SPEAKING?>? .. sorry So, like, Bee Bear didn't explain it very well this year but I'm basically the god of Beesmas OK, maybe \"god\" is puttin it too much, but I'm like, I'm the reason for Beesmas. Oth4er than the bees It's complicated but...... Basically it's a waste to give this to me. Right? Give it to someone real. who actually has a body. and can use it. If you end up with an extra after all that, er, maybe I'll take the extra one. but you wprobably wont until you beat rank 25 of the robot cake\n-If the player has completed Rank 25 of the Robo Party-\nYou did it huh? You really did it? You gave a  to every other eligible NPC in this game?? Man. Yowwza. Your,a. Your one of the good ones I guess we dont wanta this one to go to waste er Guess I'm the only one ;left so, hand it over ...(krumple krumple)... Wheres the gift? Theres nothing in here but bubble wrap that's the gift? Bubble wrap? Huh. Ok. I was right about you I... I really love bubble wrap That's how I got my name ........... not really... That was a lie Actually I've been lying a lot/ I don't really care about bubble wrap. But I kind of need some anyways. That's why I told Bee Bear to put blbble wrap in this . yup. Thats right I already knew what was in the  And all the other ones. Like I said I'm like a Beesmas god I can see it all ... and that's that Pulled a fast one on you. Bet you believe in my now huh You better. Merry beesmas Stay out of trouble kids"
+                }
+            ]
+        }
+    ]
+}

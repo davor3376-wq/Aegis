@@ -1,0 +1,20 @@
+{
+    "title": "Parachute",
+    "stats": {},
+    "data_tables": [
+        {
+            "Unknown_Table": [
+                {
+                    "Crafting Ingredients": "500,000 Honey",
+                    "Statistics": "Speed",
+                    "col_2": "30"
+                },
+                {
+                    "Crafting Ingredients": "",
+                    "Statistics": "Float",
+                    "col_2": "-14"
+                }
+            ]
+        }
+    ]
+}

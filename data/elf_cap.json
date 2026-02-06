@@ -1,0 +1,62 @@
+{
+    "title": "Elf Cap",
+    "stats": {},
+    "data_tables": [
+        {
+            "Possible Stats": [
+                {
+                    "Stat Caustic Req.": "Chance",
+                    "Base": "Chance",
+                    "Max": "Limit"
+                },
+                {
+                    "Stat Caustic Req.": "+Convert Amount",
+                    "Base": "25 to 50",
+                    "Max": "110",
+                    "Upgrade": "2, 3Bias: 3"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "100%",
+                    "Max": "20"
+                },
+                {
+                    "Stat Caustic Req.": "+%Convert Rate At Hive",
+                    "Base": "10% to 20%",
+                    "Max": "60%",
+                    "Upgrade": "1%, 2%Bias: 2"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "100%",
+                    "Max": "20"
+                },
+                {
+                    "Stat Caustic Req.": "Hive Bonus"
+                },
+                {
+                    "Stat Caustic Req.": "+%Convert Rate At Hive",
+                    "Base": "1% to 3%",
+                    "Max": "13%",
+                    "Upgrade": "1%, 2%Bias: 4"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "10% to 20%",
+                    "Max": "5"
+                },
+                {
+                    "Stat Caustic Req.": "+%Honey At Hive",
+                    "Base": "-",
+                    "Max": "20%",
+                    "Upgrade": "1%, 2%Bias: 3"
+                },
+                {
+                    "Stat Caustic Req.": "-",
+                    "Base": "1% to 10%",
+                    "Max": "10"
+                }
+            ]
+        }
+    ]
+}

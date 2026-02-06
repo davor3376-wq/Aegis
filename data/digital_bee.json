@@ -1,0 +1,507 @@
+{
+    "title": "Digital Bee",
+    "stats": {},
+    "data_tables": [
+        {
+            "Abilities": [
+                {
+                    "Pollen Collection": "Flower Tier",
+                    "col_1": "Bee Pollen",
+                    "col_2": "with Critical Hit"
+                },
+                {
+                    "Pollen Collection": "without Melody",
+                    "col_1": "with Melody"
+                },
+                {
+                    "Pollen Collection": "Single",
+                    "col_1": "10",
+                    "col_2": "20",
+                    "col_3": "30"
+                },
+                {
+                    "Pollen Collection": "Double",
+                    "col_1": "20",
+                    "col_2": "40",
+                    "col_3": "60"
+                },
+                {
+                    "Pollen Collection": "Triple",
+                    "col_1": "30",
+                    "col_2": "60",
+                    "col_3": "90"
+                },
+                {
+                    "Pollen Collection": "Large",
+                    "col_1": "40",
+                    "col_2": "80",
+                    "col_3": "120"
+                },
+                {
+                    "Pollen Collection": "Star",
+                    "col_1": "50",
+                    "col_2": "100",
+                    "col_3": "150"
+                }
+            ]
+        },
+        {
+            "Abilities": [
+                {
+                    "Honey Collection with Science Enhancement": "Levels 1-8Levels 9-16Levels 17-24Levels 25-31\n\n\nScience Enhancement\nProduction Rate\nNumber of Produced Honey\n\n\n1\n25%\n100\n\n\n2\n50%\n120\n\n\n3\n75%\n140\n\n\n4\n100%\n160\n\n\n5\n125%\n180\n\n\n6\n150%\n200\n\n\n7\n175%\n220\n\n\n8\n200%\n240\n\n\n\n\nScience Enhancement\nProduction Rate\nNumber of Produced Honey\n\n\n9\n225%\n260\n\n\n10\n250%\n280\n\n\n11\n275%\n300\n\n\n12\n300%\n320\n\n\n13\n325%\n340\n\n\n14\n350%\n360\n\n\n15\n375%\n380\n\n\n16\n400%\n400\n\n\n\n\nScience Enhancement\nProduction Rate\nNumber of Produced Honey\n\n\n17\n425%\n420\n\n\n18\n450%\n440\n\n\n19\n475%\n460\n\n\n20\n500%\n480\n\n\n21\n525%\n500\n\n\n22\n550%\n520\n\n\n23\n575%\n540\n\n\n24\n600%\n560\n\n\n\n\nScience Enhancement\nProduction Rate\nNumber of Produced Honey\n\n\n25\n625%\n580\n\n\n26\n650%\n600\n\n\n27\n675%\n620\n\n\n28\n700%\n640\n\n\n29\n725%\n660\n\n\n30\n750%\n680\n\n\n31\n775%\n700",
+                    "col_1": "Science Enhancement",
+                    "col_2": "Production Rate",
+                    "col_3": "Number of Produced Honey",
+                    "col_4": "1",
+                    "col_5": "25%",
+                    "col_6": "100",
+                    "col_7": "2",
+                    "col_8": "50%",
+                    "col_9": "120",
+                    "col_10": "3",
+                    "col_11": "75%",
+                    "col_12": "140",
+                    "col_13": "4",
+                    "col_14": "100%",
+                    "col_15": "160",
+                    "col_16": "5",
+                    "col_17": "125%",
+                    "col_18": "180",
+                    "col_19": "6",
+                    "col_20": "150%",
+                    "col_21": "200",
+                    "col_22": "7",
+                    "col_23": "175%",
+                    "col_24": "220",
+                    "col_25": "8",
+                    "col_26": "200%",
+                    "col_27": "240",
+                    "col_28": "Science Enhancement",
+                    "col_29": "Production Rate",
+                    "col_30": "Number of Produced Honey",
+                    "col_31": "9",
+                    "col_32": "225%",
+                    "col_33": "260",
+                    "col_34": "10",
+                    "col_35": "250%",
+                    "col_36": "280",
+                    "col_37": "11",
+                    "col_38": "275%",
+                    "col_39": "300",
+                    "col_40": "12",
+                    "col_41": "300%",
+                    "col_42": "320",
+                    "col_43": "13",
+                    "col_44": "325%",
+                    "col_45": "340",
+                    "col_46": "14",
+                    "col_47": "350%",
+                    "col_48": "360",
+                    "col_49": "15",
+                    "col_50": "375%",
+                    "col_51": "380",
+                    "col_52": "16",
+                    "col_53": "400%",
+                    "col_54": "400",
+                    "col_55": "Science Enhancement",
+                    "col_56": "Production Rate",
+                    "col_57": "Number of Produced Honey",
+                    "col_58": "17",
+                    "col_59": "425%",
+                    "col_60": "420",
+                    "col_61": "18",
+                    "col_62": "450%",
+                    "col_63": "440",
+                    "col_64": "19",
+                    "col_65": "475%",
+                    "col_66": "460",
+                    "col_67": "20",
+                    "col_68": "500%",
+                    "col_69": "480",
+                    "col_70": "21",
+                    "col_71": "525%",
+                    "col_72": "500",
+                    "col_73": "22",
+                    "col_74": "550%",
+                    "col_75": "520",
+                    "col_76": "23",
+                    "col_77": "575%",
+                    "col_78": "540",
+                    "col_79": "24",
+                    "col_80": "600%",
+                    "col_81": "560",
+                    "col_82": "Science Enhancement",
+                    "col_83": "Production Rate",
+                    "col_84": "Number of Produced Honey",
+                    "col_85": "25",
+                    "col_86": "625%",
+                    "col_87": "580",
+                    "col_88": "26",
+                    "col_89": "650%",
+                    "col_90": "600",
+                    "col_91": "27",
+                    "col_92": "675%",
+                    "col_93": "620",
+                    "col_94": "28",
+                    "col_95": "700%",
+                    "col_96": "640",
+                    "col_97": "29",
+                    "col_98": "725%",
+                    "col_99": "660",
+                    "col_100": "30",
+                    "col_101": "750%",
+                    "col_102": "680",
+                    "col_103": "31",
+                    "col_104": "775%",
+                    "col_105": "700"
+                },
+                {
+                    "Honey Collection with Science Enhancement": "Science Enhancement",
+                    "col_1": "Production Rate",
+                    "col_2": "Number of Produced Honey"
+                },
+                {
+                    "Honey Collection with Science Enhancement": "1",
+                    "col_1": "25%",
+                    "col_2": "100"
+                },
+                {
+                    "Honey Collection with Science Enhancement": "2",
+                    "col_1": "50%",
+                    "col_2": "120"
+                },
+                {
+                    "Honey Collection with Science Enhancement": "3",
+                    "col_1": "75%",
+                    "col_2": "140"
+                },
+                {
+                    "Honey Collection with Science Enhancement": "4",
+                    "col_1": "100%",
+                    "col_2": "160"
+                },
+                {
+                    "Honey Collection with Science Enhancement": "5",
+                    "col_1": "125%",
+                    "col_2": "180"
+                },
+                {
+                    "Honey Collection with Science Enhancement": "6",
+                    "col_1": "150%",
+                    "col_2": "200"
+                },
+                {
+                    "Honey Collection with Science Enhancement": "7",
+                    "col_1": "175%",
+                    "col_2": "220"
+                },
+                {
+                    "Honey Collection with Science Enhancement": "8",
+                    "col_1": "200%",
+                    "col_2": "240"
+                },
+                {
+                    "Honey Collection with Science Enhancement": "Science Enhancement",
+                    "col_1": "Production Rate",
+                    "col_2": "Number of Produced Honey"
+                },
+                {
+                    "Honey Collection with Science Enhancement": "9",
+                    "col_1": "225%",
+                    "col_2": "260"
+                },
+                {
+                    "Honey Collection with Science Enhancement": "10",
+                    "col_1": "250%",
+                    "col_2": "280"
+                },
+                {
+                    "Honey Collection with Science Enhancement": "11",
+                    "col_1": "275%",
+                    "col_2": "300"
+                },
+                {
+                    "Honey Collection with Science Enhancement": "12",
+                    "col_1": "300%",
+                    "col_2": "320"
+                },
+                {
+                    "Honey Collection with Science Enhancement": "13",
+                    "col_1": "325%",
+                    "col_2": "340"
+                },
+                {
+                    "Honey Collection with Science Enhancement": "14",
+                    "col_1": "350%",
+                    "col_2": "360"
+                },
+                {
+                    "Honey Collection with Science Enhancement": "15",
+                    "col_1": "375%",
+                    "col_2": "380"
+                },
+                {
+                    "Honey Collection with Science Enhancement": "16",
+                    "col_1": "400%",
+                    "col_2": "400"
+                },
+                {
+                    "Honey Collection with Science Enhancement": "Science Enhancement",
+                    "col_1": "Production Rate",
+                    "col_2": "Number of Produced Honey"
+                },
+                {
+                    "Honey Collection with Science Enhancement": "17",
+                    "col_1": "425%",
+                    "col_2": "420"
+                },
+                {
+                    "Honey Collection with Science Enhancement": "18",
+                    "col_1": "450%",
+                    "col_2": "440"
+                },
+                {
+                    "Honey Collection with Science Enhancement": "19",
+                    "col_1": "475%",
+                    "col_2": "460"
+                },
+                {
+                    "Honey Collection with Science Enhancement": "20",
+                    "col_1": "500%",
+                    "col_2": "480"
+                },
+                {
+                    "Honey Collection with Science Enhancement": "21",
+                    "col_1": "525%",
+                    "col_2": "500"
+                },
+                {
+                    "Honey Collection with Science Enhancement": "22",
+                    "col_1": "550%",
+                    "col_2": "520"
+                },
+                {
+                    "Honey Collection with Science Enhancement": "23",
+                    "col_1": "575%",
+                    "col_2": "540"
+                },
+                {
+                    "Honey Collection with Science Enhancement": "24",
+                    "col_1": "600%",
+                    "col_2": "560"
+                },
+                {
+                    "Honey Collection with Science Enhancement": "Science Enhancement",
+                    "col_1": "Production Rate",
+                    "col_2": "Number of Produced Honey"
+                },
+                {
+                    "Honey Collection with Science Enhancement": "25",
+                    "col_1": "625%",
+                    "col_2": "580"
+                },
+                {
+                    "Honey Collection with Science Enhancement": "26",
+                    "col_1": "650%",
+                    "col_2": "600"
+                },
+                {
+                    "Honey Collection with Science Enhancement": "27",
+                    "col_1": "675%",
+                    "col_2": "620"
+                },
+                {
+                    "Honey Collection with Science Enhancement": "28",
+                    "col_1": "700%",
+                    "col_2": "640"
+                },
+                {
+                    "Honey Collection with Science Enhancement": "29",
+                    "col_1": "725%",
+                    "col_2": "660"
+                },
+                {
+                    "Honey Collection with Science Enhancement": "30",
+                    "col_1": "750%",
+                    "col_2": "680"
+                },
+                {
+                    "Honey Collection with Science Enhancement": "31",
+                    "col_1": "775%",
+                    "col_2": "700"
+                }
+            ]
+        },
+        {
+            "Abilities": [
+                {
+                    "Science Enhancement": "1",
+                    "Production Rate": "25%",
+                    "Number of Produced Honey": "100"
+                },
+                {
+                    "Science Enhancement": "2",
+                    "Production Rate": "50%",
+                    "Number of Produced Honey": "120"
+                },
+                {
+                    "Science Enhancement": "3",
+                    "Production Rate": "75%",
+                    "Number of Produced Honey": "140"
+                },
+                {
+                    "Science Enhancement": "4",
+                    "Production Rate": "100%",
+                    "Number of Produced Honey": "160"
+                },
+                {
+                    "Science Enhancement": "5",
+                    "Production Rate": "125%",
+                    "Number of Produced Honey": "180"
+                },
+                {
+                    "Science Enhancement": "6",
+                    "Production Rate": "150%",
+                    "Number of Produced Honey": "200"
+                },
+                {
+                    "Science Enhancement": "7",
+                    "Production Rate": "175%",
+                    "Number of Produced Honey": "220"
+                },
+                {
+                    "Science Enhancement": "8",
+                    "Production Rate": "200%",
+                    "Number of Produced Honey": "240"
+                }
+            ]
+        },
+        {
+            "Abilities": [
+                {
+                    "Science Enhancement": "9",
+                    "Production Rate": "225%",
+                    "Number of Produced Honey": "260"
+                },
+                {
+                    "Science Enhancement": "10",
+                    "Production Rate": "250%",
+                    "Number of Produced Honey": "280"
+                },
+                {
+                    "Science Enhancement": "11",
+                    "Production Rate": "275%",
+                    "Number of Produced Honey": "300"
+                },
+                {
+                    "Science Enhancement": "12",
+                    "Production Rate": "300%",
+                    "Number of Produced Honey": "320"
+                },
+                {
+                    "Science Enhancement": "13",
+                    "Production Rate": "325%",
+                    "Number of Produced Honey": "340"
+                },
+                {
+                    "Science Enhancement": "14",
+                    "Production Rate": "350%",
+                    "Number of Produced Honey": "360"
+                },
+                {
+                    "Science Enhancement": "15",
+                    "Production Rate": "375%",
+                    "Number of Produced Honey": "380"
+                },
+                {
+                    "Science Enhancement": "16",
+                    "Production Rate": "400%",
+                    "Number of Produced Honey": "400"
+                }
+            ]
+        },
+        {
+            "Abilities": [
+                {
+                    "Science Enhancement": "17",
+                    "Production Rate": "425%",
+                    "Number of Produced Honey": "420"
+                },
+                {
+                    "Science Enhancement": "18",
+                    "Production Rate": "450%",
+                    "Number of Produced Honey": "440"
+                },
+                {
+                    "Science Enhancement": "19",
+                    "Production Rate": "475%",
+                    "Number of Produced Honey": "460"
+                },
+                {
+                    "Science Enhancement": "20",
+                    "Production Rate": "500%",
+                    "Number of Produced Honey": "480"
+                },
+                {
+                    "Science Enhancement": "21",
+                    "Production Rate": "525%",
+                    "Number of Produced Honey": "500"
+                },
+                {
+                    "Science Enhancement": "22",
+                    "Production Rate": "550%",
+                    "Number of Produced Honey": "520"
+                },
+                {
+                    "Science Enhancement": "23",
+                    "Production Rate": "575%",
+                    "Number of Produced Honey": "540"
+                },
+                {
+                    "Science Enhancement": "24",
+                    "Production Rate": "600%",
+                    "Number of Produced Honey": "560"
+                }
+            ]
+        },
+        {
+            "Abilities": [
+                {
+                    "Science Enhancement": "25",
+                    "Production Rate": "625%",
+                    "Number of Produced Honey": "580"
+                },
+                {
+                    "Science Enhancement": "26",
+                    "Production Rate": "650%",
+                    "Number of Produced Honey": "600"
+                },
+                {
+                    "Science Enhancement": "27",
+                    "Production Rate": "675%",
+                    "Number of Produced Honey": "620"
+                },
+                {
+                    "Science Enhancement": "28",
+                    "Production Rate": "700%",
+                    "Number of Produced Honey": "640"
+                },
+                {
+                    "Science Enhancement": "29",
+                    "Production Rate": "725%",
+                    "Number of Produced Honey": "660"
+                },
+                {
+                    "Science Enhancement": "30",
+                    "Production Rate": "750%",
+                    "Number of Produced Honey": "680"
+                },
+                {
+                    "Science Enhancement": "31",
+                    "Production Rate": "775%",
+                    "Number of Produced Honey": "700"
+                }
+            ]
+        }
+    ]
+}

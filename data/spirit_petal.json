@@ -1,0 +1,25 @@
+{
+    "title": "Spirit Petal",
+    "stats": {},
+    "data_tables": [
+        {
+            "Uses": [
+                {
+                    "Spirit Petals": "1",
+                    "Other Requirements": "Donating Cloud Vials to the Wind Shrine.",
+                    "Result": "Windy Bee"
+                },
+                {
+                    "Spirit Petals": "1",
+                    "Other Requirements": "1.5B Honey\n10 Star Jellies\n25 Glitter\n75 Enzymes",
+                    "Result": "Petal Wand"
+                },
+                {
+                    "Spirit Petals": "1",
+                    "Other Requirements": "15B Honey\n25 Star Jellies\n50 Glitter\n100 Glues",
+                    "Result": "Petal Belt"
+                }
+            ]
+        }
+    ]
+}

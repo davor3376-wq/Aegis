@@ -1,0 +1,15 @@
+{
+    "title": "Spider",
+    "stats": {},
+    "data_tables": [
+        {
+            "Locations": [
+                {
+                    "Field": "Spider Field and its surrounding area bordering the Strawberry and Bamboo Fields and the Basic Bee Gate.",
+                    "Quantity": "1",
+                    "Level": "4"
+                }
+            ]
+        }
+    ]
+}

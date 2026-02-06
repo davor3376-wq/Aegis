@@ -1,0 +1,118 @@
+{
+    "title": "Field Wind",
+    "stats": {},
+    "data_tables": [
+        {
+            "Each Field Buff": [
+                {
+                    "Field": "Sunflower Field",
+                    "Icon": "",
+                    "Individual\nBoost": "+20% Instant Sunflower Field Conversion\n+31% Sunflower Field Pollen\n+1% White Pollen",
+                    "Effect at x15\nCap (Stack)": "+50% Instant Sunflower Field Conversion\n+115% Sunflower Field Pollen\n+15% White Pollen"
+                },
+                {
+                    "Field": "Dandelion Field",
+                    "Icon": "",
+                    "Individual\nBoost": "+20% Instant Dandelion Field Conversion\n+31% Dandelion Field Pollen\n+1% White Pollen",
+                    "Effect at x15\nCap (Stack)": "+50% Instant Dandelion Field Conversion\n+115% Dandelion Field Pollen\n+15% White Pollen"
+                },
+                {
+                    "Field": "Mushroom Field",
+                    "Icon": "",
+                    "Individual\nBoost": "+20% Instant Mushroom Field Conversion\n+31% Mushroom Field Pollen\n+1% White Pollen",
+                    "Effect at x15\nCap (Stack)": "+50% Instant Mushroom Field Conversion\n+115% Mushroom Field Pollen\n+15% White Pollen"
+                },
+                {
+                    "Field": "Blue Flower Field",
+                    "Icon": "",
+                    "Individual\nBoost": "+20% Instant Blue Flower Field Conversion\n+31% Blue Flower Field Pollen\n+1% White Pollen",
+                    "Effect at x15\nCap (Stack)": "+50% Instant Blue Flower Field Conversion\n+115% Blue Flower Field Pollen\n+15% White Pollen"
+                },
+                {
+                    "Field": "Clover Field",
+                    "Icon": "",
+                    "Individual\nBoost": "+20% Instant Clover Field Conversion\n+30% Clover Field Pollen\n+1% White Pollen",
+                    "Effect at x15\nCap (Stack)": "+50% Instant Clover Field Conversion\n+100% Clover Field Pollen\n+15% White Pollen"
+                },
+                {
+                    "Field": "Bamboo Field",
+                    "Icon": "",
+                    "Individual\nBoost": "+20% Instant Bamboo Field Conversion\n+29% Bamboo Field Pollen\n+1% White Pollen",
+                    "Effect at x15\nCap (Stack)": "+50% Instant Bamboo Field Conversion\n+85% Bamboo Field Pollen\n+15% White Pollen"
+                },
+                {
+                    "Field": "Spider Field",
+                    "Icon": "",
+                    "Individual\nBoost": "+20% Instant Spider Field Conversion\n+30% Spider Field Pollen\n+1% White Pollen",
+                    "Effect at x15\nCap (Stack)": "+50% Instant Spider Field Conversion\n+100% Spider Field Pollen\n+15% White Pollen"
+                },
+                {
+                    "Field": "Strawberry Field",
+                    "Icon": "",
+                    "Individual\nBoost": "+20% Instant Strawberry Field Conversion\n+29% Strawberry Field Pollen\n+1% White Pollen",
+                    "Effect at x15\nCap (Stack)": "+50% Instant Strawberry Field Conversion\n+85% Strawberry Field Pollen\n+15% White Pollen"
+                },
+                {
+                    "Field": "Pineapple Patch",
+                    "Icon": "",
+                    "Individual\nBoost": "+20% Instant Pineapple Patch Conversion\n+30% Pineapple Patch Pollen\n+1% White Pollen",
+                    "Effect at x15\nCap (Stack)": "+50% Instant Pineapple Patch Conversion\n+100% Pineapple Patch Pollen\n+15% White Pollen"
+                },
+                {
+                    "Field": "Cactus Field",
+                    "Icon": "",
+                    "Individual\nBoost": "+20% Instant Cactus Field Conversion\n+31% Cactus Field Pollen\n+1% White Pollen",
+                    "Effect at x15\nCap (Stack)": "+50% Instant Cactus Field Conversion\n+115% Cactus Field Pollen\n+15% White Pollen"
+                },
+                {
+                    "Field": "Pumpkin Patch",
+                    "Icon": "",
+                    "Individual\nBoost": "+20% Instant Pumpkin Patch Conversion\n+29% Pumpkin Patch Pollen\n+1% White Pollen",
+                    "Effect at x15\nCap (Stack)": "+50% Instant Pumpkin Patch Conversion\n+85% Pumpkin Patch Pollen\n+15% White Pollen"
+                },
+                {
+                    "Field": "Pine Tree Forest",
+                    "Icon": "",
+                    "Individual\nBoost": "+20% Instant Pine Tree Forest Conversion\n+29% Pine Tree Forest Pollen\n+1% White Pollen",
+                    "Effect at x15\nCap (Stack)": "+50% Instant Pine Tree Forest Conversion\n+85% Pine Tree Forest Pollen\n+15% White Pollen"
+                },
+                {
+                    "Field": "Rose Field",
+                    "Icon": "",
+                    "Individual\nBoost": "+20% Instant Rose Field Conversion\n+29% Rose Field Pollen\n+1% White Pollen",
+                    "Effect at x15\nCap (Stack)": "+50% Instant Rose Field Conversion\n+85% Rose Field Pollen\n+15% White Pollen"
+                },
+                {
+                    "Field": "Mountain Top Field",
+                    "Icon": "",
+                    "Individual\nBoost": "+20% Instant Mountain Top Field Conversion\n+28% Mountain Top Field Pollen\n+1% White Pollen",
+                    "Effect at x15\nCap (Stack)": "+50% Instant Mountain Top Field Conversion\n+70% Mountain Top Field Pollen\n+15% White Pollen"
+                },
+                {
+                    "Field": "Stump Field",
+                    "Icon": "",
+                    "Individual\nBoost": "+20% Instant Stump Field Conversion\n+28% Stump Field Pollen\n+1% White Pollen",
+                    "Effect at x15\nCap (Stack)": "+50% Instant Stump Field Conversion\n+70% Stump Field Pollen\n+15% White Pollen"
+                },
+                {
+                    "Field": "Coconut Field",
+                    "Icon": "",
+                    "Individual\nBoost": "+20% Instant Coconut Field Conversion\n+28% Coconut Field Pollen\n+1% White Pollen",
+                    "Effect at x15\nCap (Stack)": "+50% Instant Coconut Field Conversion\n+70% Coconut Field Pollen\n+15% White Pollen"
+                },
+                {
+                    "Field": "Pepper Patch",
+                    "Icon": "",
+                    "Individual\nBoost": "+20% Instant Pepper Patch Conversion\n+28% Pepper Patch Pollen\n+1% White Pollen",
+                    "Effect at x15\nCap (Stack)": "+50% Instant Pepper Patch Conversion\n+70% Pepper Patch Pollen\n+15% White Pollen"
+                },
+                {
+                    "Field": "Hub Field",
+                    "Icon": "",
+                    "Individual\nBoost": "N/A",
+                    "Effect at x15\nCap (Stack)": "+67% Instant Hub Field Conversion\n+175% Hub Field Pollen"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,157 @@
+{
+    "title": "Stick Bug",
+    "stats": {},
+    "data_tables": [
+        {
+            "Dialogue": [
+                {
+                    "Situation": "Initial Talk without Translator",
+                    "Dialogue": "Tsk tsk tsk tsk. T tuh tsk TSKK VRZz tsk tsk! (Stick Bug is speaking in bug noises)\n(You are given a choice to use a translator or to leave.)\n-Leave-\nVRRZZZ. Tsk tsk.\n-Give a Translator to Stick Bug -\n(Skip to \"Initial Talk with a Translator (first time)\".)"
+                },
+                {
+                    "Situation": "Initial Talk with a Translator (first time)",
+                    "Dialogue": "Hey there flesh-bug. I am Stick Bug. I move, I jump, I step to my own beat! I was here before the bees and honey. Jump into my world... You think you and your bees can take on me? Think you can match my stide? You'll be over in your head. But I'd like to see you try. Come back if you're brave."
+                },
+                {
+                    "Situation": "Initial Talk with a Translator",
+                    "Dialogue": "Hey there flesh-bug. Feeling brave? How about you and your friends join me in my dance? Once it starts. I'll hop into the fields. Deal as much damage to me as you can to me in 10 minutes to earn rewards. The higher the score the better they will be. Ready to get down?\n\n- Cancel-\nCold feet? I'll wait.\n\n-Start the challenge -\nOk then - You're on flesh-bug!!\n-Pay 50 Tickets to start the challenge-\nOk then - let's groove."
+                },
+                {
+                    "Situation": "Giving a present (Beesmas exclusive)",
+                    "Dialogue": "Beesmas is just another day.\nLike any other day, it's a day to boogie.\nHolidays come and go.\nThey blow past me like leaves in the wind until they crumble away.\nBut me and my nymphs, we've been dancing forever.\nHeh heh.\n(asks if you want to give Stick Bug a Present)\n(If you give it a present:)\nYou're full of surprises , flesh-bug.\nLet's take a look in the box.\nA reel-to-reel machine? How did you fit this in there?\nVery cool. Let me set this up.\n...\nNow let's give it a whirl.\n(Stick Bug Challenge Starts)"
+                },
+                {
+                    "Situation": "Exclusive Beesmas Dialogue 2020",
+                    "Dialogue": "You beekeepers are funny with your seasonal traditions. You are given a choice to give a present to Stick Bug or continue talking like normal. You choose to give him a present. If you're having a tough year, remember things'll get better. Life is full of ups and downs. It's a bumpy ride, just gotta hang on tight. So, what did you bring me? ...(krumple krumple)... Hah! It's a wind-up \"Get Stick Bugged\" figurine. Yeah, of course I like that meme. Feels good to force even the non-beekeepers to hear my song when they least expect it. Speaking of, you better put this  on the tree fast."
+                }
+            ]
+        },
+        {
+            "Beesmas Quest - Stick Bug's Nymph Hats": [
+                {
+                    "Requirements": "Collect 9,000,000,000 Pollen from the Pineapple Patch.\nCatch 1,000 Petals in the Sunflower Field.\nCollect 4,000,000,000 Pollen with Rare Bees.\nCollect 6,000 Tokens from Stick Bug.\nCollect 5,000 Tokens from Stick Bug Defense Totems.\nDiscard 20 Beequips.\nUse 20 Red Extracts.\nDefeat 100 Mechsquitoes.\nDefeat 10 Werewolves.\nDefeat 4 Aphids.\nDefeat 4 Coconut Crabs.\nObtain 1 Walking Stick Nymph Sticker to give to Stick Bug.",
+                    "Rewards": "250B Honey\n1 Ticket Voucher\n1 Turpentine\n1 Pinecone\n1 Black Balloon\n5 Swirled Waxes\n10 Gingerbread Bears\nStarts the Stick Bug Challenge\nAllows Festive Nymphs to spawn during the Stick Bug Challenge"
+                }
+            ]
+        },
+        {
+            "Beesmas Quest - Stick Bug's Nymph Hats": [
+                {
+                    "Dialogue": "- Accepting -\nHey there flesh-bug. Seems like your bees are really enjoying themselves this Beesmas. The Stick Nymphs, though. They're jealous... They've got no Beequips. No Stickers. No nothing. The least we could do is give them some hats. Yeah. Hats make people happy. Heh heh. Let's get some hats for these guys so they'll get back to dancing.\n- During -\nN/A\n- Completion -\nThat kind of hurt. I'm not complaining. We go  the hats. Now let's take all that stuff you gathered and turn them into hats somehow. Here you go little twigs - looking good. Now that the Stick Nymphs have hats, Festive Nymphs may spawn during challenges you start with me. Festive Nymphs give improved loot, and grant a stack of \"Festive Nymph Blessing\" when you defeat them. That blessing gives bonus Capacity, Instant Bee Gather Conversion, Honey Per Pollen, and Bee Attack. It stacks up to 250 times and lasts 8 hours. Should be a nice boost to your hive. Seems like the Nymphs are ready to dance."
+                }
+            ]
+        },
+        {
+            "Beesmas Quest - Stick Bug's Nymph Hats": [
+                {
+                    "Requirements": "Collect 240,000,000,000 Pollen.\nCollect 80,000,000,000 Pollen from the Pineapple Patch.\nCollect 60,000,000,000 Pollen from the Clover Field.\nCollect 20,000,000,000 Pollen from the Dandelion Field.\nCollect 1,400 Tokens from Stick Bug.\nCollect 1,000 Tokens from Stick Bug Defense Totems.\nCatch 1,000 Falling Coconuts.\nDiscard 40 Beequips.\nCollect 120 Enzymes.\nCollect 60 Tropical Drinks.\nDefeat 1 Stump Snail.",
+                    "Rewards": "2.5T Honey\n5 Ticket Planters\n1 Turpentine\n1 Pinecone\n1 Festive Bean\n5 Loaded Dice\n10 Star Jellies\n10 Gingerbread Bears\nStarts the Stick Bug Challenge\nAllows Festive Nymphs to spawn during the Stick Bug Challenge"
+                }
+            ]
+        },
+        {
+            "Beesmas Quest - Stick Bug's Nymph Hats": [
+                {
+                    "Dialogue": "- Accepting -\nHey there flesh-bug. Think you could lend me a hand? The Stick Nymphs really want to get dolled up for the season. But I don't have any festive hats, or the stuff I need to make them. I'm not really a festive sort of bug, and I don't keep a lot of stuff on hand. But just look at those nymphs, so barren and bummed. Could you collect what I need to cheer them up?\n- During -\nN/A\n- Completion -\nNow let's take all that stuff you gathered and turn them into hats somehow. Here you go little twigs - the flesh bug's got your back. There. Happy? Now that the stick nymphs have hats, Festive Nymphs may spawn during the challenges you start with me. Festive Nymphs give improved loot, and grant a stack of \"Festive Nymph Blessing\" when you defeat them. That blessing gives bonus capacity, Instant bee gather conversion, Honey per Pollen and Bee Attack. It stacks up to 250 times and lasts 8 hours. Should be a nice boost to your hive. Seems like the Nymphs are raring to go. How about we test their new hats out."
+                }
+            ]
+        },
+        {
+            "Beesmas Quest - Stick Bug's Nymph Hats": [
+                {
+                    "Requirements": "Collect 3,000,000,000 Pollen from the Pineapple Patch.\nCollect 2,000,000,000 Pollen from the Clover Field.\nCollect 1,000,000,000 Pollen from the Dandelion Field\nCollect 400 Tokens from Stick Bug.\nCollect 200 Tokens from Stick Bug Defense Totems.\nObtain 1 Right Facing Stump Snail Sticker to give to Stick Bug.\nObtain 2 Forward Facing Spider OR 2 Small Blue Chick Stickers to give to Stick Bug.\nObtain 2 Menacing Mantis OR 2 Little Scorpion Stickers to give to Stick Bug.\nObtain 3 Left Facing Ant OR 3 Forward Facing Aphid Stickers to give to Stick Bug.\nObtain 4 Walking Stick Nymph Stickers to give to Stick Bug.",
+                    "Rewards": "20B Honey\n100 Tickets\n1 Turpentine\n1 Pinecone\n1 Kazoo\n20 Enzymes\n10 Star Jellies\n5 Swirled Waxes\n5 Robo Passes\n10 Gingerbread Bears\nStarts the Stick Bug Challenge\nAllows Festive Nymphs to spawn during the Stick Bug Challenge"
+                }
+            ]
+        },
+        {
+            "Beesmas Quest - Stick Bug's Nymph Hats": [
+                {
+                    "Dialogue": "- Accepting -\nHey there flesh-bug. Think you could lend me a hand? The Stick Nymphs really want to get dolled up for the season. But I don't have any festive hats, or the stuff I need to make them. I'm not really a festive sort of bug, and I don't keep a lot of stuff on hand. But just look at those nymphs, so barren and bummed. Could you collect what I need to cheer them up?\n- During -\nN/A\n- Completion -\nNow let's take those stickers and turn them into hats somehow. Here you go little twigs - the flesh bug's got your back. There. Happy? Now that the Stick Nymphs have hats, Festive Nymphs may spawn during challenges you start with me. Festive Nymphs give improved loot, and grant a stack of \"Festive Nymph Blessing\" when you defeat them. The blessing gives bonus Capacity, Instant Bee Gather Conversion, Honey Per Pollen, and Bee Attack. It stacks up to 250 times and lasts 8 hours. Should be a nice boost to your hive. Seems like the Nymphs are raring to go. How about we test their new hats out."
+                }
+            ]
+        },
+        {
+            "Beesmas Quest - Stick Bug's Nymph Hats": [
+                {
+                    "Requirements": "Collect 400 Tokens from Stick Bug.\nCollect 300 Tokens from Stick Bug Defense Totems.\nDefeat 200 Cogmowers.\nDefeat 100 Cogturrets.\nDefeat 5 Mega Mechsquitos.",
+                    "Rewards": "10B Honey\n1 Turpentine\n5 Loaded Dice\n3 Caustic Waxes\n3 Swirled Waxes\n2 Invigorating Vials\n10 Gingerbread Bears\n1 Robo Pass\n1 Ticket Planter\nStarts the Stick Bug Challenge\nAllows Festive Nymphs to spawn during the Stick Bug Challenge"
+                }
+            ]
+        },
+        {
+            "Beesmas Quest - Stick Bug's Nymph Hats": [
+                {
+                    "Requirements (Before Nerf)": "Collect 250 Tokens from Stick Bug.\nCollect 200 Tokens from Stick Bug Defense Totems.\nDefeat 100 Cogmowers.\nDefeat 75 Cogturrets.\nDefeat 50 Mega Mechsquitos.\nIf the player has defeated at least 25 Mega Mechsquitos before the nerf, they will get a compensation of 3 Caustic Waxes, 1 Toy Drum, and 1 Ticket Planter."
+                }
+            ]
+        },
+        {
+            "Beesmas Quest - Stick Bug's Nymph Hats": [
+                {
+                    "Dialogue": "- Accepting -\nHey there flesh-bug. I've got a favor to ask of you. The Stick Nymphs have got a bit of a bullying problem. Robo Bear's lackeys  took their festive hats. Really killed their vibe. Robo Bear and I have an arrangement. I can't teach them a lesson myself. But you can. Gotta love loopholes.\n- During -\nN/A\n- Completion -\nHeh. That was brutal. Here you go little twigs - the flesh bug got your hats back. There. Happy? Now that the Stick Nymphs have hats, Festive Nymphs may spawn during challenges you start with me. Festive Nymphs give improved loot, and grant a stack of \"Festive Nymph Blessing\" when you defeat them. That blessing gives bonus Capasity, Instant Bee Gather Conversion, Honey Per Pollen, and Bee Attack. It stacks up to 250 times and lasts 8 hours. Should be a nice boost to your hive. Seems like Nymphs are raring to go. How about we test their new hats out."
+                }
+            ]
+        },
+        {
+            "Beesmas Quest - Stick Bug's Nymph Hats": [
+                {
+                    "Requirements": "Collect 44,000,000,000 Pollen.\nCollect 10,000,000,000 Pollen from the Pineapple Patch.\nCollect 6,000,000,000 Pollen from the Clover Field.\nCollect 5,000,000,000 Pollen from the Dandelion Field.\nCollect 250 Tokens from Stick Bug.\nCollect 150 Tokens from Stick Bug Defense Totems.\nCollect 1000 Tokens from Puffshrooms.\nDefeat 1 Epic Puffshroom in the Sunflower Field.\nDefeat 1 Level 15+ Puffshroom.\nCatch 500 Falling Coconuts.",
+                    "Rewards": "50B Honey\n5 Tickets\n5 Ticket Planters\n1 Turpentine\n10 Gingerbread Bears\n10 Star Jellies\n250 Bitterberries\n1 Pinecone\nStarts the Stick Bug Challenge\nAllows Festive Nymphs to spawn during the Stick Bug Challenge"
+                }
+            ]
+        },
+        {
+            "Beesmas Quest - Stick Bug's Nymph Hats": [
+                {
+                    "Dialogue": "- Accepting -\nHey there flesh-bug. Your bees are looking pretty fresh with their Beesmas Beequips. The Stick Nymphs have definitely noticed. And now they want in on the fashion fun. They're pretty bummed about being left out. Can't even get them to dance. We've got to cheer them up. Think you could help me make some hats for the nymphs? If you do, I'll make it worth your while.\n- During -N/A\n- Completion -\nYou pulled through, flesh-bug. These hats'll be a perfect fit. Go ahead Nymphs, try them on. Nice! They look dapper in those things and they're cheering up already. Now that the Stick Nymphs have hats, Festive Nymphs may spawn during challenges you start with me. Festive Nymphs give improved loot and grant a stack of \"Festive Nymph Blessing\" when you defeat them. That blessing gives bonus Capacity, Instant Bee Gather Conversion, Honey per pollen, and Bee Attack. It stacks up to 250 times and lasts 8 hours. Should be a nice boost to your hive. My Stick Nymphs are happy and raring to go. How about we test their new hats out now."
+                }
+            ]
+        },
+        {
+            "Beesmas Quest - Stick Bug's Nymph Hats": [
+                {
+                    "Requirements": "Collect 44,000,000,000 Pollen.\nCollect 10,000,000,000 Pollen from the Pineapple Patch.\nCollect 6,000,000,000 Pollen from the Clover Field.\nCollect 5,000,000,000 Pollen from the Dandelion Field.\nCollect 250 Tokens from Stick Bug.\nCollect 100 Tokens from Stick Bug Defense Totems.\nCollect 500 Tokens from Sprouts.\nCraft 150 Ingredients with the Blender.\nDiscard 25 Beequips.\nCatch 500 Falling Coconuts.\nDefeat 5 Werewolves.\nDefeat 1 King Beetle.",
+                    "Rewards": "50B Honey\n5 Gingerbread Bears\n50 Tickets\n250 Bitterberries\n10 Stingers\n10 Tropical Drinks\n1 Pinecone\nStarts the Stick Bug Challenge\nAllows Festive Nymphs to spawn during the Stick Bug Challenge"
+                }
+            ]
+        },
+        {
+            "Beesmas Quest - Stick Bug's Nymph Hats": [
+                {
+                    "Dialogue": "- Accepting -\nHey there flesh-bug. Your bees are looking pretty fresh with their new Beequips. The Stick Nymphs have definitely noticed. And now they want in on the fashion fun. They're pretty bummed about being left out. Can't even get them to dance. We've got to cheer them up. Think you could help me make some hats for the nymphs? If you do, I'll make it worth your while.\n- During -\nN/A\n- Completion -\nYou pulled through, flesh-bug. These hats'll be a perfect fit. Go ahead Nymphs, try them on. Nice! They look dapper in those things and they're cheering up already. Now that the Stick Nymphs have hats, Festive Nymphs may spawn during challenges you start with me. Festive Nymphs give improved loot and grant a stack of \"Festive Nymph Blessing\" when you defeat them. That blessing gives bonus Capacity, Instant Bee Gather Conversion, Honey per pollen, and Bee Attack. It stacks up to 250 times and lasts 8 hours. Should be a nice boost to your hive. My Stick Nymphs are happy and raring to go. How about we test their new hats out now."
+                }
+            ]
+        },
+        {
+            "Other quests": [
+                {
+                    "Requirements": "Collect 11,111,111,111 Pollen\nCollect 1,111,111,111 Pollen from the Pepper Patch\nCollect 1,111,111,111 Pollen from the Pineapple Patch\nCollect 1,111,111,111 Pollen from the Bamboo Field\nCollect 111,111,111 Pollen from the Sunflower Field\nCollect 1,111 Tokens from Stick Nymphs\nCollect 111 Tokens from Stick Bug\nCatch 111 Falling Coconuts\nDefeat 11 Werewolves\nDefeat 1 Coconut Crab",
+                    "Rewards": "Starts Stick Bug Challenge (upon receiving quest)\n5B Honey\n5 Tickets\n10 Tropical Drinks\n Partridge in a Stick Bug Ornament"
+                }
+            ]
+        },
+        {
+            "Other quests": [
+                {
+                    "Dialogue": "- Accepting - \nHey there flesh bug. Feeling festive? I can get down with that. Beesmas - doesn't mean much to me. But it brings a jolly energy to the mountain that I can certainly vibe with. Been watching you all put  up on that tree. Gave me an idea for an  of my own. I'll tell you more about it later.\n\n- During -\nN/A\n\n- Completion -\nSo, my  There's  this Beesmas song, \"The 12 Days of Beesmas\" It lists days 12 days , and the first is this: A Partridge in a Pear Tree. I figure since I look sort of like a tree, my ornament could represent that. Here, I made it while we were doing a challenge: The . With this on the Beesmas Tree, you'll receive the following boosts: +10% Capacity; +10% Pollen; x1.25 Pollen from the Cactus Field; And x1.25 Pollen from the Pepper Patch. It's a little rough, but I never claimed to be good at arts and crafts. Dance is my art. Happy holidays."
+                }
+            ]
+        },
+        {
+            "Other quests": [
+                {
+                    "Requirements": "Collect 50,000,000 White Pollen.\nCollect 2,500 Tokens from Stick Nymphs.",
+                    "Rewards": "25,000,000 Honey\n5 Marshmallow Bees\n5 Micro-Converters\n5 Jelly Beans\nAn Epic Sprout\nA Legendary Sprout\nA Supreme Sprout"
+                }
+            ]
+        },
+        {
+            "Other quests": [
+                {
+                    "Dialogue": "- Accepting -\nHunting for eggs, we do it all the time. You've been hunting for eggs since you got here. Those secrets tucked away, with playful intention. They keep us on our toes- remind us that we don't have it all figured out. Easter eggs are everywhere if you know how to look for them. Here's one that's obvious.\n(Stick Bug Challenge Starts)\n- During -\n(Normal talk after giving Translator)\n- Completion -\nI've been around so long that not much surprises me. I've got to keep things interesting myself. How about you, flesh bug?"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1391 @@
+{
+    "title": "Codes",
+    "stats": {},
+    "data_tables": [
+        {
+            "Currently Valid Codes": [
+                {
+                    "Code": "FrogFix",
+                    "Location": "Discord",
+                    "Added": "2026-01-30",
+                    "Reward": "1 Gingerbread Bear, 1 Marshmallow Bee, Wealth Clock Buff x5, Mountain Top Field Boost, Mountain Top Field Capacity"
+                },
+                {
+                    "Code": "DiscordMillion",
+                    "Location": "Discord",
+                    "Added": "2026-01-18",
+                    "Reward": "Honeyday Event Buff, Mondo Blessing x10, 1 Marshmallow Bee, 1 Pink Balloon"
+                },
+                {
+                    "Code": "ThreeBeeVee(Removed Honeyday)",
+                    "Location": "Discord, BSS Club Wall, Game Description, Group Announcement",
+                    "Added": "2025-01-05",
+                    "Reward": "1 Marshmallow Bee, 1 Loaded Dice, Mountain Top Field Code, Mountain Top Field Boost x3, Mountain Top Field Winds x13"
+                },
+                {
+                    "Code": "15MMembers(Exclusive to club members)",
+                    "Location": "BSS Club Wall",
+                    "Added": "2024-03-13",
+                    "Reward": "1 Red Balloon, 1 Marshmallow Bee, 15 Strawberries, 15 Blueberries, 15 Sunflower Seeds, 15 Pineapples, 15 Bitterberries, 15 Gumdrops, Bamboo Field Boost x4, Bamboo Field Winds x15, Rose Field Boost x4, Rose Field Winds x15, Coconut Field Boost x4, Coconut Field Winds x15"
+                },
+                {
+                    "Code": "BeesBuzz123",
+                    "Location": "(In-game) Revealed by Spirit Bear after \"QR Quest\"",
+                    "Added": "2019-09-26",
+                    "Reward": "1 Cloud Vial, 5 Bitterberries, 10 Gumdrops"
+                },
+                {
+                    "Code": "GumdropsForScience",
+                    "Location": "(In-game) Revealed by Science Bear during \"Testing Teamwork\"",
+                    "Added": "2018-12-19\u2013Undocumented (2024)2025-06-30 (Estimated date)",
+                    "Reward": "15 Gumdrops"
+                },
+                {
+                    "Code": "ClubBean",
+                    "Location": "Discord, BSS Club Wall(Exclusive to club members)",
+                    "Added": "2018-11-28",
+                    "Reward": "1 Magic Bean, Pineapple Patch Boost x2"
+                },
+                {
+                    "Code": "38217",
+                    "Location": "(In-game) Number on Onett NPC's bag",
+                    "Added": "2018-05-18",
+                    "Reward": "5 Tickets"
+                },
+                {
+                    "Code": "Bopmaster",
+                    "Location": "(In-game) Revealed by Panda Bear in his conclusion dialogue",
+                    "Added": "2018-05-18",
+                    "Reward": "5 Tickets"
+                },
+                {
+                    "Code": "Connoisseur",
+                    "Location": "(In-game) Clue \"Black Bear's Title\" behind the Instant Converter",
+                    "Added": "2018-05-18",
+                    "Reward": "5 Tickets"
+                },
+                {
+                    "Code": "Crawlers",
+                    "Location": "(In-game) Clue \"Song Title\" on the floor of King Beetle Lair",
+                    "Added": "2018-05-18",
+                    "Reward": "5 Tickets"
+                },
+                {
+                    "Code": "Nectar",
+                    "Location": "BSS Club Wall",
+                    "Added": "2018-05-18",
+                    "Reward": "5,000 Honey"
+                },
+                {
+                    "Code": "Roof",
+                    "Location": "(In-game) On the Red HQ roof near the giant scythe",
+                    "Added": "2018-05-18",
+                    "Reward": "5 Tickets"
+                },
+                {
+                    "Code": "Wax",
+                    "Location": "BSS thumbnail image (on Games page, for example)",
+                    "Added": "2018-05-18",
+                    "Reward": "5 Tickets, 5,000 Honey"
+                }
+            ]
+        },
+        {
+            "Expired codes": [
+                {
+                    "Code": "Soup",
+                    "Location": "Discord",
+                    "Dates": "2018-05-18\u20132018-05-18",
+                    "Reward": "10 Tickets, 1 Royal Jelly, 5,000 Honey"
+                },
+                {
+                    "Code": "General",
+                    "Location": "Discord",
+                    "Dates": "2018-05-19(1 hour)",
+                    "Reward": "10,000 Honey, 5 Tickets"
+                },
+                {
+                    "Code": "ThoseEyes",
+                    "Location": "Discord, BSS Club Wall",
+                    "Dates": "2018-05-19\u20132018-05-19",
+                    "Reward": "Looker Bee Jelly x1, 2 Tickets, 4,000 Honey"
+                },
+                {
+                    "Code": "NotHoney",
+                    "Location": "Discord",
+                    "Dates": "2018-05-19\u20132018-05-19",
+                    "Reward": "1 Honey, turns you into a bear (Bear Morph)"
+                },
+                {
+                    "Code": "Decaboost",
+                    "Location": "Discord",
+                    "Dates": "2018-05-19\u20132018-05-19",
+                    "Reward": "Every buff in the game, at x10 where applicable (Red/Blue Boost x10, Focus x10, Baby Love, Melody, etc., but not Tabby Love)"
+                },
+                {
+                    "Code": "DontUseThisJelly",
+                    "Location": "Discord",
+                    "Dates": "2018-05-19\u20132018-05-19",
+                    "Reward": "Basic Bee Jelly x1"
+                },
+                {
+                    "Code": "OnettJelly",
+                    "Location": "Discord",
+                    "Dates": "2018-05-19\u20132018-05-19",
+                    "Reward": "Exhausted Bee Jelly x1"
+                },
+                {
+                    "Code": "Nonchalant",
+                    "Location": "BSS Club Wall, Discord",
+                    "Dates": "2018-05-19\u20132018-05-21",
+                    "Reward": "Rad Bee Jelly x1, Red Boost x10, Mushroom Field Boost, 5 Tickets, 5,000 Honey"
+                },
+                {
+                    "Code": "Change",
+                    "Location": "Twitter",
+                    "Dates": "2018-05-18\u20132018-05-02?",
+                    "Reward": "1 Royal Jelly"
+                },
+                {
+                    "Code": "Keen4",
+                    "Location": "Discord",
+                    "Dates": "2018-05-22(30 minutes)",
+                    "Reward": "Commander Bee Jelly x1, Mountain Top Field Boost x3, 3 Tickets, 10,000 Honey"
+                },
+                {
+                    "Code": "PandaPower",
+                    "Location": "Twitter, Discord",
+                    "Dates": "2018-05-21\u20132018-05-22",
+                    "Reward": "Panda Bear Morph, Bamboo Field Boost, Haste x10, Focus x10, Rage, 3 Tickets, 3,000 Honey"
+                },
+                {
+                    "Code": "Friday",
+                    "Location": "Discord, BSS Club Wall, Twitter",
+                    "Dates": "2018-05-25\u20132018-05-26",
+                    "Reward": "10,000 Honey, 5 Tickets, Bamboo Field Boost x5, Strawberry Field x5, 1 Royal Jelly, Haste+"
+                },
+                {
+                    "Code": "Wax2",
+                    "Location": "(Not posted anywhere)",
+                    "Dates": "2018-05-18\u2013before 2018-06-01",
+                    "Reward": "5 Tickets (\"wax2 was a code by accident for a while. When I was testing codes I put it in there and forgot to take it out\")"
+                },
+                {
+                    "Code": "Arizona",
+                    "Location": "Discord",
+                    "Dates": "2018-05-31\u20132018-06-02",
+                    "Reward": "5 Tickets, 10 Gumdrops, Baby Love, Polar Bear Morph, Haste+, Cactus Field Boost x4"
+                },
+                {
+                    "Code": "AccentMaster",
+                    "Location": "ThnxCya (YouTube)",
+                    "Dates": "2018-05-22\u20132018-06-02",
+                    "Reward": "Baby Love, Mushroom Field Boost, Sunflower Field Boost, Dandelion Field Boost, Blue Flower Field Boost, 1 Royal Jelly, 1 Ticket, 5,000 Honey"
+                },
+                {
+                    "Code": "Tabby",
+                    "Location": "Twitter, BSS Club Wall",
+                    "Dates": "2018-05-28\u20132018-05-29",
+                    "Reward": "5 Tickets, 5 Gumdrops, 5,000 Honey, Spider Field Boost, Pineapple Patch Boost, Pumpkin Patch Boost"
+                },
+                {
+                    "Code": "JellyHill",
+                    "Location": "Discord",
+                    "Dates": "2018-06-01\u20132018-06-02",
+                    "Reward": "1 Royal Jelly, 3 Tickets, 5 Gumdrops, Melody, Focus x10, Brown Bear Morph, Haste+, Clover Field Boost x6"
+                },
+                {
+                    "Code": "MischiefMaker",
+                    "Location": "Discord",
+                    "Dates": "2018-06-06(1 hour)",
+                    "Reward": "Rascal Bee Jelly x1, 1 Ticket, 10 Gumdrops, Bomb Combo x10, Red Bomb Sync, Blue Bomb Sync, Mushroom Field Boost x6"
+                },
+                {
+                    "Code": "Meow",
+                    "Location": "Probably the tabby block",
+                    "Dates": "2018-05-18\u20132018-06-09",
+                    "Reward": "5 Tickets"
+                },
+                {
+                    "Code": "Cornsyrup",
+                    "Location": "BSS Club Wall",
+                    "Dates": "2018-06-09\u20132018-06-11",
+                    "Reward": "30 Gumdrops"
+                },
+                {
+                    "Code": "Unity(Exclusive to club members)",
+                    "Location": "BSS Club Wall",
+                    "Dates": "2018-06-02\u20132018-06-13",
+                    "Reward": "1 Royal Jelly, 5 Tickets, 5 Gumdrops, Haste+"
+                },
+                {
+                    "Code": "Starch",
+                    "Location": "Twitter",
+                    "Dates": "2018-06-08\u20132018-06-18",
+                    "Reward": "30 Gumdrops"
+                },
+                {
+                    "Code": "100mvisits",
+                    "Location": "Discord, Twitter",
+                    "Dates": "2018-06-04\u20132018-06-19",
+                    "Reward": "1 Royal Jelly, 5 Tickets, 5 Gumdrops, 5,000 Honey, Haste+, Black Bear Morph, Baby Love, Melody, Blue Boost x10, Red Boost x10, Focus x10, Sunflower Field Boost x6, Mountain Top Field Boost x3"
+                },
+                {
+                    "Code": "Xanthan",
+                    "Location": "BSS Club Wall, Game Description(Exclusive to club members)",
+                    "Dates": "2018-06-12\u20132018-06-19",
+                    "Reward": "5 Tickets, 30 Gumdrops, 5,000 Honey, Blue Flower Field Boost x5, Pumpkin Patch Boost x4, Mountain Top Field Boost x3"
+                },
+                {
+                    "Code": "Gel",
+                    "Location": "Roblox ad",
+                    "Dates": "2018-06-15\u20132018-06-19",
+                    "Reward": "1 Ticket, 15 Gumdrops, Sunflower Field Boost x5, 2,500 Honey"
+                },
+                {
+                    "Code": "LateNightGumdrops",
+                    "Location": "In-game Notification",
+                    "Dates": "2018-06-24(1 hour)",
+                    "Reward": "1 Ticket, 20 Gumdrops, Baby Love, Spider Field Boost x2, Pineapple Patch Boost x2, Rose Field Boost x2, Pine Tree Forest Boost x2"
+                },
+                {
+                    "Code": "Afternoon",
+                    "Location": "Discord",
+                    "Dates": "2018-06-22\u20132018-06-25",
+                    "Reward": "5 Tickets, 20 Gumdrops, Baby Love, Melody, Focus x10, Haste+, Dandelion Field Boost x5, Rose Field Boost x3, Pine Tree Forest Boost x3"
+                },
+                {
+                    "Code": "PreUpdate",
+                    "Location": "Twitter, BSS Club Wall",
+                    "Dates": "2018-06-25\u20132018-06-28",
+                    "Reward": "5 Tickets, 5,000 Honey, 1 Silver Egg"
+                },
+                {
+                    "Code": "SugarRush",
+                    "Location": "Twitter",
+                    "Dates": "2018-06-19\u20132018-07-01",
+                    "Reward": "5 Tickets, 10 Gumdrops, Baby Love, Black Bear Morph, Haste x10, Haste+, Strawberry Field Boost x3, Pineapple Patch Boost x4"
+                },
+                {
+                    "Code": "GummyBoost",
+                    "Location": "Twitter, BSS Club Wall",
+                    "Dates": "2018-06-23\u20132018-07-01",
+                    "Reward": "10,000 Honey, 30 Gumdrops, Spider Field Boost x3, Cactus Field Boost x3, Rose Field Boost x3, Pine Tree Forest Boost x3"
+                },
+                {
+                    "Code": "ClubJellies(Exclusive to club members)",
+                    "Location": "BSS Club Wall",
+                    "Dates": "2018-06-20\u20132018-07-04",
+                    "Reward": "3 Royal Jellies"
+                },
+                {
+                    "Code": "Pectin",
+                    "Location": "Discord, Twitter, BSS Club Wall",
+                    "Dates": "2018-05-26\u20132018-07-22",
+                    "Reward": "10 Gumdrops"
+                },
+                {
+                    "Code": "Tapioca",
+                    "Location": "(In-game) Gummy Bear dialogue during the Peace Through Goo-nity quest",
+                    "Dates": "2018-05-25\u20132018-07-22",
+                    "Reward": "10 Gumdrops"
+                },
+                {
+                    "Code": "ThnxCyaBoost",
+                    "Location": "ThnxCya (YouTube)",
+                    "Dates": "2018-06-20\u20132018-07-22",
+                    "Reward": "1 Royal Jelly, 5 Tickets, Clover Field Boost x5, Spider Field Boost x5"
+                },
+                {
+                    "Code": "Whoops",
+                    "Location": "Twitter",
+                    "Dates": "2018-07-01\u20132018-07-22",
+                    "Reward": "5 Tickets, 5,000 Honey, Haste+, Panda Bear Morph, Mountain Top Field Boost x3, Clover Field Boost x5"
+                },
+                {
+                    "Code": "Reboot",
+                    "Location": "Game Description, In-game Notification",
+                    "Dates": "2018-07-22(~two hours)",
+                    "Reward": "10 Tickets, Inspire x5, Rose Field Boost x3, Sunflower Field Boost x6"
+                },
+                {
+                    "Code": "MillionMembers",
+                    "Location": "BSS Club Wall(Exclusive to club members)",
+                    "Dates": "2018-06-05\u20132018-07-23",
+                    "Reward": "10 Tickets, 10 Gumdrops, 10,000 Honey"
+                },
+                {
+                    "Code": "Shutdown",
+                    "Location": "In-game Notification, Game Title and Game Description",
+                    "Dates": "2018-07-23(~2 hours)",
+                    "Reward": "5 Tickets, Inspire x5, Pineapple Patch Boost x5, 1 Royal Jelly"
+                },
+                {
+                    "Code": "1MoreTime",
+                    "Location": "Game page, In-game Notification",
+                    "Dates": "2018-07-26(6.5 hours)",
+                    "Reward": "1 Royal Jelly, 5 Pineapples, 5 Tickets, Pineapple Patch Boost x2, Clover Field Boost x5"
+                },
+                {
+                    "Code": "ClubSnacks(Exclusive to club members)",
+                    "Location": "BSS Club Wall",
+                    "Dates": "2018-07-22\u20132018-07-29",
+                    "Reward": "5 Tickets, 1 Royal Jelly, 30 Treats, 15 Pineapples, 15 Strawberries"
+                },
+                {
+                    "Code": "SaleEnd",
+                    "Location": "Game Description, In-game Notification",
+                    "Dates": "2018-08-01(~2 hours)",
+                    "Reward": "1 Royal Jelly, Mountain Top Field Boost x3, Sunflower Field Boost x5"
+                },
+                {
+                    "Code": "Reboots",
+                    "Location": "Game page",
+                    "Dates": "2018-09-10(~3 hours)",
+                    "Reward": "Wealth Clock Buff x5, Clover Field Boost x8, Pineapple Patch Boost x5, Mountain Top Field Boost x4"
+                },
+                {
+                    "Code": "CookieClub(Exclusive to club members)",
+                    "Location": "BSS Club Wall",
+                    "Dates": "2018-07-11\u20132018-09-17",
+                    "Reward": "10 Treats, 1 Strawberry, 1 Blueberry"
+                },
+                {
+                    "Code": "FruitSalad",
+                    "Location": "Twitter",
+                    "Dates": "2018-07-11\u20132018-09-17",
+                    "Reward": "3 Pineapples, 3 Strawberries, 3 Blueberries"
+                },
+                {
+                    "Code": "NikTacAttack",
+                    "Location": "Nik Tac (Youtube)",
+                    "Dates": "2018-07-22\u20132018-09-17",
+                    "Reward": "25 Treats, Cactus Field Boost x3, Dandelion Field Boost x5, Haste+, Panda Bear Morph, Rage x5"
+                },
+                {
+                    "Code": "MegaMittens",
+                    "Location": "SDMittens (Youtube)",
+                    "Dates": "2018-07-22\u20132018-09-17",
+                    "Reward": "10 Treats, 10 Blueberries, Mountain Top Field Boost x3, Clover Field Boost x5, Rage x5, Haste+, Baby Love"
+                },
+                {
+                    "Code": "RoyalRobzi",
+                    "Location": "Robzi (Youtube)",
+                    "Dates": "2018-07-23\u20132018-09-17",
+                    "Reward": "1 Royal Jelly, 5 Tickets, Pine Tree Forest Boost x3, Mushroom Field Boost x5, Melody, Focus x10, Rage x5, Haste+"
+                },
+                {
+                    "Code": "PumpkinofJustice",
+                    "Location": "ThnxCya (Youtube)",
+                    "Dates": "2018-07-24\u20132018-09-17",
+                    "Reward": "Pumpkin Patch Boost x7"
+                },
+                {
+                    "Code": "Summer",
+                    "Location": "BSS Club Wall(Exclusive to club members)",
+                    "Dates": "2018-07-29\u20132018-09-17",
+                    "Reward": "1 Royal Jelly, 1 Ant Pass, 10 Treats, 10 Sunflower Seeds"
+                },
+                {
+                    "Code": "GremlinGoodies",
+                    "Location": "XdarzethX (Youtube)",
+                    "Dates": "2018-07-25\u20132018-09-17",
+                    "Reward": "15 Treats, 15 Strawberries, 15 Pineapples, Sunflower Boost x5, Rage x5, Black Bear Morph, Baby Love, Inspire, Melody, 5,000 Honey"
+                },
+                {
+                    "Code": "Oodlesofnoodles",
+                    "Location": "Thinknoodles (YouTube)",
+                    "Dates": "2018-07-29\u20132018-09-17",
+                    "Reward": "1 Ant Pass, 10 Blueberries, Blue Flower Boost x5, Inspire x5, 5,000 Honey"
+                },
+                {
+                    "Code": "Wealthclock1",
+                    "Location": "In-game Notification",
+                    "Dates": "2018-09-20(a few hours)",
+                    "Reward": "Wealth Clock Buff x5"
+                },
+                {
+                    "Code": "PuppyPerk",
+                    "Location": "BSS Club Wall, Twitter, In-game Notification",
+                    "Dates": "2018-09-22\u20132018-09-23",
+                    "Reward": "5 Tickets, 10 Treats, Clover Field Boost x2, Pumpkin Patch Boost x2, Mountain Top Field Boost x1"
+                },
+                {
+                    "Code": "Noobasha+",
+                    "Location": "Noobasha (YouTube)",
+                    "Dates": "2018-09-20\u20132018-10-05",
+                    "Reward": "3 Moon Charms, 1 Royal Jelly, Haste+, Polar Bear Morph, Wealth Clock Buff x1, Dandelion Field Boost x6"
+                },
+                {
+                    "Code": "ThatGuysCrew",
+                    "Location": "That Guy (YouTube)",
+                    "Dates": "2018-09-21\u20132018-10-05",
+                    "Reward": "1 Stinger, 15 Treats, Wealth Clock Buff x1, Rage x5, Panda Bear Morph, Sunflower Field Boost x6"
+                },
+                {
+                    "Code": "FruitMachine",
+                    "Location": "ThnxCya (YouTube)",
+                    "Dates": "2018-09-22\u20132018-10-07",
+                    "Reward": "5 Strawberries, 5 Pineapples, 5 Blueberries, Strawberry Field Boost x1, Pineapple Patch Boost x1"
+                },
+                {
+                    "Code": "RobziRobot",
+                    "Location": "Robzi (YouTube)",
+                    "Dates": "2018-09-22\u20132018-10-07",
+                    "Reward": "3 Tickets, 15 Treats, Haste+, Baby Love, Wealth Clock Buff x2, Bamboo Field Boost x4"
+                },
+                {
+                    "Code": "Berlin",
+                    "Location": "Twitter (also a hint on Discord)",
+                    "Dates": "2018-08-16\u20132018-10-07",
+                    "Reward": "1 Royal Jelly, 5 Tickets, 25 Strawberries, Black Bear Morph, Strawberry Field Boost x4, Blue Flower Boost x6"
+                },
+                {
+                    "Code": "AceUnhatched",
+                    "Location": "Ace Unhacked (YouTube)",
+                    "Dates": "2018-09-24\u20132018-10-08",
+                    "Reward": "1 Stinger, Stinger (buff), Rage x5, Focus x10, Melody x1, Wealth Clock Buff x1, Spider Field Boost x5"
+                },
+                {
+                    "Code": "SunBearSendoff",
+                    "Location": "BSS Club Wall(Exclusive to club members)",
+                    "Dates": "2018-10-05\u20132018-10-09",
+                    "Reward": "1 Stinger, 1 Royal Jelly, Wealth Clock Buff x1, Dandelion Field Boost x6, Mountain Top Field Boost x3"
+                },
+                {
+                    "Code": "TrickOrTreat",
+                    "Location": "Game Title, Game Description, Twitter",
+                    "Dates": "2018-10-31\u20132018-11-01",
+                    "Reward": "1 Royal Jelly, 5 Tickets, 50 Treats, 10 Sunflower Seeds, 10 Pineapples, 10 Strawberries, 10 Blueberries, Wealth Clock Buff x5, Pumpkin Patch Boost x6, Black Bear Morph"
+                },
+                {
+                    "Code": "GravycatFan",
+                    "Location": "Gravycatman (YouTube)",
+                    "Dates": "2018-09-25\u20132018-11-06",
+                    "Reward": "3 Moon Charms, 10 Pineapples, Wealth Clock Buff x1, Brown Bear Morph, Pumpkin Patch Boost x4, 5,000 Honey"
+                },
+                {
+                    "Code": "YTFMMoons",
+                    "Location": "YTFMM (YouTube)",
+                    "Dates": "2018-09-26\u20132018-11-06",
+                    "Reward": "3 Moon Charms, 10 Strawberries, Wealth Clock Buff x1, Haste+, Melody, Baby Love, Pine Tree Forest Boost x3"
+                },
+                {
+                    "Code": "Elladiely",
+                    "Location": "Elladiel (YouTube)",
+                    "Dates": "2018-09-26\u20132018-11-06",
+                    "Reward": "1 Royal Jelly, 10 Sunflower Seeds, Wealth Clock Buff x1, Red Boost x10, Haste x10, Focus x10, Clover Field Boost x5"
+                },
+                {
+                    "Code": "DarzethDonation",
+                    "Location": "Darzeth (Youtube)",
+                    "Dates": "2018-09-28\u20132018-11-06",
+                    "Reward": "1 Stinger, 3 Moon Charms, 15 Treats, Wealth Clock Buff x1, Haste+, Baby Love, Melody, Pineapple Patch Boost x5"
+                },
+                {
+                    "Code": "TeraBriteFight",
+                    "Location": "TeraBrite (Youtube)",
+                    "Dates": "2018-10-01\u20132018-11-06",
+                    "Reward": "1 Stinger, 10 Blueberries, Wealth Clock Buff x1, Black Bear Morph, Rage x5, Rose Field Boost x3"
+                },
+                {
+                    "Code": "12hourgeneral",
+                    "Location": "Discord",
+                    "Dates": "2018-11-11(12 hours)",
+                    "Reward": "Wealth Clock Buff x5, Mountain Top Field Boost x1, Pine Tree Forest x1, Mushroom Field Boost x3, Sunflower Field Boost x3"
+                },
+                {
+                    "Code": "CantSleep",
+                    "Location": "Discord",
+                    "Dates": "2018-11-15\u20132018-11-16",
+                    "Reward": "Baby Love, Exhausted Bee Jelly, Spider Field Boost x3"
+                },
+                {
+                    "Code": "Waiting",
+                    "Location": "Discord",
+                    "Dates": "2018-11-24\u20132018-11-25",
+                    "Reward": "Polar Bear Morph, Panda Bear Morph, Brown Bear Morph, Black Bear Morph, Baby Love, Melody, Pollen Boost x10, Red Boost x10, Blue Boost x10, Blue Bomb Sync x10, Red Bomb Sync x10, Focus x10, Haste x10, Inspire x10, Wealth Clock Buff x5, Mountain Top Field Boost x3, Dandelion Field Boost x6"
+                },
+                {
+                    "Code": "1mFavorites",
+                    "Location": "Game page, BSS Club Wall",
+                    "Dates": "2018-07-04\u20132018-12-08",
+                    "Reward": "x1 field boost for every field except Dandelion, Baby Love, Melody, Blue Boost x10, Red Boost x10, Focus x10, Blue Bomb Sync, Red Bomb Sync, Haste+, Haste x10, Black Bear Morph, Brown Bear Morph, 1 Royal Jelly, 5 Tickets, 5 Gumdrops, 5,000 Honey"
+                },
+                {
+                    "Code": "HasteHelper",
+                    "Location": "(In-game) Sun Bear dialogue",
+                    "Dates": "2018-09-10\u20132018-12-08",
+                    "Reward": "Hasty Bee Jelly"
+                },
+                {
+                    "Code": "SunSample",
+                    "Location": "(In-game) Sun Bear dialogue",
+                    "Dates": "2018-09-10\u20132018-12-08",
+                    "Reward": "1 Royal Jelly"
+                },
+                {
+                    "Code": "ExtraPass",
+                    "Location": "(In-game) Sun Bear dialogue",
+                    "Dates": "2018-09-10\u20132018-12-08",
+                    "Reward": "Ant Pass (not subject to ant pass limit; if code doesn't work for you, join a different server)"
+                },
+                {
+                    "Code": "ClubParty",
+                    "Location": "Game page",
+                    "Dates": "2018-09-15\u20132018-12-08",
+                    "Reward": "1 Stinger, Black Bear Morph, 3 Tickets, Wealth Clock Buff x1, Blue Flower Field Boost x6, Mushroom Field Boost x6"
+                },
+                {
+                    "Code": "MoonMiracle",
+                    "Location": "Discord",
+                    "Dates": "2018-09-15\u20132018-12-08",
+                    "Reward": "3 Moon Charms, 3 Tickets, 1 Royal Jelly, Cactus Field Boost x4"
+                },
+                {
+                    "Code": "HappyNewYear",
+                    "Location": "Discord, Game Title",
+                    "Dates": "2019-01-01\u20132019-01-02",
+                    "Reward": "2,019 Honey, 1 Royal Jelly, 20 Gumdrops, 19 Pineapples, 20 Treats, 19 Blueberries, Clover Field Boost x5, Baby love, Melody, Gummy Bear Morph, Glue Buff, Wealth Clock Buff x1, Unlimited Gumdrops Buff (Duration: 2 minutes), Inspire"
+                },
+                {
+                    "Code": "kot?kbean(Exclusive to club members)",
+                    "Location": "????? ??????? (YouTube)",
+                    "Dates": "2018-11-29\u20132019-01-19",
+                    "Reward": "1 Magic Bean, Oil Buff, Wealth Clock"
+                },
+                {
+                    "Code": "MayRuTreats",
+                    "Location": "MayRushArt (YouTube)",
+                    "Dates": "2018-11-30\u20132019-01-19",
+                    "Reward": "5 Treats, 5 Blueberries, 5 Strawberries, 5 Sunflower Seeds, 5 Pineapples, 5 Gumdrops, Spider Field Boost x3"
+                },
+                {
+                    "Code": "MinhMaMaMoons",
+                    "Location": "MinhMaMa (Youtube)",
+                    "Dates": "2018-11-30\u20132019-01-19",
+                    "Reward": "5 Moon Charms, 10 Treats, Pine Tree Forest Boost x2, Wealth Clock Buff x2"
+                },
+                {
+                    "Code": "RobziRampage",
+                    "Location": "Robzi (Youtube)",
+                    "Dates": "2018-12-01\u20132019-01-19",
+                    "Reward": "2 Stingers, Rage x5, Focus x10, Melody, Panda Bear Morph, Stump Field Boost x1, Wealth Clock"
+                },
+                {
+                    "Code": "DarzethPack",
+                    "Location": "Darzeth (Youtube)",
+                    "Dates": "2018-12-01\u20132019-01-19",
+                    "Reward": "1 Stinger, 1 Enzymes, 10 Sunflower Seeds, 10 Pineapples, Pumpkin Patch Boost x3, Wealth Clock"
+                },
+                {
+                    "Code": "Gummysausage",
+                    "Location": "ThnxCya (Youtube)(Exclusive to club members)",
+                    "Dates": "2018-12-02\u20132019-01-19",
+                    "Reward": "1 Enzymes, Glue Buff, 10 Gumdrops, Unlimited Gumdrops Buff (Duration: 1 minute), Cactus Field Boost x2, Wealth Clock"
+                },
+                {
+                    "Code": "ExoExtract",
+                    "Location": "Exo (YouTube)",
+                    "Dates": "2018-12-02\u20132019-01-19",
+                    "Reward": "1 Red Extract, 1 Stinger, 20 Pineapples, Bamboo Field Boost x3, Wealth Clock"
+                },
+                {
+                    "Code": "RedCatBee",
+                    "Location": "Red Cat (Youtube)",
+                    "Dates": "2018-12-03\u20132019-01-19",
+                    "Reward": "1 Red Extract, 15 Pineapples, 15 Sunflower Seeds, Mushroom Field Boost x3, Wealth Clock"
+                },
+                {
+                    "Code": "GravyGoodies",
+                    "Location": "GravyCatMan (Youtube)",
+                    "Dates": "2018-12-05\u20132019-01-19",
+                    "Reward": "1 Oil, 5 Strawberries, 5 Blueberries, Stump Field Boost x1, Wealth Clock"
+                },
+                {
+                    "Code": "MagicMittens(Exclusive to club members)",
+                    "Location": "SDMittens (Youtube)",
+                    "Dates": "2018-12-06\u20132019-01-19",
+                    "Reward": "1 Magic Bean, 10 Pineapples, Enzymes Buff x1, Mountain Top Field Boost x1, Wealth Clock Buff x1"
+                },
+                {
+                    "Code": "Willgoold(Exclusive to club members)",
+                    "Location": "Will Gold Play (Youtube)",
+                    "Dates": "2018-12-07\u20132019-01-19",
+                    "Reward": "1 Glue, Glue Buff x1, 10 Gumdrops, Unlimited Gumdrops Buff (Duration: 1 minute), Stump Field Boost x1, Wealth Clock"
+                },
+                {
+                    "Code": "ThatGuyGift(Exclusive to club members)",
+                    "Location": "ThatGuy (Youtube)",
+                    "Dates": "2018-12-10\u20132019-01-19",
+                    "Reward": "1 Oil, 10 Pineapples, 10 Blueberries, Rose Field Boost x2, Wealth Clock"
+                },
+                {
+                    "Code": "SDMittens1T",
+                    "Location": "In honor of SDMittens reaching 1 trillion honey",
+                    "Dates": "2018-12-15\u20132019-01-19",
+                    "Reward": "1 Stinger, 1 Glitter, Dandelion Field Boost x3, Mountain Top Field Boost x1, Pollen Boost x30, Wealth Clock"
+                },
+                {
+                    "Code": "AceUnhackedLoot",
+                    "Location": "AceUnhacked (Youtube)",
+                    "Dates": "2018-12-16\u20132019-01-19",
+                    "Reward": "2 Stingers, 50 Pineapples, Blue Flower Field Boost x2, Wealth Clock"
+                },
+                {
+                    "Code": "ByeBeeBear",
+                    "Location": "BSS Club WallS, Game Title",
+                    "Dates": "2019-01-30\u20132019-01-31",
+                    "Reward": "1 Present, 10 Tickets, Pine Tree Forest Boost x1, Spider Field Boost x3"
+                },
+                {
+                    "Code": "PingBoost",
+                    "Location": "Discord",
+                    "Dates": "2018-11-18\u20132019-02-01",
+                    "Reward": "Wealth Clock Buff x5, 10 Sunflower Seeds, 10 Strawberries, 10 Blueberries, 10 Pineapples, Cactus Boost x3, Blue Flower Boost x4, Mushroom Boost x4"
+                },
+                {
+                    "Code": "NoobashaBonus(Exclusive to club members)",
+                    "Location": "Noobasha (Youtube)",
+                    "Dates": "2018-12-04\u20132019-02-01",
+                    "Reward": "1 Magic Bean, 1 Moon Charm, 5 Pineapples, 5 Sunflower Seeds, Sunflower Field Boost x4"
+                },
+                {
+                    "Code": "BeesmasCheer",
+                    "Location": "(In-game) Revealed by Bee Bear during \"The Night Before Beesmas\" quest",
+                    "Dates": "2018-12-19\u20132019-02-01",
+                    "Reward": "1 Glitter"
+                },
+                {
+                    "Code": "TeraTreasure",
+                    "Location": "TeraBrite (Youtube)",
+                    "Dates": "2018-12-20\u20132019-02-01",
+                    "Reward": "1 Royal Jelly, 3 Moon Charms, 10 Sunflower Seeds, Rose Field Boost x2"
+                },
+                {
+                    "Code": "RebootBoost",
+                    "Location": "Game Title, Discord",
+                    "Dates": "2019-01-31\u20132019-02-01",
+                    "Reward": "Conversion Boost x2 (Duration: 1 hour)"
+                },
+                {
+                    "Code": "Discord50k",
+                    "Location": "Discord",
+                    "Dates": "2018-12-07\u20132019-02-07",
+                    "Reward": "1 Stinger, 10 Strawberries, 10 Blueberries, 10 Sunflower Seeds, 10 Pineapples, Glue Buff, Oil Buff, Enzymes Buff, Red Extract Buff, Blue Extract Buff, Unlimited Gumdrops Buff (Duration: 3 minutes), Blue Flower Field Boost x4"
+                },
+                {
+                    "Code": "Crafty",
+                    "Location": "Twitter",
+                    "Dates": "2018-11-26\u20132019-02-08",
+                    "Reward": "Unlimited Gumdrops Buff (Duration: 5 minutes), 1 Red Extract, 1 Blue Extract, 25 Gumdrops, 10 Strawberries, 10 Blueberries, 10 Pineapples, 10 Sunflower Seeds, 1 Royal Jelly, Dandelion Field Boost x4"
+                },
+                {
+                    "Code": "AnniversaBee",
+                    "Location": "Game Title, BSS Club Wall, Discord",
+                    "Dates": "2019-03-22\u20132019-03-24",
+                    "Reward": "Honeyday Event"
+                },
+                {
+                    "Code": "Reboooot",
+                    "Location": "Game Title",
+                    "Dates": "2019-03-08\u20132019-03-31",
+                    "Reward": "Wealth Clock Buff x1, Stump Field Boost x1, Spider Field Boost x4, Conversion Boost (Duration: 2 hours)"
+                },
+                {
+                    "Code": "Shhhh",
+                    "Location": "In-game Notification",
+                    "Dates": "2019-04-12(2 hours)",
+                    "Reward": "Conversion Boost (Duration: 1 hour), Wealth Clock Buff x3"
+                },
+                {
+                    "Code": "FeelingLucky",
+                    "Location": "In-game Notification",
+                    "Dates": "2019-04-14(2 hours)",
+                    "Reward": "Conversion Boost (Duration: 1 hour), 3 Field Dice"
+                },
+                {
+                    "Code": "TallTallMountain",
+                    "Location": "Discord",
+                    "Dates": "2019-04-15\u20132019-04-16",
+                    "Reward": "Mountain Top Boost x2, 1 Moon Charm, 1 Strawberry, 1 Blueberry, 3 Micro-Converters"
+                },
+                {
+                    "Code": "BloxyBoost",
+                    "Location": "Discord, Twitter",
+                    "Dates": "2019-02-06\u20132019-04-19",
+                    "Reward": "5 Tickets, Mushroom Field Boost x5, Conversion Boost (Duration: 1 hour)"
+                },
+                {
+                    "Code": "BeeMine",
+                    "Location": "Discord, BSS Club Wall",
+                    "Dates": "2019-02-14\u20132019-04-19",
+                    "Reward": "1 Royal Jelly, 10 Strawberries, Conversion Boost (Duration: 1 hour), Rose Field Boost x3"
+                },
+                {
+                    "Code": "Trying",
+                    "Location": "Discord",
+                    "Dates": "2019-03-30\u20132019-04-19",
+                    "Reward": "Sunflower Field Boost x4, Pineapple Patch Boost x3, Pumpkin Patch Boost x2, Conversion Boost (Duration: 4 hours)"
+                },
+                {
+                    "Code": "300MVisits",
+                    "Location": "BSS Club Wall",
+                    "Dates": "2018-11-05\u20132019-05-10",
+                    "Reward": "1 Royal Jelly, Wealth Clock Buff x1, Pine Tree Forest Boost x2, Rose Field Boost x2, Sunflower Field Boost x2, 10 Treats"
+                },
+                {
+                    "Code": "2MFavorites",
+                    "Location": "BSS Club Wall(Exclusive to club members)",
+                    "Dates": "2019-01-10\u20132019-05-10",
+                    "Reward": "1 Royal Jelly, 5 Tickets, Oil, 5 Strawberries, 5 Blueberries, Wealth Clock Buff x5, Haste+, Baby Love, Black Bear Morph, Sunflower Field Boost x5, Stump Field Boost x2"
+                },
+                {
+                    "Code": "RebootCode",
+                    "Location": "Game Description",
+                    "Dates": "2019-05-13\u20132019-05-14",
+                    "Reward": "Wealth Clock Buff x5, Conversion Boost (Duration: 1 hour), Dandelion Field Boost x5, Cactus Field Boost x1, 1 Micro-Converter"
+                },
+                {
+                    "Code": "Poke",
+                    "Location": "Discord",
+                    "Dates": "2019-08-04\u20132019-08-06",
+                    "Reward": "Sunflower Field Boost x5, Cactus Field Boost x3, 5 Stingers, 10 Moon Charms, Demo Bee Jelly x1"
+                },
+                {
+                    "Code": "August",
+                    "Location": "Discord",
+                    "Dates": "2019-08-21\u20132019-09-02",
+                    "Reward": "Rose Field Boost x3, Bamboo Field Boost x3, Conversion Boost, 1 Glitter"
+                },
+                {
+                    "Code": "Breeze",
+                    "Location": "Discord",
+                    "Dates": "2019-09-21\u20132019-09-26",
+                    "Reward": "Cactus Field Boost x2, Dandelion Field Boost x3, Mushroom Field Boost x3, 1 Magic Bean, 20 Sunflower Seeds, 3 Micro-Converters"
+                },
+                {
+                    "Code": "MoreTime",
+                    "Location": "Discord",
+                    "Dates": "2019-09-13\u20132019-09-26",
+                    "Reward": "Pumpkin Patch Boost x3, Clover Field Boost x3, Stump Field Boost x1, 20 Moon Charms, 5 Micro-Converters, 3 Jelly Beans, Wealth Clock Buff x3"
+                },
+                {
+                    "Code": "WindyReboot",
+                    "Location": "Game Title",
+                    "Dates": "2019-09-28\u20132019-09-26",
+                    "Reward": "Clover Field Boost x3, Clover Field Winds x3, Conversion Boost (Duration: 1 hour), 1 Cloud Vial, 3 Coconuts"
+                },
+                {
+                    "Code": "RebootCloud",
+                    "Location": "In-game Notification",
+                    "Dates": "2019-09-29\u20132019-10-01",
+                    "Reward": "Spider Field Boost x3, Spider Field Winds x3, 1 Cloud Vial, 3 Coconuts, Conversion Boost x2 (Duration: 30 minutes), Wealth Clock Buff x3"
+                },
+                {
+                    "Code": "BeeDay2019",
+                    "Location": "Discord",
+                    "Dates": "2019-05-20\u20132019-10-02",
+                    "Reward": "Bumble Bee Jelly x1, 1 Jelly Beans, 1 Field Dice, 1 Micro-Converter, 1 Gumdrops, 1 Strawberry, 1 Blueberry, 1 Pineapple, 1 Sunflower Seed, Conversion Boost (Duration: 30 minutes), Pumpkin Patch Boost x4, Mother Bear Morph x3"
+                },
+                {
+                    "Code": "BloxyCelebration",
+                    "Location": "Discord, In-game Notification",
+                    "Dates": "2019-02-23\u20132019-10-02",
+                    "Reward": "5 Tickets, 1 Magic Bean, Baby Love x1, Conversion Boost (Duration: 6 hours), Mountain Top Field Boost x3, Clover Field Boost x5"
+                },
+                {
+                    "Code": "TornadoGlitch",
+                    "Location": "Game Title",
+                    "Dates": "2019-09-30\u20132019-10-03",
+                    "Reward": "Dandelion Field Boost x3, Dandelion Field Winds x3, 1 Cloud Vial, 5 Coconuts"
+                },
+                {
+                    "Code": "WindyWeekend",
+                    "Location": "Game Title",
+                    "Dates": "2019-10-26\u20132019-10-28",
+                    "Reward": "1 Cloud Vial, 1 Jelly Beans, Mountain Top Field Boost, Mountain Top Field Winds x3, Dandelion Field Boost, Dandelion Field Winds x3, Conversion Boost x2"
+                },
+                {
+                    "Code": "OffToOrlando",
+                    "Location": "Game Title",
+                    "Dates": "2019-10-28\u2013(6 hours)",
+                    "Reward": "3 Jelly Beans, 10 Coconuts, Pineapple Patch Boost x3, Pineapple Patch Winds x5, Wealth Clock Buff x5"
+                },
+                {
+                    "Code": "Cactus4Now",
+                    "Location": "In-game Notification",
+                    "Dates": "2019-11-23\u20132019-11-27",
+                    "Reward": "Cactus Field Boost x3, Cactus Field Winds x2"
+                },
+                {
+                    "Code": "Leftovers",
+                    "Location": "Onett's Profile Page, Discord",
+                    "Dates": "2019-11-29\u20132019-12-23",
+                    "Reward": "10 Strawberries, 10 Blueberries, 10 Pineapples, 10 Gumdrops, 1 Jelly Beans, Pumpkin Patch Boost x3, Pumpkin Patch Winds x3"
+                },
+                {
+                    "Code": "Buzzy",
+                    "Location": "BSS Club Wall",
+                    "Dates": "2019-12-07\u20132019-12-23",
+                    "Reward": "Conversion Boost (Duration: 1 hour), Wealth Clock Buff x5, Mushroom Field Boost x3, Mushroom Field Winds x3, Blue Flower Field Boost x3, Blue Flower Field Winds x3"
+                },
+                {
+                    "Code": "ClubBasket",
+                    "Location": "BSS Club Wall(Exclusive to club members)",
+                    "Dates": "2019-04-18\u20132019-12-24",
+                    "Reward": "1 Royal Jelly, 10 Gumdrops, 3 Jelly Beans, Blue Flower Field Boost x2, Sunflower Field Boost x2, Mushroom Field Boost x2"
+                },
+                {
+                    "Code": "WikiHonor",
+                    "Location": "Discord (In honor of the BSS Wiki winning the Best Roblox Interwiki Wiki)",
+                    "Dates": "2018-12-11\u20132019-12-24",
+                    "Reward": "1 Royal Jelly, 1 Stinger, 10 Pineapples, 10 Gumdrops, Strawberry Field Boost x3, Inspire x5"
+                },
+                {
+                    "Code": "WikiAwardClock",
+                    "Location": "Discord (Onett forgot to add this to WikiHonor)",
+                    "Dates": "2018-12-11\u20132019-12-24",
+                    "Reward": "Wealth Clock Buff x5"
+                },
+                {
+                    "Code": "ClubCloud",
+                    "Location": "BSS Club Wall",
+                    "Dates": "2019-09-28\u20132019-12-24",
+                    "Reward": "1 Cloud Vial, 1 Jelly Beans, 1 Field Dice, 1 Micro-Converter"
+                },
+                {
+                    "Code": "RebootCheer",
+                    "Location": "Game Description/title",
+                    "Dates": "2019-12-30\u20132020-01-01",
+                    "Reward": "10 Bitterberries, 1 Jelly Beans, Mountain Top Field Boost x3, Mountain Top Field Winds x3, Wealth Clock Buff x5, Conversion Boost (Duration: 1 hour), Beesmas Cheer (Duration: 2 minutes) (Was formally 5 minutes until 2019-12-31)"
+                },
+                {
+                    "Code": "Reboot2020",
+                    "Location": "BSS Game Title",
+                    "Dates": "2020-01-03\u20132020-01-05",
+                    "Reward": "10 Bitterberries, 1 Field Dice, Cactus Field Boost x3, Cactus Field Winds x3, Wealth Clock Buff x5, Conversion Boost (Duration: 1 hour), Beesmas Cheer (Duration: 2 minutes)"
+                },
+                {
+                    "Code": "FestiveFrogs",
+                    "Location": "BSS Club Wall",
+                    "Dates": "2019-12-23\u20132020-02-10",
+                    "Reward": "1 Box-O-Frogs, Bamboo Field Boost x3, Bamboo Field Winds x3"
+                },
+                {
+                    "Code": "FestiveFinale",
+                    "Location": "BSS Club Wall",
+                    "Dates": "2020-02-05\u20132020-02-10",
+                    "Reward": "Strawberry Field Boost x3, Bamboo Field Boost x3, Dandelion Field Boost x3, Strawberry Field Winds x2, Bamboo Field Winds x2, Dandelion Field Winds x4, 10 Bitterberries, Wealth Clock Buff x5, Marshmallow Bee Buff, Conversion Boost (Duration: 4 hours)"
+                },
+                {
+                    "Code": "JollyJelly",
+                    "Location": "Onett's Twitter",
+                    "Dates": "2019-12-23\u20132020-02-10",
+                    "Reward": "1 Royal Jelly, 1 Jelly Beans, 1 Micro-Converter, Strawberry Field Boost x3, Strawberry Field Winds x3"
+                },
+                {
+                    "Code": "BeesmasBegins",
+                    "Location": "Discord",
+                    "Dates": "2019-12-23\u20132020-02-10",
+                    "Reward": "5 Gumdrops, 5 Bitterberries, 5 Moon Charms, 1 Field Dice, Dandelion Field Boost x3, Dandelion Field Winds x6, Conversion Boost (Duration: 30 minutes)"
+                },
+                {
+                    "Code": "RebootBag",
+                    "Location": "BSS Game Title",
+                    "Dates": "2020-02-10\u20132020-02-12",
+                    "Reward": "Capacity Code buff (Duration: 4 hours)"
+                },
+                {
+                    "Code": "Valentine",
+                    "Location": "BSS Club Wall, Discord",
+                    "Dates": "2020-02-14",
+                    "Reward": "25 Strawberries, Baby Love Buff, Red Extract Buff, Rose Field Boost x3, Rose Field Capacity Boost (+300% for 30 minutes)"
+                },
+                {
+                    "Code": "Market",
+                    "Location": "Discord, Game Description",
+                    "Dates": "2020-02-10",
+                    "Reward": "10 Bitterberries, Pollen Boost (Duration: 1 hour and 20 minutes), Pineapple Patch Market Boost (Duration: 1 hour), Sunflower Field Market Boost (Duration: 1 hour)"
+                },
+                {
+                    "Code": "2YearsAfterParty",
+                    "Location": "Game Description, Discord, Twitter",
+                    "Dates": "2020-03-21\u20132020-03-31",
+                    "Reward": "Glue buff, Oil buff, Enzymes buff, Blue Extract buff, Red Extract buff, Tropical Drink buff, Mountain Top Field Capacity x3 (+300% for 30 minutes), Mountain Top Market Boost (Duration: 4 hours)"
+                },
+                {
+                    "Code": "2Years",
+                    "Location": "Game Description, Discord, Twitter",
+                    "Dates": "2020-03-21\u20132020-03-31",
+                    "Reward": "1 Atomic Treat, 1 Marshmallow Bee, 3 Field Dice, 3 Micro-Converters, 10 Tickets, Mountain Top Boost x3, Capacity Code buff (Duration: 48 hours)"
+                },
+                {
+                    "Code": "EggReboot",
+                    "Location": "BSS Game Title",
+                    "Dates": "2020-04-17\u20132020-04",
+                    "Reward": "Clover Field Boost x3, Clover Field Winds x3, Clover Field Capacity Boost (+300% for 30 minutes), Capacity Code buff (Duration: 1 hour), Wealth Clock Buff x5"
+                },
+                {
+                    "Code": "FuzzyReboot",
+                    "Location": "Discord, Game Description",
+                    "Dates": "2020-04-12\u20132020-04-13",
+                    "Reward": "Wealth Clock Buff x3, Capacity Code Buff (Duration: 30 Minutes), Spider Field Capacity Boost (+300% for 30 minutes), Spider Field Boost x3, Spider Field Winds x3"
+                },
+                {
+                    "Code": "4MilMembers",
+                    "Location": "BSS Club Wall",
+                    "Dates": "2019-10-19\u20132020-04-18",
+                    "Reward": "1 Royal Jelly, 4 Field Dice, 4 Micro-Converters, Clover Field Boost x1, Clover Field Winds x4, Mother Bear Morph"
+                },
+                {
+                    "Code": "BrownBearReboot",
+                    "Location": "Game Title, Game Description",
+                    "Dates": "2020-04-19\u20132020-04-21",
+                    "Reward": "Dandelion Field Boost x3, Dandelion Field Capacity x3, Capacity Code (1 hour), Wealth Clock Buff x5, Brown Bear Morph"
+                },
+                {
+                    "Code": "PineappleParty",
+                    "Location": "BSS Club Wall, Discord",
+                    "Dates": "2020-03-15\u20132020-04-25",
+                    "Reward": "15 Pineapples, 1 Tropical Drink, Marshmallow Bee buff, Capacity Code buff (Duration: 48 hours), Pineapple Patch Boost x3, Pineapple Patch Capacity Boost (+300% for 30 minutes)"
+                },
+                {
+                    "Code": "Strawbeary(Exclusive to club members)",
+                    "Location": "BSS Club Wall, Discord",
+                    "Dates": "2020-04-24\u20132020-04-29",
+                    "Reward": "Rad Bee Jelly x1, 1 Tropical Drink, 10 Strawberries, Strawberry Field Boost x3, Strawberry Field Capacity x3, Mother Bear Morph"
+                },
+                {
+                    "Code": "BlackBearMythic",
+                    "Location": "Discord",
+                    "Dates": "2020-05-01\u20132020-05-04",
+                    "Reward": "Clover Field Boost x3, Clover Field Capacity x3, Cactus Field Boost x3, Cactus Field Capacity x3, Capacity Code Buff (Duration: 1 hour), Wealth Clock Buff x5, Black Bear Morph"
+                },
+                {
+                    "Code": "Tornado",
+                    "Location": "Onett's Twitter",
+                    "Dates": "2019-09-28\u20132020-05-08",
+                    "Reward": "1 Cloud Vial, 3 Jelly Beans, 1 Royal Jelly"
+                },
+                {
+                    "Code": "FuzzyFarewell",
+                    "Location": "BSS Club Wall, Discord",
+                    "Dates": "2020-05-15\u20132020-05-18",
+                    "Reward": "3 Micro-Converters, 15 Pineapples, Sunflower Field Boost x3, Sunflower Field Capacity x3, Capacity Code buff (Duration: 48 hours)"
+                },
+                {
+                    "Code": "SpaceReboot",
+                    "Location": "Game Title",
+                    "Dates": "2020-06-06\u20132020-06-09",
+                    "Reward": "10 Moon Charms, 5 Micro-Converters, Wealth Clock Buff x5, Mountain Top Field Boost x3, Mountain Top Field Capacity Boost x3, Dandelion Field Boost x3, Dandelion Field Capacity Boost x3"
+                },
+                {
+                    "Code": "Sriracha",
+                    "Location": "Discord",
+                    "Dates": "2020-06-13\u20132020-06-16",
+                    "Reward": "Rage x3, Flame Fuel Buff, Pepper Patch Boost x2, Pepper Patch Capacity x2"
+                },
+                {
+                    "Code": "Gumaden10T",
+                    "Location": "Discord",
+                    "Dates": "2019-09-26\u20132020-06-27",
+                    "Reward": "Pepper Patch Boost x1, Pepper Patch Winds x3, Coconut Field Boost x1, Coconut Field Winds x3, Blue Flower Field Boost x2, Blue Flower Field Winds x3, 1 Cloud Vial, 15 Pineapples"
+                },
+                {
+                    "Code": "BillionVisits",
+                    "Location": "Discord, Game Description",
+                    "Dates": "2020-08-12\u20132020-09-01",
+                    "Reward": "1 Atomic Treat, 10 Micro-Converters, Mountain Top Field Winds x10, Sunflower Field Winds x10, Honeyday Event"
+                },
+                {
+                    "Code": "NewMic",
+                    "Location": "Discord",
+                    "Dates": "2020-09-05 (A few hours)",
+                    "Reward": "Shy Bee Jelly x1, Spider Field Boost x3, 10 Field Dice, 10 Micro-Converters, 1 Diamond Egg"
+                },
+                {
+                    "Code": "RebootPC",
+                    "Location": "Discord",
+                    "Dates": "2020-11-23\u20132020-11-24",
+                    "Reward": "Clover Field Boost x2, Capacity Code buff (Duration: 30 minutes)"
+                },
+                {
+                    "Code": "BlackFriday",
+                    "Location": "BSS Club Wall",
+                    "Dates": "2020-11-27\u20132020-11-28",
+                    "Reward": "Bamboo Field Code Buff, Capacity Code buff (Duration: 1 hour), Black Bear Morph, 1 Field Dice"
+                },
+                {
+                    "Code": "RebootXmas",
+                    "Location": "Discord",
+                    "Dates": "2020-12-26\u20132020-12-27",
+                    "Reward": "1 Gingerbread Bear, Wealth Clock Buff x1, Clover Field Boost x1, Clover Field Capacity Buff x1"
+                },
+                {
+                    "Code": "Buoyant",
+                    "Location": "BSS Club Wall",
+                    "Dates": "2020-02-22\u20132021-01-13",
+                    "Reward": "15 Blueberries, Blue Extract buff, Capacity Code buff (Duration: 48 hours), Blue Flower Boost x3, Blue Flower Field Capacity Boost (+300% for 30 minutes), Blue Flower Field Market Boost (Duration: 2 hours)"
+                },
+                {
+                    "Code": "BigBag",
+                    "Location": "Discord, Onett's profile",
+                    "Dates": "2020-02-12\u20132021-01-13",
+                    "Reward": "Capacity Code buff (Duration: 48 hours)"
+                },
+                {
+                    "Code": "5mMembers",
+                    "Location": "BSS Club Wall, Discord",
+                    "Dates": "2020-04-16\u20132021-02-28",
+                    "Reward": "5 Bitterberries, 5 Strawberries, 5 Blueberries, 5 Sunflower Seeds, 5 Pineapples, 5 Moon Charms, Rose Field Boost x2, Rose Field Capacity Boost x3, Pine Tree Forest Boost x2, Pine Tree Forest Capacity Boost x3, Science Bear Morph, Conversion Boost buff (Duration: 30 minutes)"
+                },
+                {
+                    "Code": "WintersEnd",
+                    "Location": "Discord",
+                    "Dates": "2021-02-26\u20132021-03-01",
+                    "Reward": "Spider Field Code Buff, Pine Tree Forest Code Buff, Wealth Clock Buff x5, 1 Gingerbread Bear, 1 Micro-Converter, 1 Royal Jelly, 1 Electric Candle"
+                },
+                {
+                    "Code": "3YearFix",
+                    "Location": "Discord",
+                    "Dates": "2021-03-21\u20132021-03-21",
+                    "Reward": "Honeyday Event"
+                },
+                {
+                    "Code": "3YearPartyFix",
+                    "Location": "Discord",
+                    "Dates": "2021-03-21\u20132021-03-21",
+                    "Reward": "Honeyday Event"
+                },
+                {
+                    "Code": "3YearParty",
+                    "Location": "BSS Club Wall",
+                    "Dates": "2021-03-21\u20132021-03-28",
+                    "Reward": "1 Atomic Treat, 1 Field Dice, 5 Micro-Converters, 1 Marshmallow Bee, 1 Glitter, 1 Red Extract, 1 Blue Extract, 1 Oil, 1 Enzymes, 1 Box-O-Frogs, Honeyday Event, Wealth Clock Buff x5, Super Smoothie Buff, Mountain Top Field Boost x3, Mountain Top Field Capacity x3, Mountain Top Field Market Boost (Duration: 30 minutes)"
+                },
+                {
+                    "Code": "RebootFriday",
+                    "Location": "Discord",
+                    "Dates": "2021-11-26\u20132021-11-27",
+                    "Reward": "Wealth Clock Buff x5, Conversion Boost (Duration: 1 hour), Pine Tree Forest Code Buff, Rose Field Code Buff, Dandelion Field Code Buff, Super Smoothie Buff"
+                },
+                {
+                    "Code": "PlushFriday (Old)",
+                    "Location": "Discord",
+                    "Dates": "2021-11-26\u20132021-12-27",
+                    "Reward": "1 Marshmallow Bee, 1 Neonberry, 1 Micro-Converter, Conversion Boost (Duration: 1 hour), Pine Tree Forest Code Buff, Rose Field Code Buff, Dandelion Field Code Buff, Super Smoothie Buff"
+                },
+                {
+                    "Code": "Mocito100T",
+                    "Location": "Discord, In-game Notification",
+                    "Dates": "2020-06-27\u20132022-03-23",
+                    "Reward": "Coconut Field Boost x2, Coconut Field Capacity x2, 3 Stingers, 5 Gumdrops, 10 Coconuts, Inspire x5"
+                },
+                {
+                    "Code": "RedMarket",
+                    "Location": "Discord",
+                    "Dates": "2020-06-16\u20132022-03-23",
+                    "Reward": "Pepper Patch Boost x1, Pepper Patch Capacity x1, Pepper Patch Market Boost (Duration: 30 minutes)"
+                },
+                {
+                    "Code": "Discord100k",
+                    "Location": "Discord",
+                    "Dates": "2019-07-06\u20132022-03-23",
+                    "Reward": "Marshmallow Bee Buff, Rose Field Boost x3, Pine Tree Forest Boost x3, Spider Field Boost x3, 3 Gumdrops, 3 Moon Charms, 3 Tickets"
+                },
+                {
+                    "Code": "MondoOutage",
+                    "Location": "Discord",
+                    "Dates": "2021-10-31\u20132022-03-23",
+                    "Reward": "3 Micro-Converters, 10 Moon Charms, 1 Neonberry, 1 Marshmallow Bee, Mountain Top Field Code Buff, Purple Potion Buff"
+                },
+                {
+                    "Code": "5MFavorites",
+                    "Location": "Game Description, Discord, BSS Club Wall",
+                    "Dates": "2022-06-25\u2013Undocumented (2022)",
+                    "Reward": "1 Red Balloon, Honeyday Event"
+                },
+                {
+                    "Code": "FrozenBugReboot",
+                    "Location": "Game Title, Game Description",
+                    "Dates": "2022-07-21\u2013Undocumented (2022)",
+                    "Reward": "Wealth Clock Buff x5, 1 Loaded Dice, Pepper Patch Boost x4, Stump Field Boost x4, Mountain Top Field Boost x4, Coconut Field Boost x4, Clover Field Boost x4, Pepper Patch Code Buff, Stump Field Code Buff, Mountain Top Field Code Buff, Clover Field Code Buff"
+                },
+                {
+                    "Code": "BFCM2022",
+                    "Location": "Game Description",
+                    "Dates": "2022-11-25\u20132022-12-12",
+                    "Reward": "1 Jelly Beans, Clover Field Code Buff"
+                },
+                {
+                    "Code": "2Billion",
+                    "Location": "BSS Club Wall, Discord",
+                    "Dates": "2022-09-04\u20132022-12-26",
+                    "Reward": "2 Blueberries, Honeyday Event, 1 Ticket Planter, 1 Marshmallow Bee, Rose Field Code Buff, Pine Tree Forest Code Buff, Cactus Field Code Buff, Pumpkin Patch Code Buff, Rose Field Winds x15, Pine Tree Forest Winds x15, Cactus Field Winds x15, Pumpkin Patch Winds x15, Rose Field Winds x15"
+                },
+                {
+                    "Code": "PeppermintReboot",
+                    "Location": "Game Title, Game Description, Discord",
+                    "Dates": "2023-04-02\u2013Undocumented (2023)",
+                    "Reward": "Wealth Clock Buff x5, Robo Party Blessing x5, Festive Nymph Blessing x10, Conversion Boost (Duration: 1 hour), Spider Field Boost x3, Strawberry Field Boost x3, Bamboo Field Boost x3, Spider Field Winds x10, Strawberry Field Winds x10, Bamboo Field Winds x10"
+                },
+                {
+                    "Code": "FourYearFiesta",
+                    "Location": "BSS Club Wall, Discord",
+                    "Dates": "2022-03-21\u2013Undocumented (2023)",
+                    "Reward": "1 Atomic Treat, 1 Marshmallow Bee, 1 Loaded Dice, 1 Pink Balloon, 1 White Balloon, 1 Hard Wax, 1 Tropical Drink, 1 Neonberry, 4 Micro-Converters, 4 Tickets, 4 Honeysuckles, 4 Strawberries, 4 Blueberries, 4 Pineapples, 4 Sunflower Seeds, 4 Bitterberries, 4 Moon Charms, Wealth Clock Buff x5, Cactus Field Boost x4, Sunflower Field Boost x4, Cactus Field Winds x15, Sunflower Field Winds x15, Super Smoothie Buff, Haste x10, Red Boost x10, White Boost x10, Blue Boost x10, Precision x10"
+                },
+                {
+                    "Code": "WonkyFlop",
+                    "Location": "Game Title, Game Description, Discord",
+                    "Dates": "2023-09-30\u20132023-10-01",
+                    "Reward": "1 Marshmallow Bee, Wealth Clock Buff x5, Super Smoothie Buff, Sunflower Field Boost x4, Mushroom Field Boost x4, Blue Flower Field Boost x4, Sunflower Field Winds x10, Mushroom Field Winds x10, Blue Flower Field Winds x10"
+                },
+                {
+                    "Code": "5Years",
+                    "Location": "Game Description, BSS Club Wall, Discord(Exclusive to club members)",
+                    "Dates": "2023-03-20\u20132023-10-25",
+                    "Reward": "Honeyday Event, Super Smoothie Buff, Wealth Clock Buff x5, 5 Tickets, 5 Micro-Converters, 5 Neonberries, 5 Smooth Dice, 5 Marshmallow Bees"
+                },
+                {
+                    "Code": "SonyXbox",
+                    "Location": "Game Description, Discord",
+                    "Dates": "2023-10-23\u20132023-11-26",
+                    "Reward": "Console Launch Boost (2 days), 1 Royal Jelly, 1 Micro-Converter, 1 Field Dice, 5 Whirligigs, 5 Honeysuckles"
+                },
+                {
+                    "Code": "BlackReboot",
+                    "Location": "Discord",
+                    "Dates": "2023-11-24\u20132023-11-26",
+                    "Reward": "Wealth Clock Buff x5, 3 Micro-Converters, Mountain Top Field Boost x4, Mountain Top Field Winds x15"
+                },
+                {
+                    "Code": "2MLikes",
+                    "Location": "BSS Club Wall, Discord",
+                    "Dates": "2023-11-26\u2013Undocumented (2024)",
+                    "Reward": "2 Pink Balloons, 2 Marshmallow Bees, Honeyday Event"
+                },
+                {
+                    "Code": "BeequipTradeReboot",
+                    "Location": "Game Title, Game Description",
+                    "Dates": "2024-01-17\u20132024-01-25",
+                    "Reward": "1 Marshmallow Bee, Wealth Clock Buff x5, Hub Field Boost x4, Hub Field Winds x15, Mountain Top Field Boost x4, Mountain Top Field Winds x15"
+                },
+                {
+                    "Code": "10mMembers",
+                    "Location": "BSS Club Wall, Discord",
+                    "Dates": "2021-11-29\u20132024-03-13",
+                    "Reward": "10 Neonberries, 10 Strawberries, 10 Blueberries, 10 Pineapples, 10 Sunflower Seeds, 10 Gumdrops, 10 Moon Charms, Haste x10, Focus x10, Red Boost x10, Blue Boost x10, White Boost x10, Black Bear Morph, Conversion Boost (Duration: 1 hour), Pineapple Patch Code Buff, Pepper Patch Code Buff, Stump Field Code Buff"
+                },
+                {
+                    "Code": "PlushFriday",
+                    "Location": "Discord, Twitter",
+                    "Dates": "2021-11-26\u2013Undocumented (2024)",
+                    "Reward": "1 Marshmallow Bee, 1 Neonberry, 1 Micro-Converter"
+                },
+                {
+                    "Code": "500mil",
+                    "Location": "BSS Club Wall",
+                    "Dates": "2019-05-04\u2013Undocumented (2024)",
+                    "Reward": "5 Field Dice, 5 Gumdrops, Wealth Clock Buff x5, Conversion Boost (Duration: 1 hour), Stump Field Boost x2, Bamboo Field Boost x3, Science Bear Morph"
+                },
+                {
+                    "Code": "DemiDecade(Exclusive to club members)",
+                    "Location": "Discord",
+                    "Dates": "2023-03-20\u20132023-03-20",
+                    "Reward": "Pepper Patch Boost x4, Pine Tree Forest Boost x4, Coconut Field Boost x4, Pepper Patch Winds x15, Pine Tree Forest Winds x15, Coconut Field Winds x15, Mother Bear Morph, Melody Buff, Red Boost x10, Blue Boost x10, White Boost x10, Precision x10, Inspire x5"
+                },
+                {
+                    "Code": "6irthday(Exclusive to club members)",
+                    "Location": "Game Description",
+                    "Dates": "2024-03-20\u20132024-04-05",
+                    "Reward": "\"\ud83c\udf82Happy 6th Birthday to BSS! \ud83c\udf88\"Honeyday Event, Super Smoothie Buff, Unlimited Gumdrops (Duration: 6 minutes), Red Boost x6, White Boost x6, Blue Boost x6, Focus x6, Haste x6, Precision x6, Inspire x6, Mountain Top Field Boost x6, Mountain Top Field Winds x6, Hub Field Boost x6, 6 Jelly Beans, 6 Honeysuckles, 6 Tickets, 1 White Balloon"
+                },
+                {
+                    "Code": "BoxWhoops",
+                    "Location": "Discord",
+                    "Dates": "2024-06-06\u20132024-06-08",
+                    "Reward": "1 Marshmallow Bee, 1 Pink Balloon, 10 Gumdrops, 10 Honeysuckles, 1 Smooth Dice, 1 Micro-Converter, Super Smoothie Buff, Marshmallow Bee Buff, Wealth Clock Buff x5, Spider Field Boost x4, Strawberry Field Boost x4, Bamboo Field Boost x4, Spider Field Code Buff (Duration: 1 hour), Strawberry Field Code Buff (Duration: 1 hour), Bamboo Field Code Buff (Duration: 1 hour)"
+                },
+                {
+                    "Code": "Cog",
+                    "Location": "Deduction based on the Game Description of BSS and the green gear on the Noob Shop",
+                    "Dates": "2018-05-18\u2013Undocumented (2024)",
+                    "Reward": "5 Tickets"
+                },
+                {
+                    "Code": "Buzz",
+                    "Location": "Onett's place on Roblox",
+                    "Dates": "2018-05-18\u2013Undocumented (2024)",
+                    "Reward": "5,000 Honey"
+                },
+                {
+                    "Code": "Wink",
+                    "Location": "Game thumbnail for the Cobalt and Crimson Update (hint posted on Discord), decal at end of White Tunnel",
+                    "Dates": "2018-06-08\u2013Undocumented (2024)",
+                    "Reward": "5 Tickets, 5,000 Honey, Black Bear Morph, Dandelion Field Boost x7"
+                },
+                {
+                    "Code": "SecretProfileCode(Exclusive to club members)",
+                    "Location": "Onett's profile",
+                    "Dates": "2018-12-04\u2013Undocumented (2024)",
+                    "Reward": "Ant Pass, Shocked Bee Jelly, Oil Buff, Glue Buff, Enzymes Buff"
+                },
+                {
+                    "Code": "Sure",
+                    "Location": "Roblox ad",
+                    "Dates": "2019-02-21\u2013Undocumented (2024)",
+                    "Reward": "Conversion Boost (Duration: 30 minutes), Dandelion Field Boost x3, 2,500 Honey"
+                },
+                {
+                    "Code": "ClubConverters(Exclusive to club members)",
+                    "Location": "BSS Club Wall",
+                    "Dates": "2019-04-14\u2013Undocumented (2024)",
+                    "Reward": "10 Micro-Converters"
+                },
+                {
+                    "Code": "Marshmallow",
+                    "Location": "Twitter, Game Description",
+                    "Dates": "2019-04-18\u2013Undocumented (2024)",
+                    "Reward": "1 Marshmallow Bee, Conversion Boost (Duration: 1 hour)"
+                },
+                {
+                    "Code": "Teespring",
+                    "Location": "Onett's Twitter",
+                    "Dates": "2019-10-29\u2013Undocumented (2024)",
+                    "Reward": "1 Marshmallow Bee, Bamboo Field Boost x3, Bamboo Field Winds x3"
+                },
+                {
+                    "Code": "Cubly",
+                    "Location": "Roblox Ad, Discord",
+                    "Dates": "2020-04-24\u2013Undocumented (2024)",
+                    "Reward": "Bumble Bee Jelly x1, 10 Bitterberries, 1 Micro-Converter, Capacity Code Buff (Duration: 1 hour)"
+                },
+                {
+                    "Code": "BANNED",
+                    "Location": "Discord",
+                    "Dates": "2020-11-22\u2013Undocumented (2024)",
+                    "Reward": "Stubborn Bee Jelly x1, Spider Field Code Buff"
+                },
+                {
+                    "Code": "1MLikes(Exclusive to club members)",
+                    "Location": "BSS Club Wall",
+                    "Dates": "2020-12-13\u2013Undocumented (2024)",
+                    "Reward": "Super Smoothie Buff, Unlimited Gumdrops Buff (Duration: 1 minute), Mother Bear Morph, Blue Boost x1, Red Boost x1, White Boost x1, Baby Love Buff, Melody Buff, Mountain Top Field Boost x1, Clover Field Boost x1, Blue Flower Field Boost x1, Sunflower Field Boost x1, Mushroom Field Boost x1, Spider Field Boost x1, Strawberry Field Boost x1, Bamboo Field Boost x1, Pineapple Patch Boost x1, Capacity Code Buff (Duration: 1 hour), Wealth Clock Buff x1, 1 Ticket, 1 Treat, 1 Bitterberry, 1 Sunflower Seed, 1 Strawberry, 1 Blueberry, 1 Pineapple, 1 Moon Charm, 1 Cloud Vial, 1 Ant Pass, 1 Field Dice, 1 Micro-Converter, 1 Coconut, 1 Stinger, 1 Gumdrops, 1 Honey"
+                },
+                {
+                    "Code": "WalmartToys",
+                    "Location": "BSS Club Wall, Discord, Twitter",
+                    "Dates": "2022-03-23\u2013Undocumented (2024)",
+                    "Reward": "\"\ud83e\uddf8 Bee Swarm toys available now at Walmart Supercenters! \ud83c\udf88\"1 Marshmallow Bee, 1 Field Dice, 3 Micro-Converters, Pineapple Patch Boost x4, Pineapple Patch Code Buff, Pineapple Patch Winds x10, Super Smoothie Buff, Wealth Clock Buff x1"
+                },
+                {
+                    "Code": "ThnxCyasToyBox",
+                    "Location": "Discord",
+                    "Dates": "2022-03-30\u2013Undocumented (2024)",
+                    "Reward": "1 Marshmallow Bee, 1 Smooth Dice, 1 Jelly Beans, 1 Micro-Converter, 1 Cloud Vial, 1 Whirligig, 10 Honeysuckles, 1 Pink Balloon, Pumpkin Patch Boost x3, Pumpkin Patch Code Buff"
+                },
+                {
+                    "Code": "DarzethDoodads",
+                    "Location": "Discord",
+                    "Dates": "2022-04-03\u2013Undocumented (2024)",
+                    "Reward": "1 Marshmallow Bee, 1 Tropical Drink, 1 Jelly Beans, 1 Stinger, 3 Tickets, 1 Red Balloon, Clover Field Code Buff, Coconut Field Code Buff"
+                },
+                {
+                    "Code": "WeekExtension",
+                    "Location": "Game Description",
+                    "Dates": "2023-04-29\u2013Undocumented (2024)",
+                    "Reward": "1 Marshmallow Bee, Wealth Clock Buff x5, Robo Party Blessing x5, Spider Field Boost x3, Strawberry Field Boost x3, Bamboo Field Boost x3, Spider Field Winds x10, Strawberry Field Winds x10, Bamboo Field Winds x10"
+                },
+                {
+                    "Code": "Summersmas",
+                    "Location": "Discord",
+                    "Dates": "2024-07-27\u20132024-07-29",
+                    "Reward": "Super Smoothie Buff, Wealth Clock Buff x5, Pine Tree Forest Boost x3, Pepper Patch Boost x3, Spider Field Boost x3"
+                },
+                {
+                    "Code": "Octobersmas",
+                    "Location": "Discord",
+                    "Dates": "2024-09-27\u20132024-10-14",
+                    "Reward": "Honeyday Event"
+                },
+                {
+                    "Code": "boo swarm",
+                    "Location": "Discord",
+                    "Dates": "2024-10-13\u20132024-10-28",
+                    "Reward": "10 Gumdrops, 5 Jelly Beans, 1 Marshmallow Bee, 1 Smooth Dice, Rascal Bee Jelly x1, Pumpkin Patch Boost x4, Pumpkin Patch Winds x15, Conversion Boost (Duration: 1 hour), Super Smoothie Buff, Unlimited Gumdrops Buff (Duration: 1 minute)"
+                },
+                {
+                    "Code": "ThreeBeeVee(With Honeyday)",
+                    "Location": "Discord, BSS Club Wall, Game Description, Group Announcement",
+                    "Dates": "2024-12-01\u20132024-12-22\n2024-12-30\u20132025-01-05",
+                    "Reward": "Honeyday Event, 1 Marshmallow Bee, 1 Loaded Dice, Mountain Top Field Code, Mountain Top Field Boost x3, Mountain Top Field Winds x13"
+                },
+                {
+                    "Code": "MarchIsMerry(Exclusive to club members)",
+                    "Location": "Discord, (In-game) Revealed by Bee Bear dialogue after completing their first 10 Beesmas 2024 Winter quests",
+                    "Dates": "2025-02-28\u20132025-03-15",
+                    "Reward": "1 Marshmallow Bee, 1 Pink Balloon, Wealth Clock Buff x5, Robo Party Blessing x10, Festive Nymph Blessing x10, Beesmas Repentance (Duration: 8 hours), Super Smoothie Buff, Cactus Field Boost x4, Cactus Field Winds x15, Cactus Field Code (Duration: 30 minutes)"
+                },
+                {
+                    "Code": "LatePresents(Exclusive to club members)",
+                    "Location": "Discord",
+                    "Dates": "2025-04-29\u20132025-04-30",
+                    "Reward": "2 Presents"
+                },
+                {
+                    "Code": "LatePresent(Exclusive to club members)",
+                    "Location": "Discord",
+                    "Dates": "2025-04-29\u20132025-04-30",
+                    "Reward": "1 Present"
+                },
+                {
+                    "Code": "777",
+                    "Location": "Discord",
+                    "Dates": "2025-04-05\u20132025-12-26",
+                    "Reward": "\"\ud83c\udf82Happy 7th Birthday to BSS! \ud83c\udf88\"Honeyday Event, Super Smoothie Buff, Unlimited Gumdrops (Duration: 7 minutes), Red Boost x7, White Boost x7, Blue Boost x7, Focus x7, Haste x7, Precision x7, Coconut Field Winds x7, Pine Tree Forest Winds x7, Pepper Patch Winds x7, 7 Bitterberries, 7 Field Dice, 7 Whirligigs, 7 Tickets, 1 White Balloon"
+                }
+            ]
+        },
+        {
+            "Ready Player Two codes": [
+                {
+                    "Code": "Troggles",
+                    "Location": "In-game hint (Mother Bear)",
+                    "Reward": "1 7-Pronged Cog, Clover Field Code Buff"
+                },
+                {
+                    "Code": "WordFactory",
+                    "Location": "Onett's Twitter",
+                    "Reward": "1 7-Pronged Cog, Pine Tree Forest Code Buff"
+                },
+                {
+                    "Code": "Millie",
+                    "Location": "In-game hint (Wind Shrine)",
+                    "Reward": "1 7-Pronged Cog, Sunflower Field Code Buff"
+                },
+                {
+                    "Code": "Luther",
+                    "Location": "In-game hint (Onett (NPC))",
+                    "Reward": "1 7-Pronged Cog, Blue Flower Field Code Buff"
+                },
+                {
+                    "Code": "CarmenSanDiego",
+                    "Location": "In-game hint (Elite Red Guard Description)",
+                    "Reward": "1 7-Pronged Cog, Rose Field Code Buff"
+                },
+                {
+                    "Code": "Jumpstart",
+                    "Location": "In-game hint (Tutorial)",
+                    "Reward": "1 7-Pronged Cog, Dandelion Field Code Buff"
+                },
+                {
+                    "Code": "Dysentery",
+                    "Location": "In-game hint (Ant Challenge Info)",
+                    "Reward": "1 7-Pronged Cog, Mushroom Field Code Buff"
+                }
+            ]
+        }
+    ]
+}

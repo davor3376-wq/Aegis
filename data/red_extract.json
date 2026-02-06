@@ -1,0 +1,75 @@
+{
+    "title": "Red Extract",
+    "stats": {},
+    "data_tables": [
+        {
+            "Crafting Uses": [
+                {
+                    "Red Extracts": "2",
+                    "Other items required": "12,500,000 Honey\n2 Soft Waxes",
+                    "Crafted item": "Red Port-O-Hive"
+                },
+                {
+                    "Red Extracts": "3",
+                    "Other items required": "3 Blue Extracts\n3 Glues\n3 Neonberries",
+                    "Crafted item": "Purple Potion"
+                },
+                {
+                    "Red Extracts": "3",
+                    "Other items required": "15,000,000 Honey\n5 Oils\n3 Blue Extracts",
+                    "Crafted item": "Beekeeper's Boots"
+                },
+                {
+                    "Red Extracts": "3",
+                    "Other items required": "5,000,000 Honey\n50 Strawberries\n5 Royal Jellies\n5 Stingers",
+                    "Crafted item": "Elite Red Guard"
+                },
+                {
+                    "Red Extracts": "10",
+                    "Other items required": "30,000,000 Honey\n100 Strawberries\n5 Glues\n25 Stingers",
+                    "Crafted item": "Riley Guard"
+                },
+                {
+                    "Red Extracts": "15",
+                    "Other items required": "10,000,000 Honey\n5 Magic Beans\n20 Soft Waxes",
+                    "Crafted item": "Red Clay Planter"
+                },
+                {
+                    "Red Extracts": "50",
+                    "Other items required": "100,000,000 Honey\n500 Strawberries\n25 Enzymes\n15 Glues",
+                    "Crafted item": "Fire Mask"
+                },
+                {
+                    "Red Extracts": "100",
+                    "Other items required": "200,000,000 Honey\n100 Stingers\n50 Oils\n25 Glitter",
+                    "Crafted item": "Crimson Guard"
+                },
+                {
+                    "Red Extracts": "150",
+                    "Other items required": "25B Honey\n150 Tropical Drinks\n150 Coconuts\n150 Blue Extracts",
+                    "Crafted item": "Coconut Canister"
+                },
+                {
+                    "Red Extracts": "250",
+                    "Other items required": "5B Honey\n500 Stingers\n150 Enzymes\n100 Glues\n1 Invigorating Vial",
+                    "Crafted item": "Demon Mask"
+                },
+                {
+                    "Red Extracts": "250",
+                    "Other items required": "100B Honey\n500 Glues\n250 Blue Extracts\n250 Glitter\n1 Satisfying Vial\n1 Motivating Vial",
+                    "Crafted item": "Gummy Boots"
+                },
+                {
+                    "Red Extracts": "750",
+                    "Other items required": "150 Gifted Riley Bee quests completed\n750B Honey\n75 Magic Beans\n150 Hard Waxes\n25 Swirled Waxes\n1 Turpentine",
+                    "Crafted item": "Heat-Treated Planter"
+                },
+                {
+                    "Red Extracts": "1,500",
+                    "Other items required": "250 Gifted Riley Bee quests completed\n2.5T Honey\n150 Stingers\n100 Hard Waxes\n50 Caustic Waxes\n50 Super Smoothies\n3 Invigorating Vials",
+                    "Crafted item": "Dark Scythe"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "title": "Quest Givers",
+    "stats": {},
+    "data_tables": [
+        {
+            "Permanent NPCs": [
+                {
+                    "Quest Giver": "Black Bear",
+                    "Location": "Near the Sunflower Field, Ticket Tent, Red Cannon, and Red HQ.",
+                    "Requirement(s)": "None"
+                },
+                {
+                    "Quest Giver": "Brown Bear",
+                    "Location": "Near the Clover Field, Wealth Clock, Honeystorm Summoner, and Blue HQ.",
+                    "Requirement(s)": "None"
+                },
+                {
+                    "Quest Giver": "Mother Bear",
+                    "Location": "Near the Sunflower Field and Treat Shop.",
+                    "Requirement(s)": "None"
+                },
+                {
+                    "Quest Giver": "Panda Bear",
+                    "Location": "Near the Bamboo Field, Gumdrop Shop, and the Global Top Battlers Leaderboard.",
+                    "Requirement(s)": "5 Bees"
+                },
+                {
+                    "Quest Giver": "Science Bear",
+                    "Location": "Near the Yellow Cannon.",
+                    "Requirement(s)": "10 Bees"
+                },
+                {
+                    "Quest Giver": "Dapper Bear",
+                    "Location": "Inside of Dapper Bear\u2019s Shop.",
+                    "Requirement(s)": "10 Bees + Propeller Hat + Hiking Boots (or better)"
+                },
+                {
+                    "Quest Giver": "Honey Bee",
+                    "Location": "On the rock near the Pine Tree Forest.",
+                    "Requirement(s)": "15 Bees"
+                },
+                {
+                    "Quest Giver": "Polar Bear",
+                    "Location": "Above the Cactus Field and Werewolf's Cave.",
+                    "Requirement(s)": "15 Bees"
+                },
+                {
+                    "Quest Giver": "Robo Bear",
+                    "Location": "Behind of the Rose Field.",
+                    "Requirement(s)": "15 Bees"
+                },
+                {
+                    "Quest Giver": "Gifted Riley Bee",
+                    "Location": "In the Red HQ and near the Top Riley Bee Helpers Leaderboard.",
+                    "Requirement(s)": "15 Bees + 4 Red Bee Types Discovered + Translator"
+                },
+                {
+                    "Quest Giver": "Gifted Bucko Bee",
+                    "Location": "Inside the Blue HQ on the second floor and near the Top Bucko Bee Helpers Leaderboard.",
+                    "Requirement(s)": "4 Blue Bee Types Discovered + Translator"
+                },
+                {
+                    "Quest Giver": "Stick Bug",
+                    "Location": "On top of the largest mushroom in the Mushroom Field.",
+                    "Requirement(s)": "Translator"
+                },
+                {
+                    "Quest Giver": "Sticker-Seeker Quest Machine",
+                    "Location": "In the Hive Hub.",
+                    "Requirement(s)": "15 Bees + Sticker-Seeker"
+                },
+                {
+                    "Quest Giver": "Onett",
+                    "Location": "Past the Bear Gate.",
+                    "Requirement(s)": "30 Bees"
+                },
+                {
+                    "Quest Giver": "Spirit Bear",
+                    "Location": "Near the Coconut Field and Pepper Patch.",
+                    "Requirement(s)": "35 Bees"
+                }
+            ]
+        },
+        {
+            "Traveling/Other NPCs": [
+                {
+                    "Quest Giver": "Sun Bear",
+                    "Location": "Near the Noob Shop, Honey Dispenser, and Ant Challenge. (first four visits)\nNear the Basic Egg Shop / In front of the Sunflower Field(fifth visit)",
+                    "Requirement(s)": "None",
+                    "Visiting Dates": "2018-04-27 - 2018-05-13 (First visit).\n\n2018-09-10 - 2018-10-08 (Second visit).\n2019-09-28 - 2019-10-28 (Third visit).\n2020-04-06 - 2020-05-21 (Fourth visit).\n2024-08-01 - 2025-04-30 (Fifth visit)."
+                },
+                {
+                    "Quest Giver": "Gummy Bear",
+                    "Location": "Near the Noob Shop, Honey Dispenser, and Gummy Cannon.(During Goo Event)\nGummy Lair (Current Location for Beesmas quests)",
+                    "Requirement(s)": "20 Bees + Goo Badge - Hotshot",
+                    "Visiting Dates": "2018-05-26 - 2018-06-24\nPresent (Permanent)"
+                },
+                {
+                    "Quest Giver": "Bee Bear",
+                    "Location": "Near the Noob Shop, Honey Dispenser, and Ant Challenge. (First visit).\nNext to the All-Time Top Honeymakers leaderboard (Second visit onwards).",
+                    "Requirement(s)": "None",
+                    "Visiting Dates": "2018-12-19 - 2019-02-01 (First visit).\n\n2019-12-21 - 2020-02-10 (Second visit).\n2020-12-25 - 2021-03-01 (Third visit).\n2021-12-26 - 2022-04-01 (Fourth visit).\n2022-12-26 - 2023-05-07 (Fifth visit).\n2024-07-16 - 2024-10-28 (Sixth visit).\n2024-12-17 - 2025-04-30 (Seventh visit)."
+                },
+                {
+                    "Quest Giver": "Bubble Bee Man",
+                    "Location": "First encounter: Near the Global Top Battlers Leaderboard, Bamboo Field, and Panda Bear.\nSecond encounter: Past the Bear Gate and the Moon Obby.",
+                    "Requirement(s)": "First encounter: 5 Bees\nSecond encounter: 30 Bees",
+                    "Visiting Dates": "2018-12-19 - 2019-12-21 (Behind Top Battlers Leaderboard)\n2019-12-21\u2013Present (In 30 Bee Zone)"
+                },
+                {
+                    "Quest Giver": "Egg Hunt Info",
+                    "Location": "Near the Noob Shop, Honey Dispenser, and Ant Challenge.",
+                    "Requirement(s)": "None",
+                    "Visiting Dates": "2019-04-17 - 2019-05-13"
+                }
+            ]
+        }
+    ]
+}

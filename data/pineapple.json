@@ -1,0 +1,45 @@
+{
+    "title": "Pineapple",
+    "stats": {},
+    "data_tables": [
+        {
+            "Crafting Uses": [
+                {
+                    "Pineapples": "3",
+                    "Other ingredients": "3 Strawberries\n3 Blueberries",
+                    "Result": "Gumdrops"
+                },
+                {
+                    "Pineapples": "5",
+                    "Other ingredients": "1 Royal Jelly\n5 Gumdrops",
+                    "Result": "Moon Charm"
+                },
+                {
+                    "Pineapples": "5",
+                    "Other ingredients": "30,000 Honey\n1 Moon Charm",
+                    "Result": "Helmet"
+                },
+                {
+                    "Pineapples": "50",
+                    "Other ingredients": "10 Royal Jellies",
+                    "Result": "Enzymes"
+                },
+                {
+                    "Pineapples": "50",
+                    "Other ingredients": "440,000 Honey\n50 Sunflower Seeds\n3 Stingers",
+                    "Result": "Belt Bag"
+                },
+                {
+                    "Pineapples": "100",
+                    "Other ingredients": "2,500,000 Honey\n25 Gumdrops\n5 Moon Charms",
+                    "Result": "Propeller Hat"
+                },
+                {
+                    "Pineapples": "150",
+                    "Other ingredients": "12,400,000 Honey\n150 Sunflower Seeds\n10 Stingers",
+                    "Result": "Mondo Belt Bag"
+                }
+            ]
+        }
+    ]
+}

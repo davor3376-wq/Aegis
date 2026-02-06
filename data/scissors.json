@@ -1,0 +1,78 @@
+{
+    "title": "Scissors",
+    "stats": {},
+    "data_tables": [
+        {
+            "Unknown_Table": [
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                }
+            ]
+        },
+        {
+            "Unknown_Table": [
+                {
+                    "Flowers": "White",
+                    "Single": "60",
+                    "Double": "120",
+                    "Triple": "180",
+                    "Large": "240",
+                    "Star": "300"
+                },
+                {
+                    "Flowers": "Red",
+                    "Single": "60",
+                    "Double": "120",
+                    "Triple": "180",
+                    "Large": "240",
+                    "Star": "300"
+                },
+                {
+                    "Flowers": "Blue",
+                    "Single": "60",
+                    "Double": "120",
+                    "Triple": "180",
+                    "Large": "240",
+                    "Star": "300"
+                },
+                {
+                    "Flowers": "Special Multiplier(s): None"
+                }
+            ]
+        },
+        {
+            "Unknown_Table": [
+                {
+                    "Crafting Ingredients": "850,000 Honey"
+                }
+            ]
+        }
+    ]
+}

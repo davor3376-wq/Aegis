@@ -1,0 +1,20 @@
+{
+    "title": "Coconut Crab",
+    "stats": {},
+    "data_tables": [
+        {
+            "Drops": [
+                {
+                    "Guaranteed Drops List": "Coconuts\nMicro-Converters\nTropical Drinks\nBitterberries\nStar Jellies\nGingerbread Bears (Exclusive to Beesmas only)"
+                }
+            ]
+        },
+        {
+            "Drops": [
+                {
+                    "Possible Drops List": "Glitter\nOils\nMagic Beans\nGlues\nRobo Pass (Uncommon)\nNeonberry (Somewhat Rare)\nSilver Egg (Very Rare)\nDiamond Egg (Very Rare)\nNight Bell (Very Rare)\nAtomic Treat (Very Rare)\nSuper Smoothie (Extremely Rare)\nGifted Gold Egg (Extremely Rare)\nGifted Diamond Egg (Extremely Rare)\nMythic Egg (Extremely Rare)\nBasic White Hive Skin (Extremely Rare)\nStar Treat (Exceptionally Rare)\nCyan Hilted Sword Sticker (Unbelievably Rare)"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "title": "Magic Bean",
+    "stats": {},
+    "data_tables": [
+        {
+            "Crafting Uses": [
+                {
+                    "Magic Beans": "1",
+                    "Other ingredients": "25 Moon Charms",
+                    "Result": "Glitter"
+                },
+                {
+                    "Magic Beans": "1",
+                    "Other ingredients": "750,000 Honey\n3 Soft Waxes",
+                    "Result": "Plastic Planter"
+                },
+                {
+                    "Magic Beans": "5",
+                    "Other ingredients": "5,000,000 Honey\n30 Gumdrops\n3 Jelly Beans\n5 Soft Waxes",
+                    "Result": "Candy Planter"
+                },
+                {
+                    "Magic Beans": "5",
+                    "Other ingredients": "10,000,000 Honey\n15 Red Extracts\n20 Soft Waxes",
+                    "Result": "Red Clay Planter"
+                },
+                {
+                    "Magic Beans": "5",
+                    "Other ingredients": "10,000,000 Honey\n15 Blue Extracts\n20 Soft Waxes",
+                    "Result": "Blue Clay Planter"
+                },
+                {
+                    "Magic Beans": "10",
+                    "Other ingredients": "50,000,000 Honey\n1 Purple Potion\n5 Hard Waxes\n20 Soft Waxes",
+                    "Result": "Tacky Planter"
+                },
+                {
+                    "Magic Beans": "25",
+                    "Other ingredients": "750,000,000 Honey\n25 Neonberries\n15 Glues\n3 Caustic Waxes\n10 Hard Waxes",
+                    "Result": "Pesticide Planter"
+                },
+                {
+                    "Magic Beans": "75",
+                    "Other ingredients": "750B Honey\n750 Red Extracts\n150 Hard Waxes\n25 Swirled Waxes\n1 Turpentine",
+                    "Result": "Heat-Treated Planter"
+                },
+                {
+                    "Magic Beans": "75",
+                    "Other ingredients": "750B Honey\n750 Blue Extracts\n500 Soft Waxes\n25 Caustic Waxes\n1 Turpentine",
+                    "Result": "Hydroponic Planter"
+                },
+                {
+                    "Magic Beans": "100",
+                    "Other ingredients": "5T Honey\n100 Glitter\n250 Soft Waxes\n50 Swirled Waxes\n25 Super Smoothies",
+                    "Result": "Petal Planter"
+                },
+                {
+                    "Magic Beans": "500",
+                    "Other ingredients": "100T Honey\n100 Super Smoothies\n100 Swirled Waxes\n100 Caustic Waxes\n25 Turpentines",
+                    "Result": "The Planter Of Plenty"
+                }
+            ]
+        }
+    ]
+}

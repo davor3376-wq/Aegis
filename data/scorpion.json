@@ -1,0 +1,15 @@
+{
+    "title": "Scorpion",
+    "stats": {},
+    "data_tables": [
+        {
+            "Locations": [
+                {
+                    "Field": "Rose Field",
+                    "Quantity": "2",
+                    "Level": "5 (in corner nearest to the Red HQ)\n6 (in corner farthest from the Red HQ)"
+                }
+            ]
+        }
+    ]
+}

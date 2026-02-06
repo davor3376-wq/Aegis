@@ -1,0 +1,26 @@
+{
+    "title": "Treats",
+    "stats": {},
+    "data_tables": [
+        {
+            "Treat Table": [
+                {
+                    "": "",
+                    "Basic Bee\n Bomber Bee\n Looker Bee\n Commander Bee\n Demo Bee\n Carpenter Bee\n Ninja Bee\n Precise Bee\n Vector Bee": "Rad Bee\n Rascal Bee\n Stubborn Bee\n Rage Bee\n Riley Bee\n Baby Bee\n Shy Bee\n Spicy Bee"
+                },
+                {
+                    "": "",
+                    "Basic Bee\n Bomber Bee\n Looker Bee\n Commander Bee\n Demo Bee\n Carpenter Bee\n Ninja Bee\n Precise Bee\n Vector Bee": "Brave Bee\n Hasty Bee\n Exhausted Bee\n Fire Bee\n Honey Bee\n Shocked Bee\n Demon Bee\n Lion Bee\n Fuzzy Bee"
+                },
+                {
+                    "": "",
+                    "Basic Bee\n Bomber Bee\n Looker Bee\n Commander Bee\n Demo Bee\n Carpenter Bee\n Ninja Bee\n Precise Bee\n Vector Bee": "Bumble Bee\n Cool Bee\n Bubble Bee\n Bucko Bee\n Frosty Bee\n Diamond Bee\n Music Bee\n Buoyant Bee\n Tadpole Bee"
+                },
+                {
+                    "": "None",
+                    "Basic Bee\n Bomber Bee\n Looker Bee\n Commander Bee\n Demo Bee\n Carpenter Bee\n Ninja Bee\n Precise Bee\n Vector Bee": "Bear Bee\n Cobalt Bee\n Crimson Bee\n Digital Bee\n Festive Bee\n Gummy Bee\n Photon Bee\n Puppy Bee\n Tabby Bee\n Vicious Bee\n Windy Bee"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "title": "Glider",
+    "stats": {},
+    "data_tables": [
+        {
+            "Unknown_Table": [
+                {
+                    "Crafting Ingredients": "5,000,000 Honey",
+                    "Statistics": "Speed",
+                    "col_2": "70"
+                },
+                {
+                    "Crafting Ingredients": "",
+                    "Statistics": "Float",
+                    "col_2": "-24"
+                }
+            ]
+        }
+    ]
+}

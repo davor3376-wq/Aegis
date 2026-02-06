@@ -1,0 +1,50 @@
+{
+    "title": "Fireflies",
+    "stats": {},
+    "data_tables": [
+        {
+            "Unknown_Table": [
+                {
+                    "Possible Drops": "Moon Charms",
+                    "Rarity": "Common, increments of 1, 5, 10"
+                },
+                {
+                    "Possible Drops": "Glitter",
+                    "Rarity": "Rare"
+                },
+                {
+                    "Possible Drops": "Star Jelly",
+                    "Rarity": "Very Rare"
+                },
+                {
+                    "Possible Drops": "Night Bell",
+                    "Rarity": "Extremely Rare"
+                },
+                {
+                    "Possible Drops": "Star Treat",
+                    "Rarity": "1/1,000,000"
+                },
+                {
+                    "Possible Drops": "Waxing Crescent Moon Sticker",
+                    "Rarity": "Rare"
+                },
+                {
+                    "Possible Drops": "Glowing Smile Sticker",
+                    "Rarity": "Extremely Rare"
+                },
+                {
+                    "Possible Drops": "Star Signs",
+                    "Rarity": "Extremely Rare"
+                },
+                {
+                    "Possible Drops": "Cyan Star Sticker",
+                    "Rarity": "Exceptionally Rare"
+                },
+                {
+                    "Possible Drops": "Shining Star Sticker",
+                    "Rarity": "Exceptionally Rare"
+                }
+            ]
+        }
+    ]
+}

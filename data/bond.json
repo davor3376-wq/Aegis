@@ -1,0 +1,268 @@
+{
+    "title": "Bond",
+    "stats": {},
+    "data_tables": [
+        {
+            "Bee Levels": [
+                {
+                    "Level": "Base",
+                    "Bond required for level": "With Moon Amulet Max (+10% BFT)",
+                    "Honey cost for level (assuming each Treat is priced at 10K honey)": "With Gifted Puppy Bee (+20% BFT)",
+                    "col_3": "Both\n(+30% BFT)",
+                    "col_4": "Base cost for 50 bees",
+                    "col_5": "Cost for 50 bees with Gifted Puppy Bee (+20% BFT)"
+                },
+                {
+                    "Level": "1",
+                    "Bond required for level": "0",
+                    "Honey cost for level (assuming each Treat is priced at 10K honey)": "0",
+                    "col_3": "0",
+                    "col_4": "0",
+                    "col_5": "0",
+                    "col_6": "0",
+                    "col_7": "0"
+                },
+                {
+                    "Level": "2",
+                    "Bond required for level": "10",
+                    "Honey cost for level (assuming each Treat is priced at 10K honey)": "10K",
+                    "col_3": "9.09K",
+                    "col_4": "8.33K",
+                    "col_5": "7.69K",
+                    "col_6": "500K",
+                    "col_7": "416.7K"
+                },
+                {
+                    "Level": "3",
+                    "Bond required for level": "40",
+                    "Honey cost for level (assuming each Treat is priced at 10K honey)": "40K",
+                    "col_3": "36.4K",
+                    "col_4": "33.3K",
+                    "col_5": "30.8K",
+                    "col_6": "2M",
+                    "col_7": "1.667M"
+                },
+                {
+                    "Level": "4",
+                    "Bond required for level": "200",
+                    "Honey cost for level (assuming each Treat is priced at 10K honey)": "200K",
+                    "col_3": "182K",
+                    "col_4": "167K",
+                    "col_5": "154K",
+                    "col_6": "10M",
+                    "col_7": "8.333M"
+                },
+                {
+                    "Level": "5",
+                    "Bond required for level": "750",
+                    "Honey cost for level (assuming each Treat is priced at 10K honey)": "750K",
+                    "col_3": "682K",
+                    "col_4": "625K",
+                    "col_5": "577K",
+                    "col_6": "37.5M",
+                    "col_7": "31.25M"
+                },
+                {
+                    "Level": "6",
+                    "Bond required for level": "4,000",
+                    "Honey cost for level (assuming each Treat is priced at 10K honey)": "4M",
+                    "col_3": "3.64M",
+                    "col_4": "3.33M",
+                    "col_5": "3.08M",
+                    "col_6": "200M",
+                    "col_7": "166.667M"
+                },
+                {
+                    "Level": "7",
+                    "Bond required for level": "15,000",
+                    "Honey cost for level (assuming each Treat is priced at 10K honey)": "15M",
+                    "col_3": "13.6M",
+                    "col_4": "12.5M",
+                    "col_5": "11.5M",
+                    "col_6": "750M",
+                    "col_7": "625M"
+                },
+                {
+                    "Level": "8",
+                    "Bond required for level": "60,000",
+                    "Honey cost for level (assuming each Treat is priced at 10K honey)": "60M",
+                    "col_3": "54.5M",
+                    "col_4": "50M",
+                    "col_5": "46.2M",
+                    "col_6": "3B",
+                    "col_7": "2.5B"
+                },
+                {
+                    "Level": "9",
+                    "Bond required for level": "270,000",
+                    "Honey cost for level (assuming each Treat is priced at 10K honey)": "270M",
+                    "col_3": "245M",
+                    "col_4": "225M",
+                    "col_5": "208M",
+                    "col_6": "13.5B",
+                    "col_7": "11.25B"
+                },
+                {
+                    "Level": "10",
+                    "Bond required for level": "450,000",
+                    "Honey cost for level (assuming each Treat is priced at 10K honey)": "450M",
+                    "col_3": "409M",
+                    "col_4": "375M",
+                    "col_5": "346M",
+                    "col_6": "22.5B",
+                    "col_7": "18.75B"
+                },
+                {
+                    "Level": "11",
+                    "Bond required for level": "1,200,000",
+                    "Honey cost for level (assuming each Treat is priced at 10K honey)": "1.2B",
+                    "col_3": "1.09B",
+                    "col_4": "1B",
+                    "col_5": "923M",
+                    "col_6": "60B",
+                    "col_7": "50B"
+                },
+                {
+                    "Level": "12",
+                    "Bond required for level": "2,000,000",
+                    "Honey cost for level (assuming each Treat is priced at 10K honey)": "2B",
+                    "col_3": "1.82B",
+                    "col_4": "1.67B",
+                    "col_5": "1.54B",
+                    "col_6": "100B",
+                    "col_7": "83.333B"
+                },
+                {
+                    "Level": "13",
+                    "Bond required for level": "4,000,000",
+                    "Honey cost for level (assuming each Treat is priced at 10K honey)": "4B",
+                    "col_3": "3.64B",
+                    "col_4": "3.33B",
+                    "col_5": "3.08B",
+                    "col_6": "200B",
+                    "col_7": "166.667B"
+                },
+                {
+                    "Level": "14",
+                    "Bond required for level": "7,000,000",
+                    "Honey cost for level (assuming each Treat is priced at 10K honey)": "7B",
+                    "col_3": "6.36B",
+                    "col_4": "5.83B",
+                    "col_5": "5.38B",
+                    "col_6": "350B",
+                    "col_7": "291.667B"
+                },
+                {
+                    "Level": "15",
+                    "Bond required for level": "15,000,000",
+                    "Honey cost for level (assuming each Treat is priced at 10K honey)": "15B",
+                    "col_3": "13.6B",
+                    "col_4": "12.5B",
+                    "col_5": "11.5B",
+                    "col_6": "750B",
+                    "col_7": "625B"
+                },
+                {
+                    "Level": "16",
+                    "Bond required for level": "120,000,000",
+                    "Honey cost for level (assuming each Treat is priced at 10K honey)": "120B",
+                    "col_3": "109B",
+                    "col_4": "100B",
+                    "col_5": "92.3B",
+                    "col_6": "6T",
+                    "col_7": "5T"
+                },
+                {
+                    "Level": "17",
+                    "Bond required for level": "450,000,000",
+                    "Honey cost for level (assuming each Treat is priced at 10K honey)": "450B",
+                    "col_3": "409B",
+                    "col_4": "375B",
+                    "col_5": "346B",
+                    "col_6": "22.5T",
+                    "col_7": "18.75T"
+                },
+                {
+                    "Level": "18",
+                    "Bond required for level": "1,900,000,000",
+                    "Honey cost for level (assuming each Treat is priced at 10K honey)": "1.9T",
+                    "col_3": "1.72T",
+                    "col_4": "1.58T",
+                    "col_5": "1.46T",
+                    "col_6": "95T",
+                    "col_7": "79.167T"
+                },
+                {
+                    "Level": "19",
+                    "Bond required for level": "7,500,000,000",
+                    "Honey cost for level (assuming each Treat is priced at 10K honey)": "7.5T",
+                    "col_3": "6.82T",
+                    "col_4": "6.25T",
+                    "col_5": "5.77T",
+                    "col_6": "375T",
+                    "col_7": "312.5T"
+                },
+                {
+                    "Level": "20",
+                    "Bond required for level": "15,000,000,000",
+                    "Honey cost for level (assuming each Treat is priced at 10K honey)": "15T",
+                    "col_3": "13.6T",
+                    "col_4": "12.5T",
+                    "col_5": "11.5T",
+                    "col_6": "750T",
+                    "col_7": "625T"
+                },
+                {
+                    "Level": "21",
+                    "Bond required for level": "475,000,000,000",
+                    "Honey cost for level (assuming each Treat is priced at 10K honey)": "475T",
+                    "col_3": "432T",
+                    "col_4": "396T",
+                    "col_5": "365T",
+                    "col_6": "23.75Qd",
+                    "col_7": "19.792Qd"
+                },
+                {
+                    "Level": "22",
+                    "Bond required for level": "4,500,000,000,000",
+                    "Honey cost for level (assuming each Treat is priced at 10K honey)": "4.5Qd",
+                    "col_3": "4.09Qd",
+                    "col_4": "3.75Qd",
+                    "col_5": "3.46Qd",
+                    "col_6": "225Qd",
+                    "col_7": "187.5Qd"
+                },
+                {
+                    "Level": "23",
+                    "Bond required for level": "95,000,000,000,000",
+                    "Honey cost for level (assuming each Treat is priced at 10K honey)": "95Qd",
+                    "col_3": "86.4Qd",
+                    "col_4": "79.2Qd",
+                    "col_5": "73.1Qd",
+                    "col_6": "4.75Qn",
+                    "col_7": "3.958Qn"
+                },
+                {
+                    "Level": "24",
+                    "Bond required for level": "900,000,000,000,000",
+                    "Honey cost for level (assuming each Treat is priced at 10K honey)": "900Qd",
+                    "col_3": "818Qd",
+                    "col_4": "750Qd",
+                    "col_5": "692Qd",
+                    "col_6": "45Qn",
+                    "col_7": "37.5Qn"
+                },
+                {
+                    "Level": "25",
+                    "Bond required for level": "9,000,000,000,000,000",
+                    "Honey cost for level (assuming each Treat is priced at 10K honey)": "9Qn",
+                    "col_3": "8.18Qn",
+                    "col_4": "7.5Qn",
+                    "col_5": "6.92Qn",
+                    "col_6": "450Qn",
+                    "col_7": "375Qn"
+                }
+            ]
+        }
+    ]
+}

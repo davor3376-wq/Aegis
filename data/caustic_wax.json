@@ -1,0 +1,40 @@
+{
+    "title": "Caustic Wax",
+    "stats": {},
+    "data_tables": [
+        {
+            "Crafting Uses": [
+                {
+                    "Caustic Waxes": "3",
+                    "Other ingredients": "750,000,000 Honey\n25 Magic Beans\n25 Neonberries\n15 Glues\n10 Hard Waxes",
+                    "Result": "Pesticide Planter"
+                },
+                {
+                    "Caustic Waxes": "10",
+                    "Other ingredients": "10 Super Smoothies\n100 Star Jellies\n1,000 Honeysuckles",
+                    "Result": "Turpentine"
+                },
+                {
+                    "Caustic Waxes": "25",
+                    "Other ingredients": "750B Honey\n75 Magic Beans\n750 Blue Extracts\n500 Soft Waxes\n1 Turpentine",
+                    "Result": "Hydroponic Planter"
+                },
+                {
+                    "Caustic Waxes": "50",
+                    "Other ingredients": "2.5T Honey\n1,500 Red Extracts\n150 Stingers\n100 Hard Waxes\n50 Super Smoothies\n3 Invigorating Vials",
+                    "Result": "Dark Scythe"
+                },
+                {
+                    "Caustic Waxes": "50",
+                    "Other ingredients": "10T Honey\n1,500 Glues\n2,000 Gumdrops\n50 Super Smoothies\n5 Turpentines\n3 Satisfying Vials",
+                    "Result": "Gummyballer"
+                },
+                {
+                    "Caustic Waxes": "100",
+                    "Other ingredients": "100T Honey\n500 Magic Beans\n100 Super Smoothies\n100 Swirled Waxes\n25 Turpentines",
+                    "Result": "The Planter Of Plenty"
+                }
+            ]
+        }
+    ]
+}

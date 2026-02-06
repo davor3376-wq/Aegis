@@ -1,0 +1,98 @@
+{
+    "title": "Bead Lizard",
+    "stats": {},
+    "data_tables": [
+        {
+            "Possible Stats": [
+                {
+                    "Stat Caustic Req.": "Chance",
+                    "Base": "Chance",
+                    "Max": "Limit"
+                },
+                {
+                    "Stat Caustic Req.": "+%Convert Amount",
+                    "Base": "20% to 30%",
+                    "Max": "110%",
+                    "Upgrade": "2%, 4%Bias: 3"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "33%",
+                    "Max": "20"
+                },
+                {
+                    "Stat Caustic Req.": "+%Flame Chance",
+                    "Base": "8% to 12%",
+                    "Max": "52%",
+                    "Upgrade": "1%, 2%Bias: 3"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "33%",
+                    "Max": "20"
+                },
+                {
+                    "Stat Caustic Req.": "+%Bubble Chance",
+                    "Base": "8% to 12%",
+                    "Max": "52%",
+                    "Upgrade": "1%, 2%Bias: 3"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "33%",
+                    "Max": "20"
+                },
+                {
+                    "Stat Caustic Req.": "Ability"
+                },
+                {
+                    "Stat Caustic Req.": "+Token LinkCaustic Only",
+                    "Base": "-",
+                    "Max": "-",
+                    "Upgrade": "-"
+                },
+                {
+                    "Stat Caustic Req.": "0%",
+                    "Base": "5% to 33%",
+                    "Max": "-"
+                },
+                {
+                    "Stat Caustic Req.": "Hive Bonus"
+                },
+                {
+                    "Stat Caustic Req.": "+%Bubble Pollen",
+                    "Base": "-",
+                    "Max": "10%",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "-",
+                    "Base": "1% to 10%",
+                    "Max": "10"
+                },
+                {
+                    "Stat Caustic Req.": "+%Flame Pollen",
+                    "Base": "-",
+                    "Max": "10%",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "-",
+                    "Base": "1% to 10%",
+                    "Max": "10"
+                },
+                {
+                    "Stat Caustic Req.": "+%Bee Ability PollenCaustic Only",
+                    "Base": "-",
+                    "Max": "5%",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "-",
+                    "Base": "0.1% to 5%",
+                    "Max": "5"
+                }
+            ]
+        }
+    ]
+}

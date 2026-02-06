@@ -1,0 +1,55 @@
+{
+    "title": "Balloon",
+    "stats": {},
+    "data_tables": [
+        {
+            "Balloon Stats": [
+                {
+                    "": "Count(How many can be on the field at once)",
+                    "Pink Balloon": "1 per player",
+                    "Red Balloon": "1 per player",
+                    "White Balloon": "1 per player",
+                    "Black Balloon": "1 per player",
+                    "Blue Balloon": "Unlimited",
+                    "Gold Balloon": "Unlimited"
+                },
+                {
+                    "": "Capacity\n(How much pollen the balloon can hold)",
+                    "Pink Balloon": "Player's Capacity x1",
+                    "Red Balloon": "Player's Capacity x5",
+                    "White Balloon": "Player's Capacity x10",
+                    "Black Balloon": "Player's Capacity x25",
+                    "Blue Balloon": "Player's Capacityx0.1666...",
+                    "Gold Balloon": "x1.25 Blue Balloon (From own bee)Player's Capacity x0.05 (1/20) (From another player)"
+                },
+                {
+                    "": "Time Limit(How long before the balloon returns to the hive)",
+                    "Pink Balloon": "3 minutes",
+                    "Red Balloon": "3 minutes",
+                    "White Balloon": "5 minutes",
+                    "Black Balloon": "5 minutes",
+                    "Blue Balloon": "20 seconds (+2 per level)",
+                    "Gold Balloon": "20 seconds (+2 per level)\n 20 seconds (From another player)"
+                },
+                {
+                    "": "Boost(How much pollen is boosted when going into the balloon)",
+                    "Pink Balloon": "x2",
+                    "Red Balloon": "+10% (+20% if red) (assumed)",
+                    "White Balloon": "+10% (+20% if white) (assumed)",
+                    "Black Balloon": "x4",
+                    "Blue Balloon": "+10% (+20% if blue)",
+                    "Gold Balloon": "Unknown (increases with level)"
+                },
+                {
+                    "": "Obtainment (How each balloon is obtained)",
+                    "Pink Balloon": "Drop from Mobs",
+                    "Red Balloon": "Drop from Mobs",
+                    "White Balloon": "Drop from Mobs",
+                    "Black Balloon": "Drop from Mobs",
+                    "Blue Balloon": "Summoned by Buoyant Bee's Inflate Balloons",
+                    "Gold Balloon": "Summoned by Gifted Buoyant Bee's Inflate Balloons or Surprise Party"
+                }
+            ]
+        }
+    ]
+}

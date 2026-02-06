@@ -1,0 +1,20 @@
+{
+    "title": "Honeysuckle",
+    "stats": {},
+    "data_tables": [
+        {
+            "Crafting Uses": [
+                {
+                    "Honeysuckles": "5",
+                    "Other ingredients": "1 Oil\n1 Enzymes\n10 Royal Jellies",
+                    "Result": "Soft Wax"
+                },
+                {
+                    "Honeysuckles": "1,000",
+                    "Other ingredients": "10 Super Smoothies\n10 Caustic Waxes\n100 Star Jellies",
+                    "Result": "Turpentine"
+                }
+            ]
+        }
+    ]
+}

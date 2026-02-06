@@ -1,0 +1,34 @@
+{
+    "title": "Aphid",
+    "stats": {},
+    "data_tables": [
+        {
+            "Normal Aphid": [
+                {
+                    "Possible Drops List": "10 Battle Points\nHoney\nMicro-Converters\nMagic Beans\nGumdrops\nTreats\nSoft Waxes (Guaranteed)\nField Dice (Rare)\nTickets (Rare)\nGingerbread Bears (Beesmas Only)\nForward Facing Aphid Sticker (Rare)"
+                }
+            ]
+        },
+        {
+            "Rage Aphid": [
+                {
+                    "Possible Drops List": "20 Battle Points\nHoney\nMicro-Converters\nMagic Beans\nGumdrops\nStrawberries\nPineapples\nBitterberries\nStingers\n1-5 Red Extract\nEnzymes\nAnt Passes\nHard Waxes\nCaustic Waxes\nPurple Potion (Rare)\nGingerbread Bear (Beesmas Only)\nRed Wailing Cry Sticker (Extremely Rare)"
+                }
+            ]
+        },
+        {
+            "Armored Aphid": [
+                {
+                    "Possible Drops List": "20 Battle Points\nHoney\nTreats\nMicro-Converters (Increments of 1 and 5)\nMagic Beans\nGumdrops (Increments of 3)\nSunflower Seeds\nStingers\nCoconuts (Increments of 1 and 5)\nOils (Increments of 1 and 3)\nEnzymes\nGlues\nRobo Passes\nHard Waxes\nTropical Drink (Rare)\nSnowflakes (Beesmas exclusive)\nGingerbread Bears (Beesmas exclusive)\nSmall Shield Sticker (Extremely Rare)"
+                }
+            ]
+        },
+        {
+            "Diamond Aphid": [
+                {
+                    "Possible Drops List": "20 Battle Points\nHoney\nTreats\nMicro-Converters\nField Dice\nMagic Beans\nGumdrops\nBlue Extracts\nBlueberries\nHard Waxes\nMoon Charms\nTickets\nGlitter (Rare)\nSwirled Wax (Rare)\nPurple Potion (Rare)\nDiamond Egg (Rare)\nSuper Smoothie (Very Rare)\nSnowflake (Beesmas exclusive)\nDiamond Trim Sticker (Uncommon)\nDiamond Cluster Sticker (Very Rare)\nWavy Cyan Hive Skin (Unbelievably Rare)"
+                }
+            ]
+        }
+    ]
+}

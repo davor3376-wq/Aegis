@@ -1,0 +1,65 @@
+{
+    "title": "Glitter",
+    "stats": {},
+    "data_tables": [
+        {
+            "Crafting Uses": [
+                {
+                    "Glitter": "1",
+                    "Other ingredients": "20,000,000 Honey\n5 Enzymes\n3 Glues",
+                    "Result": "Beekeeper's Mask"
+                },
+                {
+                    "Glitter": "3",
+                    "Other ingredients": "100 Royal Jellies",
+                    "Result": "Star Jelly"
+                },
+                {
+                    "Glitter": "15",
+                    "Other ingredients": "100,000,000 Honey\n500 Blueberries\n50 Blue Extracts\n25 Oils",
+                    "Result": "Bubble Mask"
+                },
+                {
+                    "Glitter": "25",
+                    "Other ingredients": "200,000,000 Honey\n100 Blue Extracts\n100 Stingers\n50 Enzymes",
+                    "Result": "Cobalt Guard"
+                },
+                {
+                    "Glitter": "25",
+                    "Other ingredients": "200,000,000 Honey\n100 Red Extracts\n100 Stingers\n50 Oils",
+                    "Result": "Crimson Guard"
+                },
+                {
+                    "Glitter": "25",
+                    "Other ingredients": "1.5B Honey\n1 Spirit Petal\n10 Star Jellies\n75 Enzymes",
+                    "Result": "Petal Wand"
+                },
+                {
+                    "Glitter": "50",
+                    "Other ingredients": "15B Honey\n1 Spirit Petal\n25 Star Jellies\n100 Glues",
+                    "Result": "Petal Belt"
+                },
+                {
+                    "Glitter": "100",
+                    "Other ingredients": "5B Honey\n250 Glues\n100 Enzymes\n100 Oils",
+                    "Result": "Gummy Mask"
+                },
+                {
+                    "Glitter": "100",
+                    "Other ingredients": "5B Honey\n250 Blue Extracts\n150 Oils\n5 Diamond Eggs",
+                    "Result": "Diamond Mask"
+                },
+                {
+                    "Glitter": "100",
+                    "Other ingredients": "5T Honey\n100 Magic Beans\n250 Soft Waxes\n50 Swirled Waxes\n25 Super Smoothies",
+                    "Result": "Petal Planter"
+                },
+                {
+                    "Glitter": "250",
+                    "Other ingredients": "100B Honey\n500 Glues\n250 Red Extracts\n250 Blue Extracts\n1 Satisfying Vial\n1 Motivating Vial",
+                    "Result": "Gummy Boots"
+                }
+            ]
+        }
+    ]
+}

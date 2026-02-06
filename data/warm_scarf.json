@@ -1,0 +1,73 @@
+{
+    "title": "Warm Scarf",
+    "stats": {},
+    "data_tables": [
+        {
+            "Possible Stats": [
+                {
+                    "Stat Caustic Req.": "Chance",
+                    "Base": "Chance",
+                    "Max": "Limit"
+                },
+                {
+                    "Stat Caustic Req.": "+%Convert Amount",
+                    "Base": "25% to 35%",
+                    "Max": "75%",
+                    "Upgrade": "1%, 2%Bias: 4"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "100%",
+                    "Max": "20"
+                },
+                {
+                    "Stat Caustic Req.": "+%Energy",
+                    "Base": "25% to 35%",
+                    "Max": "75%",
+                    "Upgrade": "1%, 2%Bias: 4"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "100%",
+                    "Max": "20"
+                },
+                {
+                    "Stat Caustic Req.": "Hive Bonus"
+                },
+                {
+                    "Stat Caustic Req.": "+%Red Field Capacity",
+                    "Base": "1% to 3%",
+                    "Max": "13%",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "5% to 10%",
+                    "Max": "10"
+                },
+                {
+                    "Stat Caustic Req.": "+%White Field Capacity",
+                    "Base": "1% to 3%",
+                    "Max": "13%",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "5% to 10%",
+                    "Max": "10"
+                },
+                {
+                    "Stat Caustic Req.": "+%Capacity",
+                    "Base": "-",
+                    "Max": "10%",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "-",
+                    "Base": "0.1% to 1%",
+                    "Max": "10"
+                }
+            ]
+        }
+    ]
+}

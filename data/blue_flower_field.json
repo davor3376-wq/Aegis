@@ -1,0 +1,61 @@
+{
+    "title": "Blue Flower Field",
+    "stats": {},
+    "data_tables": [
+        {
+            "Unknown_Table": [
+                {
+                    "Item Drops list": "Blueberries (12.5% Chance)\nBlue Extracts (0.0133% Chance)\nNeonberries (0.0111% Chance)\nMagic Beans (0.002% Chance)"
+                }
+            ]
+        },
+        {
+            "Unknown_Table": [
+                {
+                    "Flowers": "Single",
+                    "White": "197",
+                    "Red": "27%",
+                    "Blue": "0",
+                    "Total": "0%",
+                    "col_5": "461",
+                    "col_6": "63%",
+                    "col_7": "658",
+                    "col_8": "90%"
+                },
+                {
+                    "Flowers": "Double",
+                    "White": "22",
+                    "Red": "3%",
+                    "Blue": "0",
+                    "Total": "0%",
+                    "col_5": "51",
+                    "col_6": "7%",
+                    "col_7": "73",
+                    "col_8": "10%"
+                },
+                {
+                    "Flowers": "Triple",
+                    "White": "0",
+                    "Red": "0%",
+                    "Blue": "0",
+                    "Total": "0%",
+                    "col_5": "0",
+                    "col_6": "0%",
+                    "col_7": "0",
+                    "col_8": "0%"
+                },
+                {
+                    "Flowers": "Total",
+                    "White": "219",
+                    "Red": "30%",
+                    "Blue": "0",
+                    "Total": "0%",
+                    "col_5": "512",
+                    "col_6": "70%",
+                    "col_7": "731",
+                    "col_8": "100%"
+                }
+            ]
+        }
+    ]
+}

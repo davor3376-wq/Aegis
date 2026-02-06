@@ -1,0 +1,164 @@
+{
+    "title": "Charm Bracelet",
+    "stats": {},
+    "data_tables": [
+        {
+            "Possible Stats": [
+                {
+                    "Stat Caustic Req.": "Chance",
+                    "Base": "Chance",
+                    "Max": "Limit"
+                },
+                {
+                    "Stat Caustic Req.": "+%Convert Amount",
+                    "Base": "15% to 20%",
+                    "Max": "20%",
+                    "Upgrade": "-"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "-",
+                    "Max": "-"
+                },
+                {
+                    "Stat Caustic Req.": "+%Critical Chance",
+                    "Base": "1% to 15%",
+                    "Max": "15%",
+                    "Upgrade": "-"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "-",
+                    "Max": "-"
+                },
+                {
+                    "Stat Caustic Req.": "+%Mark Duration",
+                    "Base": "4% to 8%",
+                    "Max": "8%",
+                    "Upgrade": "-"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "-",
+                    "Max": "-"
+                },
+                {
+                    "Stat Caustic Req.": "+%Bee Ability Rate",
+                    "Base": "3% to 6%",
+                    "Max": "6%",
+                    "Upgrade": "-"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "-",
+                    "Max": "-"
+                },
+                {
+                    "Stat Caustic Req.": "Ability"
+                },
+                {
+                    "Stat Caustic Req.": "+MelodyCaustic Only",
+                    "Base": "-",
+                    "Max": "-",
+                    "Upgrade": "-"
+                },
+                {
+                    "Stat Caustic Req.": "0%",
+                    "Base": "0.1% to 2%",
+                    "Max": "-"
+                },
+                {
+                    "Stat Caustic Req.": "Hive Bonus"
+                },
+                {
+                    "Stat Caustic Req.": "+%Loot Luck",
+                    "Base": "1%",
+                    "Max": "1%",
+                    "Upgrade": "-"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "-",
+                    "Max": "-"
+                },
+                {
+                    "Stat Caustic Req.": "+%Honey At Hive",
+                    "Base": "1%",
+                    "Max": "1%",
+                    "Upgrade": "-"
+                },
+                {
+                    "Stat Caustic Req.": "10% to 20%",
+                    "Base": "-",
+                    "Max": "-"
+                },
+                {
+                    "Stat Caustic Req.": "+%Honey From Tokens",
+                    "Base": "1%",
+                    "Max": "1%",
+                    "Upgrade": "-"
+                },
+                {
+                    "Stat Caustic Req.": "10% to 20%",
+                    "Base": "-",
+                    "Max": "-"
+                },
+                {
+                    "Stat Caustic Req.": "+%Convert Rate At Hive",
+                    "Base": "1%",
+                    "Max": "1%",
+                    "Upgrade": "-"
+                },
+                {
+                    "Stat Caustic Req.": "10% to 20%",
+                    "Base": "-",
+                    "Max": "-"
+                },
+                {
+                    "Stat Caustic Req.": "+%Mushroom Field Pollen",
+                    "Base": "1%",
+                    "Max": "41%",
+                    "Upgrade": "1%, 2%Bias: 2"
+                },
+                {
+                    "Stat Caustic Req.": "10% to 20%",
+                    "Base": "25%",
+                    "Max": "20"
+                },
+                {
+                    "Stat Caustic Req.": "+%Blue Flower Field Pollen",
+                    "Base": "1%",
+                    "Max": "41%",
+                    "Upgrade": "1%, 2%Bias: 2"
+                },
+                {
+                    "Stat Caustic Req.": "10% to 20%",
+                    "Base": "25%",
+                    "Max": "20"
+                },
+                {
+                    "Stat Caustic Req.": "+%Sunflower Field Pollen",
+                    "Base": "1%",
+                    "Max": "41%",
+                    "Upgrade": "1%, 2%Bias: 2"
+                },
+                {
+                    "Stat Caustic Req.": "10% to 20%",
+                    "Base": "25%",
+                    "Max": "20"
+                },
+                {
+                    "Stat Caustic Req.": "+%Dandelion Field Pollen",
+                    "Base": "1%",
+                    "Max": "41%",
+                    "Upgrade": "1%, 2%Bias: 2"
+                },
+                {
+                    "Stat Caustic Req.": "10% to 20%",
+                    "Base": "25%",
+                    "Max": "20"
+                }
+            ]
+        }
+    ]
+}

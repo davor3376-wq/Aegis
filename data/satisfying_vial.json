@@ -1,0 +1,25 @@
+{
+    "title": "Satisfying Vial",
+    "stats": {},
+    "data_tables": [
+        {
+            "Crafting Uses": [
+                {
+                    "Satisfying Vials": "1",
+                    "Other ingredients": "5B Honey\n250 Glues\n100 Enzymes\n100 Oils\n100 Glitter",
+                    "Result": "Gummy Mask"
+                },
+                {
+                    "Satisfying Vials": "1",
+                    "Other ingredients": "100B Honey\n500 Glues\n250 Red Extracts\n250 Blue Extracts\n250 Glitter\n1 Motivating Vial",
+                    "Result": "Gummy Boots"
+                },
+                {
+                    "Satisfying Vials": "3",
+                    "Other ingredients": "10T Honey\n1,500 Glues\n2,000 Gumdrops\n50 Caustic Waxes\n50 Super Smoothies\n5 Turpentines",
+                    "Result": "Gummyballer"
+                }
+            ]
+        }
+    ]
+}

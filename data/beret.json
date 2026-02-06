@@ -1,0 +1,98 @@
+{
+    "title": "Beret",
+    "stats": {},
+    "data_tables": [
+        {
+            "Possible Stats": [
+                {
+                    "Stat Caustic Req.": "Chance",
+                    "Base": "Chance",
+                    "Max": "Limit"
+                },
+                {
+                    "Stat Caustic Req.": "+Convert Amount",
+                    "Base": "10 to 20",
+                    "Max": "60",
+                    "Upgrade": "1, 2Bias: 2"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "50%",
+                    "Max": "20"
+                },
+                {
+                    "Stat Caustic Req.": "+%Convert Amount",
+                    "Base": "5% to 10%",
+                    "Max": "50%",
+                    "Upgrade": "1%, 2%Bias: 3"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "50%",
+                    "Max": "20"
+                },
+                {
+                    "Stat Caustic Req.": "+%Ability Pollen",
+                    "Base": "1% to 5%",
+                    "Max": "5%",
+                    "Upgrade": "-"
+                },
+                {
+                    "Stat Caustic Req.": "10% to 50%",
+                    "Base": "-",
+                    "Max": "-"
+                },
+                {
+                    "Stat Caustic Req.": "Ability"
+                },
+                {
+                    "Stat Caustic Req.": "+Blue BoostCaustic Only",
+                    "Base": "-",
+                    "Max": "-",
+                    "Upgrade": "-"
+                },
+                {
+                    "Stat Caustic Req.": "0%",
+                    "Base": "0.02% to 0.2%",
+                    "Max": "-"
+                },
+                {
+                    "Stat Caustic Req.": "Hive Bonus"
+                },
+                {
+                    "Stat Caustic Req.": "+Capacity",
+                    "Base": "10000 to 35000",
+                    "Max": "50000",
+                    "Upgrade": "2000, 3000Bias: 2"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "25% to 50%",
+                    "Max": "5"
+                },
+                {
+                    "Stat Caustic Req.": "+%Blue Field Capacity",
+                    "Base": "-",
+                    "Max": "5%",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "-",
+                    "Base": "2% to 10%",
+                    "Max": "5"
+                },
+                {
+                    "Stat Caustic Req.": "+%CapacityCaustic Only",
+                    "Base": "-",
+                    "Max": "5%",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "-",
+                    "Base": "0.1% to 5%",
+                    "Max": "5"
+                }
+            ]
+        }
+    ]
+}

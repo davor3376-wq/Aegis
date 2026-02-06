@@ -1,0 +1,120 @@
+{
+    "title": "Lei",
+    "stats": {},
+    "data_tables": [
+        {
+            "Possible Stats": [
+                {
+                    "Stat Caustic Req.": "Chance",
+                    "Base": "Chance",
+                    "Max": "Limit"
+                },
+                {
+                    "Stat Caustic Req.": "+Gather Amount",
+                    "Base": "10 to 20",
+                    "Max": "60",
+                    "Upgrade": "1, 2Bias: 3"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "33%",
+                    "Max": "20"
+                },
+                {
+                    "Stat Caustic Req.": "+%Gather Amount",
+                    "Base": "10% to 20%",
+                    "Max": "60%",
+                    "Upgrade": "1%, 2%Bias: 2"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "33%",
+                    "Max": "20"
+                },
+                {
+                    "Stat Caustic Req.": "+%Gather Pollination",
+                    "Base": "20% to 30%",
+                    "Max": "50%",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "33%",
+                    "Max": "20"
+                },
+                {
+                    "Stat Caustic Req.": "+%Bee Ability Rate",
+                    "Base": "1%",
+                    "Max": "1%",
+                    "Upgrade": "-"
+                },
+                {
+                    "Stat Caustic Req.": "10% to 50%",
+                    "Base": "-",
+                    "Max": "-"
+                },
+                {
+                    "Stat Caustic Req.": "Ability"
+                },
+                {
+                    "Stat Caustic Req.": "+Red Boost or Blue BoostCaustic Only",
+                    "Base": "-",
+                    "Max": "-",
+                    "Upgrade": "-"
+                },
+                {
+                    "Stat Caustic Req.": "-",
+                    "Base": "0.1% to 1%",
+                    "Max": "-"
+                },
+                {
+                    "Stat Caustic Req.": "Hive Bonus"
+                },
+                {
+                    "Stat Caustic Req.": "+%Sunflower Field Pollen",
+                    "Base": "3% to 5%",
+                    "Max": "25%",
+                    "Upgrade": "1%, 2%"
+                },
+                {
+                    "Stat Caustic Req.": "10% to 25%",
+                    "Base": "2% to 10%",
+                    "Max": "10"
+                },
+                {
+                    "Stat Caustic Req.": "+%Blue Flower Field Pollen",
+                    "Base": "3% to 5%",
+                    "Max": "25%",
+                    "Upgrade": "1%, 2%"
+                },
+                {
+                    "Stat Caustic Req.": "10% to 25%",
+                    "Base": "2% to 10%",
+                    "Max": "10"
+                },
+                {
+                    "Stat Caustic Req.": "+%Rose Field Pollen",
+                    "Base": "3% to 5%",
+                    "Max": "25%",
+                    "Upgrade": "1%, 2%"
+                },
+                {
+                    "Stat Caustic Req.": "10% to 25%",
+                    "Base": "2% to 10%",
+                    "Max": "10"
+                },
+                {
+                    "Stat Caustic Req.": "+%Coconut Field Pollen",
+                    "Base": "3% to 5%",
+                    "Max": "25%",
+                    "Upgrade": "1%, 2%"
+                },
+                {
+                    "Stat Caustic Req.": "5% to 10%",
+                    "Base": "2% to 10%",
+                    "Max": "10"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "title": "Refreshing Vial",
+    "stats": {},
+    "data_tables": [
+        {
+            "Crafting Uses": [
+                {
+                    "Refreshing Vials": "1",
+                    "Other ingredients": "10B Honey\n150 Coconuts\n50 Tropical Drinks\n100 Glues\n100 Oils",
+                    "Result": "Coconut Clogs"
+                },
+                {
+                    "Refreshing Vials": "2",
+                    "Other ingredients": "25B Honey\n150 Red Extracts\n150 Blue Extracts",
+                    "Result": "Coconut Canister"
+                },
+                {
+                    "Refreshing Vials": "3",
+                    "Other ingredients": "7.5T Honey\n500 Coconuts\n1,500 Tropical Drinks\n200 Purple Potions\n200 Hard Waxes\n3 Turpentines",
+                    "Result": "Coconut Belt"
+                }
+            ]
+        }
+    ]
+}

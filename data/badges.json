@@ -1,0 +1,804 @@
+{
+    "title": "Badges",
+    "stats": {},
+    "data_tables": [
+        {
+            "Honey Badges": [
+                {
+                    "Badge": "Cadet",
+                    "Requirements": "Make 1 Million Honey.",
+                    "Reward": "x1.3 Convert Rate\n5 Tickets"
+                },
+                {
+                    "Badge": "Hotshot",
+                    "Requirements": "Make 10 Million Honey.",
+                    "Reward": "x1.6 Convert Rate\n10 Tickets"
+                },
+                {
+                    "Badge": "Ace",
+                    "Requirements": "Make 100 Million Honey.",
+                    "Reward": "x1.9 Convert Rate\n15 Tickets"
+                },
+                {
+                    "Badge": "Master",
+                    "Requirements": "Make 1 Billion Honey.",
+                    "Reward": "x2.2 Convert Rate\n25 Tickets"
+                },
+                {
+                    "Badge": "Grandmaster",
+                    "Requirements": "Make 20 Billion Honey.",
+                    "Reward": "x2.5 Convert Rate\n40 Tickets"
+                }
+            ]
+        },
+        {
+            "Quest Badges": [
+                {
+                    "Badge": "Cadet",
+                    "Requirements": "Complete 10 Quests.",
+                    "Reward": "x1.25 Capacity\n5 Tickets"
+                },
+                {
+                    "Badge": "Hotshot",
+                    "Requirements": "Complete 50 Quests.",
+                    "Reward": "x1.5 Capacity\n10 Tickets"
+                },
+                {
+                    "Badge": "Ace",
+                    "Requirements": "Complete 250 Quests.",
+                    "Reward": "x1.75 Capacity\n15 Tickets"
+                },
+                {
+                    "Badge": "Master",
+                    "Requirements": "Complete 1 Thousand Quests.",
+                    "Reward": "x2 Capacity\n25 Tickets"
+                },
+                {
+                    "Badge": "Grandmaster",
+                    "Requirements": "Complete 5 Thousand Quests.",
+                    "Reward": "x2.25 Capacity\n40 Tickets"
+                }
+            ]
+        },
+        {
+            "Battle Badges": [
+                {
+                    "Badge": "Cadet",
+                    "Requirements": "Obtain 100 Battle Points.",
+                    "Reward": "+10% Critical Power\n5 Tickets"
+                },
+                {
+                    "Badge": "Hotshot",
+                    "Requirements": "Obtain 1 Thousand Battle Points.",
+                    "Reward": "+20% Critical Power\n10 Tickets"
+                },
+                {
+                    "Badge": "Ace",
+                    "Requirements": "Obtain 10 Thousand Battle Points.",
+                    "Reward": "+40% Critical Power\n15 Tickets"
+                },
+                {
+                    "Badge": "Master",
+                    "Requirements": "Obtain 50 Thousand Battle Points.",
+                    "Reward": "+70% Critical Power\n25 Tickets"
+                },
+                {
+                    "Badge": "Grandmaster",
+                    "Requirements": "Obtain 500 Thousand Battle Points.",
+                    "Reward": "+100% Critical Power\n40 Tickets"
+                }
+            ]
+        },
+        {
+            "Ability Badges": [
+                {
+                    "Badge": "Cadet",
+                    "Requirements": "Collect 2500 Ability Tokens.",
+                    "Reward": "+25k Capacity\n5 Tickets"
+                },
+                {
+                    "Badge": "Hotshot",
+                    "Requirements": "Collect 25 Thousand Ability Tokens.",
+                    "Reward": "+50k Capacity\n10 Tickets"
+                },
+                {
+                    "Badge": "Ace",
+                    "Requirements": "Collect 100 Thousand Ability Tokens.",
+                    "Reward": "+100k Capacity\n15 Tickets"
+                },
+                {
+                    "Badge": "Master",
+                    "Requirements": "Collect 1 Million Ability Tokens.",
+                    "Reward": "+150k Capacity\n25 Tickets"
+                },
+                {
+                    "Badge": "Grandmaster",
+                    "Requirements": "Collect 5 Million Ability Tokens.",
+                    "Reward": "+250k Capacity\n40 Tickets"
+                }
+            ]
+        },
+        {
+            "Goo Badges": [
+                {
+                    "Badge": "Cadet",
+                    "Requirements": "Collect 500 Thousand Goo.",
+                    "Reward": "+2% Honey Per Pollen\n5 Tickets"
+                },
+                {
+                    "Badge": "Hotshot",
+                    "Requirements": "Collect 5 Million Goo.",
+                    "Reward": "+4% Honey Per Pollen\n10 Tickets\nAccess to Gummy Bear's Lair"
+                },
+                {
+                    "Badge": "Ace",
+                    "Requirements": "Collect 50 Million Goo.",
+                    "Reward": "+6% Honey Per Pollen\n15 Tickets"
+                },
+                {
+                    "Badge": "Master",
+                    "Requirements": "Collect 500 Million Goo.",
+                    "Reward": "+8% Honey Per Pollen\n25 Tickets"
+                },
+                {
+                    "Badge": "Grandmaster",
+                    "Requirements": "Collect 10 Billion Goo.",
+                    "Reward": "+10% Honey Per Pollen\n40 Tickets"
+                }
+            ]
+        },
+        {
+            "Playtime Badges": [
+                {
+                    "Badge": "Cadet",
+                    "Requirements": "Play for 8 hours (480 minutes) total.",
+                    "Reward": "+1% Bee Movespeed\n5 Tickets"
+                },
+                {
+                    "Badge": "Hotshot",
+                    "Requirements": "Play for 1 day (24 hours) total.",
+                    "Reward": "+2% Bee Movespeed\n10 Tickets"
+                },
+                {
+                    "Badge": "Ace",
+                    "Requirements": "Play for 7 days (168 hours) total.",
+                    "Reward": "+3% Bee Movespeed\n15 Tickets"
+                },
+                {
+                    "Badge": "Master",
+                    "Requirements": "Play for 30 days (720 hours) total.",
+                    "Reward": "+4% Bee Movespeed\n25 Tickets"
+                },
+                {
+                    "Badge": "Grandmaster",
+                    "Requirements": "Play for 100 days (2,400 hours) total.",
+                    "Reward": "+5% Bee Movespeed\n40 Tickets"
+                }
+            ]
+        },
+        {
+            "Sticker Stack Badges": [
+                {
+                    "Badge": "Cadet",
+                    "Requirements": "Stack 25 Stickers to the Sticker Stack.",
+                    "Reward": "+5% Pollen from Bee Gathering\n5 Tickets"
+                },
+                {
+                    "Badge": "Hotshot",
+                    "Requirements": "Stack 50 Stickers to the Sticker Stack.",
+                    "Reward": "+10% Pollen from Bee Gathering\n10 Tickets"
+                },
+                {
+                    "Badge": "Ace",
+                    "Requirements": "Stack 100 Stickers to the Sticker Stack.",
+                    "Reward": "+15% Pollen from Bee Gathering\n15 Tickets"
+                },
+                {
+                    "Badge": "Master",
+                    "Requirements": "Stack 250 Stickers to the Sticker Stack.",
+                    "Reward": "+20% Pollen from Bee Gathering\n25 Tickets"
+                },
+                {
+                    "Badge": "Grandmaster",
+                    "Requirements": "Stack 500 Stickers to the Sticker Stack.",
+                    "Reward": "+25% Pollen from Bee Gathering\n40 Tickets"
+                }
+            ]
+        },
+        {
+            "Sunflower Badges": [
+                {
+                    "Badge": "Cadet",
+                    "Requirements": "Collect 250 Thousand Pollen.",
+                    "Reward": "+10% Capacity\n5 Tickets"
+                },
+                {
+                    "Badge": "Hotshot",
+                    "Requirements": "Collect 2.5 Million Pollen.",
+                    "Reward": "+20% Capacity\n10 Tickets"
+                },
+                {
+                    "Badge": "Ace",
+                    "Requirements": "Collect 25 Million Pollen.",
+                    "Reward": "+30% Capacity\n15 Tickets"
+                },
+                {
+                    "Badge": "Master",
+                    "Requirements": "Collect 250 Million Pollen.",
+                    "Reward": "+40% Capacity\n25 Tickets"
+                },
+                {
+                    "Badge": "Grandmaster",
+                    "Requirements": "Collect 5 Billion Pollen.",
+                    "Reward": "+50% Capacity\n40 Tickets"
+                }
+            ]
+        },
+        {
+            "Dandelion Badges": [
+                {
+                    "Badge": "Cadet",
+                    "Requirements": "Collect 250 Thousand Pollen.",
+                    "Reward": "+3% Honey At Hive\n5 Tickets"
+                },
+                {
+                    "Badge": "Hotshot",
+                    "Requirements": "Collect 2.5 Million Pollen.",
+                    "Reward": "+6% Honey At Hive\n10 Tickets"
+                },
+                {
+                    "Badge": "Ace",
+                    "Requirements": "Collect 25 Million Pollen.",
+                    "Reward": "+9% Honey At Hive\n15 Tickets"
+                },
+                {
+                    "Badge": "Master",
+                    "Requirements": "Collect 250 Million Pollen.",
+                    "Reward": "+12% Honey At Hive\n25 Tickets"
+                },
+                {
+                    "Badge": "Grandmaster",
+                    "Requirements": "Collect 5 Billion Pollen.",
+                    "Reward": "+15% Honey At Hive\n40 Tickets"
+                }
+            ]
+        },
+        {
+            "Mushroom Badges": [
+                {
+                    "Badge": "Cadet",
+                    "Requirements": "Collect 250 Thousand Pollen.",
+                    "Reward": "+3% Instant Red Conversion\n5 Tickets"
+                },
+                {
+                    "Badge": "Hotshot",
+                    "Requirements": "Collect 2.5 Million Pollen.",
+                    "Reward": "+6% Instant Red Conversion\n10 Tickets"
+                },
+                {
+                    "Badge": "Ace",
+                    "Requirements": "Collect 25 Million Pollen.",
+                    "Reward": "+9% Instant Red Conversion\n15 Tickets"
+                },
+                {
+                    "Badge": "Master",
+                    "Requirements": "Collect 250 Million Pollen.",
+                    "Reward": "+12% Instant Red Conversion\n25 Tickets"
+                },
+                {
+                    "Badge": "Grandmaster",
+                    "Requirements": "Collect 5 Billion Pollen.",
+                    "Reward": "+15% Instant Red Conversion\n40 Tickets"
+                }
+            ]
+        },
+        {
+            "Blue Flower Badges": [
+                {
+                    "Badge": "Cadet",
+                    "Requirements": "Collect 250 Thousand Pollen.",
+                    "Reward": "+3% Instant Blue Conversion\n5 Tickets"
+                },
+                {
+                    "Badge": "Hotshot",
+                    "Requirements": "Collect 2.5 Million Pollen.",
+                    "Reward": "+6% Instant Blue Conversion\n10 Tickets"
+                },
+                {
+                    "Badge": "Ace",
+                    "Requirements": "Collect 25 Million Pollen.",
+                    "Reward": "+9% Instant Blue Conversion\n15 Tickets"
+                },
+                {
+                    "Badge": "Master",
+                    "Requirements": "Collect 250 Million Pollen.",
+                    "Reward": "+12% Instant Blue Conversion\n25 Tickets"
+                },
+                {
+                    "Badge": "Grandmaster",
+                    "Requirements": "Collect 5 Billion Pollen.",
+                    "Reward": "+15% Instant Blue Conversion\n40 Tickets"
+                }
+            ]
+        },
+        {
+            "Clover Badges": [
+                {
+                    "Badge": "Cadet",
+                    "Requirements": "Collect 250 Thousand Pollen.",
+                    "Reward": "+10% Loot Luck\n5 Tickets"
+                },
+                {
+                    "Badge": "Hotshot",
+                    "Requirements": "Collect 2.5 Million Pollen.",
+                    "Reward": "+20% Loot Luck\n10 Tickets"
+                },
+                {
+                    "Badge": "Ace",
+                    "Requirements": "Collect 25 Million Pollen.",
+                    "Reward": "+30% Loot Luck\n15 Tickets"
+                },
+                {
+                    "Badge": "Master",
+                    "Requirements": "Collect 250 Million Pollen.",
+                    "Reward": "+40% Loot Luck\n25 Tickets"
+                },
+                {
+                    "Badge": "Grandmaster",
+                    "Requirements": "Collect 5 Billion Pollen.",
+                    "Reward": "+50% Loot Luck\n40 Tickets"
+                }
+            ]
+        },
+        {
+            "Spider Badges": [
+                {
+                    "Badge": "Cadet",
+                    "Requirements": "Collect 250 Thousand Pollen.",
+                    "Reward": "+10% White Pollen\n5 Tickets"
+                },
+                {
+                    "Badge": "Hotshot",
+                    "Requirements": "Collect 2.5 Million Pollen.",
+                    "Reward": "+15% White Pollen\n10 Tickets"
+                },
+                {
+                    "Badge": "Ace",
+                    "Requirements": "Collect 25 Million Pollen.",
+                    "Reward": "+20% White Pollen\n15 Tickets"
+                },
+                {
+                    "Badge": "Master",
+                    "Requirements": "Collect 250 Million Pollen.",
+                    "Reward": "+25% White Pollen\n25 Tickets"
+                },
+                {
+                    "Badge": "Grandmaster",
+                    "Requirements": "Collect 5 Billion Pollen.",
+                    "Reward": "+30% White Pollen\n40 Tickets"
+                }
+            ]
+        },
+        {
+            "Strawberry Badges": [
+                {
+                    "Badge": "Cadet",
+                    "Requirements": "Collect 250 Thousand Pollen.",
+                    "Reward": "+5% Red Pollen\n5 Tickets"
+                },
+                {
+                    "Badge": "Hotshot",
+                    "Requirements": "Collect 2.5 Million Pollen.",
+                    "Reward": "+10% Red Pollen\n10 Tickets"
+                },
+                {
+                    "Badge": "Ace",
+                    "Requirements": "Collect 25 Million Pollen.",
+                    "Reward": "+15% Red Pollen\n15 Tickets"
+                },
+                {
+                    "Badge": "Master",
+                    "Requirements": "Collect 250 Million Pollen.",
+                    "Reward": "+20% Red Pollen\n25 Tickets"
+                },
+                {
+                    "Badge": "Grandmaster",
+                    "Requirements": "Collect 5 Billion Pollen.",
+                    "Reward": "+25% Red Pollen\n40 Tickets"
+                }
+            ]
+        },
+        {
+            "Bamboo Badges": [
+                {
+                    "Badge": "Cadet",
+                    "Requirements": "Collect 250 Thousand Pollen.",
+                    "Reward": "+5% Blue Pollen\n5 Tickets"
+                },
+                {
+                    "Badge": "Hotshot",
+                    "Requirements": "Collect 2.5 Million Pollen.",
+                    "Reward": "+10% Blue Pollen\n10 Tickets"
+                },
+                {
+                    "Badge": "Ace",
+                    "Requirements": "Collect 25 Million Pollen.",
+                    "Reward": "+15% Blue Pollen\n15 Tickets"
+                },
+                {
+                    "Badge": "Master",
+                    "Requirements": "Collect 250 Million Pollen.",
+                    "Reward": "+20% Blue Pollen\n25 Tickets"
+                },
+                {
+                    "Badge": "Grandmaster",
+                    "Requirements": "Collect 5 Billion Pollen.",
+                    "Reward": "+25% Blue Pollen\n40 Tickets"
+                }
+            ]
+        },
+        {
+            "Pineapple Badges": [
+                {
+                    "Badge": "Cadet",
+                    "Requirements": "Collect 250 Thousand Pollen.",
+                    "Reward": "+3% Instant White Conversion\n5 Tickets"
+                },
+                {
+                    "Badge": "Hotshot",
+                    "Requirements": "Collect 2.5 Million Pollen.",
+                    "Reward": "+6% Instant White Conversion\n10 Tickets"
+                },
+                {
+                    "Badge": "Ace",
+                    "Requirements": "Collect 25 Million Pollen.",
+                    "Reward": "+9% Instant White Conversion\n15 Tickets"
+                },
+                {
+                    "Badge": "Master",
+                    "Requirements": "Collect 250 Million Pollen.",
+                    "Reward": "+12% Instant White Conversion\n25 Tickets"
+                },
+                {
+                    "Badge": "Grandmaster",
+                    "Requirements": "Collect 5 Billion Pollen.",
+                    "Reward": "+15% Instant White Conversion\n40 Tickets"
+                }
+            ]
+        },
+        {
+            "Pumpkin Badges": [
+                {
+                    "Badge": "Cadet",
+                    "Requirements": "Collect 250 Thousand Pollen.",
+                    "Reward": "x1.2 Convert Rate at Hive\n5 Tickets"
+                },
+                {
+                    "Badge": "Hotshot",
+                    "Requirements": "Collect 2.5 Million Pollen.",
+                    "Reward": "x1.4 Convert Rate at Hive\n10 Tickets"
+                },
+                {
+                    "Badge": "Ace",
+                    "Requirements": "Collect 25 Million Pollen.",
+                    "Reward": "x1.6 Convert Rate at Hive\n15 Tickets"
+                },
+                {
+                    "Badge": "Master",
+                    "Requirements": "Collect 250 Million Pollen.",
+                    "Reward": "x1.8 Convert Rate at Hive\n25 Tickets"
+                },
+                {
+                    "Badge": "Grandmaster",
+                    "Requirements": "Collect 5 Billion Pollen.",
+                    "Reward": "x2.0 Convert Rate at Hive\n40 Tickets"
+                }
+            ]
+        },
+        {
+            "Cactus Badges": [
+                {
+                    "Badge": "Cadet",
+                    "Requirements": "Collect 250 Thousand Pollen.",
+                    "Reward": "+1% Instant Conversion\n5 Tickets"
+                },
+                {
+                    "Badge": "Hotshot",
+                    "Requirements": "Collect 2.5 Million Pollen.",
+                    "Reward": "+2% Instant Conversion\n10 Tickets"
+                },
+                {
+                    "Badge": "Ace",
+                    "Requirements": "Collect 25 Million Pollen.",
+                    "Reward": "+3% Instant Conversion\n15 Tickets"
+                },
+                {
+                    "Badge": "Master",
+                    "Requirements": "Collect 250 Million Pollen.",
+                    "Reward": "+4% Instant Conversion\n25 Tickets"
+                },
+                {
+                    "Badge": "Grandmaster",
+                    "Requirements": "Collect 5 Billion Pollen.",
+                    "Reward": "+5% Instant Conversion\n40 Tickets"
+                }
+            ]
+        },
+        {
+            "Rose Badges": [
+                {
+                    "Badge": "Cadet",
+                    "Requirements": "Collect 250 Thousand Pollen.",
+                    "Reward": "+5% Red Field Capacity\n5 Tickets"
+                },
+                {
+                    "Badge": "Hotshot",
+                    "Requirements": "Collect 2.5 Million Pollen.",
+                    "Reward": "+10% Red Field Capacity\n10 Tickets"
+                },
+                {
+                    "Badge": "Ace",
+                    "Requirements": "Collect 25 Million Pollen.",
+                    "Reward": "+15% Red Field Capacity\n15 Tickets"
+                },
+                {
+                    "Badge": "Master",
+                    "Requirements": "Collect 250 Million Pollen.",
+                    "Reward": "+20% Red Field Capacity\n25 Tickets"
+                },
+                {
+                    "Badge": "Grandmaster",
+                    "Requirements": "Collect 5 Billion Pollen.",
+                    "Reward": "+25% Red Field Capacity\n40 Tickets"
+                }
+            ]
+        },
+        {
+            "Pine Tree Badges": [
+                {
+                    "Badge": "Cadet",
+                    "Requirements": "Collect 250 Thousand Pollen.",
+                    "Reward": "+5% Blue Field Capacity\n5 Tickets"
+                },
+                {
+                    "Badge": "Hotshot",
+                    "Requirements": "Collect 2.5 Million Pollen.",
+                    "Reward": "+10% Blue Field Capacity\n10 Tickets"
+                },
+                {
+                    "Badge": "Ace",
+                    "Requirements": "Collect 25 Million Pollen.",
+                    "Reward": "+15% Blue Field Capacity\n15 Tickets"
+                },
+                {
+                    "Badge": "Master",
+                    "Requirements": "Collect 250 Million Pollen.",
+                    "Reward": "+20% Blue Field Capacity\n25 Tickets"
+                },
+                {
+                    "Badge": "Grandmaster",
+                    "Requirements": "Collect 5 Billion Pollen.",
+                    "Reward": "+25% Blue Field Capacity\n40 Tickets"
+                }
+            ]
+        },
+        {
+            "Stump Badges": [
+                {
+                    "Badge": "Cadet",
+                    "Requirements": "Collect 250 Thousand Pollen.",
+                    "Reward": "+5% Pollen From Tools\n5 Tickets"
+                },
+                {
+                    "Badge": "Hotshot",
+                    "Requirements": "Collect 2.5 Million Pollen.",
+                    "Reward": "+10% Pollen From Tools\n10 Tickets"
+                },
+                {
+                    "Badge": "Ace",
+                    "Requirements": "Collect 25 Million Pollen.",
+                    "Reward": "+15% Pollen From Tools\n15 Tickets"
+                },
+                {
+                    "Badge": "Master",
+                    "Requirements": "Collect 250 Million Pollen.",
+                    "Reward": "+20% Pollen From Tools\n25 Tickets"
+                },
+                {
+                    "Badge": "Grandmaster",
+                    "Requirements": "Collect 5 Billion Pollen.",
+                    "Reward": "+25% Pollen From Tools\n40 Tickets"
+                }
+            ]
+        },
+        {
+            "Coconut Badges": [
+                {
+                    "Badge": "Cadet",
+                    "Requirements": "Collect 50 Million Pollen.",
+                    "Reward": "x1.04 White Pollen\n5 Tickets"
+                },
+                {
+                    "Badge": "Hotshot",
+                    "Requirements": "Collect 500 Million Pollen.",
+                    "Reward": "x1.08 White Pollen\n10 Tickets"
+                },
+                {
+                    "Badge": "Ace",
+                    "Requirements": "Collect 5 Billion Pollen.",
+                    "Reward": "x1.12 White Pollen\n15 Tickets"
+                },
+                {
+                    "Badge": "Master",
+                    "Requirements": "Collect 50 Billion Pollen.",
+                    "Reward": "x1.16 White Pollen\n25 Tickets"
+                },
+                {
+                    "Badge": "Grandmaster",
+                    "Requirements": "Collect 1 Trillion Pollen.",
+                    "Reward": "x1.20 White Pollen\n40 Tickets"
+                }
+            ]
+        },
+        {
+            "Pepper Badges": [
+                {
+                    "Badge": "Cadet",
+                    "Requirements": "Collect 50 Million Pollen.",
+                    "Reward": "+5% Flame Pollen\n5 Tickets"
+                },
+                {
+                    "Badge": "Hotshot",
+                    "Requirements": "Collect 500 Million Pollen.",
+                    "Reward": "+10% Flame Pollen\n10 Tickets"
+                },
+                {
+                    "Badge": "Ace",
+                    "Requirements": "Collect 5 Billion Pollen.",
+                    "Reward": "+15% Flame Pollen\n15 Tickets"
+                },
+                {
+                    "Badge": "Master",
+                    "Requirements": "Collect 50 Billion Pollen.",
+                    "Reward": "+20% Flame Pollen\n25 Tickets"
+                },
+                {
+                    "Badge": "Grandmaster",
+                    "Requirements": "Collect 1 Trillion Pollen.",
+                    "Reward": "+25% Flame Pollen\n40 Tickets"
+                }
+            ]
+        },
+        {
+            "Hive Hub Badges": [
+                {
+                    "Badge": "Cadet",
+                    "Requirements": "Collect 10 Million Pollen.",
+                    "Reward": "+2% Instant Gifted Bee Conversion\n5 Tickets"
+                },
+                {
+                    "Badge": "Hotshot",
+                    "Requirements": "Collect 100 Million Pollen.",
+                    "Reward": "+4% Instant Gifted Bee Conversion\n10 Tickets"
+                },
+                {
+                    "Badge": "Ace",
+                    "Requirements": "Collect 1 Billion Pollen.",
+                    "Reward": "+6% Instant Gifted Bee Conversion\n15 Tickets"
+                },
+                {
+                    "Badge": "Master",
+                    "Requirements": "Collect 10 Billion Pollen.",
+                    "Reward": "+8% Instant Gifted Bee Conversion\n25 Tickets"
+                },
+                {
+                    "Badge": "Grandmaster",
+                    "Requirements": "Collect 100 Billion Pollen.",
+                    "Reward": "+10% Instant Gifted Bee Conversion\n40 Tickets"
+                }
+            ]
+        },
+        {
+            "Mountain Top Badges": [
+                {
+                    "Badge": "Cadet",
+                    "Requirements": "Collect 100 Million Pollen.",
+                    "Reward": "+1% Gifted Bee Pollen\n5 Tickets"
+                },
+                {
+                    "Badge": "Hotshot",
+                    "Requirements": "Collect 10 Billion Pollen.",
+                    "Reward": "+2% Gifted Bee Pollen\n10 Tickets"
+                },
+                {
+                    "Badge": "Ace",
+                    "Requirements": "Collect 1 Trillion Pollen.",
+                    "Reward": "+3% Gifted Bee Pollen\n15 Tickets"
+                },
+                {
+                    "Badge": "Master",
+                    "Requirements": "Collect 1 Quadrillion Pollen.",
+                    "Reward": "+4% Gifted Bee Pollen\n25 Tickets"
+                },
+                {
+                    "Badge": "Grandmaster",
+                    "Requirements": "Collect 10 Quadrillion Pollen.",
+                    "Reward": "+5% Gifted Bee Pollen\n40 Tickets"
+                }
+            ]
+        },
+        {
+            "No longer obtainable": [
+                {
+                    "Badge": "Beesmas Beeliever",
+                    "Requirements": "Complete the 3rd Bee Bear 2018 quest.",
+                    "Reward": "Unlocks the \"Helping B.B.M.\" Quest"
+                },
+                {
+                    "Badge": "Beesmas Overachiever",
+                    "Requirements": "Complete either of Bubble Bee Man's 2018 quests.",
+                    "Reward": "B.B.M. Mask (Or Mondo B.B.M. Mask if the player completed B.B.M. Mission)"
+                },
+                {
+                    "Badge": "Egg Hunt 2019",
+                    "Requirements": "Trade in 3 Marshmallow Bees to the Egg Hunt Info.",
+                    "Reward": "Flight of the Bumble Bee Egg"
+                },
+                {
+                    "Badge": "Swarming Egg Of The Hive",
+                    "Requirements": "Help 3 Bears with their Egg Hunt 2020 quests and turn in Sun Bear's Egg Hunt 2020 quest.",
+                    "Reward": "Swarming Egg of the Hive"
+                },
+                {
+                    "Badge": "You Played Bee Swarm Simulator!",
+                    "Requirements": "Solve 3 puzzles from The Computer during Ready Player Two event.",
+                    "Reward": "How to Program BASIC"
+                },
+                {
+                    "Badge": "Bee Swarm Simulator: TIX X (10x)",
+                    "Requirements": "Find a total of a total of 10 Tix inside of Bee Swarm Simulator (4 were hidden in the main game, 3 were in the lobby subplace, and 3 were hidden in the Retro Swarm Challenge.",
+                    "Reward": "+1 Tix currency to spend in the Roblox: The Classic hub (depending on how many badges were obtained)."
+                },
+                {
+                    "Badge": "Bee Swarm Simulator: OG Token (Round X) (5x)",
+                    "Requirements": "A Token was awarded to the player if they managed to beat rounds 2, 4, 6, 8 and 10 in the Retro Swarm Challenge.",
+                    "Reward": "+1 Token currency to spend in the Roblox: The Classic hub (depending on how many badges were obtained)."
+                },
+                {
+                    "Badge": "The Games: Shine (X/5) (5x)",
+                    "Requirements": "Find a total of a total of 5 Shines inside of Bee Swarm Simulator. Unlike the Roblox: The Classic, they were all inside the main Bee Swarm Simulator subplace.",
+                    "Reward": "+1 Shine currency to spend in the The Games hub (depending on how many badges were obtained)."
+                },
+                {
+                    "Badge": "The Games: Silver (X/3) (3x)",
+                    "Requirements": "Complete Sun Bear's first three quests to earn Silver (one Silver per quest).",
+                    "Reward": "+1 Silver currency to spend in the The Games hub (depending how many badges were obtained)."
+                },
+                {
+                    "Badge": "Winter Spotlight: Standard Token",
+                    "Requirements": "Complete the 3rd Bee Bear Winter 2024 quest.",
+                    "Reward": "+1 Token currency to spend in the Winter Spotlight hub."
+                },
+                {
+                    "Badge": "Winter Spotlight: Elite Token",
+                    "Requirements": "Help 3 NPCs around the map and open the Elite Gift Box.",
+                    "Reward": "+1 Elite Token currency to spend in the Winter Spotlight hub."
+                }
+            ]
+        },
+        {
+            "Inactive Badges": [
+                {
+                    "Badge": "############# Honey",
+                    "Description": "You've achieved the rank of Honey Master!",
+                    "Awarded All-Time": "0 Players"
+                },
+                {
+                    "Badge": "Counterfeit Beesmas Overachiever",
+                    "Description": "Whoops! For a short while, Onett accidentally gave this badge out the first time you spoke to Bubble Bee Man during the Beesmas 2018 event.",
+                    "Awarded All-Time": "353 Players"
+                }
+            ]
+        }
+    ]
+}

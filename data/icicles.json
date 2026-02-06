@@ -1,0 +1,73 @@
+{
+    "title": "Icicles",
+    "stats": {},
+    "data_tables": [
+        {
+            "Possible Stats": [
+                {
+                    "Stat Caustic Req.": "Chance",
+                    "Base": "Chance",
+                    "Max": "Limit"
+                },
+                {
+                    "Stat Caustic Req.": "+%Bee Attack",
+                    "Base": "3% to 5%",
+                    "Max": "45%",
+                    "Upgrade": "1%, 2%Bias: 5"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "100%",
+                    "Max": "20"
+                },
+                {
+                    "Stat Caustic Req.": "+%Blue Bomb Pollen",
+                    "Base": "20% to 30%",
+                    "Max": "110%",
+                    "Upgrade": "2%, 4%Bias: 3"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "100%",
+                    "Max": "20"
+                },
+                {
+                    "Stat Caustic Req.": "Hive Bonus"
+                },
+                {
+                    "Stat Caustic Req.": "+%Cactus Field Pollen",
+                    "Base": "5% to 10%",
+                    "Max": "20%",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "2% to 10%",
+                    "Max": "10"
+                },
+                {
+                    "Stat Caustic Req.": "+%Blue Bomb Pollen",
+                    "Base": "3% to 5%",
+                    "Max": "15%",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "2% to 10%",
+                    "Max": "10"
+                },
+                {
+                    "Stat Caustic Req.": "+%Monster Respawn Time",
+                    "Base": "-",
+                    "Max": "5%",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "-",
+                    "Base": "0.1% to 1%",
+                    "Max": "5"
+                }
+            ]
+        }
+    ]
+}

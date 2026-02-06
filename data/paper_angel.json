@@ -1,0 +1,76 @@
+{
+    "title": "Paper Angel",
+    "stats": {},
+    "data_tables": [
+        {
+            "Possible Stats": [
+                {
+                    "Stat Caustic Req.": "Chance",
+                    "Base": "Chance",
+                    "Max": "Limit"
+                },
+                {
+                    "Stat Caustic Req.": "+%White Gather Amount",
+                    "Base": "10% to 20%",
+                    "Max": "60%",
+                    "Upgrade": "1%, 2%Bias: 4"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "100%",
+                    "Max": "20"
+                },
+                {
+                    "Stat Caustic Req.": "+%Ability Pollen",
+                    "Base": "1% to 3%",
+                    "Max": "23%",
+                    "Upgrade": "1%, 0%Bias: 4"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "5% to 20%",
+                    "Max": "20"
+                },
+                {
+                    "Stat Caustic Req.": "Ability"
+                },
+                {
+                    "Stat Caustic Req.": "+Token Link",
+                    "Base": "-",
+                    "Max": "-",
+                    "Upgrade": "-"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "-",
+                    "Max": "-"
+                },
+                {
+                    "Stat Caustic Req.": "Hive Bonus"
+                },
+                {
+                    "Stat Caustic Req.": "+%Bee Ability Pollen",
+                    "Base": "-",
+                    "Max": "3%",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "-",
+                    "Base": "0.5% to 5%",
+                    "Max": "3"
+                },
+                {
+                    "Stat Caustic Req.": "+%Token Lifespan",
+                    "Base": "-",
+                    "Max": "5%",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "-",
+                    "Base": "1% to 5%",
+                    "Max": "5"
+                }
+            ]
+        }
+    ]
+}

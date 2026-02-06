@@ -1,0 +1,104 @@
+{
+    "title": "Bees/Epic",
+    "stats": {},
+    "data_tables": [
+        {
+            "Unknown_Table": [
+                {
+                    "Bee": "Bubble Bee",
+                    "Icon": "",
+                    "Description": "As a larva, this bee lived in the ocean. It loves Blue flowers cause they remind it of home."
+                },
+                {
+                    "Bee": "Bucko Bee",
+                    "Icon": "",
+                    "Description": "Leader of the Blue bees, and a long time rival of Riley Bee. Its tenacity is its greatest strength."
+                },
+                {
+                    "Bee": "Commander Bee",
+                    "Icon": "",
+                    "Description": "A strong, no-nonsense bee who stays level-headed when things get rough."
+                },
+                {
+                    "Bee": "Demo Bee",
+                    "Icon": "",
+                    "Description": "An elite Bomber Bee who has worked its way up the ranks. It is an expert in explosives."
+                },
+                {
+                    "Bee": "Exhausted Bee",
+                    "Icon": "",
+                    "Description": "This bee suffers from insomnia. It moves slowly, but it never has to sleep."
+                },
+                {
+                    "Bee": "Fire Bee",
+                    "Icon": "",
+                    "Description": "As an egg, this bee was accidentally left in the trunk of a car in the middle of the summer for over 3 days!"
+                },
+                {
+                    "Bee": "Frosty Bee",
+                    "Icon": "",
+                    "Description": "A bee made of snow. It magically came to life after someone put a top hat on its head."
+                },
+                {
+                    "Bee": "Honey Bee",
+                    "Icon": "",
+                    "Description": "A satisfied bee always full with the finest honey. If you're Iucky it will share some."
+                },
+                {
+                    "Bee": "Rage Bee",
+                    "Icon": "",
+                    "Description": "A very angry bee who has been wronged its whole life. It harnesses its rage to become more powerful."
+                },
+                {
+                    "Bee": "Riley Bee",
+                    "Icon": "",
+                    "Description": "Leader of the Red bees, and a long time rival of Bucko Bee. Its fiery nature has elevated it above the rest."
+                },
+                {
+                    "Bee": "Shocked Bee",
+                    "Icon": "",
+                    "Description": "This bee is startled by everything it comes acrossed . It has learned special talents to cope."
+                }
+            ]
+        },
+        {
+            "Unknown_Table": [
+                {
+                    "Egg and Jelly Probability": "Item",
+                    "col_1": "Base Probability",
+                    "col_2": "Probability of getting a particular epic bee."
+                },
+                {
+                    "Egg and Jelly Probability": "Basic Egg",
+                    "col_1": "2.5%",
+                    "col_2": "0.22727%"
+                },
+                {
+                    "Egg and Jelly Probability": "Silver Egg",
+                    "col_1": "30%",
+                    "col_2": "2.72727%"
+                },
+                {
+                    "Egg and Jelly Probability": "Gold Egg",
+                    "col_1": "79%",
+                    "col_2": "7.18182%"
+                },
+                {
+                    "Egg and Jelly Probability": "Diamond Egg",
+                    "col_1": "0%",
+                    "col_2": "0%"
+                },
+                {
+                    "Egg and Jelly Probability": "Mythic Egg",
+                    "col_1": "0%",
+                    "col_2": "0%"
+                },
+                {
+                    "Egg and Jelly Probability": "Royal Jelly",
+                    "col_1": "27%",
+                    "col_2": "2.45455%"
+                }
+            ]
+        }
+    ]
+}

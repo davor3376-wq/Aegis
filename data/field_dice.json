@@ -1,0 +1,15 @@
+{
+    "title": "Field Dice",
+    "stats": {},
+    "data_tables": [
+        {
+            "Crafting Uses": [
+                {
+                    "Field Dice": "3",
+                    "Other ingredients": "3 Soft Waxes\n3 Whirligigs\n3 Oils",
+                    "Result": "Smooth Dice"
+                }
+            ]
+        }
+    ]
+}

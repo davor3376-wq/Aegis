@@ -1,0 +1,109 @@
+{
+    "title": "Beequip",
+    "stats": {},
+    "data_tables": [
+        {
+            "Beequip Storage": [
+                {
+                    "Tickets": "100",
+                    "Total storage": "15"
+                },
+                {
+                    "Tickets": "250",
+                    "Total storage": "20"
+                },
+                {
+                    "Tickets": "450",
+                    "Total storage": "25"
+                },
+                {
+                    "Tickets": "800",
+                    "Total storage": "30"
+                },
+                {
+                    "Tickets": "1,250",
+                    "Total storage": "35"
+                },
+                {
+                    "Tickets": "1,850",
+                    "Total storage": "40"
+                },
+                {
+                    "Tickets": "2,550",
+                    "Total storage": "45"
+                },
+                {
+                    "Tickets": "3,400",
+                    "Total storage": "50"
+                },
+                {
+                    "Tickets": "4,400",
+                    "Total storage": "55"
+                },
+                {
+                    "Tickets": "5,550",
+                    "Total storage": "60"
+                },
+                {
+                    "Tickets": "6,800",
+                    "Total storage": "65"
+                },
+                {
+                    "Tickets": "8,250",
+                    "Total storage": "70"
+                },
+                {
+                    "Tickets": "9,800",
+                    "Total storage": "75"
+                },
+                {
+                    "Tickets": "11,550",
+                    "Total storage": "80"
+                },
+                {
+                    "Tickets": "13,400",
+                    "Total storage": "85"
+                },
+                {
+                    "Tickets": "15,450",
+                    "Total storage": "90"
+                },
+                {
+                    "Tickets": "17,650",
+                    "Total storage": "95"
+                },
+                {
+                    "Tickets": "20,000",
+                    "Total storage": "100"
+                },
+                {
+                    "Tickets": "Total: 123,500 Tickets"
+                }
+            ]
+        },
+        {
+            "Waxes": [
+                {
+                    "Wax": "Soft Wax",
+                    "Upgrades Value": "1"
+                },
+                {
+                    "Wax": "Hard Wax",
+                    "Upgrades Value": "2"
+                },
+                {
+                    "Wax": "Caustic Wax",
+                    "Upgrades Value": "4"
+                },
+                {
+                    "Wax": "Debug Wax",
+                    "Upgrades Value": "4"
+                },
+                {
+                    "Wax": "Swirled Wax",
+                    "Upgrades Value": "0"
+                }
+            ]
+        }
+    ]
+}

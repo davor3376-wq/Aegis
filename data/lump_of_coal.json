@@ -1,0 +1,139 @@
+{
+    "title": "Lump Of Coal",
+    "stats": {},
+    "data_tables": [
+        {
+            "Possible Stats": [
+                {
+                    "Stat Caustic Req.": "Chance",
+                    "Base": "Chance",
+                    "Max": "Limit"
+                },
+                {
+                    "Stat Caustic Req.": "-%Energy",
+                    "Base": "-80% to -70%",
+                    "Max": "-70%",
+                    "Upgrade": "-"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "-",
+                    "Max": "-"
+                },
+                {
+                    "Stat Caustic Req.": "-%Movespeed",
+                    "Base": "-50% to -40%",
+                    "Max": "-40%",
+                    "Upgrade": "-"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "-",
+                    "Max": "-"
+                },
+                {
+                    "Stat Caustic Req.": "+%Bomb Pollen",
+                    "Base": "-",
+                    "Max": "40%",
+                    "Upgrade": "1%, 2%Bias: 2"
+                },
+                {
+                    "Stat Caustic Req.": "-",
+                    "Base": "100%",
+                    "Max": "20"
+                },
+                {
+                    "Stat Caustic Req.": "Hive Bonus"
+                },
+                {
+                    "Stat Caustic Req.": "+%Bomb Pollen",
+                    "Base": "1% to 3%",
+                    "Max": "13%",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "5% to 20%",
+                    "Max": "10"
+                },
+                {
+                    "Stat Caustic Req.": "+%Buzz Bomb Pollen",
+                    "Base": "1% to 3%",
+                    "Max": "13%",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "15%",
+                    "Base": "5% to 20%",
+                    "Max": "10"
+                },
+                {
+                    "Stat Caustic Req.": "+%Blue Bomb Pollen",
+                    "Base": "1% to 3%",
+                    "Max": "13%",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "15%",
+                    "Base": "5% to 20%",
+                    "Max": "10"
+                },
+                {
+                    "Stat Caustic Req.": "+%Red Bomb Pollen",
+                    "Base": "1% to 3%",
+                    "Max": "13%",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "15%",
+                    "Base": "5% to 20%",
+                    "Max": "10"
+                },
+                {
+                    "Stat Caustic Req.": "+%Pollen",
+                    "Base": "1%",
+                    "Max": "1%",
+                    "Upgrade": "-"
+                },
+                {
+                    "Stat Caustic Req.": "5%",
+                    "Base": "-",
+                    "Max": "-"
+                },
+                {
+                    "Stat Caustic Req.": "+%White Pollen",
+                    "Base": "1% to 2%",
+                    "Max": "2%",
+                    "Upgrade": "-"
+                },
+                {
+                    "Stat Caustic Req.": "10%",
+                    "Base": "-",
+                    "Max": "-"
+                },
+                {
+                    "Stat Caustic Req.": "+%Blue Pollen",
+                    "Base": "1% to 2%",
+                    "Max": "2%",
+                    "Upgrade": "-"
+                },
+                {
+                    "Stat Caustic Req.": "10%",
+                    "Base": "-",
+                    "Max": "-"
+                },
+                {
+                    "Stat Caustic Req.": "+%Red Pollen",
+                    "Base": "1% to 2%",
+                    "Max": "2%",
+                    "Upgrade": "-"
+                },
+                {
+                    "Stat Caustic Req.": "10%",
+                    "Base": "-",
+                    "Max": "-"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "title": "Pepper Patch",
+    "stats": {},
+    "data_tables": [
+        {
+            "Unknown_Table": [
+                {
+                    "Flowers": "Single",
+                    "White": "0",
+                    "Red": "0%",
+                    "Blue": "0",
+                    "Total": "0%",
+                    "col_5": "0",
+                    "col_6": "0%",
+                    "col_7": "0",
+                    "col_8": "0%"
+                },
+                {
+                    "Flowers": "Double",
+                    "White": "0",
+                    "Red": "0%",
+                    "Blue": "0",
+                    "Total": "0%",
+                    "col_5": "0",
+                    "col_6": "0%",
+                    "col_7": "0",
+                    "col_8": "0%"
+                },
+                {
+                    "Flowers": "Triple",
+                    "White": "85",
+                    "Red": "15%",
+                    "Blue": "482",
+                    "Total": "85%",
+                    "col_5": "0",
+                    "col_6": "0%",
+                    "col_7": "567",
+                    "col_8": "100%"
+                },
+                {
+                    "Flowers": "Total",
+                    "White": "85",
+                    "Red": "15%",
+                    "Blue": "482",
+                    "Total": "85%",
+                    "col_5": "0",
+                    "col_6": "0%",
+                    "col_7": "567",
+                    "col_8": "100%"
+                }
+            ]
+        }
+    ]
+}

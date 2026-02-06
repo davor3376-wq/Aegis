@@ -1,0 +1,109 @@
+{
+    "title": "Whistle",
+    "stats": {},
+    "data_tables": [
+        {
+            "Possible Stats": [
+                {
+                    "Stat Caustic Req.": "Chance",
+                    "Base": "Chance",
+                    "Max": "Limit"
+                },
+                {
+                    "Stat Caustic Req.": "+%Movespeed",
+                    "Base": "5% to 10%",
+                    "Max": "40%",
+                    "Upgrade": "1%, 2%"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "33%",
+                    "Max": "15"
+                },
+                {
+                    "Stat Caustic Req.": "+%Critical Power",
+                    "Base": "15% to 25%",
+                    "Max": "85%",
+                    "Upgrade": "2%, 3%Bias: 2"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "67%",
+                    "Max": "20"
+                },
+                {
+                    "Stat Caustic Req.": "-%Energy",
+                    "Base": "-55% to -45%",
+                    "Max": "-45%",
+                    "Upgrade": "-"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "-",
+                    "Max": "-"
+                },
+                {
+                    "Stat Caustic Req.": "Ability"
+                },
+                {
+                    "Stat Caustic Req.": "+Haste",
+                    "Base": "-",
+                    "Max": "-",
+                    "Upgrade": "-"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "-",
+                    "Max": "-"
+                },
+                {
+                    "Stat Caustic Req.": "+MelodyCaustic Only",
+                    "Base": "-",
+                    "Max": "-",
+                    "Upgrade": "-"
+                },
+                {
+                    "Stat Caustic Req.": "-",
+                    "Base": "0.01% to 0.1%",
+                    "Max": "-"
+                },
+                {
+                    "Stat Caustic Req.": "Hive Bonus"
+                },
+                {
+                    "Stat Caustic Req.": "+%Bee MovespeedCaustic Only",
+                    "Base": "-",
+                    "Max": "1%",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "-",
+                    "Base": "0.2% to 1%",
+                    "Max": "1"
+                },
+                {
+                    "Stat Caustic Req.": "+%Super-Crit PowerCaustic Only",
+                    "Base": "-",
+                    "Max": "20%",
+                    "Upgrade": "1%, 2%"
+                },
+                {
+                    "Stat Caustic Req.": "-",
+                    "Base": "1% to 10%",
+                    "Max": "10"
+                },
+                {
+                    "Stat Caustic Req.": "xPlayer Movespeed",
+                    "Base": "-",
+                    "Max": "x1.01",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "-",
+                    "Base": "0.1% to 0.4%",
+                    "Max": "1"
+                }
+            ]
+        }
+    ]
+}

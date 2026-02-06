@@ -1,0 +1,28 @@
+{
+    "title": "Digital Bee (NPC)",
+    "stats": {},
+    "data_tables": [
+        {
+            "Puzzles": [
+                {
+                    "Puzzle": "Puzzle 1",
+                    "Guide": "Upon interacting with The Computer, Digital Bee will flash 4 symbols, acting as a code. Go to the Dandelion Field and use your collector to reveal and change to the appropriate symbols left to right, with the first symbol closest to the Sunflower Field. If done right, a sound will play, and the symbols are replaced with happy faces.",
+                    "Example": "Digital Bee flashes *?~&.\nTherefore, the right combination to enter in the Dandelion Field is *, ?, ~, and &.",
+                    "Reward": "1 Royal Jelly\n512 Honey"
+                },
+                {
+                    "Puzzle": "Puzzle 2",
+                    "Guide": "After the first puzzle is done, upon interacting with The Computer, Digital Bee will disappear, and begin teleporting around the Sunflower, Clover, and Mushroom Field. At a field, Digital Bee will continuously flash 3 symbols, & ~ *. Then, you will have to uncover the hidden symbols with your collector and change them into the right sequence. The combination is always:\nSunflower = &\nClover = *\nMushroom = ~\nWhen entered, the symbols will change into happy faces and a sound will play.",
+                    "Example": "The code is the same for everyone, see the guide.",
+                    "Reward": "1 Royal Jelly\n8 Gumdrops"
+                },
+                {
+                    "Puzzle": "Puzzle 3",
+                    "Guide": "After the second puzzle is done, upon interacting with The Computer, Digital Bee will flash 4 letters. The 4 letters are Sunflower, Dandelion, Mushroom, and Clover. In each of the 4 fields, a symbol can be revealed with your collector. In the order of the fields flashed by Digital Bee, reveal the symbols left to right in the Blue Flower Field, with the first symbol closest to the 5 Bee Gate. If done right, a sound will play, and the symbols are replaced with happy faces.",
+                    "Example": "Digital Bee flashes DSMC.\nDandelion shows *\nSunflower shows &\nMushroom shows ?\nClover shows ~\nTherefore, the right combination in this example is *&?~.",
+                    "Reward": "1 Atomic Treat\n8 Tickets\nHow to Program BASIC UGC"
+                }
+            ]
+        }
+    ]
+}

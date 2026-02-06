@@ -1,0 +1,45 @@
+{
+    "title": "Strawberry",
+    "stats": {},
+    "data_tables": [
+        {
+            "Crafting Uses": [
+                {
+                    "Strawberries": "3",
+                    "Other ingredients": "3 Pineapples\n3 Blueberries",
+                    "Result": "Gumdrops"
+                },
+                {
+                    "Strawberries": "50",
+                    "Other ingredients": "10 Royal Jellies",
+                    "Result": "Red Extract"
+                },
+                {
+                    "Strawberries": "50",
+                    "Other ingredients": "2,200,000 Honey\n50 Blueberries",
+                    "Result": "Hiking Boots"
+                },
+                {
+                    "Strawberries": "50",
+                    "Other ingredients": "750,000 Honey\n1 Royal Jelly\n1 Stinger",
+                    "Result": "Red Guard"
+                },
+                {
+                    "Strawberries": "50",
+                    "Other ingredients": "5,000,000 Honey\n3 Red Extracts\n5 Royal Jellies\n5 Stingers",
+                    "Result": "Elite Red Guard"
+                },
+                {
+                    "Strawberries": "100",
+                    "Other ingredients": "30,000,000 Honey\n10 Red Extracts\n5 Glues\n25 Stingers",
+                    "Result": "Riley Guard"
+                },
+                {
+                    "Strawberries": "500",
+                    "Other ingredients": "100,000,000 Honey\n50 Red Extracts\n25 Enzymes\n15 Glues",
+                    "Result": "Fire Mask"
+                }
+            ]
+        }
+    ]
+}
