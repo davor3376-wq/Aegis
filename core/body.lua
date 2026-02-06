@@ -22,16 +22,30 @@ end
 -- Bot-05 (Aviator): Flight Logic
 local Aviator = {}
 
+-- Safety Shield Locked Y-Level
+Aviator.SAFETY_Y_LEVEL = 35
+
 function Aviator.vertical_bypass()
     log_thought("Obstacle detected. Initiating Vertical Bypass.")
 
     local bodyVelocity = Instance.new("BodyVelocity")
-    bodyVelocity.Velocity = Vector3.new(0, 50, 0) -- Fly up
+    -- Ensure we fly up to at least SAFETY_Y_LEVEL
+    local targetY = math.max(HumanoidRootPart.Position.Y + 20, Aviator.SAFETY_Y_LEVEL)
+    local velocityY = 50
+
+    bodyVelocity.Velocity = Vector3.new(0, velocityY, 0)
     bodyVelocity.MaxForce = Vector3.new(0, math.huge, 0)
     bodyVelocity.Parent = HumanoidRootPart
 
-    -- Hold height for a moment
-    task.wait(0.5)
+    -- Hold height until we reach Safety Shield level
+    while HumanoidRootPart.Position.Y < Aviator.SAFETY_Y_LEVEL do
+        task.wait()
+    end
+
+    -- Maintain Height logic (Safety Shield) could go here
+    log_thought("Safety Shield reached (Y=" .. tostring(Aviator.SAFETY_Y_LEVEL) .. ").")
+
+    task.wait(0.5) -- Stabilize
 
     bodyVelocity:Destroy()
     log_thought("Vertical Bypass complete.")
@@ -39,6 +53,9 @@ end
 
 -- Bot-04 (Navigator): Pathfinding Logic
 local Navigator = {}
+
+-- Temporary Test Destination (Honey Bee NPC)
+Navigator.TEST_DESTINATION = Vector3.new(100, 5, 100)
 
 function Navigator.raycast_check(direction)
     local rayOrigin = HumanoidRootPart.Position
@@ -79,6 +96,7 @@ function Navigator.loot_divert()
 end
 
 function Navigator.pathfind(target_position)
+    target_position = target_position or Navigator.TEST_DESTINATION
     log_thought("Navigating to target: " .. tostring(target_position))
 
     local reached = false
