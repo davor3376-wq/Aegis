@@ -1,0 +1,78 @@
+{
+    "title": "Bubble Wand",
+    "stats": {},
+    "data_tables": [
+        {
+            "Unknown_Table": [
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                }
+            ]
+        },
+        {
+            "Unknown_Table": [
+                {
+                    "Flowers": "White",
+                    "Single": "6",
+                    "Double": "12",
+                    "Triple": "18",
+                    "Large": "24",
+                    "Star": "30"
+                },
+                {
+                    "Flowers": "Red",
+                    "Single": "6",
+                    "Double": "12",
+                    "Triple": "18",
+                    "Large": "24",
+                    "Star": "30"
+                },
+                {
+                    "Flowers": "Blue",
+                    "Single": "12",
+                    "Double": "24",
+                    "Triple": "36",
+                    "Large": "48",
+                    "Star": "60"
+                },
+                {
+                    "Flowers": "Special Multiplier(s): \u00d72 Blue Pollen Multiplier"
+                }
+            ]
+        },
+        {
+            "Unknown_Table": [
+                {
+                    "Crafting Ingredients": "3,500,000 Honey"
+                }
+            ]
+        }
+    ]
+}

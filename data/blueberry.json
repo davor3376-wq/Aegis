@@ -1,0 +1,50 @@
+{
+    "title": "Blueberry",
+    "stats": {},
+    "data_tables": [
+        {
+            "Crafting Uses": [
+                {
+                    "Blueberries": "50",
+                    "Other ingredients": "10 Royal Jellies",
+                    "Result": "Blue Extract"
+                },
+                {
+                    "Blueberries": "3",
+                    "Other ingredients": "3 Strawberries\n3 Pineapples",
+                    "Result": "Gumdrops"
+                },
+                {
+                    "Blueberries": "3",
+                    "Other ingredients": "4,400 Honey\n3 Sunflower Seeds",
+                    "Result": "Basic Boots"
+                },
+                {
+                    "Blueberries": "50",
+                    "Other ingredients": "2,200,000 Honey\n50 Strawberries",
+                    "Result": "Hiking Boots"
+                },
+                {
+                    "Blueberries": "50",
+                    "Other ingredients": "1,000,000 Honey\n1 Royal Jelly\n3 Moon Charms",
+                    "Result": "Blue Guard"
+                },
+                {
+                    "Blueberries": "50",
+                    "Other ingredients": "5,000,000 Honey\n3 Blue Extracts\n5 Royal Jellies\n15 Moon Charms",
+                    "Result": "Elite Blue Guard"
+                },
+                {
+                    "Blueberries": "100",
+                    "Other ingredients": "30,000,000 Honey\n50 Blue Extracts\n5 Glues\n75 Moon Charms",
+                    "Result": "Bucko Guard"
+                },
+                {
+                    "Blueberries": "500",
+                    "Other ingredients": "100,000,000 Honey\n50 Blue Extracts\n25 Oils\n15 Glitter",
+                    "Result": "Bubble Mask"
+                }
+            ]
+        }
+    ]
+}

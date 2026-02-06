@@ -1,0 +1,679 @@
+{
+    "title": "Robux Shop",
+    "stats": {},
+    "data_tables": [
+        {
+            "Items": [
+                {
+                    "Icon": "",
+                    "Item Name": "Bear Bee Voucher",
+                    "Robux": "800",
+                    "Description": "A tradable voucher that can be redeemed for a Bear Bee Egg! Only 1 Bear Bee Egg can be received per account.\nBear Bee Periodically transforms you into a Bear, granting x2 Pollen!"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "Cub Buddy Voucher",
+                    "Robux": "600",
+                    "Description": "A tradable voucher that can be redeemed for a Cub Buddy, if you don't already have one. (Max 1 Cub Buddy per account)\nA baby bear that follows you around collecting Tokens and granting Gifts!"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "x2 Bee Gather Voucher",
+                    "Robux": "400",
+                    "Description": "A tradable voucher that can be redeemed once per account to permanently grant x2 Bee Gather Pollen!\nBees collect twice as much pollen when collecting from flowers!"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "x2 Convert Speed Voucher",
+                    "Robux": "250",
+                    "Description": "A tradable voucher that can be redeemed once per account to permanently grant x2 Convert Speed!\nBees convert Pollen into Honey in half the time!"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "Ticket Voucher",
+                    "Robux": "400",
+                    "Description": "Can be redeemed for 100 Tickets.Only one may be redeemed per day.(This is a tradable voucher.)"
+                }
+            ]
+        },
+        {
+            "Items": [
+                {
+                    "Icon": "",
+                    "Item Name": "Silver Egg",
+                    "Robux": "100",
+                    "Description": "Hatches into a special bee!\n(64.9% Rare, 30% Epic, 5% Legendary, 0.1% Mythic)"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "Gold Egg",
+                    "Robux": "200",
+                    "Description": "Always hatches into an Epic, Legendary, or Mythic bee!\n(79% Epic, 20% Legendary, 1% Mythic)"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "Diamond Egg",
+                    "Robux": "400",
+                    "Description": "Always hatches into a Legendary or Mythic bee!\n(95% Legendary, 5% Mythic)"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "Star Egg",
+                    "Robux": "800",
+                    "Description": "Always hatches into a Gifted bee you don't already own! (Excludes Event bees. Limit 5 per player.)"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "Mythic Egg",
+                    "Robux": "1200",
+                    "Description": "Always hatches into a random Mythic bee! (Limit 3 per player.)"
+                }
+            ]
+        },
+        {
+            "Items": [
+                {
+                    "Icon": "",
+                    "Item Name": "Royal Jelly",
+                    "Robux": "45",
+                    "Description": "Transforms a bee's type (70% Rare, 27% Epic and 3% Legendary)."
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "10 Royal Jellies",
+                    "Robux": "300",
+                    "Description": "A value pack of Royal Jellies (33% Discount)."
+                }
+            ]
+        },
+        {
+            "Items": [
+                {
+                    "Icon": "",
+                    "Item Name": "Ticket",
+                    "Robux": "10",
+                    "Description": "Used to activate and purchase various things in the game."
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "100 Tickets",
+                    "Robux": "400",
+                    "Description": "A value pack of tickets! (x2.5 Value. 4 Per Ticket.)"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "510 Tickets",
+                    "Robux": "1700",
+                    "Description": "A value pack of tickets! (x3 Value. 3.33 Per Ticket.)"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "1,800 Tickets",
+                    "Robux": "4500",
+                    "Description": "A value pack of tickets! (x4 Value. 2.5 Per Ticket.)"
+                }
+            ]
+        },
+        {
+            "Items": [
+                {
+                    "Icon": "",
+                    "Item Name": "Magic Bean",
+                    "Robux": "30",
+                    "Description": "Activate to plant a random Sprout in a field. Collect pollen to make it grow."
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "10 Magic Beans",
+                    "Robux": "200",
+                    "Description": "A value pack of 10 Magic Beans!"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "Sticker Planter",
+                    "Robux": "100",
+                    "Description": "Grows in around 3 hours playtime. Grants Nectar, Stickers (at least 5), and more. Always spawns a Rare Puffshroom (or better)! (Requires 20 Bees to purchase. Limit 10 per player.)"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "Night Bell",
+                    "Robux": "80",
+                    "Description": "Summons Night time. A Moon Sprout and a Vicious Bee are guaranteed to appear."
+                }
+            ]
+        },
+        {
+            "Items": [
+                {
+                    "Icon": "",
+                    "Name": "Honey Pouch",
+                    "Robux": "25",
+                    "Description": "Instantly gain 10,000 Honey."
+                },
+                {
+                    "Icon": "",
+                    "Name": "Honey Sack",
+                    "Robux": "300",
+                    "Description": "Instantly gain 250,000 Honey."
+                },
+                {
+                    "Icon": "",
+                    "Name": "Honey Chest",
+                    "Robux": "800",
+                    "Description": "Instantly gain 1,000,000 Honey."
+                },
+                {
+                    "Icon": "",
+                    "Name": "Honey Vault",
+                    "Robux": "1,700",
+                    "Description": "Instantly gain 5,000,000 Honey."
+                }
+            ]
+        },
+        {
+            "Items": [
+                {
+                    "Icon": "",
+                    "Item Name": "Bear Bee",
+                    "Robux": "800",
+                    "Description": "Gives permanent access to Bear Bee. It periodically transforms you into a bear, granting x2 pollen, increased movement speed, and higher jump power!\n(This part is not included in the description.) (This is the 2nd Edition Bear Bee version. The 1st Edition version was available during the first month of the game's release for 650 robux. For those that bought it during that time, it will become gifted and will also have a 1st Edition Flag on it.)"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "x2 Honey Speed Pass",
+                    "Robux": "250",
+                    "Description": "Allows your bees to convert pollen at the hive into honey twice as fast."
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "x2 Bee Pollen Pass",
+                    "Robux": "400",
+                    "Description": "Allows your bees to collect twice as much pollen at a time when gathering from flowers."
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "x2 Ticket Chance Pass",
+                    "Robux": "700",
+                    "Description": "Doubled your chance of receiving a ticket when defeating mobs and collecting pollen."
+                }
+            ]
+        },
+        {
+            "Items": [
+                {
+                    "Limited to one per person.": "Icon",
+                    "col_1": "Item Name",
+                    "col_2": "Robux",
+                    "col_3": "Description",
+                    "col_4": "Expires on"
+                },
+                {
+                    "Limited to one per person.": "",
+                    "col_1": "Merry Mythic Mondo-Haul",
+                    "col_2": "4500",
+                    "col_3": "1 Choose-A-Mythic Egg, 1 Star Treat, 1 Turpentine, 1 Toy Drum, 10 Ticket Vouchers, 25 Bloom Shakers, 25 Swirled and Caustic Waxes, 100 Gingerbread Bears",
+                    "col_4": "March 31, 2026"
+                },
+                {
+                    "Limited to one per person.": "",
+                    "col_1": "Seasonal Slumber Special",
+                    "col_2": "1700",
+                    "col_3": "1 Star Egg, 1 Offline Voucher, 10 Black Balloons and Night Bells, 100 Enzymes and Neonberries, 1000 Gumdrops and Snowflakes",
+                    "col_4": "March 31, 2026 (Pack may not show for everyone due to country limitations and laws surrounding purchases of randomised items)"
+                },
+                {
+                    "Limited to one per person.": "",
+                    "col_1": "Feelin' Festive Pack",
+                    "col_2": "800",
+                    "col_3": "1 Gifted Gold Egg, 1 Toy Horn, 5 Festive Beans, 5 Festive Planters, 5 Nectar Shower Vials, 25 Gingerbread Bears, 500 Tickets",
+                    "col_4": "March 31, 2026 (Pack may not show for everyone due to country limitations and laws surrounding purchases of randomised items)"
+                },
+                {
+                    "Limited to one per person.": "",
+                    "col_1": "Stocking-Stuffer Stuff",
+                    "col_2": "400",
+                    "col_3": "1 Diamond Egg, 1 Critter In A Stocking Sticker, 1 Atomic Treat, 10 Loaded Dice, 25 Glitter, 25 Glues, 500 Snowflakes",
+                    "col_4": "March 31, 2026 (Pack may not show for everyone due to country limitations and laws surrounding purchases of randomised items)"
+                }
+            ]
+        },
+        {
+            "Items": [
+                {
+                    "Icon": "",
+                    "Item Name": "Memorial Day Deal",
+                    "Robux": "700",
+                    "Description": "1 Diamond Egg, 100 Tickets, 25,000 honey.",
+                    "Ended on": "May 26, 2018"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "Summer Treat Pack",
+                    "Robux": "300",
+                    "Description": "1 Diamond Egg, 250 Treats, 10,000 honey and 25 of each special treat!",
+                    "Ended on": "August 1, 2018"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "Summer Star Pack",
+                    "Robux": "1500",
+                    "Description": "1 Star Egg, 250 Tickets, 10 Ant Passes, 100,000 honey!",
+                    "Ended on": "August 1, 2018"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "Super Summer Star Pack",
+                    "Robux": "3500",
+                    "Description": "1 Star Treat, 1,000 Tickets, 25 Ant Passes, 1,000,000 honey!",
+                    "Ended on": "August 1, 2018"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "Diamond Moon Pack",
+                    "Robux": "300",
+                    "Description": "1 Diamond Egg, 25 Moon Charms, 10 Tickets, 100 Treats, and 25,000 honey!",
+                    "Ended on": "Oct 8, 2018"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "Stars And Spikes",
+                    "Robux": "1500",
+                    "Description": "1 Star Egg, 150 Tickets, 100 Stingers, 1 Star Jelly, and 250,000 honey!",
+                    "Ended on": "Oct 8, 2018"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "September Star Special",
+                    "Robux": "3500",
+                    "Description": "1 Star Treat, 600 Tickets, 100 Stingers, 50 Moon Charms, 1 Star Jelly, and 1,500,000 honey!",
+                    "Ended on": "Oct 8, 2018"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "Sparkly Starter Pack",
+                    "Robux": "400",
+                    "Description": "1 Diamond Egg, 5 Magic Beans, 5 Royal Jellies, 25 Tickets, 25 Moon Charms, 150k honey",
+                    "Ended on": "Dec 16, 2018"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "Extreme Extract Pack",
+                    "Robux": "1200",
+                    "Description": "300 Tickets, 100 Stingers, 50 Red Extracts, 50 Blue Extracts, 500 Gumdrops, 500k honey",
+                    "Ended on": "Dec 16, 2018"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "Shining Star Pack",
+                    "Robux": "2000",
+                    "Description": "1 Star Treat, 50 Glitters, 25 Magic Beans, 100 Moon Charms, 1 Star Jelly, 1M honey.",
+                    "Ended on": "Dec 16, 2018"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "Colossal Crafts Pack",
+                    "Robux": "3400",
+                    "Description": "1200 Tickets, 200 Stingers, 50 Glues, 50 Oils, 50 Enzymes, 3 Star Jellies, 3M honey.",
+                    "Ended on": "Dec 16, 2018"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "700 Ticket Offer",
+                    "Robux": "1200",
+                    "Description": "A Discounted Pack of 700 Tickets.",
+                    "Ended on": "Jan 2, 2019"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "Bear Bee (35% Off)",
+                    "Robux": "650",
+                    "Description": "Periodically transforms you into a bear, granting x2 pollen!",
+                    "Ended on": "Jan 2, 2019"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "Festive Bean",
+                    "Robux": "250",
+                    "Description": "Activate to plant a Festive Sprout in a field. Grants Tickets, rare ingredients, and powerful boosts! Limit 5.",
+                    "Ended on": "Jan 2, 2019"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "Festive Bee Pack",
+                    "Robux": "1600",
+                    "Description": "1st Edition Festive Bee Egg, 30 Red Extracts, 30 Oils, 30 Magic Beans, 1M honey.",
+                    "Ended on": "February 1, 2019"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "Winter Wonder Pack",
+                    "Robux": "3400",
+                    "Description": "1 Star Treat, 200 Stingers, 60 Glitters, 60 Blue Extracts, 60 Enzymes, 800 Tickets, 4M honey.",
+                    "Ended on": "February 1, 2019"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "Stocking Stuffer Pack",
+                    "Robux": "450",
+                    "Description": "1 Diamond Egg, 100 Tickets, 5 Night Bells, 5 Magic Beans, 50 Moon Charms, 200k honey.",
+                    "Ended on": "February 1, 2019"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "Happy Honeyday Pack",
+                    "Robux": "900",
+                    "Description": "1 Star Egg, 5 Festive Beans, 10 Night Bells, 10 Glitters, 500 Gumdrops, 500k honey.",
+                    "Ended on": "February 1, 2019"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "700 Ticket Offer",
+                    "Robux": "1200",
+                    "Description": "A discounted pack of 700 Tickets.",
+                    "Ended on": "May 12, 2019"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "Dual-Diamond Basket",
+                    "Robux": "700",
+                    "Description": "2 Diamond Eggs, 500 Gumdrops, 15 Jelly Beans, 15 Field Dice, 15 Red Extracts, 15 Blue Extracts, 250k honey.",
+                    "Ended on": "May 12, 2019"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "Spikey Spring Basket",
+                    "Robux": "2700",
+                    "Description": "1000 Tickets, 250 Stingers, 50 Jelly Beans, 15 Micro-Converters, 75 Glues, 75 Oils, 5M honey.",
+                    "Ended on": "May 12, 2019"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "Windy Bee (First Edition)",
+                    "Robux": "800",
+                    "Description": "Summons Tornadoes to Collect Pollen and Tokens!\nBlows Rain Clouds around the map to help others!\n(Permanently obtainable for free as a rare prize from the Wind Shrine. Shop offer ends Oct 27.)",
+                    "Ended on": "Oct 27, 2019"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "Beginner's Bean Bundle",
+                    "Robux": "400",
+                    "Description": "1 Diamond Egg, 100 Tickets, 25 Magic Beans, 25 Jelly Beans, 10 Field Dice, 5 Cloud Vials, 150k Honey\n(Limit 1. Offer ends Oct 27.)",
+                    "Ended on": "Oct 27, 2019"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "Gooey Goodies Pack",
+                    "Robux": "800",
+                    "Description": "1 Star Jelly, 250 Tickets, 1000 Gumdrops, 100 Coconuts, 100 Stingers, 50 Oils, 500k Honey\n(Limit 1. Offer ends Oct 27.)",
+                    "Ended on": "Oct 27, 2019"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "Star Treat Special",
+                    "Robux": "1700",
+                    "Description": "1 Star Treat, 100 Glitters, 100 Tropical Drinks, 100 Glues, 50 Jelly Beans, 10 Cloud Vials, 2.5M Honey",
+                    "Ended on": "Oct 27, 2019"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "Mythic Pack",
+                    "Robux": "800",
+                    "Description": "Introducing the Mythic Bees!\nTadpole, Vector, and Spicy Bee!\nEach possesses powerful and unique abilities!\nPack contains: 1 Mythic Egg, 250 Tickets, 25 Red Extracts, 25 Blue Extracts. (Contains 1 Mythic Egg, which always hatches into a random Mythic Bee. Offer ends Feb 9th.)",
+                    "Ended on": "Feb 9, 2020"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "Cub Buddy Launch Pack",
+                    "Robux": "800",
+                    "Description": "Cub Buddy follows you collecting tokens and occasionally granting random gifts!\nCollect skins to customize your Cub Buddy!\nPack Contains: 1 Cub Buddy, 1 Noob Cub Skin (Limited Ed.),\n500 Tickets and Noob Cub Skin (If player purchased pack after completing Bee Bear's tenth quest)\n(Cub Buddy is obtainable in game for free. Noob Cub Skin is a limited  exclusive. Offer ends Feb 9th.)",
+                    "Ended on": "Feb 9, 2020"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "Stocking Stuffer Special",
+                    "Robux": "400",
+                    "Description": "1 Diamond Egg, 100 Tickets, 10 Box-O-Frogs, 500 Gumdrops, 25 Jelly Beans, 25 Coconuts, 5 Magic Beans, 150k Honey (Limit 1. Offer ends Feb 9.)",
+                    "Ended on": "Feb 9, 2020"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "Silent Night Special",
+                    "Robux": "800",
+                    "Description": "1 Star Egg, 100 Stingers, 25 Glitters, 5 Night Bells, 100 Moon Charms, 25 Jelly Beans, 500k Honey (Limit 1. Offer ends Feb 9.)",
+                    "Ended on": "Feb 9, 2020"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "Merry Mutations Pack",
+                    "Robux": "1700",
+                    "Description": "5 Atomic Treats, 500 Tickets, 25 Neonberries, 250 Bitterberries, 100 Glues, 100 Enzymes, 50 Tropical Drinks, 2.5m Honey (Limit 1. Offer ends Feb 9.)",
+                    "Ended on": "Feb 9, 2020"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "Fuzzy Pack",
+                    "Robux": "800",
+                    "Description": "Meet Fuzzy, the new Mythic Bee!\nPollinates flowers, upgrading them to the next level!\nPack Contains: 1 Fuzzy Bee Egg, 250 Tickets, 10 Glitters  and 10 Glues \n(Limit 1 pack per player. Offer ends May 17.)",
+                    "Ended on": "May 17, 2020"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "Jumbo June Pack",
+                    "Robux": "1700",
+                    "Description": "1 Mythic Egg, 750 Tickets, 10 Super Smoothies, 25 Glitters, 25 Magic Beans, 25 Enzymes, 2.5m Honey (Limit 1. Offer ends July 5.)",
+                    "Ended on": "July 5, 2020"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "Black Friday Bundle",
+                    "Robux": "800",
+                    "Description": "1 Mythic Egg, 1 Diamond Egg, 1 Gold Egg, 10 Jelly Beans (Limit 1. Offer ends December 13.)",
+                    "Ended on": "December 13, 2020"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "Reindeer Puppy Pack",
+                    "Robux": "800",
+                    "Description": "Puppy Bee and exclusive Reindeer Antlers Beequip!\nEnhances Puppy Bee and adds a Festive Theming!\nPack Contains: Puppy Bee (500 tickets if the player already owns Puppy Bee), Reindeer Puppy Antlers (refund of cost in Bee Bear's Catalog if Reindeer Antlers are already owned), 50 Gingerbread Bears",
+                    "Ended on": "Feb 28, 2021"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "Snowey  Starter Pack",
+                    "Robux": "400",
+                    "Description": "1 Diamond Egg, 100 Tickets, 1 Snowglobe, 1 Single Mitten, 500 Snowflakes, 10 Glitters, 10 Magic Beans, 200k Honey",
+                    "Ended on": "Feb 28, 2021"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "Merry Mythic Pack",
+                    "Robux": "800",
+                    "Description": "1 Mythic Egg, 250 Tickets, 1 Toy Drum, 1 Pinecone, 25 Glue, 10 Gingerbread Bears, 5 Atomic Treats, 500k Honey",
+                    "Ended on": "Feb 28, 2021"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "Jolly Jumbo Pack",
+                    "Robux": "1700",
+                    "Description": "1 Star Egg, 500 Tickets, 1 Toy Horn, 1 Icicles, 5 Festive Beans, 25 Gingerbread Bears, 50 Enzymes, 2500 Gumdrops, 5m Honey",
+                    "Ended on": "Feb 28, 2021"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "Honeyday Mega-Haul",
+                    "Robux": "4500",
+                    "Description": "1 Gifted Mythic Egg, 1500 Tickets, 1 Beesmas Tree Hat, 1 Paper Angel, 25 Super Smoothies, 500 Stingers, 100 Glitters, 50 Gingerbread Bears, 10m Honey",
+                    "Ended on": "Feb 28, 2021"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "Cyber Monday Pack",
+                    "Robux": "800",
+                    "Description": "1 Mythic Egg, 1 Atomic Treat, 100 Tickets, 10 Magic Beans, 10 Micro-Converters, 5 Glues, 5 Night Bells\n(Limited 1 per player. Offer ends December 5.)",
+                    "Ended on": "Dec 5, 2021"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "Buoyant Pack",
+                    "Robux": "800",
+                    "Description": "Meet Buoyant Bee, the Blue Mythic Bee\nSpawns Balloons to carry Pollen and inflate your bag!\nPack Contains: 1 Buoyant Bee Egg, 250 Tickets, 25 Glues, 25 Blue Extracts, 10 Purple Potions, and 3 Red, White, and Black Balloons (Limit 1 pack per player. Offer ends March 31.)",
+                    "Ended on": "March 31, 2022"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "Precise Pack",
+                    "Robux": "1700",
+                    "Description": "Meet Precise Bee, the Red Mythic Bee\nShoots lasers and unleashes Super-Critical power!\nPack Contains: 1 Precise Bee Egg, 500 Tickets, 50 Red Extracts, 50 Hard Wax, 150 Stingers, 250 Neonberries, and 10 Loaded Dice\n(Limit 1 pack per player. Offer ends March 31.)",
+                    "Ended on": "March 31, 2022"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "New Year Booster Bundle",
+                    "Robux": "400",
+                    "Description": "1 Diamond Egg, 100 Tickets, 5 Ticket Planters, 10 Magic Beans, 15 Oils, 15 Enzymes, 15 Soft Wax, 250k Honey (Limit 1. Offer ends March 31.)",
+                    "Ended on": "March 31, 2022"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "Festive Frenzy Haul",
+                    "Robux": "4500",
+                    "Description": "1 Gifted Mythic Egg, 1500 Tickets, 25 Swirled Wax, 25 Purple Potions, 25 Glitters, 10 Super Smoothies, 5 Festive Planters, 5 Festive Beans, 1000 Gumdrops, 10m Honey\n(Limit 1 pack per player. Offer ends March 31.)",
+                    "Ended on": "March 31, 2022"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "Cyber Mondo-Monday Pack",
+                    "Robux": "800",
+                    "Description": "1 Mythic Egg, 10 Ticket Planters, 10 Loaded Dice, 10 Magic Beans, 500 Gumdrops\n(Limit 1 per player. Offer ends Dec 5th.)",
+                    "Ended on": "December 5, 2022"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "250 Tickets",
+                    "Robux": "400",
+                    "Description": "Tickets discounted for Black Friday!\n(Limit 1 per player. Offer ends Dec 5th.)",
+                    "Ended on": "December 5, 2022"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "Digital Bee Pack",
+                    "Robux": "2500",
+                    "Description": "Pack Contains: Digital Bee Egg (1st Edition)\n10 Robo Passes, 10 Glitched Drives, 10 White Drives, 10 Blue Drives, 10 Red Drives\nPermanently obtainable in game as a reward from Robo Bear's Challenge.",
+                    "Ended on": "May 7, 2023"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "Nighttime Nectar Pack",
+                    "Robux": "400",
+                    "Description": "Pack Contains: 1 Star Egg, 1 of each Nectar Vial, 20 Glues, 5 Night Bells, 100 Tickets, 500 Snowflakes",
+                    "Ended on": "May 7, 2023"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "Magical Mythic Pack",
+                    "Robux": "800",
+                    "Description": "Pack Contains: 1 Mythic Egg, 25 Gingerbread Bears, 25 Glitters, 25 Loaded Dice, 5 Festive Beans, 5 Super Smoothies, 25 Red Extracts and Blue Extracts",
+                    "Ended on": "May 7, 2023"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "Mondo Robo-Bundle",
+                    "Robux": "4500",
+                    "Description": "Pack Contains: 1 Gifted Mythic Egg, 25 Robo Passes, 10 Festive Planters, 500 Stingers, 25 Swirled Wax, 25 Caustic Wax, 1 Turpentine, 10 Glitched Drives, 1500 Tickets",
+                    "Ended on": "May 7, 2023"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "Cyber Monday Special",
+                    "Robux": "800",
+                    "Description": "1 Mythic Egg, 250 Tickets, 50 Stingers, 10 Loaded Dice, 10 Glitters, 5 Night Bells, 1 Black Balloon, 1 Atomic Treat\n(Limit 1 per player. Offer ends December 5.)",
+                    "Ended on": "December 5, 2023"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "15 Ticket Planters",
+                    "Robux": "400",
+                    "Description": "Black Friday offer. Plant to collect rewards and Nectar buffs! At least 10 Tickets per planter.",
+                    "Ended on": "December 5, 2023"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "Eggs-travagant Starter Pack",
+                    "Robux": "400",
+                    "Description": "1 Diamond Egg, 1 Gifted Silver Egg, 1 Gold Egg, 1 Super Smoothie, 25 Magic Beans, 500 Snowflakes, 100 Tickets",
+                    "Ended on": "October 28, 2024"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "Purple Planter Pack",
+                    "Robux": "800",
+                    "Description": "1 Mythic Egg, 1 Critter In A Stocking Sticker, 2 Festive Planters, 3 Sticker Planter, 5 Ticket Planters, 25 Purple Potions, 25 Gingerbread Bears, 250 Tickets",
+                    "Ended on": "October 28, 2024"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "Wavy Doodle Hive Bundle",
+                    "Robux": "1700",
+                    "Description": "1 Wavy Doodle Hive Skin , 5 Festive Beans, 15 Loaded Dices, 50 Tropical Drinks, 50 Red and Blue Extracts, 500 Tickets",
+                    "Ended on": "October 28, 2024"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "Gifted Giga-Bundle",
+                    "Robux": "4500",
+                    "Description": "1 Star Treat, 1 Gifted Mythic Egg, 1 Gifted Diamond Egg, 1 Gifted Gold Egg, 1 Flying Festive Bee Sticker, 1 Turpentine, 25 Swirled and Caustic Waxes, 100 Gingerbread Bears, 1500 Tickets",
+                    "Ended on": "October 28, 2024"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "Cyber Monday Sampler",
+                    "Robux": "1000",
+                    "Description": "1 Mythic Egg, 1 Star Egg, 5 Sticker Planters, 10 Glitters, 10 Glues, 10 Loaded Dice",
+                    "Ended on": "December 15, 2024"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "500 Ticket Offer",
+                    "Robux": "400",
+                    "Description": "Tickets discounted for Cyber Monday!",
+                    "Ended on": "December 15, 2024"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "Choose-A-Mythic Egg",
+                    "Robux": "800",
+                    "Description": "Always hatches into the Mythic Bee of your choice!",
+                    "Ended on": "May 1, 2025"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "Royal Winter Wonder Haul",
+                    "Robux": "4500",
+                    "Description": "1 Icy Crowned Hive Skin , 1 Turpentine, 10 Nectar Shower Vials, 10 Festive Planters, 25 Loaded Dice, 25 Caustic Wax, 25 Swirled Wax, 100 Gingerbread Bears, 1500 Tickets",
+                    "Ended on": "May 1, 2025"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "Carpenter's Crafting Pack",
+                    "Robux": "400",
+                    "Description": "1 Gifted Carpenter Bee Egg, 25 Red Extracts, Blue Extracts, Glues, Purple Potions, and Gingerbread Bears, 250 Tickets",
+                    "Ended on": "March 31, 2025"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "Starry Night Special",
+                    "Robux": "1700",
+                    "Description": "1 Gifted Diamond Bee Egg, 1 Star Treat, 1 Paper Angel, 10 Festive Beans and Night Bells, 100 Glitters and Tropical Drinks, 750 Snowflakes and Tickets",
+                    "Ended on": "May 1, 2025"
+                },
+                {
+                    "Icon": "",
+                    "Item Name": "Cyber Monday Mythic Pack",
+                    "Robux": "1000",
+                    "Description": "1 Choose-A-Mythic Egg, 25 Blue Extracts, 25 Oils, 5 Nectar Shower Vials, 5 Ticket Planters, 1 Black Balloon.",
+                    "Ended on": "Dec 15, 2025"
+                }
+            ]
+        }
+    ]
+}

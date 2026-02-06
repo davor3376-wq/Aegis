@@ -1,0 +1,117 @@
+{
+    "title": "Sweatband",
+    "stats": {},
+    "data_tables": [
+        {
+            "Possible Stats": [
+                {
+                    "Stat Caustic Req.": "Chance",
+                    "Base": "Chance",
+                    "Max": "Limit"
+                },
+                {
+                    "Stat Caustic Req.": "+%Bee Energy",
+                    "Base": "15% to 20%",
+                    "Max": "80%",
+                    "Upgrade": "1%, 3%"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "50%",
+                    "Max": "20"
+                },
+                {
+                    "Stat Caustic Req.": "+%White Gather Amount",
+                    "Base": "15% to 20%",
+                    "Max": "60%",
+                    "Upgrade": "1%, 2%"
+                },
+                {
+                    "Stat Caustic Req.": "40% to 60%",
+                    "Base": "15%",
+                    "Max": "20"
+                },
+                {
+                    "Stat Caustic Req.": "+%Red Gather Amount",
+                    "Base": "15% to 20%",
+                    "Max": "60%",
+                    "Upgrade": "1%, 2%"
+                },
+                {
+                    "Stat Caustic Req.": "40% to 60%",
+                    "Base": "15%",
+                    "Max": "20"
+                },
+                {
+                    "Stat Caustic Req.": "+%Blue Gather Amount",
+                    "Base": "15% to 20%",
+                    "Max": "60%",
+                    "Upgrade": "1%, 2%"
+                },
+                {
+                    "Stat Caustic Req.": "40% to 60%",
+                    "Base": "15%",
+                    "Max": "20"
+                },
+                {
+                    "Stat Caustic Req.": "Hive Bonus"
+                },
+                {
+                    "Stat Caustic Req.": "+%White Pollen",
+                    "Base": "1%",
+                    "Max": "2%",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "5% to 25%",
+                    "Base": "0.01% to 1%",
+                    "Max": "1"
+                },
+                {
+                    "Stat Caustic Req.": "+%Red Pollen",
+                    "Base": "1%",
+                    "Max": "2%",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "5% to 25%",
+                    "Base": "0.02% to 1%",
+                    "Max": "1"
+                },
+                {
+                    "Stat Caustic Req.": "+%Blue Pollen",
+                    "Base": "1%",
+                    "Max": "2%",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "5% to 25%",
+                    "Base": "0.01% to 1%",
+                    "Max": "1"
+                },
+                {
+                    "Stat Caustic Req.": "+%Max Bee Energy",
+                    "Base": "-",
+                    "Max": "5%",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "0%",
+                    "Base": "0.01% to 2%",
+                    "Max": "5"
+                },
+                {
+                    "Stat Caustic Req.": "+%PollenCaustic Only",
+                    "Base": "-",
+                    "Max": "1%",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "0%",
+                    "Base": "0.01% to 0.1%",
+                    "Max": "1"
+                }
+            ]
+        }
+    ]
+}

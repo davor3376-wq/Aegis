@@ -1,0 +1,294 @@
+{
+    "title": "Honey Per Pollen",
+    "stats": {},
+    "data_tables": [
+        {
+            "Increasing Honey per Pollen": [
+                {
+                    "Sources": "",
+                    "Boost": "Moon Amulet",
+                    "Duration": "+2-8%",
+                    "Other notes": "Permanent",
+                    "col_4": "Boost is randomized upon generating the amulet."
+                },
+                {
+                    "Sources": "",
+                    "Boost": "Gummy Bee's Gifted Hive Bonus",
+                    "Duration": "+5%",
+                    "Other notes": "Permanent",
+                    "col_4": ""
+                },
+                {
+                    "Sources": "",
+                    "Boost": "Goo Badge",
+                    "Duration": "+2-10%",
+                    "Other notes": "Permanent",
+                    "col_4": "Boost is in increment of 2, 4, 6, 8, and 10 depending on badge tier."
+                },
+                {
+                    "Sources": "",
+                    "Boost": "Festive Mark",
+                    "Duration": "+10%",
+                    "Other notes": "As long as within the Festive Mark range (effectively the Festive Mark's duration).",
+                    "col_4": "Boost only obtainable while in the field."
+                },
+                {
+                    "Sources": "",
+                    "Boost": "Cool Breeze (from Snowflake or Snowglobe)",
+                    "Duration": "+1%~+5%",
+                    "Other notes": "Up to 15 minutes",
+                    "col_4": "Boost is proportional to the buff duration (unstable).\nMaximum boost is possible with Snowflake which is available only during Beesmas."
+                },
+                {
+                    "Sources": "",
+                    "Boost": "Festive Nymph Blessing (from Festive Nymph)",
+                    "Duration": "+1~5%",
+                    "Other notes": "8 hours",
+                    "col_4": "Festive Nymph is available only during Beesmas."
+                },
+                {
+                    "Sources": "",
+                    "Boost": "Honey Jar Ornament",
+                    "Duration": "+5%",
+                    "Other notes": "Semi-permanent",
+                    "col_4": "Lasts permanently until Beesmas ends."
+                },
+                {
+                    "Sources": "",
+                    "Boost": "Wealth Clock",
+                    "Duration": "x1.01-1.05",
+                    "Other notes": "Semi-permanent",
+                    "col_4": "Lasts permanently until the player is off the game for longer than 15 minutes."
+                },
+                {
+                    "Sources": "",
+                    "Boost": "Satisfying Nectar",
+                    "Duration": "x1.01~1.05",
+                    "Other notes": "up to 24 hours",
+                    "col_4": "Boost is proportional to the buff duration (unstable)."
+                },
+                {
+                    "Sources": "",
+                    "Boost": "Refreshing Nectar",
+                    "Duration": "x1.01~1.05",
+                    "Other notes": "up to 24 hours",
+                    "col_4": "Boost is proportional to the buff duration (unstable)."
+                },
+                {
+                    "Sources": "",
+                    "Boost": "Motivating Nectar",
+                    "Duration": "x1.01~1.05",
+                    "Other notes": "up to 24 hours",
+                    "col_4": "Boost is proportional to the buff duration (unstable)."
+                },
+                {
+                    "Sources": "",
+                    "Boost": "Invigorating Nectar",
+                    "Duration": "x1.01~1.05",
+                    "Other notes": "up to 24 hours",
+                    "col_4": "Boost is proportional to the buff duration (unstable)."
+                },
+                {
+                    "Sources": "",
+                    "Boost": "Comforting Nectar",
+                    "Duration": "x1.01~1.05",
+                    "Other notes": "up to 24 hours",
+                    "col_4": "Boost is proportional to the buff duration (unstable)."
+                }
+            ]
+        },
+        {
+            "Increasing Honey per Pollen": [
+                {
+                    "Sticker": "Yellow Swirled Marble",
+                    "Boost": "+0.5%"
+                },
+                {
+                    "Sticker": "Diamond Trim",
+                    "Boost": "+0.5%"
+                },
+                {
+                    "Sticker": "Cyan Decorative Border",
+                    "Boost": "+0.5%"
+                },
+                {
+                    "Sticker": "Left Gold Swirl Fleuron",
+                    "Boost": "+0.5%"
+                },
+                {
+                    "Sticker": "Right Gold Swirl Fleuron",
+                    "Boost": "+0.5%"
+                },
+                {
+                    "Sticker": "Left Shining Diamond Fleuron",
+                    "Boost": "+0.5%"
+                },
+                {
+                    "Sticker": "Right Shining Diamond Fleuron",
+                    "Boost": "+0.5%"
+                },
+                {
+                    "Sticker": "Left Mythic Gem Fleuron",
+                    "Boost": "+0.5%"
+                },
+                {
+                    "Sticker": "Right Mythic Gem Fleuron",
+                    "Boost": "+0.5%"
+                },
+                {
+                    "Sticker": "Total",
+                    "Boost": "+4.5%"
+                }
+            ]
+        },
+        {
+            "Honey at Hive": [
+                {
+                    "Sources": "",
+                    "Boost": "Dandelion Badge",
+                    "Duration": "+3-15%",
+                    "Other notes": "Permanent",
+                    "col_4": "Boosts in increment of 3, 6, 9, 12, and 15 depending on badge tier."
+                },
+                {
+                    "Sources": "",
+                    "Boost": "Balloon Blessing (from Balloon)",
+                    "Duration": "x1.015~2.5",
+                    "Other notes": "1 hour",
+                    "col_4": ""
+                },
+                {
+                    "Sources": "",
+                    "Boost": "Satisfying Nectar",
+                    "Duration": "x1.05~1.5",
+                    "Other notes": "up to 24 hours",
+                    "col_4": "Boost is proportional to the buff duration (unstable)."
+                }
+            ]
+        },
+        {
+            "Honey at Hive": [
+                {
+                    "Beequip": "Per Unit",
+                    "Boost": "Max Total"
+                },
+                {
+                    "Beequip": "",
+                    "Boost": "Festive Wreath",
+                    "Max Equip Count": "+0-10%",
+                    "col_3": "+10%",
+                    "col_4": "1"
+                },
+                {
+                    "Beequip": "",
+                    "Boost": "Elf Cap",
+                    "Max Equip Count": "+0-20%",
+                    "col_3": "+40%",
+                    "col_4": "2"
+                },
+                {
+                    "Beequip": "",
+                    "Boost": "Charm Bracelet",
+                    "Max Equip Count": "+0-1%",
+                    "col_3": "+1%",
+                    "col_4": "1"
+                },
+                {
+                    "Beequip": "",
+                    "Boost": "Candy Ring",
+                    "Max Equip Count": "+2-25%",
+                    "col_3": "+25%",
+                    "col_4": "1"
+                },
+                {
+                    "Beequip": "Maximum Total",
+                    "Boost": "+76%",
+                    "Max Equip Count": "5 beequip slots"
+                }
+            ]
+        },
+        {
+            "Honey at Hive": [
+                {
+                    "Sticker": "Basic Red Hive Skin",
+                    "Boost": "+1%"
+                },
+                {
+                    "Sticker": "Basic Blue Hive Skin",
+                    "Boost": "+1%"
+                },
+                {
+                    "Sticker": "Basic Pink Hive Skin",
+                    "Boost": "+1%"
+                },
+                {
+                    "Sticker": "Basic Green Hive Skin",
+                    "Boost": "+1%"
+                },
+                {
+                    "Sticker": "Basic White Hive Skin",
+                    "Boost": "+1%"
+                },
+                {
+                    "Sticker": "Basic Black Hive Skin",
+                    "Boost": "+1%"
+                },
+                {
+                    "Sticker": "Wavy Yellow Hive Skin",
+                    "Boost": "+1%"
+                },
+                {
+                    "Sticker": "Wavy Cyan Hive Skin",
+                    "Boost": "+1%"
+                },
+                {
+                    "Sticker": "Wavy Purple Hive Skin",
+                    "Boost": "+1%"
+                },
+                {
+                    "Sticker": "Wavy Festive Hive Skin",
+                    "Boost": "+1%"
+                },
+                {
+                    "Sticker": "Window",
+                    "Boost": "+1%"
+                },
+                {
+                    "Sticker": "Simple Skyscraper",
+                    "Boost": "+1%"
+                },
+                {
+                    "Sticker": "Total",
+                    "Boost": "+12%"
+                }
+            ]
+        },
+        {
+            "Honey from Instant Conversion": [
+                {
+                    "Beequip": "Per Unit",
+                    "Boost": "Max Total"
+                },
+                {
+                    "Beequip": "",
+                    "Boost": "Camphor Lip Balm",
+                    "Max Equip Count": "+0-10%",
+                    "col_3": "+10%",
+                    "col_4": "1"
+                },
+                {
+                    "Beequip": "",
+                    "Boost": "Pink Eraser",
+                    "Max Equip Count": "+0.5-4%",
+                    "col_3": "+4%",
+                    "col_4": "1"
+                },
+                {
+                    "Beequip": "Maximum Total",
+                    "Boost": "+14%",
+                    "Max Equip Count": "2 beequip slots"
+                }
+            ]
+        }
+    ]
+}

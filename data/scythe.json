@@ -1,0 +1,78 @@
+{
+    "title": "Scythe",
+    "stats": {},
+    "data_tables": [
+        {
+            "Unknown_Table": [
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                }
+            ]
+        },
+        {
+            "Unknown_Table": [
+                {
+                    "Flowers": "White",
+                    "Single": "7",
+                    "Double": "14",
+                    "Triple": "21",
+                    "Large": "28",
+                    "Star": "35"
+                },
+                {
+                    "Flowers": "Red",
+                    "Single": "14",
+                    "Double": "28",
+                    "Triple": "42",
+                    "Large": "56",
+                    "Star": "70"
+                },
+                {
+                    "Flowers": "Blue",
+                    "Single": "7",
+                    "Double": "14",
+                    "Triple": "21",
+                    "Large": "28",
+                    "Star": "35"
+                },
+                {
+                    "Flowers": "Special Multiplier(s): x2 Red Pollen Multiplier"
+                }
+            ]
+        },
+        {
+            "Unknown_Table": [
+                {
+                    "Crafting Ingredients": "3,500,000 Honey"
+                }
+            ]
+        }
+    ]
+}

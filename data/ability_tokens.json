@@ -1,0 +1,14 @@
+{
+    "title": "Ability Tokens",
+    "stats": {},
+    "data_tables": [
+        {
+            "Festive Gift": [
+                {
+                    "The gifts include": "Red Boost Token\nFestive Blessing Token\nTreats\nSunflower Seeds\nStrawberries\nPineapples\nBlueberries\nHoney\nGumdrops\nRoyal Jellies\nTicket (Rare)\nBlue Extract (Rare)\nRed Extract (Rare)\nMagic Bean (Rare)\nMicro-Converter (Rare)\nFestive Bean (Exceptionally rare)\nFlying Festive Bee Sticker (Beesmas only, Unbelievably rare, odds increase with bee's level)",
+                    "If Festive Bee is Gifted": "Beesmas Cheer Token\nGlue (Rare)\nOil (Rare)\nEnzymes (Rare)\nGlitter (Rare)\nStar Jelly (Rare)\nField Dice (Rare)"
+                }
+            ]
+        }
+    ]
+}

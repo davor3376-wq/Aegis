@@ -1,0 +1,54 @@
+{
+    "title": "Mixed Brick Field",
+    "stats": {},
+    "data_tables": [
+        {
+            "Unknown_Table": [
+                {
+                    "Flowers": "Single",
+                    "White": "30",
+                    "Red": "8.33%",
+                    "Blue": "30",
+                    "Total": "8.33%",
+                    "col_5": "30",
+                    "col_6": "8.33%",
+                    "col_7": "90",
+                    "col_8": "25%"
+                },
+                {
+                    "Flowers": "Double",
+                    "White": "60",
+                    "Red": "16.67%",
+                    "Blue": "60",
+                    "Total": "16.67%",
+                    "col_5": "60",
+                    "col_6": "16.67%",
+                    "col_7": "181",
+                    "col_8": "50%"
+                },
+                {
+                    "Flowers": "Triple",
+                    "White": "30",
+                    "Red": "8.33%",
+                    "Blue": "30",
+                    "Total": "8.33%",
+                    "col_5": "30",
+                    "col_6": "8.33%",
+                    "col_7": "90",
+                    "col_8": "25%"
+                },
+                {
+                    "Flowers": "Total",
+                    "White": "120",
+                    "Red": "33.33%",
+                    "Blue": "120",
+                    "Total": "33.33%",
+                    "col_5": "120",
+                    "col_6": "33.33%",
+                    "col_7": "361",
+                    "col_8": "100%"
+                }
+            ]
+        }
+    ]
+}

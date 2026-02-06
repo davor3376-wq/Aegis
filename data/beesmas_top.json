@@ -1,0 +1,73 @@
+{
+    "title": "Beesmas Top",
+    "stats": {},
+    "data_tables": [
+        {
+            "Possible Stats": [
+                {
+                    "Stat Caustic Req.": "Chance",
+                    "Base": "Chance",
+                    "Max": "Limit"
+                },
+                {
+                    "Stat Caustic Req.": "+%Critical Chance",
+                    "Base": "5% to 10%",
+                    "Max": "20%",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "30% to 100%",
+                    "Max": "10"
+                },
+                {
+                    "Stat Caustic Req.": "-%Energy",
+                    "Base": "-35% to -25%",
+                    "Max": "125%",
+                    "Upgrade": "5%, 10%Bias: 2"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "100%",
+                    "Max": "15"
+                },
+                {
+                    "Stat Caustic Req.": "+%Bee Ability Rate",
+                    "Base": "5% to 10%",
+                    "Max": "20%",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "30% to 100%",
+                    "Max": "10"
+                },
+                {
+                    "Stat Caustic Req.": "+Bee Attack",
+                    "Base": "1",
+                    "Max": "1",
+                    "Upgrade": "-"
+                },
+                {
+                    "Stat Caustic Req.": "10%",
+                    "Base": "-",
+                    "Max": "-"
+                },
+                {
+                    "Stat Caustic Req.": "Hive Bonus"
+                },
+                {
+                    "Stat Caustic Req.": "+%Critical Power",
+                    "Base": "2% to 5%",
+                    "Max": "15%",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "1% to 10%",
+                    "Max": "10"
+                }
+            ]
+        }
+    ]
+}

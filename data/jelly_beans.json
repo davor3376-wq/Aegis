@@ -1,0 +1,106 @@
+{
+    "title": "Jelly Beans",
+    "stats": {},
+    "data_tables": [
+        {
+            "Types and Effects": [
+                {
+                    "Name": "Red Jelly Bean",
+                    "Image": "",
+                    "Effect(s)": "+25% Red Pollen",
+                    "Rarity": "Very Common (~20%)"
+                },
+                {
+                    "Name": "Blue Jelly Bean",
+                    "Image": "",
+                    "Effect(s)": "+25% Blue Pollen",
+                    "Rarity": "Very Common (~20%)"
+                },
+                {
+                    "Name": "White Jelly Bean",
+                    "Image": "",
+                    "Effect(s)": "+25% White Pollen",
+                    "Rarity": "Very Common  (~20%)"
+                },
+                {
+                    "Name": "Green Jelly Bean",
+                    "Image": "",
+                    "Effect(s)": "+3% Critical Chance",
+                    "Rarity": "Common (~8%)"
+                },
+                {
+                    "Name": "Yellow Jelly Bean",
+                    "Image": "",
+                    "Effect(s)": "x1.1 Conversion Rate",
+                    "Rarity": "Common (~8%)"
+                },
+                {
+                    "Name": "Black Jelly Bean",
+                    "Image": "",
+                    "Effect(s)": "+25% Bomb Pollen",
+                    "Rarity": "Uncommon (~4%)"
+                },
+                {
+                    "Name": "Brown Jelly Bean",
+                    "Image": "",
+                    "Effect(s)": "+25% Instant Bomb Conversion",
+                    "Rarity": "Uncommon (~4%)"
+                },
+                {
+                    "Name": "Pink Jelly Bean",
+                    "Image": "",
+                    "Effect(s)": "+25% Instant Bee Gather Conversion",
+                    "Rarity": "Uncommon (~4%)"
+                },
+                {
+                    "Name": "Teal Jelly Bean",
+                    "Image": "",
+                    "Effect(s)": "+25% Instant Tool Conversion",
+                    "Rarity": "Uncommon (~4%)"
+                },
+                {
+                    "Name": "Maroon Jelly Bean",
+                    "Image": "",
+                    "Effect(s)": "+10% Instant Red Conversion",
+                    "Rarity": "Rare (~1%)"
+                },
+                {
+                    "Name": "Navy Jelly Bean",
+                    "Image": "",
+                    "Effect(s)": "+10% Instant Blue Conversion",
+                    "Rarity": "Rare (~1%)"
+                },
+                {
+                    "Name": "Slate Jelly Bean",
+                    "Image": "",
+                    "Effect(s)": "+10% Instant White Conversion",
+                    "Rarity": "Rare (~1%)"
+                },
+                {
+                    "Name": "Periwinkle Jelly Bean",
+                    "Image": "",
+                    "Effect(s)": "+25% Pollen",
+                    "Rarity": "Very Rare (~0.25%)"
+                },
+                {
+                    "Name": "Merigold Jelly Bean",
+                    "Image": "",
+                    "Effect(s)": "+10% Instant Conversion",
+                    "Rarity": "Very Rare (~0.25%)"
+                },
+                {
+                    "Name": "Spoiled Jelly Bean",
+                    "Image": "",
+                    "Effect(s)": "-30% Bee Movespeed",
+                    "Rarity": "Extremely Rare (~0.025%)"
+                },
+                {
+                    "Name": "Jelly Bean Sharing Bonus",
+                    "Image": "",
+                    "Effect(s)": "+100% Convert Rate, +10% White Pollen, +10% Red Pollen and +10% Blue Pollen",
+                    "Rarity": "N/A (To get this bonus, the player must let another player take a dropped Jelly Bean that the player used)\nThe length of this boost depends on the amount of jelly beans another player has picked up, eventually capping out at 30 minutes."
+                }
+            ]
+        }
+    ]
+}

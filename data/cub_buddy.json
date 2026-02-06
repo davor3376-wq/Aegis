@@ -1,0 +1,188 @@
+{
+    "title": "Cub Buddy",
+    "stats": {},
+    "data_tables": [
+        {
+            "Regular Skins": [
+                {
+                    "Appearance": "",
+                    "Name": "Black Cub",
+                    "Description": "A precious baby Black Bear!\nThis is the default skin given to all Cub Buddy owners."
+                },
+                {
+                    "Appearance": "",
+                    "Name": "Brown Cub",
+                    "Description": "A slightly chubby cub that got into the Royal Jelly. \nRewarded after completing 300 Brown Bear Quests!"
+                },
+                {
+                    "Appearance": "",
+                    "Name": "Robo Cub",
+                    "Description": "They forgot a few drives when constructing this Robo Bear.\nRewarded after beating round 25 of Robo Bear's Challenge for the first time, collecting 250,000 Cogs in total, or being top 5 in the Daily Robo Bear scores."
+                },
+                {
+                    "Appearance": "",
+                    "Name": "Stick Cub",
+                    "Description": "This stick nymph evolved to camouflage itself as a bear.\nAwarded to the top 5 Daily Stick Bug scores. Dropped by Stick Bug (Unbelievably Rare)"
+                },
+                {
+                    "Appearance": "",
+                    "Name": "Star Cub",
+                    "Description": "A cosmic cub visiting from another galaxy.\nAwarded after sticking all 12 Star Signs to the Sticker Stack or obtained from the Sticker Printer."
+                }
+            ]
+        },
+        {
+            "Limited Skins": [
+                {
+                    "Appearance": "",
+                    "Name": "Noob Cub",
+                    "Description": "This little noob doesn't know the first thing about running a shop.\nThis was included in the Cub Buddy Launch Pack.\n(During Beesmas 2019) Obtained in the Cub Buddy Launch Pack."
+                },
+                {
+                    "Appearance": "",
+                    "Name": "Bee Cub",
+                    "Description": "A young polar bear going through an identity crisis.\nThis was the final reward of Bee Bear's 2019 quests.\n(During Beesmas 2019) Obtained through Bee Bear's 2nd Cub Buddy questline."
+                },
+                {
+                    "Appearance": "",
+                    "Name": "Gingerbread Cub",
+                    "Description": "A cub made of cookies, brought to life by Honeyday Magic!\nPurchased in Bee Bear's 2020 Catalog for 250 Gingerbread Bears."
+                },
+                {
+                    "Appearance": "",
+                    "Name": "Snow Cub",
+                    "Description": "This cruel cub was carved from a Level 20 Snowbear's snowball.\nThis was the final reward of Bee Bear's March 2022 quests."
+                },
+                {
+                    "Appearance": "",
+                    "Name": "Peppermint Robo Cub",
+                    "Description": "A clockwork cub composed of cogs and candycanes.\nThis was the final reward of Bee Bear's April 2023 quests."
+                },
+                {
+                    "Appearance": "",
+                    "Name": "Doodle Cub",
+                    "Description": "Cut from cardboard and scribbled up with magic crayons. This was the final reward of Bee Bear's Summer 2024 quests."
+                },
+                {
+                    "Appearance": "",
+                    "Name": "Gloomy Cub",
+                    "Description": "This crybaby's pessimism is reified as a permanent cloud. This is the final reward of Bee Bear's March 2025 quests."
+                }
+            ]
+        },
+        {
+            "Possible Gift Rewards": [
+                {
+                    "Gift": "Treats",
+                    "Increments": "2, 4 or 5",
+                    "Rarity": "Almost Guaranteed"
+                },
+                {
+                    "Gift": "Strawberries",
+                    "Increments": "3 or 5",
+                    "Rarity": "Common"
+                },
+                {
+                    "Gift": "Blueberries",
+                    "Increments": "3 or 5",
+                    "Rarity": "Common"
+                },
+                {
+                    "Gift": "Sunflower Seeds",
+                    "Increments": "3",
+                    "Rarity": "Common"
+                },
+                {
+                    "Gift": "Pineapples",
+                    "Increments": "3",
+                    "Rarity": "Common"
+                },
+                {
+                    "Gift": "Gumdrops",
+                    "Increments": "1 or 5",
+                    "Rarity": "Common"
+                },
+                {
+                    "Gift": "Bitterberries",
+                    "Increments": "1 or 5",
+                    "Rarity": "Uncommon"
+                },
+                {
+                    "Gift": "Coconuts",
+                    "Increments": "1",
+                    "Rarity": "Common"
+                },
+                {
+                    "Gift": "Field Dice",
+                    "Increments": "1 or 5",
+                    "Rarity": "Common"
+                },
+                {
+                    "Gift": "Jelly Beans",
+                    "Increments": "1 or 5",
+                    "Rarity": "Common"
+                },
+                {
+                    "Gift": "Micro-Converters",
+                    "Increments": "1 or 5",
+                    "Rarity": "Uncommon"
+                },
+                {
+                    "Gift": "Royal Jellies",
+                    "Increments": "1",
+                    "Rarity": "Common"
+                },
+                {
+                    "Gift": "Tickets",
+                    "Increments": "1 or 5",
+                    "Rarity": "Rare"
+                },
+                {
+                    "Gift": "Magic Beans",
+                    "Increments": "1",
+                    "Rarity": "Rare"
+                },
+                {
+                    "Gift": "Neonberries",
+                    "Increments": "1",
+                    "Rarity": "Rare"
+                },
+                {
+                    "Gift": "Red Extracts",
+                    "Increments": "1",
+                    "Rarity": "Rare"
+                },
+                {
+                    "Gift": "Blue Extracts",
+                    "Increments": "1",
+                    "Rarity": "Rare"
+                },
+                {
+                    "Gift": "Enzymes",
+                    "Increments": "1",
+                    "Rarity": "Rare"
+                },
+                {
+                    "Gift": "Oils",
+                    "Increments": "1",
+                    "Rarity": "Rare"
+                },
+                {
+                    "Gift": "Tropical Drinks",
+                    "Increments": "1",
+                    "Rarity": "Rare"
+                },
+                {
+                    "Gift": "Stingers",
+                    "Increments": "1",
+                    "Rarity": "Very Rare"
+                },
+                {
+                    "Gift": "Star Jellies",
+                    "Increments": "1",
+                    "Rarity": "Exceptionally Rare"
+                }
+            ]
+        }
+    ]
+}

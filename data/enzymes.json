@@ -1,0 +1,70 @@
+{
+    "title": "Enzymes",
+    "stats": {},
+    "data_tables": [
+        {
+            "Crafting Uses": [
+                {
+                    "Enzymes": "1",
+                    "Other ingredients": "5 Honeysuckles\n1 Oil\n10 Royal Jellies",
+                    "Result": "Soft Wax"
+                },
+                {
+                    "Enzymes": "2",
+                    "Other ingredients": "2 Oils\n10 Coconuts",
+                    "Result": "Tropical Drink"
+                },
+                {
+                    "Enzymes": "3",
+                    "Other ingredients": "3 Soft Waxes\n33 Bitterberries\n33 Royal Jellies",
+                    "Result": "Hard Wax"
+                },
+                {
+                    "Enzymes": "5",
+                    "Other ingredients": "5 Hard Waxes\n25 Neonberries\n5,252 Royal Jellies",
+                    "Result": "Caustic Wax"
+                },
+                {
+                    "Enzymes": "5",
+                    "Other ingredients": "20,000,000 Honey\n3 Glues\n1 Glitter",
+                    "Result": "Beekeeper's Mask"
+                },
+                {
+                    "Enzymes": "25",
+                    "Other ingredients": "100,000,000 Honey\n500 Strawberries\n50 Red Extracts\n15 Glues",
+                    "Result": "Fire Mask"
+                },
+                {
+                    "Enzymes": "25",
+                    "Other ingredients": "100,000,000 Honey\n9,999 Treats\n50 Oils\n5 Gold Eggs",
+                    "Result": "Honey Mask"
+                },
+                {
+                    "Enzymes": "50",
+                    "Other ingredients": "75,000,000 Honey\n50 Glues\n25 Oils",
+                    "Result": "Honeycomb Belt"
+                },
+                {
+                    "Enzymes": "50",
+                    "Other ingredients": "200,000,000 Honey\n100 Blue Extracts\n100 Stingers\n25 Glitter",
+                    "Result": "Cobalt Guard"
+                },
+                {
+                    "Enzymes": "75",
+                    "Other ingredients": "1.5B Honey\n1 Spirit Petal\n10 Star Jellies\n25 Glitter",
+                    "Result": "Petal Wand"
+                },
+                {
+                    "Enzymes": "100",
+                    "Other ingredients": "5B Honey\n250 Glues\n100 Oils\n100 Glitter",
+                    "Result": "Gummy Mask"
+                },
+                {
+                    "Enzymes": "150",
+                    "Other ingredients": "5B Honey\n250 Red Extracts\n500 Stingers\n100 Glues",
+                    "Result": "Demon Mask"
+                }
+            ]
+        }
+    ]
+}

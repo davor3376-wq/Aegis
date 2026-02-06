@@ -1,0 +1,50 @@
+{
+    "title": "Hard Wax",
+    "stats": {},
+    "data_tables": [
+        {
+            "Crafting Uses": [
+                {
+                    "Hard Waxes": "3",
+                    "Other ingredients": "9 Soft Waxes\n6 Purple Potions\n3,333 Royal Jellies",
+                    "Result": "Swirled Wax"
+                },
+                {
+                    "Hard Waxes": "3",
+                    "Other ingredients": "3 Smooth Dice\n3 Oils\n1 Glue",
+                    "Result": "Loaded Dice"
+                },
+                {
+                    "Hard Waxes": "5",
+                    "Other ingredients": "5 Enzymes\n25 Neonberries\n5,252 Royal Jellies",
+                    "Result": "Caustic Wax"
+                },
+                {
+                    "Hard Waxes": "5",
+                    "Other ingredients": "50,000,000 Honey\n10 Magic Beans\n1 Purple Potion\n20 Soft Waxes",
+                    "Result": "Tacky Planter"
+                },
+                {
+                    "Hard Waxes": "10",
+                    "Other ingredients": "750,000,000 Honey\n25 Magic Beans\n25 Neonberries\n15 Glues\n3 Caustic Waxes",
+                    "Result": "Pesticide Planter"
+                },
+                {
+                    "Hard Waxes": "100",
+                    "Other ingredients": "2.5T Honey\n1,500 Red Extracts\n150 Stingers\n50 Caustic Waxes\n50 Super Smoothies\n3 Invigorating Vials",
+                    "Result": "Dark Scythe"
+                },
+                {
+                    "Hard Waxes": "150",
+                    "Other ingredients": "750B Honey\n75 Magic Beans\n750 Red Extracts\n25 Swirled Waxes\n1 Turpentine",
+                    "Result": "Heat-Treated Planter"
+                },
+                {
+                    "Hard Waxes": "200",
+                    "Other ingredients": "7.5T Honey\n500 Coconuts\n1,500 Tropical Drinks\n200 Purple Potions\n3 Turpentines\n3 Refreshing Vials",
+                    "Result": "Coconut Belt"
+                }
+            ]
+        }
+    ]
+}

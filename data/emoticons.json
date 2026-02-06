@@ -1,0 +1,240 @@
+{
+    "title": "Emoticons",
+    "stats": {},
+    "data_tables": [
+        {
+            "Field Preferences": [
+                {
+                    "Bee Type": "Basic Bee",
+                    "Likes": "Sunflower Field, Clover Field, Mountain Top Field",
+                    "Dislikes": "Spider Field"
+                },
+                {
+                    "Bee Type": "Bomber Bee",
+                    "Likes": "Dandelion Field, Cactus Field",
+                    "Dislikes": "Pumpkin Field"
+                },
+                {
+                    "Bee Type": "Brave Bee",
+                    "Likes": "Spider Field, Clover Field",
+                    "Dislikes": "Dandelion Field"
+                },
+                {
+                    "Bee Type": "Bumble Bee",
+                    "Likes": "Blue Flower Field, Stump Field",
+                    "Dislikes": "Mushroom Field"
+                },
+                {
+                    "Bee Type": "Cool Bee",
+                    "Likes": "Bamboo Field, Pine Tree Forest",
+                    "Dislikes": "Strawberry Field"
+                },
+                {
+                    "Bee Type": "Hasty Bee",
+                    "Likes": "Sunflower Field, Cactus Field",
+                    "Dislikes": "Pumpkin Patch, Stump Field"
+                },
+                {
+                    "Bee Type": "Looker Bee",
+                    "Likes": "Clover Field, Mountain Top Field",
+                    "Dislikes": "Sunflower Field, Pepper Patch"
+                },
+                {
+                    "Bee Type": "Rad Bee",
+                    "Likes": "Mushroom Field, Rose Field",
+                    "Dislikes": "Pine Tree Forest"
+                },
+                {
+                    "Bee Type": "Rascal Bee",
+                    "Likes": "Mushroom Field, Rose Field",
+                    "Dislikes": "Pine Tree Forest"
+                },
+                {
+                    "Bee Type": "Stubborn Bee",
+                    "Likes": "Dandelion Field, Clover Field",
+                    "Dislikes": "Rose Field"
+                },
+                {
+                    "Bee Type": "Bubble Bee",
+                    "Likes": "Blue Flower Field, Pine Tree Forest",
+                    "Dislikes": "Strawberry Field"
+                },
+                {
+                    "Bee Type": "Bucko Bee",
+                    "Likes": "Blue Flower Field, Bamboo Field, Pine Tree Forest",
+                    "Dislikes": "Strawberry Field, Rose Field"
+                },
+                {
+                    "Bee Type": "Commander Bee",
+                    "Likes": "Spider Field, Cactus Field",
+                    "Dislikes": "Dandelion Field"
+                },
+                {
+                    "Bee Type": "Demo Bee",
+                    "Likes": "Dandelion Field, Cactus Field",
+                    "Dislikes": "Rose Field"
+                },
+                {
+                    "Bee Type": "Exhausted Bee",
+                    "Likes": "Dandelion Field, Sunflower Field, Stump Field",
+                    "Dislikes": "Cactus Field"
+                },
+                {
+                    "Bee Type": "Fire Bee",
+                    "Likes": "Mushroom Field, Strawberry Field",
+                    "Dislikes": "Pine Tree Forest"
+                },
+                {
+                    "Bee Type": "Frosty Bee",
+                    "Likes": "Blue Flower Field, Mountain Top Field",
+                    "Dislikes": "Mushroom Field, Pepper Patch"
+                },
+                {
+                    "Bee Type": "Honey Bee",
+                    "Likes": "Pumpkin Patch, Mountain Top Field",
+                    "Dislikes": "Spider Field"
+                },
+                {
+                    "Bee Type": "Rage Bee",
+                    "Likes": "Spider Field, Rose Field",
+                    "Dislikes": "Blue Flower Field"
+                },
+                {
+                    "Bee Type": "Riley Bee",
+                    "Likes": "Mushroom Field, Strawberry Field, Rose Field",
+                    "Dislikes": "Bamboo Field, Pine Tree Forest"
+                },
+                {
+                    "Bee Type": "Shocked Bee",
+                    "Likes": "Spider Field, Pineapple Patch",
+                    "Dislikes": "Mushroom Field"
+                },
+                {
+                    "Bee Type": "Baby Bee",
+                    "Likes": "Dandelion Field, Sunflower Field, Mushroom Field, Blue Flower Field",
+                    "Dislikes": "Spider Field, Cactus Field, Rose Field, Pine Tree Forest, Stump Field, Pepper Patch"
+                },
+                {
+                    "Bee Type": "Carpenter Bee",
+                    "Likes": "Bamboo Field, Pine Tree Forest",
+                    "Dislikes": "Mountain Top Field"
+                },
+                {
+                    "Bee Type": "Demon Bee",
+                    "Likes": "Mushroom Field, Spider Field",
+                    "Dislikes": "Mountain Top Field"
+                },
+                {
+                    "Bee Type": "Diamond Bee",
+                    "Likes": "Blue Flower Field, Pineapple Patch",
+                    "Dislikes": "Rose Field"
+                },
+                {
+                    "Bee Type": "Lion Bee",
+                    "Likes": "Pineapple Patch, Ant Field",
+                    "Dislikes": "Clover Field"
+                },
+                {
+                    "Bee Type": "Music Bee",
+                    "Likes": "Dandelion Field, Clover Field",
+                    "Dislikes": "Cactus Field"
+                },
+                {
+                    "Bee Type": "Ninja Bee",
+                    "Likes": "Blue Flower Field, Bamboo Field",
+                    "Dislikes": "Mushroom Field"
+                },
+                {
+                    "Bee Type": "Shy Bee",
+                    "Likes": "Strawberry Field, Pumpkin Patch",
+                    "Dislikes": "Pine Tree Forest"
+                },
+                {
+                    "Bee Type": "Buoyant Bee",
+                    "Likes": "Blue Flower Field, Bamboo Field, Mountain Top Field, Coconut Field",
+                    "Dislikes": "None"
+                },
+                {
+                    "Bee Type": "Fuzzy Bee",
+                    "Likes": "Dandelion Field, Pine Tree Forest",
+                    "Dislikes": "Pepper Patch"
+                },
+                {
+                    "Bee Type": "Precise Bee",
+                    "Likes": "Rose Field, Mountain Top Field",
+                    "Dislikes": "Bamboo Field, Pine Tree Forest"
+                },
+                {
+                    "Bee Type": "Spicy Bee",
+                    "Likes": "Pepper Patch",
+                    "Dislikes": "Stump Field"
+                },
+                {
+                    "Bee Type": "Tadpole Bee",
+                    "Likes": "Pine Tree Forest, Stump Field",
+                    "Dislikes": "Cactus Field"
+                },
+                {
+                    "Bee Type": "Vector Bee",
+                    "Likes": "Spider Field, Coconut Field",
+                    "Dislikes": "Pineapple Patch"
+                },
+                {
+                    "Bee Type": "Bear Bee",
+                    "Likes": "Pumpkin Field, Pine Tree Forest",
+                    "Dislikes": "Blue Flower Field"
+                },
+                {
+                    "Bee Type": "Cobalt Bee",
+                    "Likes": "Clover Field, Pine Tree Forest",
+                    "Dislikes": "Pineapple Patch"
+                },
+                {
+                    "Bee Type": "Crimson Bee",
+                    "Likes": "Clover Field, Rose Field",
+                    "Dislikes": "Pineapple Patch"
+                },
+                {
+                    "Bee Type": "Digital Bee",
+                    "Likes": "Dandelion Field, Mountain Top Field, Coconut Field",
+                    "Dislikes": "Pine Tree Forest"
+                },
+                {
+                    "Bee Type": "Festive Bee",
+                    "Likes": "Mushroom Field, Pine Tree Forest, Mountain Top Field",
+                    "Dislikes": "Blue Flower Field"
+                },
+                {
+                    "Bee Type": "Gummy Bee",
+                    "Likes": "Pineapple Patch, Stump Field, Mountain Top Field",
+                    "Dislikes": "Pumpkin Patch"
+                },
+                {
+                    "Bee Type": "Photon Bee",
+                    "Likes": "Pineapple Patch, Pumpkin Patch",
+                    "Dislikes": "Clover Field"
+                },
+                {
+                    "Bee Type": "Puppy Bee",
+                    "Likes": "Clover Field, Pumpkin Patch",
+                    "Dislikes": "Rose Field"
+                },
+                {
+                    "Bee Type": "Tabby Bee",
+                    "Likes": "Clover, Spider",
+                    "Dislikes": "Cactus Field"
+                },
+                {
+                    "Bee Type": "Vicious Bee",
+                    "Likes": "Cactus Field, Rose Field",
+                    "Dislikes": "Dandelion Field"
+                },
+                {
+                    "Bee Type": "Windy Bee",
+                    "Likes": "Dandelion Field, Coconut Field",
+                    "Dislikes": "Bamboo Field, Strawberry Field"
+                }
+            ]
+        }
+    ]
+}

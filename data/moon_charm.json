@@ -1,0 +1,55 @@
+{
+    "title": "Moon Charm",
+    "stats": {},
+    "data_tables": [
+        {
+            "Crafting Uses": [
+                {
+                    "Moon Charms": "1",
+                    "Other ingredients": "30,000 Honey\n5 Pineapples",
+                    "Result": "Helmet"
+                },
+                {
+                    "Moon Charms": "3",
+                    "Other ingredients": "1,000,000 Honey\n50 Blueberries\n1 Royal Jelly",
+                    "Result": "Blue Guard"
+                },
+                {
+                    "Moon Charms": "5",
+                    "Other ingredients": "300,000 Honey",
+                    "Result": "Hasty Guard"
+                },
+                {
+                    "Moon Charms": "5",
+                    "Other ingredients": "2,500,000 Honey\n25 Gumdrops\n100 Pineapples",
+                    "Result": "Propeller Hat"
+                },
+                {
+                    "Moon Charms": "10",
+                    "Other ingredients": "250,000,000 Honey\n3 Glitter\n3 Soft Waxes",
+                    "Result": "Porcelain Port-O-Hive"
+                },
+                {
+                    "Moon Charms": "15",
+                    "Other ingredients": "5,000,000 Honey\n3 Blue Extracts\n50 Blueberries\n5 Royal Jellies",
+                    "Result": "Elite Blue Guard"
+                },
+                {
+                    "Moon Charms": "25",
+                    "Other ingredients": "1 Magic Bean",
+                    "Result": "Glitter"
+                },
+                {
+                    "Moon Charms": "75",
+                    "Other ingredients": "30,000,000 Honey\n10 Blue Extracts\n100 Blueberries\n5 Glues",
+                    "Result": "Bucko Guard"
+                },
+                {
+                    "Moon Charms": "100",
+                    "Other ingredients": "N/A",
+                    "Result": "Moon Amulet"
+                }
+            ]
+        }
+    ]
+}

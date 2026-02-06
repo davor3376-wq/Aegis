@@ -1,0 +1,78 @@
+{
+    "title": "Super-Scooper",
+    "stats": {},
+    "data_tables": [
+        {
+            "Unknown_Table": [
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                }
+            ]
+        },
+        {
+            "Unknown_Table": [
+                {
+                    "Flowers": "White",
+                    "Single": "4",
+                    "Double": "8",
+                    "Triple": "12",
+                    "Large": "16",
+                    "Star": "20"
+                },
+                {
+                    "Flowers": "Red",
+                    "Single": "4",
+                    "Double": "8",
+                    "Triple": "12",
+                    "Large": "16",
+                    "Star": "20"
+                },
+                {
+                    "Flowers": "Blue",
+                    "Single": "4",
+                    "Double": "8",
+                    "Triple": "12",
+                    "Large": "16",
+                    "Star": "20"
+                },
+                {
+                    "Flowers": "Special Multiplier(s): None"
+                }
+            ]
+        },
+        {
+            "Unknown_Table": [
+                {
+                    "Crafting Ingredients": "40,000 Honey"
+                }
+            ]
+        }
+    ]
+}

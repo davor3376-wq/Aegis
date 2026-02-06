@@ -1,0 +1,94 @@
+{
+    "title": "Bees/Rare",
+    "stats": {},
+    "data_tables": [
+        {
+            "Unknown_Table": [
+                {
+                    "Bee": "Bomber Bee",
+                    "Icon": "",
+                    "Description": "This crafty bee makes bombs which collect pollen from all nearby flowers."
+                },
+                {
+                    "Bee": "Brave Bee",
+                    "Icon": "",
+                    "Description": "This loyal bee will do anything to protect its owner."
+                },
+                {
+                    "Bee": "Bumble Bee",
+                    "Icon": "",
+                    "Description": "A mellow fellow who moves a little slow, but works harder and longer than others."
+                },
+                {
+                    "Bee": "Cool Bee",
+                    "Icon": "",
+                    "Description": "A sarcastic bee who's a little better than the others. Sometimes boosts pollen from Blue flowers."
+                },
+                {
+                    "Bee": "Hasty Bee",
+                    "Icon": "",
+                    "Description": "A quick bee who always zips arounds . Sometimes it even makes YOU move faster."
+                },
+                {
+                    "Bee": "Looker Bee",
+                    "Icon": "",
+                    "Description": "This silent bee is always watching and gaining valuable insights."
+                },
+                {
+                    "Bee": "Rad Bee",
+                    "Icon": "",
+                    "Description": "A stylish bee with a taste for red flowers. Everyone wants to be this bee."
+                },
+                {
+                    "Bee": "Rascal Bee",
+                    "Icon": "",
+                    "Description": "A mischievous bee who moves quick and hits hard. Keep an eye out on this one."
+                },
+                {
+                    "Bee": "Stubborn Bee",
+                    "Icon": "",
+                    "Description": "A hardheaded bee who can't be bossed around. It tells others where to go."
+                }
+            ]
+        },
+        {
+            "Unknown_Table": [
+                {
+                    "Egg and Jelly Probability": "Item",
+                    "col_1": "Base Probability",
+                    "col_2": "Probability of getting a particular rare bee."
+                },
+                {
+                    "Egg and Jelly Probability": "Basic Egg",
+                    "col_1": "10%",
+                    "col_2": "1.11111%"
+                },
+                {
+                    "Egg and Jelly Probability": "Silver Egg",
+                    "col_1": "64.9%",
+                    "col_2": "7.21111%"
+                },
+                {
+                    "Egg and Jelly Probability": "Gold Egg",
+                    "col_1": "0%",
+                    "col_2": "0%"
+                },
+                {
+                    "Egg and Jelly Probability": "Diamond Egg",
+                    "col_1": "0%",
+                    "col_2": "0%"
+                },
+                {
+                    "Egg and Jelly Probability": "Mythic Egg",
+                    "col_1": "0%",
+                    "col_2": "0%"
+                },
+                {
+                    "Egg and Jelly Probability": "Royal Jelly",
+                    "col_1": "70%",
+                    "col_2": "7.77778%"
+                }
+            ]
+        }
+    ]
+}

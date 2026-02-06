@@ -1,0 +1,78 @@
+{
+    "title": "Tide Popper",
+    "stats": {},
+    "data_tables": [
+        {
+            "Unknown_Table": [
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                }
+            ]
+        },
+        {
+            "Unknown_Table": [
+                {
+                    "Flowers": "White",
+                    "Single": "13",
+                    "Double": "26",
+                    "Triple": "39",
+                    "Large": "52",
+                    "Star": "65"
+                },
+                {
+                    "Flowers": "Red",
+                    "Single": "13",
+                    "Double": "26",
+                    "Triple": "39",
+                    "Large": "52",
+                    "Star": "65"
+                },
+                {
+                    "Flowers": "Blue",
+                    "Single": "13",
+                    "Double": "26",
+                    "Triple": "39",
+                    "Large": "52",
+                    "Star": "65"
+                },
+                {
+                    "Flowers": "Special Multiplier(s): ?"
+                }
+            ]
+        },
+        {
+            "Unknown_Table": [
+                {
+                    "Crafting Ingredients": "2.5T Honey\n1,500 Blue Extracts\n150 Stingers\n150 Tropical Drinks\n75 Swirled Waxes\n50 Super Smoothies\n3 Comforting Vials"
+                }
+            ]
+        }
+    ]
+}

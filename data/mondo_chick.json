@@ -1,0 +1,50 @@
+{
+    "title": "Mondo Chick",
+    "stats": {},
+    "data_tables": [
+        {
+            "Respawns Every": [
+                {
+                    "Time to defeat": "<5 seconds",
+                    "Amount of Mondo Chick Blessing": "x10"
+                },
+                {
+                    "Time to defeat": "6 \u2013 10 seconds",
+                    "Amount of Mondo Chick Blessing": "x9"
+                },
+                {
+                    "Time to defeat": "11 \u2013 15 seconds",
+                    "Amount of Mondo Chick Blessing": "x8"
+                },
+                {
+                    "Time to defeat": "16 \u2013 20 seconds",
+                    "Amount of Mondo Chick Blessing": "x7"
+                },
+                {
+                    "Time to defeat": "21 \u2013 30 seconds",
+                    "Amount of Mondo Chick Blessing": "x6"
+                },
+                {
+                    "Time to defeat": "31 \u2013 59 seconds",
+                    "Amount of Mondo Chick Blessing": "x5"
+                },
+                {
+                    "Time to defeat": "1:00 - 2:30",
+                    "Amount of Mondo Chick Blessing": "x4"
+                },
+                {
+                    "Time to defeat": "2:31 - 4:59",
+                    "Amount of Mondo Chick Blessing": "x3"
+                },
+                {
+                    "Time to defeat": "5:01 - 10:00",
+                    "Amount of Mondo Chick Blessing": "x2"
+                },
+                {
+                    "Time to defeat": "10:01 - 15:00",
+                    "Amount of Mondo Chick Blessing": "x1"
+                }
+            ]
+        }
+    ]
+}

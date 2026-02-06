@@ -1,0 +1,87 @@
+{
+    "title": "Paperclip",
+    "stats": {},
+    "data_tables": [
+        {
+            "Possible Stats": [
+                {
+                    "Stat Caustic Req.": "Chance",
+                    "Base": "Chance",
+                    "Max": "Limit"
+                },
+                {
+                    "Stat Caustic Req.": "+%Bee Ability Rate",
+                    "Base": "1% to 3%",
+                    "Max": "6%",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "1% to 10%",
+                    "Max": "3"
+                },
+                {
+                    "Stat Caustic Req.": "+%Ability Pollen",
+                    "Base": "5% to 15%",
+                    "Max": "65%",
+                    "Upgrade": "1%, 2%"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "5% to 25%",
+                    "Max": "20"
+                },
+                {
+                    "Stat Caustic Req.": "+%Convert Rate At Hive",
+                    "Base": "-",
+                    "Max": "30%",
+                    "Upgrade": "2%, 3%"
+                },
+                {
+                    "Stat Caustic Req.": "-",
+                    "Base": "100%",
+                    "Max": "20"
+                },
+                {
+                    "Stat Caustic Req.": "Ability"
+                },
+                {
+                    "Stat Caustic Req.": "+Token LinkCaustic Only",
+                    "Base": "-",
+                    "Max": "-",
+                    "Upgrade": "-"
+                },
+                {
+                    "Stat Caustic Req.": "0%",
+                    "Base": "0.067% to 0.67%",
+                    "Max": "-"
+                },
+                {
+                    "Stat Caustic Req.": "Hive Bonus"
+                },
+                {
+                    "Stat Caustic Req.": "+%Token Lifespan",
+                    "Base": "1% to 3%",
+                    "Max": "9%",
+                    "Upgrade": "1%, 2%Bias: 3"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "0.2% to 1%",
+                    "Max": "3"
+                },
+                {
+                    "Stat Caustic Req.": "+%Bee Ability Pollen",
+                    "Base": "-",
+                    "Max": "3%",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "-",
+                    "Base": "0.4% to 2%",
+                    "Max": "3"
+                }
+            ]
+        }
+    ]
+}

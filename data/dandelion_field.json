@@ -1,0 +1,61 @@
+{
+    "title": "Dandelion Field",
+    "stats": {},
+    "data_tables": [
+        {
+            "Unknown_Table": [
+                {
+                    "Item Drops list": "Treats (20% Chance)\nGlues (0.01% Chance)\nMagic Beans (0.0059% Chance)\nGlitter (0.005% Chance)"
+                }
+            ]
+        },
+        {
+            "Unknown_Table": [
+                {
+                    "Flowers": "Single",
+                    "White": "468",
+                    "Red": "72.25%",
+                    "Blue": "28",
+                    "Total": "4.25%",
+                    "col_5": "55",
+                    "col_6": "8.5%",
+                    "col_7": "551",
+                    "col_8": "85%"
+                },
+                {
+                    "Flowers": "Double",
+                    "White": "83",
+                    "Red": "12.75%",
+                    "Blue": "5",
+                    "Total": "0.75%",
+                    "col_5": "10",
+                    "col_6": "1.5%",
+                    "col_7": "97",
+                    "col_8": "15%"
+                },
+                {
+                    "Flowers": "Triple",
+                    "White": "0",
+                    "Red": "0%",
+                    "Blue": "0",
+                    "Total": "0%",
+                    "col_5": "0",
+                    "col_6": "0%",
+                    "col_7": "0",
+                    "col_8": "0%"
+                },
+                {
+                    "Flowers": "Total",
+                    "White": "551",
+                    "Red": "85%",
+                    "Blue": "32",
+                    "Total": "5%",
+                    "col_5": "65",
+                    "col_6": "10%",
+                    "col_7": "648",
+                    "col_8": "100%"
+                }
+            ]
+        }
+    ]
+}

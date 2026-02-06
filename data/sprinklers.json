@@ -1,0 +1,66 @@
+{
+    "title": "Sprinklers",
+    "stats": {},
+    "data_tables": [
+        {
+            "Unknown_Table": [
+                {
+                    "": "Count(How many can be placed at once)",
+                    "Basic Sprinkler": "1",
+                    "Silver Soakers": "2",
+                    "Golden Gushers": "3",
+                    "Diamond Drenchers": "4",
+                    "The Supreme Saturator": "1"
+                },
+                {
+                    "": "Radius(How far the sprinkler reaches)",
+                    "Basic Sprinkler": "7",
+                    "Silver Soakers": "7",
+                    "Golden Gushers": "8",
+                    "Diamond Drenchers": "8",
+                    "The Supreme Saturator": "16"
+                },
+                {
+                    "": "Power(How much pollen the flower increases by)",
+                    "Basic Sprinkler": "7",
+                    "Silver Soakers": "7",
+                    "Golden Gushers": "8",
+                    "Diamond Drenchers": "9",
+                    "The Supreme Saturator": "10"
+                },
+                {
+                    "": "Rate(How often the sprinkler activates)",
+                    "Basic Sprinkler": "5 sec",
+                    "Silver Soakers": "4.5 sec",
+                    "Golden Gushers": "4.5 sec",
+                    "Diamond Drenchers": "4 sec",
+                    "The Supreme Saturator": "1 sec"
+                },
+                {
+                    "": "Setup(How long it takes for the sprinkler to build)",
+                    "Basic Sprinkler": "6 sec",
+                    "Silver Soakers": "5 sec",
+                    "Golden Gushers": "5 sec",
+                    "Diamond Drenchers": "4 sec",
+                    "The Supreme Saturator": "3 sec"
+                },
+                {
+                    "": "Badges(the number and tier of badges need to unlock)",
+                    "Basic Sprinkler": "10 Cadet(Tier 1)",
+                    "Silver Soakers": "10 Hotshot(Tier 2)",
+                    "Golden Gushers": "10 Ace(Tier 3)",
+                    "Diamond Drenchers": "10 Master(Tier 4)",
+                    "The Supreme Saturator": "10 Grandmaster(Tier 5)"
+                },
+                {
+                    "": "Cost in Honey",
+                    "Basic Sprinkler": "1,111,111",
+                    "Silver Soakers": "22,222,222",
+                    "Golden Gushers": "333,333,333",
+                    "Diamond Drenchers": "4,444,444,444",
+                    "The Supreme Saturator": "55,555,555,555"
+                }
+            ]
+        }
+    ]
+}

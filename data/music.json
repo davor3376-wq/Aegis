@@ -1,0 +1,130 @@
+{
+    "title": "Music",
+    "stats": {},
+    "data_tables": [
+        {
+            "Unknown_Table": [
+                {
+                    "Title": "Wax",
+                    "File Name": "wax",
+                    "Length": "1:24",
+                    "Roblox Library ID": "1479981863",
+                    "Audio": "https://bee-swarm-simulator.fandom.com/wiki/File:Wax.ogg",
+                    "Where does it play?": "Plays in the Starter Zone and past the Ant Gate. (Does not play during Beesmas, drone plays instead)"
+                },
+                {
+                    "Title": "Bpatrol",
+                    "File Name": "bpatrol",
+                    "Length": "1:52",
+                    "Roblox Library ID": "1482721762",
+                    "Audio": "https://bee-swarm-simulator.fandom.com/wiki/File:Bpatrol.ogg",
+                    "Where does it play?": "Plays anywhere past the Basic Bee Gate."
+                },
+                {
+                    "Title": "Crawlers",
+                    "File Name": "crawlers",
+                    "Length": "2:29",
+                    "Roblox Library ID": "1598349092",
+                    "Audio": "https://bee-swarm-simulator.fandom.com/wiki/File:Crawlers.ogg",
+                    "Where does it play?": "Plays inside the King Beetle Lair, White Tunnel, and in Commando Chick's Hideout."
+                },
+                {
+                    "Title": "Overflowin",
+                    "File Name": "overflowin4",
+                    "Length": "1:37",
+                    "Roblox Library ID": "2052242315",
+                    "Audio": "https://bee-swarm-simulator.fandom.com/wiki/File:Overflowin4.ogg",
+                    "Where does it play?": "Plays past the Bear Gate, inside The Computer, and the Windy Bee Gate."
+                },
+                {
+                    "Title": "AntMarch",
+                    "File Name": "antmarch1",
+                    "Length": "1:41",
+                    "Roblox Library ID": "1954880569",
+                    "Audio": "https://bee-swarm-simulator.fandom.com/wiki/File:Antmarch1.ogg",
+                    "Where does it play?": "Plays while performing the Ant Challenge."
+                },
+                {
+                    "Title": "StarHall",
+                    "File Name": "starhall",
+                    "Length": "4:31",
+                    "Roblox Library ID": "2062483297",
+                    "Audio": "https://bee-swarm-simulator.fandom.com/wiki/File:Starhall.ogg",
+                    "Where does it play?": "Plays inside the Star Hall (the audio in-game is slowed down)."
+                },
+                {
+                    "Title": "MountainCall",
+                    "File Name": "mountaincall",
+                    "Length": "2:36",
+                    "Roblox Library ID": "2281113770",
+                    "Audio": "https://bee-swarm-simulator.fandom.com/wiki/File:Mountaincall.ogg",
+                    "Where does it play?": "Plays during nighttime."
+                },
+                {
+                    "Title": "GBTune1",
+                    "File Name": "gbtune1",
+                    "Length": "1:27",
+                    "Roblox Library ID": "2529553350",
+                    "Audio": "https://bee-swarm-simulator.fandom.com/wiki/File:Gbtune1.ogg",
+                    "Where does it play?": "Plays inside Gummy Bear's Lair, near the Gummy Bee Egg Claim, and near the Gooey Present area."
+                },
+                {
+                    "Title": "Vendor",
+                    "File Name": "vendor",
+                    "Length": "1:48",
+                    "Roblox Library ID": "2529614730",
+                    "Audio": "https://bee-swarm-simulator.fandom.com/wiki/File:Vendor.ogg",
+                    "Where does it play?": "Plays inside the Noob Shop, Pro Shop, Mountain Top Shop, Badge Bearer's Guild, Blue HQ, Red HQ, Petal Shop, Hive Hub, and in the Blue Maze."
+                },
+                {
+                    "Title": "Stickbug",
+                    "File Name": "stickbug",
+                    "Length": "1:29",
+                    "Roblox Library ID": "2562631515",
+                    "Audio": "https://bee-swarm-simulator.fandom.com/wiki/File:Stickbug.ogg",
+                    "Where does it play?": "Plays during the Stick Bug Challenge."
+                },
+                {
+                    "Title": "Drone",
+                    "File Name": "drone",
+                    "Length": "3:24",
+                    "Roblox Library ID": "2677450793",
+                    "Audio": "https://bee-swarm-simulator.fandom.com/wiki/File:Drone.ogg",
+                    "Where does it play?": "Plays in the Starter Zone and past the Ant Gate during the Beesmas Event."
+                },
+                {
+                    "Title": "Hibernation",
+                    "File Name": "hibernation1",
+                    "Length": "3:42",
+                    "Roblox Library ID": "2993535935",
+                    "Audio": "https://bee-swarm-simulator.fandom.com/wiki/File:Hibernation.ogg",
+                    "Where does it play?": "Plays inside the secret area below the game."
+                },
+                {
+                    "Title": "Nectar",
+                    "File Name": "nectar",
+                    "Length": "1:25",
+                    "Roblox Library ID": "8275544372",
+                    "Audio": "https://bee-swarm-simulator.fandom.com/wiki/File:Nectar.mp3",
+                    "Where does it play?": "Plays inside of Dapper Bear's Shop."
+                },
+                {
+                    "Title": "Digitize",
+                    "File Name": "digitize",
+                    "Length": "1:14",
+                    "Roblox Library ID": "11791297411",
+                    "Audio": "https://bee-swarm-simulator.fandom.com/wiki/File:Digitize.ogg",
+                    "Where does it play?": "Plays during a round of the Robo Bear Challenge or when a Robo Party is active."
+                },
+                {
+                    "Title": "RBCLoading",
+                    "File Name": "rbcloading",
+                    "Length": "0:29",
+                    "Roblox Library ID": "11791584693",
+                    "Audio": "https://bee-swarm-simulator.fandom.com/wiki/File:Rbcloading.ogg",
+                    "Where does it play?": "Plays before a round of the Robo Bear Challenge starts."
+                }
+            ]
+        }
+    ]
+}

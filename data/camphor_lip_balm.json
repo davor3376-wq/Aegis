@@ -1,0 +1,84 @@
+{
+    "title": "Camphor Lip Balm",
+    "stats": {},
+    "data_tables": [
+        {
+            "Possible Stats": [
+                {
+                    "Stat Caustic Req.": "Chance",
+                    "Base": "Chance",
+                    "Max": "Limit"
+                },
+                {
+                    "Stat Caustic Req.": "+Gather Amount",
+                    "Base": "20 to 30",
+                    "Max": "75",
+                    "Upgrade": "2, 3"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "50%",
+                    "Max": "15"
+                },
+                {
+                    "Stat Caustic Req.": "+%Critical Power",
+                    "Base": "50% to 70%",
+                    "Max": "145%",
+                    "Upgrade": "3%, 5%Bias: 3"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "50%",
+                    "Max": "15"
+                },
+                {
+                    "Stat Caustic Req.": "Hive Bonus"
+                },
+                {
+                    "Stat Caustic Req.": "xPepper Patch Pollen",
+                    "Base": "x1.03 to x1.05",
+                    "Max": "x1.08",
+                    "Upgrade": "1.01%"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "2% to 8%",
+                    "Max": "3"
+                },
+                {
+                    "Stat Caustic Req.": "+%Bubble Pollen",
+                    "Base": "10% to 15%",
+                    "Max": "25%",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "10% to 25%",
+                    "Max": "10"
+                },
+                {
+                    "Stat Caustic Req.": "+%Gold Bubble PollenCaustic Only",
+                    "Base": "-",
+                    "Max": "12%",
+                    "Upgrade": "2%, 3%Bias: 3"
+                },
+                {
+                    "Stat Caustic Req.": "-",
+                    "Base": "1% to 10%",
+                    "Max": "4"
+                },
+                {
+                    "Stat Caustic Req.": "+%Honey From Instant ConversionCaustic Only",
+                    "Base": "-",
+                    "Max": "10%",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "-",
+                    "Base": "0.01% to 1%",
+                    "Max": "10"
+                }
+            ]
+        }
+    ]
+}

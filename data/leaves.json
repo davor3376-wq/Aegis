@@ -1,0 +1,102 @@
+{
+    "title": "Leaves",
+    "stats": {},
+    "data_tables": [
+        {
+            "Unknown_Table": [
+                {
+                    "Field": "Sunflower Field",
+                    "Possible items": "Sunflower Seeds\nMagic Bean (Rare)\nOil (Rare)\nCordate Leaf Sticker\nBlowing Leaf Sticker (Extremely Rare)"
+                },
+                {
+                    "Field": "Dandelion Field",
+                    "Possible items": "Treats\nGlue (Rare)\nMagic Bean (Rare)\nGlitter (Extremely rare)\nLanceolate Leaf Sticker\nBlowing Leaf Sticker (Extremely Rare)"
+                },
+                {
+                    "Field": "Mushroom Field",
+                    "Possible items": "Treats\nStrawberries\nBitterberries (Uncommon)\nRoyal Jelly (Somewhat Rare)\nNeonberry (Rare)\nMagic Bean (Rare)\nRed Extract (Rare)\nReniform Leaf Sticker\nBlowing Leaf Sticker (Extremely Rare)"
+                },
+                {
+                    "Field": "Blue Flower Field",
+                    "Possible items": "Blueberries\nNeonberry (Rare)\nMagic Bean (Rare)\nBlue Extract (Rare)\nElliptic Leaf Sticker\nBlowing Leaf Sticker (Extremely Rare)"
+                },
+                {
+                    "Field": "Clover Field",
+                    "Possible items": "Treats\nRoyal Jellies (Uncommon)\nMagic Bean (Rare)\nStar Jelly (Very rare)\nSilver Egg (Extremely rare)\nGold Egg (Extremely rare)\nDiamond Egg (Extremely rare)\nLyrate Leaf Sticker\nBlowing Leaf Sticker (Extremely Rare)"
+                },
+                {
+                    "Field": "Spider Field",
+                    "Possible items": "Treats\nBitterberry (Somewhat Rare)\nMagic Bean (Rare)\nEnzymes (Rare)\nGlitter (Extremely rare)\nHastate Leaf Sticker\nBlowing Leaf Sticker (Extremely Rare)"
+                },
+                {
+                    "Field": "Strawberry Field",
+                    "Possible items": "Strawberries\nMagic Bean (Rare)\nRed Extract (Rare)\nCunate Leaf Sticker\nBlowing Leaf Sticker (Extremely Rare)"
+                },
+                {
+                    "Field": "Bamboo Field",
+                    "Possible items": "Blueberries\nMagic Bean (Rare)\nBlue Extract (Rare)\nLanceolate Leaf Sticker\nBlowing Leaf Sticker (Extremely Rare)"
+                },
+                {
+                    "Field": "Pineapple Patch",
+                    "Possible items": "Pineapples\nNeonberry (Rare)\nMagic Bean (Rare)\nEnzymes (Rare)\nGlitter (Extremely rare)\nSpatulate Leaf Sticker\nBlowing Leaf Sticker (Extremely Rare)\nRhubarb Sticker (Extremely Rare)"
+                },
+                {
+                    "Field": "Stump Field",
+                    "Possible items": "Treats\nGumdrops (Uncommon)\nMagic Bean (Rare)\nGlue (Rare)\nReniform Leaf Sticker\nRhomboid Leaf Sticker\nBlowing Leaf Sticker (Extremely Rare)"
+                },
+                {
+                    "Field": "Mixed Brick Field",
+                    "Possible items": "Bricks\nBlowing Leaf Sticker (Extremely Rare)"
+                },
+                {
+                    "Field": "Blue Brick Field",
+                    "Possible items": "Bricks\nBlowing Leaf Sticker (Extremely Rare)"
+                },
+                {
+                    "Field": "Red Brick Field",
+                    "Possible items": "Bricks\nBlowing Leaf Sticker (Extremely Rare)"
+                },
+                {
+                    "Field": "White Brick Field",
+                    "Possible items": "Bricks\nBlowing Leaf Sticker (Extremely Rare)"
+                },
+                {
+                    "Field": "Pumpkin Patch",
+                    "Possible items": "Treats\nMagic Bean (Rare)\nGlue (Rare)\nCunate Leaf Sticker\nSpatulate Leaf Sticker\nBlowing Leaf Sticker (Extremely Rare)"
+                },
+                {
+                    "Field": "Cactus Field",
+                    "Possible items": "Treats\nStrawberries\nBlueberries\nBitterberry (Somewhat Rare)\nStinger (Rare)\nMagic Bean (Rare)\nRhomboid Leaf Sticker\nBlowing Leaf Sticker (Extremely Rare)"
+                },
+                {
+                    "Field": "Rose Field",
+                    "Possible items": "Strawberries\nBitterberry (Somewhat Rare)\nMagic Bean (Rare)\nRed Extract (Rare)\nCordate Leaf Sticker\nBlowing Leaf Sticker (Extremely Rare)"
+                },
+                {
+                    "Field": "Pine Tree Forest",
+                    "Possible items": "Blueberries\nNeonberry (Rare)\nMagic Bean (Rare)\nBlue Extract (Rare)\nEnzymes (Rare)\nElliptic Leaf Sticker\nSpatulate Leaf Sticker\nBlowing Leaf Sticker (Extremely Rare)"
+                },
+                {
+                    "Field": "Hub Field",
+                    "Possible items": "Treats\nBlueberries\nPineapples\nStrawberries\nSunflower Seeds\nOblique Leaf Sticker\nBlowing Leaf Sticker (Extremely Rare)"
+                },
+                {
+                    "Field": "Ant Field",
+                    "Possible items": "Tickets\nBlowing Leaf Sticker (Extremely Rare)"
+                },
+                {
+                    "Field": "Mountain Top Field",
+                    "Possible items": "Bitterberries\nNeonberries (Uncommon)\nMagic Bean (Rare)\nSuper Smoothie (Extremely Rare)\nLyrate Leaf Sticker\nBlowing Leaf Sticker (Extremely Rare)"
+                },
+                {
+                    "Field": "Coconut Field",
+                    "Possible items": "Treats\nCoconuts\nMagic Bean (Rare)\nTicket (Rare)\nTropical Drink (Rare)\nOblique Leaf Sticker\nBlowing Leaf Sticker (Extremely Rare)"
+                },
+                {
+                    "Field": "Pepper Patch",
+                    "Possible items": "Strawberries\nBitterberries (Uncommon)\nMagic Bean (Rare)\nRed Extract (Rare)\nHastate Leaf Sticker\nBlowing Leaf Sticker (Extremely Rare)"
+                }
+            ]
+        }
+    ]
+}

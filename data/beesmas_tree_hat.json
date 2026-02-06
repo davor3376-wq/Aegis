@@ -1,0 +1,84 @@
+{
+    "title": "Beesmas Tree Hat",
+    "stats": {},
+    "data_tables": [
+        {
+            "Possible Stats": [
+                {
+                    "Stat Caustic Req.": "Chance",
+                    "Base": "Chance",
+                    "Max": "Limit"
+                },
+                {
+                    "Stat Caustic Req.": "+%Convert Amount",
+                    "Base": "10% to 20%",
+                    "Max": "60%",
+                    "Upgrade": "1%, 2%Bias: 3"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "100%",
+                    "Max": "20"
+                },
+                {
+                    "Stat Caustic Req.": "+%Critical Chance",
+                    "Base": "2% to 5%",
+                    "Max": "10%",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "20% to 50%",
+                    "Max": "5"
+                },
+                {
+                    "Stat Caustic Req.": "+%Ability Pollen",
+                    "Base": "2% to 5%",
+                    "Max": "10%",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "20% to 50%",
+                    "Max": "5"
+                },
+                {
+                    "Stat Caustic Req.": "+%Bee Ability Rate",
+                    "Base": "1%",
+                    "Max": "2%",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "5% to 50%",
+                    "Base": "1% to 10%",
+                    "Max": "1"
+                },
+                {
+                    "Stat Caustic Req.": "Hive Bonus"
+                },
+                {
+                    "Stat Caustic Req.": "+Capacity",
+                    "Base": "10000 to 25000",
+                    "Max": "35000",
+                    "Upgrade": "250, 1000Bias: 2"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "5% to 10%",
+                    "Max": "10"
+                },
+                {
+                    "Stat Caustic Req.": "+%Convert At Hive",
+                    "Base": "3% to 5%",
+                    "Max": "15%",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "5% to 10%",
+                    "Max": "10"
+                }
+            ]
+        }
+    ]
+}

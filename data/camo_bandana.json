@@ -1,0 +1,117 @@
+{
+    "title": "Camo Bandana",
+    "stats": {},
+    "data_tables": [
+        {
+            "Possible Stats": [
+                {
+                    "Stat Caustic Req.": "Chance",
+                    "Base": "Chance",
+                    "Max": "Limit"
+                },
+                {
+                    "Stat Caustic Req.": "+%Gather Amount",
+                    "Base": "10% to 15%",
+                    "Max": "95%",
+                    "Upgrade": "2%, 4%Bias: 2"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "33%",
+                    "Max": "20"
+                },
+                {
+                    "Stat Caustic Req.": "+%Buzz Bomb Pollen",
+                    "Base": "15% to 25%",
+                    "Max": "105%",
+                    "Upgrade": "2%, 4%Bias: 2"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "33%",
+                    "Max": "20"
+                },
+                {
+                    "Stat Caustic Req.": "+Bee Attack",
+                    "Base": "1",
+                    "Max": "1",
+                    "Upgrade": "-"
+                },
+                {
+                    "Stat Caustic Req.": "5% to 50%",
+                    "Base": "-",
+                    "Max": "-"
+                },
+                {
+                    "Stat Caustic Req.": "+%Critical Power",
+                    "Base": "-",
+                    "Max": "80%",
+                    "Upgrade": "2%, 4%Bias: 2"
+                },
+                {
+                    "Stat Caustic Req.": "-",
+                    "Base": "33%",
+                    "Max": "20"
+                },
+                {
+                    "Stat Caustic Req.": "+%Super-Crit PowerCaustic Only",
+                    "Base": "-",
+                    "Max": "300%",
+                    "Upgrade": "10%, 15%Bias: 2"
+                },
+                {
+                    "Stat Caustic Req.": "-",
+                    "Base": "33%",
+                    "Max": "20"
+                },
+                {
+                    "Stat Caustic Req.": "Hive Bonus"
+                },
+                {
+                    "Stat Caustic Req.": "+%Buzz Bomb Pollen",
+                    "Base": "2% to 5%",
+                    "Max": "15%",
+                    "Upgrade": "1%, 2%"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "5% to 33%",
+                    "Max": "5"
+                },
+                {
+                    "Stat Caustic Req.": "+%Pumpkin Field Capacity",
+                    "Base": "4% to 8%",
+                    "Max": "13%",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "10% to 25%",
+                    "Base": "5% to 10%",
+                    "Max": "5"
+                },
+                {
+                    "Stat Caustic Req.": "+%Coconut Field Capacity",
+                    "Base": "4% to 8%",
+                    "Max": "13%",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "10% to 25%",
+                    "Base": "5% to 10%",
+                    "Max": "5"
+                },
+                {
+                    "Stat Caustic Req.": "+%Super-Crit PowerCaustic Only",
+                    "Base": "-",
+                    "Max": "5%",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "-",
+                    "Base": "5% to 10%",
+                    "Max": "5"
+                }
+            ]
+        }
+    ]
+}

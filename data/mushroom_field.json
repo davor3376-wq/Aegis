@@ -1,0 +1,61 @@
+{
+    "title": "Mushroom Field",
+    "stats": {},
+    "data_tables": [
+        {
+            "Unknown_Table": [
+                {
+                    "Item Drops list": "Strawberries (8.33% Chance)\nTreats (5% Chance)\nBitterberries (0.04% Chance)\nRed Extracts (0.0133% Chance)\nRoyal Jellies (0.005% Chance)\nMagic Beans (0.002% Chance)"
+                }
+            ]
+        },
+        {
+            "Unknown_Table": [
+                {
+                    "Flowers": "Single",
+                    "White": "199",
+                    "Red": "27%",
+                    "Blue": "464",
+                    "Total": "63%",
+                    "col_5": "0",
+                    "col_6": "0%",
+                    "col_7": "662",
+                    "col_8": "90%"
+                },
+                {
+                    "Flowers": "Double",
+                    "White": "22",
+                    "Red": "3%",
+                    "Blue": "52",
+                    "Total": "7%",
+                    "col_5": "0",
+                    "col_6": "0%",
+                    "col_7": "74",
+                    "col_8": "10%"
+                },
+                {
+                    "Flowers": "Triple",
+                    "White": "0",
+                    "Red": "0%",
+                    "Blue": "0",
+                    "Total": "0%",
+                    "col_5": "0",
+                    "col_6": "0%",
+                    "col_7": "0",
+                    "col_8": "0%"
+                },
+                {
+                    "Flowers": "Total",
+                    "White": "221",
+                    "Red": "30%",
+                    "Blue": "515",
+                    "Total": "70%",
+                    "col_5": "0",
+                    "col_6": "0%",
+                    "col_7": "736",
+                    "col_8": "100%"
+                }
+            ]
+        }
+    ]
+}

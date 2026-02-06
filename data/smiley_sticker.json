@@ -1,0 +1,98 @@
+{
+    "title": "Smiley Sticker",
+    "stats": {},
+    "data_tables": [
+        {
+            "Possible Stats": [
+                {
+                    "Stat Caustic Req.": "Chance",
+                    "Base": "Chance",
+                    "Max": "Limit"
+                },
+                {
+                    "Stat Caustic Req.": "+%Energy",
+                    "Base": "15% to 25%",
+                    "Max": "85%",
+                    "Upgrade": "1%, 3%Bias: 2"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "33%",
+                    "Max": "20"
+                },
+                {
+                    "Stat Caustic Req.": "+%Bomb Pollen",
+                    "Base": "10% to 20%",
+                    "Max": "60%",
+                    "Upgrade": "1%, 2%Bias: 2"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "33%",
+                    "Max": "20"
+                },
+                {
+                    "Stat Caustic Req.": "+%Mark Duration",
+                    "Base": "5% to 10%",
+                    "Max": "30%",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "33%",
+                    "Max": "20"
+                },
+                {
+                    "Stat Caustic Req.": "Ability"
+                },
+                {
+                    "Stat Caustic Req.": "+Honey MarkCaustic Only",
+                    "Base": "-",
+                    "Max": "-",
+                    "Upgrade": "-"
+                },
+                {
+                    "Stat Caustic Req.": "0%",
+                    "Base": "0.02% to 0.2%",
+                    "Max": "-"
+                },
+                {
+                    "Stat Caustic Req.": "+Blue BombCaustic Only",
+                    "Base": "-",
+                    "Max": "-",
+                    "Upgrade": "-"
+                },
+                {
+                    "Stat Caustic Req.": "0%",
+                    "Base": "0.02% to 0.2%",
+                    "Max": "-"
+                },
+                {
+                    "Stat Caustic Req.": "Hive Bonus"
+                },
+                {
+                    "Stat Caustic Req.": "+%Mark Duration",
+                    "Base": "1%",
+                    "Max": "2%",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "2.5% to 10%",
+                    "Base": "0.1% to 1%",
+                    "Max": "1"
+                },
+                {
+                    "Stat Caustic Req.": "+%Max Bee Energy",
+                    "Base": "-",
+                    "Max": "3%",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "-",
+                    "Base": "1% to 5%",
+                    "Max": "3"
+                }
+            ]
+        }
+    ]
+}

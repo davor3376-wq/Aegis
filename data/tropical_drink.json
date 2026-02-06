@@ -1,0 +1,35 @@
+{
+    "title": "Tropical Drink",
+    "stats": {},
+    "data_tables": [
+        {
+            "Crafting Uses": [
+                {
+                    "Tropical Drinks": "6",
+                    "Other ingredients": "3 Purple Potions\n3 Neonberries\n3 Star Jellies",
+                    "Result": "Super Smoothie"
+                },
+                {
+                    "Tropical Drinks": "50",
+                    "Other ingredients": "10B Honey\n150 Coconuts\n100 Glues\n100 Oils\n1 Refreshing Vial",
+                    "Result": "Coconut Clogs"
+                },
+                {
+                    "Tropical Drinks": "150",
+                    "Other ingredients": "25B Honey\n250 Coconuts\n150 Red Extracts\n150 Blue Extracts\n2 Refreshing Vials",
+                    "Result": "Coconut Canister"
+                },
+                {
+                    "Tropical Drinks": "150",
+                    "Other ingredients": "2.5T Honey\n1,500 Blue Extracts\n150 Stingers\n75 Swirled Waxes\n50 Super Smoothies\n3 Comforting Vials",
+                    "Result": "Tide Popper"
+                },
+                {
+                    "Tropical Drinks": "1500",
+                    "Other ingredients": "7.5T Honey\n500 Coconuts\n200 Purple Potions\n200 Hard Waxes\n3 Turpentines\n3 Refreshing Vials",
+                    "Result": "Coconut Belt"
+                }
+            ]
+        }
+    ]
+}

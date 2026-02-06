@@ -1,0 +1,82 @@
+{
+    "title": "Commando Chick",
+    "stats": {},
+    "data_tables": [
+        {
+            "Health per Level": [
+                {
+                    "Level": "3",
+                    "Health": "150"
+                },
+                {
+                    "Level": "4",
+                    "Health": "2,000"
+                },
+                {
+                    "Level": "5",
+                    "Health": "10,000"
+                },
+                {
+                    "Level": "6",
+                    "Health": "15,000"
+                },
+                {
+                    "Level": "7",
+                    "Health": "25,000"
+                },
+                {
+                    "Level": "8",
+                    "Health": "50,000"
+                },
+                {
+                    "Level": "9",
+                    "Health": "100,000"
+                },
+                {
+                    "Level": "10",
+                    "Health": "150,000"
+                },
+                {
+                    "Level": "11",
+                    "Health": "200,000"
+                },
+                {
+                    "Level": "12",
+                    "Health": "300,000"
+                },
+                {
+                    "Level": "13",
+                    "Health": "400,000"
+                },
+                {
+                    "Level": "14",
+                    "Health": "500,000"
+                },
+                {
+                    "Level": "15",
+                    "Health": "750,000"
+                },
+                {
+                    "Level": "16",
+                    "Health": "1,000,000"
+                },
+                {
+                    "Level": "17",
+                    "Health": "2,500,000"
+                },
+                {
+                    "Level": "18",
+                    "Health": "5,000,000"
+                },
+                {
+                    "Level": "19",
+                    "Health": "7,500,000"
+                },
+                {
+                    "Level": "20+",
+                    "Health": "10,000,000"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "title": "Thimble",
+    "stats": {},
+    "data_tables": [
+        {
+            "Possible Stats": [
+                {
+                    "Stat Caustic Req.": "Chance",
+                    "Base": "Chance",
+                    "Max": "Limit"
+                },
+                {
+                    "Stat Caustic Req.": "+Convert Amount",
+                    "Base": "20 to 40",
+                    "Max": "80",
+                    "Upgrade": "1, 2Bias: 3"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "75%",
+                    "Max": "20"
+                },
+                {
+                    "Stat Caustic Req.": "+%Convert Amount",
+                    "Base": "1% to 5%",
+                    "Max": "10%",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "50%",
+                    "Max": "5"
+                },
+                {
+                    "Stat Caustic Req.": "Hive Bonus"
+                },
+                {
+                    "Stat Caustic Req.": "+%Convert Rate",
+                    "Base": "1%",
+                    "Max": "10%",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "0.1% to 1%",
+                    "Base": "10% to 25%",
+                    "Max": "9"
+                },
+                {
+                    "Stat Caustic Req.": "xConvert RateCaustic Only",
+                    "Base": "-",
+                    "Max": "x1.01",
+                    "Upgrade": "1.01%"
+                },
+                {
+                    "Stat Caustic Req.": "-",
+                    "Base": "0.1% to 1%",
+                    "Max": "1"
+                }
+            ]
+        }
+    ]
+}

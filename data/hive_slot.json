@@ -1,0 +1,160 @@
+{
+    "title": "Hive Slot",
+    "stats": {},
+    "data_tables": [
+        {
+            "Cost": [
+                {
+                    "Slots Bought": "1",
+                    "Bees": "26",
+                    "Cost in Honey": "3,000,000",
+                    "Total Cost in Honey": "3,000,000"
+                },
+                {
+                    "Slots Bought": "2",
+                    "Bees": "27",
+                    "Cost in Honey": "7,750,000",
+                    "Total Cost in Honey": "10,750,000"
+                },
+                {
+                    "Slots Bought": "3",
+                    "Bees": "28",
+                    "Cost in Honey": "14,562,500",
+                    "Total Cost in Honey": "25,312,500"
+                },
+                {
+                    "Slots Bought": "4",
+                    "Bees": "29",
+                    "Cost in Honey": "24,057,292",
+                    "Total Cost in Honey": "49,369,792"
+                },
+                {
+                    "Slots Bought": "5",
+                    "Bees": "30",
+                    "Cost in Honey": "37,085,938",
+                    "Total Cost in Honey": "86,455,730"
+                },
+                {
+                    "Slots Bought": "6",
+                    "Bees": "31",
+                    "Cost in Honey": "54,774,609",
+                    "Total Cost in Honey": "141,230,339"
+                },
+                {
+                    "Slots Bought": "7",
+                    "Bees": "32",
+                    "Cost in Honey": "78,597,363",
+                    "Total Cost in Honey": "219,827,702"
+                },
+                {
+                    "Slots Bought": "8",
+                    "Bees": "33",
+                    "Cost in Honey": "110,474,899",
+                    "Total Cost in Honey": "330,302,601"
+                },
+                {
+                    "Slots Bought": "9",
+                    "Bees": "34",
+                    "Cost in Honey": "152,902,986",
+                    "Total Cost in Honey": "483,205,587"
+                },
+                {
+                    "Slots Bought": "10",
+                    "Bees": "35",
+                    "Cost in Honey": "209,117,953",
+                    "Total Cost in Honey": "692,323,540"
+                },
+                {
+                    "Slots Bought": "11",
+                    "Bees": "36",
+                    "Cost in Honey": "283,309,237",
+                    "Total Cost in Honey": "975,632,777"
+                },
+                {
+                    "Slots Bought": "12",
+                    "Bees": "37",
+                    "Cost in Honey": "380,891,931",
+                    "Total Cost in Honey": "1,356,524,708"
+                },
+                {
+                    "Slots Bought": "13",
+                    "Bees": "38",
+                    "Cost in Honey": "508,855,908",
+                    "Total Cost in Honey": "1,865,380,616"
+                },
+                {
+                    "Slots Bought": "14",
+                    "Bees": "39",
+                    "Cost in Honey": "676,212,647",
+                    "Total Cost in Honey": "2,541,593,263"
+                },
+                {
+                    "Slots Bought": "15",
+                    "Bees": "40",
+                    "Cost in Honey": "894,566,712",
+                    "Total Cost in Honey": "3,436,159,975"
+                },
+                {
+                    "Slots Bought": "16",
+                    "Bees": "41",
+                    "Cost in Honey": "1,327,768,458",
+                    "Total Cost in Honey": "4,763,928,433"
+                },
+                {
+                    "Slots Bought": "17",
+                    "Bees": "42",
+                    "Cost in Honey": "2,375,844,017",
+                    "Total Cost in Honey": "7,139,772,450"
+                },
+                {
+                    "Slots Bought": "18",
+                    "Bees": "43",
+                    "Cost in Honey": "4,554,611,273",
+                    "Total Cost in Honey": "11,694,383,723"
+                },
+                {
+                    "Slots Bought": "19",
+                    "Bees": "44",
+                    "Cost in Honey": "9,296,140,310",
+                    "Total Cost in Honey": "20,990,524,033"
+                },
+                {
+                    "Slots Bought": "20",
+                    "Bees": "45",
+                    "Cost in Honey": "20,132,877,003",
+                    "Total Cost in Honey": "41,123,401,036"
+                },
+                {
+                    "Slots Bought": "21",
+                    "Bees": "46",
+                    "Cost in Honey": "46,154,052,716",
+                    "Total Cost in Honey": "87,277,453,752"
+                },
+                {
+                    "Slots Bought": "22",
+                    "Bees": "47",
+                    "Cost in Honey": "111,775,127,496",
+                    "Total Cost in Honey": "199,052,581,248"
+                },
+                {
+                    "Slots Bought": "23",
+                    "Bees": "48",
+                    "Cost in Honey": "285,456,003,884",
+                    "Total Cost in Honey": "484,508,585,132"
+                },
+                {
+                    "Slots Bought": "24",
+                    "Bees": "49",
+                    "Cost in Honey": "767,503,162,196",
+                    "Total Cost in Honey": "1,252,011,747,328"
+                },
+                {
+                    "Slots Bought": "25",
+                    "Bees": "50",
+                    "Cost in Honey": "2,169,203,229,760",
+                    "Total Cost in Honey": "3,421,214,977,088"
+                }
+            ]
+        }
+    ]
+}

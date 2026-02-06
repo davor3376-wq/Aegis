@@ -1,0 +1,75 @@
+{
+    "title": "Blue Extract",
+    "stats": {},
+    "data_tables": [
+        {
+            "Crafting Uses": [
+                {
+                    "Blue Extracts": "2",
+                    "Other items required": "12,500,000 Honey\n2 Soft Waxes",
+                    "Crafted item": "Blue Port-O-Hive"
+                },
+                {
+                    "Blue Extracts": "3",
+                    "Other items required": "3 Red Extracts\n3 Glues\n3 Neonberries",
+                    "Crafted item": "Purple Potion"
+                },
+                {
+                    "Blue Extracts": "3",
+                    "Other items required": "15,000,000 Honey\n5 Oils\n3 Red Extracts",
+                    "Crafted item": "Beekeeper's Boots"
+                },
+                {
+                    "Blue Extracts": "3",
+                    "Other items required": "5,000,000 Honey\n50 Blueberries\n5 Royal Jellies\n15 Moon Charms",
+                    "Crafted item": "Elite Blue Guard"
+                },
+                {
+                    "Blue Extracts": "10",
+                    "Other items required": "30,000,000 Honey\nBlueberries\n5 Glues\n75 Moon Charms",
+                    "Crafted item": "Bucko Guard"
+                },
+                {
+                    "Blue Extracts": "15",
+                    "Other items required": "10,000,000 Honey\n5 Magic Beans\n20 Soft Waxes",
+                    "Crafted item": "Blue Clay Planter"
+                },
+                {
+                    "Blue Extracts": "50",
+                    "Other items required": "100,000,000 Honey\n500 Blueberries\n25 Oils\n15 Glitter",
+                    "Crafted item": "Bubble Mask"
+                },
+                {
+                    "Blue Extracts": "100",
+                    "Other items required": "200,000,000 Honey\n100 Stingers\n50 Enzymes\n25 Glitter",
+                    "Crafted item": "Cobalt Guard"
+                },
+                {
+                    "Blue Extracts": "150",
+                    "Other items required": "25B Honey\n150 Tropical Drinks\n150 Coconuts\n150 Red Extracts2 Refreshing Vials",
+                    "Crafted item": "Coconut Canister"
+                },
+                {
+                    "Blue Extracts": "250",
+                    "Other items required": "5B Honey\n150 Oils\n100 Glitter\n5 Diamond Eggs\n1 Comforting Vial",
+                    "Crafted item": "Diamond Mask"
+                },
+                {
+                    "Blue Extracts": "250",
+                    "Other items required": "100B Honey\n500 Glues\n250 Red Extracts\n250 Glitter\n1 Satisfying Vial\n1 Motivating Vial",
+                    "Crafted item": "Gummy Boots"
+                },
+                {
+                    "Blue Extracts": "750",
+                    "Other items required": "750B Honey\n75 Magic Beans\n500 Soft Waxes\n25 Caustic Waxes\n1 Turpentine",
+                    "Crafted item": "Hydroponic Planter"
+                },
+                {
+                    "Blue Extracts": "1,500",
+                    "Other items required": "2.5T Honey\n150 Stingers\n150 Tropical Drinks\n75 Swirled Waxes\n50 Super Smoothies\n3 Comforting Vials",
+                    "Crafted item": "Tide Popper"
+                }
+            ]
+        }
+    ]
+}

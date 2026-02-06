@@ -1,0 +1,20 @@
+{
+    "title": "Comforting Vial",
+    "stats": {},
+    "data_tables": [
+        {
+            "Crafting Uses": [
+                {
+                    "Comforting Vials": "1",
+                    "Other ingredients": "5B Honey\n250 Blue Extracts\n150 Oils\n100 Glitter\n5 Diamond Eggs",
+                    "Result": "Diamond Mask"
+                },
+                {
+                    "Comforting Vials": "3",
+                    "Other ingredients": "2.5T Honey\n1,500 Blue Extracts\n150 Stingers\n150 Tropical Drinks\n75 Swirled Waxes\n50 Super Smoothies",
+                    "Result": "Tide Popper"
+                }
+            ]
+        }
+    ]
+}

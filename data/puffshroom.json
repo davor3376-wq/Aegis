@@ -1,0 +1,352 @@
+{
+    "title": "Puffshroom",
+    "stats": {},
+    "data_tables": [
+        {
+            "Variants/Rarities": [
+                {
+                    "Level": "Common",
+                    "Pollen Required": "Rare",
+                    "col_2": "Epic",
+                    "col_3": "Legendary",
+                    "col_4": "Mythic"
+                },
+                {
+                    "Level": "1",
+                    "Pollen Required": "10,000",
+                    "col_2": "15,000",
+                    "col_3": "20,000",
+                    "col_4": "25,000",
+                    "col_5": "35,000"
+                },
+                {
+                    "Level": "2",
+                    "Pollen Required": "30,000",
+                    "col_2": "45,000",
+                    "col_3": "60,000",
+                    "col_4": "75,000",
+                    "col_5": "105,000"
+                },
+                {
+                    "Level": "3",
+                    "Pollen Required": "50,000",
+                    "col_2": "75,000",
+                    "col_3": "100,000",
+                    "col_4": "125,000",
+                    "col_5": "175,000"
+                },
+                {
+                    "Level": "4",
+                    "Pollen Required": "80,000",
+                    "col_2": "120,000",
+                    "col_3": "160,000",
+                    "col_4": "200,000",
+                    "col_5": "280,000"
+                },
+                {
+                    "Level": "5",
+                    "Pollen Required": "130,000",
+                    "col_2": "195,000",
+                    "col_3": "260,000",
+                    "col_4": "325,000",
+                    "col_5": "455,000"
+                },
+                {
+                    "Level": "6",
+                    "Pollen Required": "200,000",
+                    "col_2": "300,000",
+                    "col_3": "400,000",
+                    "col_4": "500,000",
+                    "col_5": "700,000"
+                },
+                {
+                    "Level": "7",
+                    "Pollen Required": "330,000",
+                    "col_2": "495,000",
+                    "col_3": "660,000",
+                    "col_4": "825,000",
+                    "col_5": "1,155,000"
+                },
+                {
+                    "Level": "8",
+                    "Pollen Required": "560,000",
+                    "col_2": "840,000",
+                    "col_3": "1,120,000",
+                    "col_4": "1,400,000",
+                    "col_5": "1,960,000"
+                },
+                {
+                    "Level": "9",
+                    "Pollen Required": "970,000",
+                    "col_2": "1,455,000",
+                    "col_3": "1,940,000",
+                    "col_4": "2,425,000",
+                    "col_5": "3,395,000"
+                },
+                {
+                    "Level": "10",
+                    "Pollen Required": "1,750,000",
+                    "col_2": "2,625,000",
+                    "col_3": "3,500,000",
+                    "col_4": "4,375,000",
+                    "col_5": "6,125,000"
+                },
+                {
+                    "Level": "11",
+                    "Pollen Required": "3,230,000",
+                    "col_2": "4,845,000",
+                    "col_3": "6,460,000",
+                    "col_4": "8,075,000",
+                    "col_5": "11,305,000"
+                },
+                {
+                    "Level": "12",
+                    "Pollen Required": "6,090,000",
+                    "col_2": "9,135,000",
+                    "col_3": "12,180,000",
+                    "col_4": "15,225,000",
+                    "col_5": "21,315,000"
+                },
+                {
+                    "Level": "13",
+                    "Pollen Required": "11,650,000",
+                    "col_2": "17,475,000",
+                    "col_3": "23,300,000",
+                    "col_4": "29,125,000",
+                    "col_5": "40,775,000"
+                },
+                {
+                    "Level": "14",
+                    "Pollen Required": "22,550,000",
+                    "col_2": "33,825,000",
+                    "col_3": "45,100,000",
+                    "col_4": "56,375,000",
+                    "col_5": "78,925,000"
+                },
+                {
+                    "Level": "15",
+                    "Pollen Required": "44,010,000",
+                    "col_2": "66,015,000",
+                    "col_3": "88,020,000",
+                    "col_4": "110,025,000",
+                    "col_5": "154,035,000"
+                },
+                {
+                    "Level": "16",
+                    "Pollen Required": "86,440,000",
+                    "col_2": "129,660,000",
+                    "col_3": "172,880,000",
+                    "col_4": "216,100,000",
+                    "col_5": "302,540,000"
+                },
+                {
+                    "Level": "17",
+                    "Pollen Required": "170,560,000",
+                    "col_2": "255,840,000",
+                    "col_3": "341,120,000",
+                    "col_4": "426,400,000",
+                    "col_5": "596,960,000"
+                },
+                {
+                    "Level": "18",
+                    "Pollen Required": "337,700,000",
+                    "col_2": "506,550,000",
+                    "col_3": "675,400,000",
+                    "col_4": "844,250,000",
+                    "col_5": "1,181,950,000"
+                },
+                {
+                    "Level": "19",
+                    "Pollen Required": "670,310,000",
+                    "col_2": "1,005,465,000",
+                    "col_3": "1,340,620,000",
+                    "col_4": "1,675,775,000",
+                    "col_5": "2,346,085,000"
+                },
+                {
+                    "Level": "20",
+                    "Pollen Required": "1,333,070,000",
+                    "col_2": "1,999,605,000",
+                    "col_3": "2,666,140,000",
+                    "col_4": "3,332,675,000",
+                    "col_5": "4,665,745,000"
+                },
+                {
+                    "Level": "21",
+                    "Pollen Required": "2,654,890,000",
+                    "col_2": "3,982,335,000",
+                    "col_3": "5,309,780,000",
+                    "col_4": "6,637,225,000",
+                    "col_5": "9,292,115,000"
+                },
+                {
+                    "Level": "22",
+                    "Pollen Required": "5,292,960,000",
+                    "col_2": "7,939,440,000",
+                    "col_3": "10,585,920,000",
+                    "col_4": "13,232,400,000",
+                    "col_5": "18,525,360,000"
+                },
+                {
+                    "Level": "23",
+                    "Pollen Required": "10,560,790,000",
+                    "col_2": "15,841,185,000",
+                    "col_3": "21,121,580,000",
+                    "col_4": "26,401,975,000",
+                    "col_5": "36,962,765,000"
+                },
+                {
+                    "Level": "24",
+                    "Pollen Required": "21,083,970,000",
+                    "col_2": "31,625,955,000",
+                    "col_3": "42,167,940,000",
+                    "col_4": "52,709,925,000",
+                    "col_5": "73,793,895,000"
+                },
+                {
+                    "Level": "25",
+                    "Pollen Required": "42,111,620,000",
+                    "col_2": "63,167,430,000",
+                    "col_3": "84,223,240,000",
+                    "col_4": "105,279,050,000",
+                    "col_5": "147,390,670,000"
+                },
+                {
+                    "Level": "26",
+                    "Pollen Required": "84,138,840,000",
+                    "col_2": "126,208,260,000",
+                    "col_3": "168,277,680,000",
+                    "col_4": "210,347,100,000",
+                    "col_5": "294,485,940,000"
+                },
+                {
+                    "Level": "27",
+                    "Pollen Required": "168,151,180,000",
+                    "col_2": "252,226,770,000",
+                    "col_3": "336,302,360,000",
+                    "col_4": "420,377,950,000",
+                    "col_5": "588,529,130,000"
+                },
+                {
+                    "Level": "28",
+                    "Pollen Required": "336,112,740,000",
+                    "col_2": "504,169,110,000",
+                    "col_3": "672,225,480,000",
+                    "col_4": "840,281,850,000",
+                    "col_5": "1,176,394.590,000"
+                },
+                {
+                    "Level": "29",
+                    "Pollen Required": "671.941.140,000",
+                    "col_2": "1,007,911,710,000",
+                    "col_3": "1,343,882,280,000",
+                    "col_4": "1,679,852,850,000",
+                    "col_5": "2,351,793,990,000"
+                },
+                {
+                    "Level": "30",
+                    "Pollen Required": "1,343,455,910,000",
+                    "col_2": "2,015,183,865,000",
+                    "col_3": "2,686,911,820,000",
+                    "col_4": "3,358,639,775,000",
+                    "col_5": "4,702,095,685,000"
+                }
+            ]
+        },
+        {
+            "Spawning": [
+                {
+                    "Planter": "Ticket Planter",
+                    "Chance": "1/1 (100%)"
+                },
+                {
+                    "Planter": "Sticker Planter",
+                    "Chance": "1/1 (100%)"
+                },
+                {
+                    "Planter": "The Planter Of Plenty",
+                    "Chance": "1/3 (33.33%)"
+                },
+                {
+                    "Planter": "Petal Planter",
+                    "Chance": "1/4 (25%)"
+                },
+                {
+                    "Planter": "Hydroponic Planter",
+                    "Chance": "2/9 (22.22%)"
+                },
+                {
+                    "Planter": "Heat-Treated Planter",
+                    "Chance": "2/9 (22.22%)"
+                },
+                {
+                    "Planter": "Pesticide Planter",
+                    "Chance": "1/5 (20%)"
+                },
+                {
+                    "Planter": "Tacky Planter",
+                    "Chance": "1/5 (20%)"
+                },
+                {
+                    "Planter": "Red Clay Planter",
+                    "Chance": "1/6 (16.67%)"
+                },
+                {
+                    "Planter": "Blue Clay Planter",
+                    "Chance": "1/6 (16.67%)"
+                },
+                {
+                    "Planter": "Candy Planter",
+                    "Chance": "1/7 (14.28%)"
+                },
+                {
+                    "Planter": "Plastic Planter",
+                    "Chance": "1/7 (14.28%)"
+                },
+                {
+                    "Planter": "Festive Planter",
+                    "Chance": "1/10 (10%)"
+                },
+                {
+                    "Planter": "Paper Planter",
+                    "Chance": "1/10 (10%)"
+                }
+            ]
+        },
+        {
+            "Possible Drops": [
+                {
+                    "Possible Drops List": "Tickets\nGumdrops (Increments of 1 or 2)\nRoyal Jellies\nStrawberries (Higher chance in red fields)\nBlueberries (Higher chance in blue fields)\nSunflower Seeds (Higher chance in Sunflower Field)\nPineapples (Higher chance in Pineapple Patch)\nBitterberries (Increments of 1 or 2)\nNeonberries\nCoconuts (Exclusive to 35 Bee Zone Fields)\nSoft Waxes (Common)\n Spore Covered Puffshroom\n White Button Mushroom (Exclusive to the 5 Bee Zone)\n Fly Agaric Mushroom (Exclusive to the Starter Zone)\n Porcini Mushroom (Exclusive to the 15 Bee Zone)\n Oiler Mushroom (Exclusive to the 10 Bee Zone)\n Morel Mushroom (Exclusive to the Mountain Top Field)\n Chanterelle Mushroom (Exclusive to the 35 Bee Zone)\n Shiitake Mushroom (Exclusive to the Starter Zone and 10 Bee Zone; Very Rare)"
+                }
+            ]
+        },
+        {
+            "Possible Drops": [
+                {
+                    "Possible Drops List": "All common drops.\nGlues (Common)\nGlitter (Common)\nField Dice (Common)\nSmooth Dice (Uncommon)\nSoft Waxes\nHard Waxes (Common) Limited per day\nStar Jellies (Rare)"
+                }
+            ]
+        },
+        {
+            "Possible Drops": [
+                {
+                    "Possible Drops List": "All common drops.\nGlues (Common)\nGlitter (Common)\nStar Jellies (Rare)\nField Dice\nSmooth Dice (Common)\nLoaded Dice (Rare)\nRobo Passes (Common)\nSoft Waxes\nHard Waxes (Common)\nSwirled Waxes (Rare)\n Black Truffle Mushroom (Unbelievably Rare)\n Wavy Yellow Hive Skin (Exclusive to the Sunflower Field and Pineapple Patch; Unfathomably Rare)"
+                }
+            ]
+        },
+        {
+            "Possible Drops": [
+                {
+                    "Possible Drops List": "All common drops.\nGlues (Common)\nGlitter (Common)\nStar Jellies (Common)\nField Dice\nSmooth Dice (Common)\nLoaded Dice (Common)\nRobo Passes (Common)\nSoft Waxes\nHard Waxes\nSwirled Waxes (Common)\nCaustic Waxes (Uncommon)\nTurpentines (Uncommon)\n Black Truffle Mushroom (Unbelievably Rare)\n Wavy Yellow Hive Skin (Exclusive to the Sunflower Field and Pineapple Patch; Unfathomably Rare)\n Wavy Cyan Hive Skin (Exclusive to Blue Fields; Rare)"
+                }
+            ]
+        },
+        {
+            "Possible Drops": [
+                {
+                    "Possible Drops List": "All common drops.\nGlues (Common)\nGlitter (Common)\nStar Jellies (Common)\nField Dice\nSmooth Dice (Common)\nLoaded Dice (Common)\nRobo Passes (Common)\nSoft Waxes\nHard Waxes\nSwirled Waxes (Common)\nCaustic Waxes (Common)\nTurpentines (Common)\n Black Truffle Mushroom (Unbelievably Rare)\n Prismatic Mushroom (Unbelievably Rare)\n Wavy Yellow Hive Skin (Exclusive to the Sunflower Field and Pineapple Patch; Unfathomably Rare)\n Wavy Cyan Hive Skin (Exclusive to Blue Fields; Rare)\n Wavy Purple Hive Skin (Unfathomably Rare)"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "title": "Glue Dispenser",
+    "stats": {},
+    "data_tables": [
+        {
+            "Location": [
+                {
+                    "Goo Badge Rank": "Hotshot",
+                    "Glue": "2"
+                },
+                {
+                    "Goo Badge Rank": "Ace",
+                    "Glue": "3"
+                },
+                {
+                    "Goo Badge Rank": "Master",
+                    "Glue": "4"
+                },
+                {
+                    "Goo Badge Rank": "Grandmaster",
+                    "Glue": "5"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "title": "Bottle Cap",
+    "stats": {},
+    "data_tables": [
+        {
+            "Possible Stats": [
+                {
+                    "Stat Caustic Req.": "Chance",
+                    "Base": "Chance",
+                    "Max": "Limit"
+                },
+                {
+                    "Stat Caustic Req.": "+Convert Amount",
+                    "Base": "10 to 20",
+                    "Max": "95",
+                    "Upgrade": "3, 5Bias: 2"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "50%",
+                    "Max": "15"
+                },
+                {
+                    "Stat Caustic Req.": "+%Critical Power",
+                    "Base": "5% to 10%",
+                    "Max": "60%",
+                    "Upgrade": "2%, 5%Bias: 2"
+                },
+                {
+                    "Stat Caustic Req.": "1%",
+                    "Base": "30%",
+                    "Max": "10"
+                },
+                {
+                    "Stat Caustic Req.": "+%Critical Chance",
+                    "Base": "1% to 2%",
+                    "Max": "12%",
+                    "Upgrade": "1%, 2%Bias: 10"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "5% to 20%",
+                    "Max": "5"
+                },
+                {
+                    "Stat Caustic Req.": "Ability"
+                },
+                {
+                    "Stat Caustic Req.": "+Buzz BombCaustic Only",
+                    "Base": "-",
+                    "Max": "-",
+                    "Upgrade": "-"
+                },
+                {
+                    "Stat Caustic Req.": "-",
+                    "Base": "0.1% to 1%",
+                    "Max": "-"
+                },
+                {
+                    "Stat Caustic Req.": "Hive Bonus"
+                },
+                {
+                    "Stat Caustic Req.": "+%Critical Power",
+                    "Base": "-",
+                    "Max": "15%",
+                    "Upgrade": "2%, 3%Bias: 3"
+                },
+                {
+                    "Stat Caustic Req.": "-",
+                    "Base": "0.1% to 1%",
+                    "Max": "5"
+                }
+            ]
+        }
+    ]
+}

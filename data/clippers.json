@@ -1,0 +1,78 @@
+{
+    "title": "Clippers",
+    "stats": {},
+    "data_tables": [
+        {
+            "Unknown_Table": [
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                }
+            ]
+        },
+        {
+            "Unknown_Table": [
+                {
+                    "Flowers": "White",
+                    "Single": "9",
+                    "Double": "18",
+                    "Triple": "27",
+                    "Large": "36",
+                    "Star": "45"
+                },
+                {
+                    "Flowers": "Red",
+                    "Single": "9",
+                    "Double": "18",
+                    "Triple": "27",
+                    "Large": "36",
+                    "Star": "45"
+                },
+                {
+                    "Flowers": "Blue",
+                    "Single": "9",
+                    "Double": "18",
+                    "Triple": "27",
+                    "Large": "36",
+                    "Star": "45"
+                },
+                {
+                    "Flowers": "Special Multiplier(s): None"
+                }
+            ]
+        },
+        {
+            "Unknown_Table": [
+                {
+                    "Crafting Ingredients": "2,200 Honey"
+                }
+            ]
+        }
+    ]
+}

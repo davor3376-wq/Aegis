@@ -1,0 +1,776 @@
+{
+    "title": "Ornaments",
+    "stats": {},
+    "data_tables": [
+        {
+            "Beesmas 2025": [
+                {
+                    "Picture": "",
+                    "Name": "Honey Jar",
+                    "Quest Giver": "Black Bear",
+                    "Description": "A replica of an expensive jar of artisanal honey.",
+                    "Buffs": "+25% Convert Rate\n+25% Sunflower Field Capacity\n+5% Honey Per Pollen"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Stuffed Heart",
+                    "Quest Giver": "Mother Bear",
+                    "Description": "A silky heart with lacy frills, representing the bond between you and your bees.",
+                    "Buffs": "+25% Convert Rate\n+25% Strawberry Field Capacity\n+10% Bee Gather Pollen"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Royal Jelly",
+                    "Quest Giver": "Brown Bear",
+                    "Description": "A plastic replica of a Royal Jelly jar with Brown Bear's face on it.",
+                    "Buffs": "+25% Convert Rate\n+25% Clover Field Capacity\n+20% Bomb Pollen"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Boxing Glove",
+                    "Quest Giver": "Panda Bear",
+                    "Description": "A miniture  boxing glove with the word \"POW\" engraved on it.",
+                    "Buffs": "+25% Convert Rate\n+25% Bamboo Field Capacity\n+5% Bee Attack"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Conical Flask",
+                    "Quest Giver": "Science Bear",
+                    "Description": "A small replica of an Erlenmeyer flask - a glass vessel used in precise laboratory experiments.",
+                    "Buffs": "+25% Convert Rate\n+25% Pineapple Patch Capacity\n+25% Convert Rate At Hive"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Cast Iron Skillet",
+                    "Quest Giver": "Polar Bear",
+                    "Description": "A miniature cast iron skillet - a type of pan that's naturally non-stick and great for browning.",
+                    "Buffs": "+25% Convert Rate\n+25% Pumpkin Field Capacity\n+3% Colorless Bee Pollen"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Potpourri",
+                    "Quest Giver": "Dapper Bear",
+                    "Description": "A sheer mesh pouch webbed with decorative wire, filled with fragrant dried petals, leaves and pinecones.",
+                    "Buffs": "+25% Convert Rate\n+25% Dandelion Field Capacity\n+5% Nectar"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Candy Cane Reindeer",
+                    "Quest Giver": "Onett",
+                    "Description": "A peppermint candy cane with plastic googly-eyes and antlers made of pipe-cleaners.",
+                    "Buffs": "+25% Convert Rate\n+25% Mountain Top Field Capacity\n+20% Tool Pollen"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Memory Match Champion",
+                    "Quest Giver": "Spirit Bear",
+                    "Description": "A glass ornament given to the top 100 Memory Match players in 1983.",
+                    "Buffs": "+25% Convert Rate\n+25% Stump Field Capacity\n+5% Bee Ability Pollen"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Digital Pet",
+                    "Quest Giver": "Robo Bear",
+                    "Description": "A holiday edition of a virtual keychain pet. It's got a low resolution LCD screen and only 3 buttons.",
+                    "Buffs": "+10% Capacity\n+25% Spider Field Capacity\n+10% Event Bee Pollen\n+5% Duped Ability Pollen"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Electric Candle",
+                    "Quest Giver": "Gifted Riley Bee",
+                    "Description": "A light-up replica of a holiday candle. It's powered by a single AA battery.",
+                    "Buffs": "+25% Convert Rate\n+25% Mushroom Field Capacity\n+25% Rose Field Capacity\n+15% Flame Pollen"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Snowman",
+                    "Quest Giver": "Gifted Bucko Bee",
+                    "Description": "A felt snow man with a face resembling Frosty Bee.",
+                    "Buffs": "+25% Convert Rate\n+25% Blue Flower Field Capacity\n+25% Pine Tree Forest Capacity\n+15% Bubble Pollen"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Partridge In A Stick Bug",
+                    "Quest Giver": "Stick Bug",
+                    "Description": "A clearly hand-crafted ornament representing the first of the \"12 Days of Beesmas\".",
+                    "Buffs": "+25% Convert Rate\n+25% Cactus Field Capacity\n+25% Pepper Patch Capacity\n+5% Gifted Bee Pollen"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Bag of Honey",
+                    "Quest Giver": "Honey Bee (NPC)",
+                    "Description": "A sandwich bag filled with honey. A very happy Honey Bee floats inside.",
+                    "Buffs": "+25% Convert Rate\n+10% Epic Bee Pollen\n+10% Honey From Tokens\n+1% Honey Per Goo"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Gummy Globe",
+                    "Quest Giver": "Gummy Bear",
+                    "Description": "A figurine of the ideal planet covered entirely in goo.",
+                    "Buffs": "+10% Capacity\n+25% Coconut Field Capacity\n+10% Goo\n+1% Super-Crit Chance"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Bread Climp",
+                    "Quest Giver": "Bubble Bee Man",
+                    "Description": "A small device used to keep plastic bread bags closed.",
+                    "Buffs": "+10% Capacity\n+10% Bubble Pollen\n+10% Instant Bee Gather Conversion\nx5 Bumble Bee Pollen\n+5% Super Crit Power"
+                }
+            ]
+        },
+        {
+            "Beesmas Winter 2024": [
+                {
+                    "Picture": "",
+                    "Name": "Honey Jar",
+                    "Quest Giver": "Black Bear",
+                    "Description": "A replica of an expensive jar of artisanal honey.",
+                    "Buffs": "+25% Convert Rate\n+25% Sunflower Field Capacity\n+5% Honey Per Pollen"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Stuffed Heart",
+                    "Quest Giver": "Mother Bear",
+                    "Description": "A silky heart with lacy frills, representing the bond between you and your bees.",
+                    "Buffs": "+25% Convert Rate\n+25% Strawberry Field Capacity\n+10% Bee Gather Pollen"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Royal Jelly",
+                    "Quest Giver": "Brown Bear",
+                    "Description": "A plastic replica of a Royal Jelly jar with Brown Bear's face on it.",
+                    "Buffs": "+25% Convert Rate\n+25% Clover Field Capacity\n+20% Bomb Pollen"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Boxing Glove",
+                    "Quest Giver": "Panda Bear",
+                    "Description": "A miniture  boxing glove with the word \"POW\" engraved on it.",
+                    "Buffs": "+25% Convert Rate\n+25% Bamboo Field Capacity\n+5% Bee Attack"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Conical Flask",
+                    "Quest Giver": "Science Bear",
+                    "Description": "A small replica of an Erlenmeyer flask - a glass vessel used in precise laboratory experiments.",
+                    "Buffs": "+25% Convert Rate\n+ 25% Pineapple Patch Capacity\n+ 25% Convert Rate At Hive"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Cast Iron Skillet",
+                    "Quest Giver": "Polar Bear",
+                    "Description": "A miniature cast iron skillet - a type of pan that's naturally non-stick and great for browning.",
+                    "Buffs": "+25% Convert Rate\n+ 25% Pumpkin Field Capacity\n+ 3% Colorless Bee Pollen"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Potpourri",
+                    "Quest Giver": "Dapper Bear",
+                    "Description": "A sheer mesh pouch webbed with decorative wire, filled with fragrant dried petals, leaves and pinecones.",
+                    "Buffs": "+25% Convert Rate\n+25% Dandelion Field Capacity\n+5% Nectar"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Candy Cane Reindeer",
+                    "Quest Giver": "Onett",
+                    "Description": "A peppermint candy cane with plastic googly-eyes and antlers made of pipe-cleaners.",
+                    "Buffs": "+25% Convert Rate\n+25% Mountain Top Field Capacity\n+20% Tool Pollen"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Memory Match Champion",
+                    "Quest Giver": "Spirit Bear",
+                    "Description": "A glass ornament given to the top 100 Memory Match players in 1983.",
+                    "Buffs": "+25% Convert Rate\n+25% Stump Field Capacity\n+5% Bee Ability Pollen"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Digital Pet",
+                    "Quest Giver": "Robo Bear",
+                    "Description": "A holiday edition of a virtual keychain pet. It's got a low resolution LCD screen and only 3 buttons.",
+                    "Buffs": "+10% Capacity\n+25% Spider Field Capacity\n+10% Event Bee Ability Pollen\n+5% Duped Ability Pollen"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Electric Candle",
+                    "Quest Giver": "Gifted Riley Bee",
+                    "Description": "A light-up replica of a holiday candle. It's powered by a single AA battery.",
+                    "Buffs": "+25% Convert Rate\n+25% Mushroom Field Capacity\n+25% Rose Field Capacity\n+15% Flame Pollen"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Snowman",
+                    "Quest Giver": "Gifted Bucko Bee",
+                    "Description": "A felt snow man with a face resembling Frosty Bee.",
+                    "Buffs": "+25% Convert Rate\n+25% Blue Flower Field Capacity\n+25% Pine Tree Forest Capacity\n+15% Bubble Pollen"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Partridge In A Stick Bug",
+                    "Quest Giver": "Stick Bug",
+                    "Description": "A clearly hand-crafted ornament representing the first of the \"12 Days of Beesmas\".",
+                    "Buffs": "+25% Convert Rate\n+25% Cactus Field Capacity\n+25% Pepper Patch Capacity\n+5% Gifted Bee Pollen"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Steering Wheel",
+                    "Quest Giver": "Sun Bear",
+                    "Description": "A resin replica of an RV's steering wheel. Represents a freewheelin' nomadic lifestyle.",
+                    "Buffs": "+25% Convert Rate\n+5% Legendary Bee Pollen\n+5% Ability Token Lifespan"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Bag of Honey",
+                    "Quest Giver": "Honey Bee (NPC)",
+                    "Description": "A sandwich bag filled with honey. A very happy Honey Bee floats inside.",
+                    "Buffs": "+25% Convert Rate\n+10% Epic Bee Pollen\n+10% Honey From Tokens\n+1% Honey Per Goo"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Gummy Globe",
+                    "Quest Giver": "Gummy Bear",
+                    "Description": "A figurine of the ideal planet covered entirely in goo.",
+                    "Buffs": "+10% Capacity\n+25% Coconut Field Capacity\n+10% Goo\n+1% Super Crit Chance"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Bread Climp",
+                    "Quest Giver": "Bubble Bee Man",
+                    "Description": "A small device used to keep plastic bread bags closed.",
+                    "Buffs": "+10% Capacity\n+10% Bubble Pollen\n+10% Instant Bee Gather Conversion\nx5 Bumble Bee Pollen\n+5% Super Crit Power"
+                }
+            ]
+        },
+        {
+            "Beesmas Summer 2024": [
+                {
+                    "Picture": "",
+                    "Name": "Honey Jar",
+                    "Quest Giver": "Black Bear",
+                    "Description": "A replica of an expensive jar of artisanal honey.",
+                    "Buffs": "+25% Convert Rate\n+25% Sunflower Field Capacity\n+5% Honey Per Pollen"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Stuffed Heart",
+                    "Quest Giver": "Mother Bear",
+                    "Description": "A silky heart with lacy frills, representing the bond between you and your bees.",
+                    "Buffs": "+25% Convert Rate\n+25% Strawberry Field Capacity\n+10% Bee Gather Pollen"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Royal Jelly",
+                    "Quest Giver": "Brown Bear",
+                    "Description": "A plastic replica of a Royal Jelly jar with Brown Bear's face on it.",
+                    "Buffs": "+25% Convert Rate\n+25% Clover Field Capacity\n+20% Bomb Pollen"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Boxing Glove",
+                    "Quest Giver": "Panda Bear",
+                    "Description": "A miniture  boxing glove with the word \"POW\" engraved on it.",
+                    "Buffs": "+25% Convert Rate\n+25% Bamboo Field Capacity\n+5% Bee Attack"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Conical Flask",
+                    "Quest Giver": "Science Bear",
+                    "Description": "A small replica of an Erlenmeyer flask - a glass vessel used in precise laboratory experiments.",
+                    "Buffs": "+25% Convert Rate\n+ 25% Pineapple Patch Capacity\n+ 25% Convert Rate At Hive"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Cast Iron Skillet",
+                    "Quest Giver": "Polar Bear",
+                    "Description": "A miniature cast iron skillet - a type of pan that's naturally non-stick and great for browning.",
+                    "Buffs": "+25% Convert Rate\n+ 25% Pumpkin Field Capacity\n+ 10% White Field Capacity"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Potpourri",
+                    "Quest Giver": "Dapper Bear",
+                    "Description": "A sheer mesh pouch webbed with decorative wire, filled with fragrant dried petals, leaves and pinecones.",
+                    "Buffs": "+25% Convert Rate\n+25% Dandelion Field Capacity\n+5% Nectar"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Candy Cane Reindeer",
+                    "Quest Giver": "Onett",
+                    "Description": "A peppermint candy cane with plastic googly-eyes and antlers made of pipe-cleaners.",
+                    "Buffs": "+25% Convert Rate\n+25% Mountain Top Field Capacity\n+20% Tool Pollen"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Memory Match Champion",
+                    "Quest Giver": "Spirit Bear",
+                    "Description": "A glass ornament given to the top 100 Memory Match players in 1983.",
+                    "Buffs": "+25% Convert Rate\n+25% Stump Field Capacity\n+5% Bee Ability Pollen"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Digital Pet",
+                    "Quest Giver": "Robo Bear",
+                    "Description": "A holiday edition of a virtual keychain pet. It's got a low resolution LCD screen and only 3 buttons.",
+                    "Buffs": "+10% Capacity\n+25% Spider Field Capacity\n+10% Event Bee Ability Pollen\n+5% Duped Ability Pollen"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Electric Candle",
+                    "Quest Giver": "Gifted Riley Bee",
+                    "Description": "A light-up replica of a holiday candle. It's powered by a single AA battery.",
+                    "Buffs": "+25% Convert Rate\n+25% Mushroom Field Capacity\n+25% Rose Field Capacity\n+20% Flame Pollen"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Snowman",
+                    "Quest Giver": "Gifted Bucko Bee",
+                    "Description": "A felt snow man with a face resembling Frosty Bee.",
+                    "Buffs": "+25% Convert Rate\n+25% Blue Flower Field Capacity\n+25% Pine Tree Forest Capacity\n+15% Bubble Pollen"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Partridge In A Stick Bug",
+                    "Quest Giver": "Stick Bug",
+                    "Description": "A clearly hand-crafted ornament representing the first of the \"12 Days of Beesmas\".",
+                    "Buffs": "+25% Convert Rate\n+25% Cactus Field Capacity\n+25% Pepper Patch Capacity\n+5% Gifted Bee Pollen"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Bag of Honey",
+                    "Quest Giver": "Honey Bee (NPC)",
+                    "Description": "A sandwich bag filled with honey. A very happy Honey Bee floats inside.",
+                    "Buffs": "+25% Convert Rate\n+10% Epic Bee Pollen\n+10% Honey From Tokens\n+1% Honey Per Goo"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Gummy Globe",
+                    "Quest Giver": "Gummy Bear",
+                    "Description": "A figurine of the ideal planet covered entirely in goo.",
+                    "Buffs": "+10% Capacity\n+25% Coconut Field Capacity\n+10% Goo\n+1% Super Crit Chance"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Bread Climp",
+                    "Quest Giver": "Bubble Bee Man",
+                    "Description": "A small device used to keep plastic bread bags closed.",
+                    "Buffs": "+10% Capacity\n+10% Bubble Pollen\n+10% Instant Bee Gather Conversion\nx5 Bumble Bee Pollen\n+5% Super Crit Power"
+                }
+            ]
+        },
+        {
+            "Beesmas 2022": [
+                {
+                    "Picture": "",
+                    "Name": "Honey Jar",
+                    "Quest Giver": "Black Bear",
+                    "Description": "A replica of an expensive jar of artisanal honey.",
+                    "Buffs": "+25% Convert Rate\n+25% Sunflower Field Capacity\n+5% Honey Per Pollen"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Stuffed Heart",
+                    "Quest Giver": "Mother Bear",
+                    "Description": "A silky heart with lacy frills, representing the bond between you and your bees.",
+                    "Buffs": "+25% Convert Rate\n+25% Strawberry Field Capacity\n+10% Bee Gather Pollen"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Royal Jelly",
+                    "Quest Giver": "Brown Bear",
+                    "Description": "A plastic replica of a Royal Jelly jar with Brown Bear's face on it.",
+                    "Buffs": "+25% Convert Rate\n+25% Clover Field Capacity\n+20% Bomb Pollen"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Boxing Glove",
+                    "Quest Giver": "Panda Bear",
+                    "Description": "A miniture  boxing glove with the word \"POW\" engraved on it.",
+                    "Buffs": "+25% Convert Rate\n+25% Bamboo Field Capacity\n+5% Bee Attack"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Conical Flask",
+                    "Quest Giver": "Science Bear",
+                    "Description": "A small replica of an Erlenmeyer flask - a glass vessel used in precise laboratory experiments.",
+                    "Buffs": "+ 25% Convert Rate\n+ 25% Pineapple Patch Capacity\n+ 25% Convert Rate At Hive"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Cast Iron Skillet",
+                    "Quest Giver": "Polar Bear",
+                    "Description": "A miniature cast iron skillet - a type of pan that's naturally non-stick and great for browning.",
+                    "Buffs": "+ 25% Convert Rate\n+ 25% Pumpkin Field Capacity\n+ 10% White Field Capacity"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Potpourri",
+                    "Quest Giver": "Dapper Bear",
+                    "Description": "A sheer mesh pouch webbed with decorative wire, filled with fragrant dried petals, leaves and pinecones.",
+                    "Buffs": "+25% Convert Rate\n+25% Dandelion Field Capacity\n+5% Nectar"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Candy Cane Reindeer",
+                    "Quest Giver": "Onett",
+                    "Description": "A peppermint candy cane with plastic googly-eyes and antlers made of pipe-cleaners.",
+                    "Buffs": "+25% Convert Rate\n+25% Mountain Top Field Capacity\n+20% Pollen From Tools"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Memory Match Champion",
+                    "Quest Giver": "Spirit Bear",
+                    "Description": "A glass ornament given to the top 100 Memory Match players in 1983.",
+                    "Buffs": "+25% Convert Rate\n+25% Stump Field Capacity\n+5% Bee Ability Pollen"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Digital Pet",
+                    "Quest Giver": "Robo Bear",
+                    "Description": "A holiday edition of a virtual keychain pet. It's got a low resolution LCD screen and only 3 buttons.",
+                    "Buffs": "+10% Capacity\n+25% Spider Field Capacity\n+10% Event Bee Ability Pollen\n+5% Duped Ability Pollen"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Electric Candle",
+                    "Quest Giver": "Gifted Riley Bee",
+                    "Description": "A light-up replica of a holiday candle. It's powered by a single AA battery.",
+                    "Buffs": "+25% Convert Rate\n+25% Mushroom Field Capacity\n+25% Rose Field Capacity\n+10% Flame Pollen"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Snowman",
+                    "Quest Giver": "Gifted Bucko Bee",
+                    "Description": "A felt snow man with a face resembling Frosty Bee.",
+                    "Buffs": "+25% Convert Rate\n+25% Blue Flower Field Capacity\n+25% Pine Tree Forest Capacity\n+10% Blue Field Capacity"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Partridge In A Stick Bug",
+                    "Quest Giver": "Stick Bug",
+                    "Description": "A clearly hand-crafted ornament representing the first of the \"12 Days of Beesmas\".",
+                    "Buffs": "+25% Convert Rate\n+25% Cactus Field Capacity\n+25% Pepper Patch Capacity\n+5% Pollen"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Bag of Honey",
+                    "Quest Giver": "Honey Bee (NPC)",
+                    "Description": "A sandwich bag filled with honey. A very happy Honey Bee floats inside.",
+                    "Buffs": "+25% Convert Rate\n+5% Mark Duration\n+10% Honey From Tokens"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Gummy Globe",
+                    "Quest Giver": "Gummy Bear",
+                    "Description": "A figurine of the ideal planet covered entirely in goo.",
+                    "Buffs": "+10% Capacity\n+25% Coconut Field Capacity\n+10% Goo\n+1% Super Crit Chance"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Bread Climp",
+                    "Quest Giver": "Bubble Bee Man",
+                    "Description": "A small device used to keep plastic bread bags closed.",
+                    "Buffs": "+10% Capacity\n+10% Bubble Pollen\n+10% Instant Bee Gather Conversion\n+5% Super Crit Power"
+                }
+            ]
+        },
+        {
+            "Beesmas 2021": [
+                {
+                    "Picture": "",
+                    "Name": "Honey Jar",
+                    "Quest Giver": "Black Bear",
+                    "Description": "A replica of an expensive jar of artisanal honey.",
+                    "Buffs": "+25% Convert Rate\n+25% Sunflower Field Capacity\n+5% Honey Per Pollen"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Stuffed Heart",
+                    "Quest Giver": "Mother Bear",
+                    "Description": "A silky heart with lacy frills, representing the bond between you and your bees.",
+                    "Buffs": "+25% Convert Rate\n+25% Strawberry Field Capacity\n+10% Bee Gather Pollen"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Royal Jelly",
+                    "Quest Giver": "Brown Bear",
+                    "Description": "A plastic replica of a Royal Jelly jar with Brown Bear's face on it.",
+                    "Buffs": "+25% Convert Rate\n+25% Clover Field Capacity\n+20% Bomb Pollen"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Boxing Glove",
+                    "Quest Giver": "Panda Bear",
+                    "Description": "A miniture  boxing glove with the word \"POW\" engraved on it.",
+                    "Buffs": "+25% Convert Rate\n+25% Bamboo Field Capacity\n+5% Bee Attack"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Conical Flask",
+                    "Quest Giver": "Science Bear",
+                    "Description": "A small replica of an Erlenmeyer flask - a glass vessel used in precise laboratory experiments.",
+                    "Buffs": "+25% Convert Rate\n+25% Pineapple Patch Capacity\n+25% Convert Rate At Hive"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Cast Iron Skillet",
+                    "Quest Giver": "Polar Bear",
+                    "Description": "A miniature cast iron skillet - a type of pan that's naturally non-stick and great for browning.",
+                    "Buffs": "+25% Convert Rate\n+25% Pumpkin Patch Capacity\n+10% White Field Capacity"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Potpourri",
+                    "Quest Giver": "Dapper Bear",
+                    "Description": "A sheer mesh pouch webbed with decorative wire, filled with fragrant dried petals, leaves and pinecones.",
+                    "Buffs": "+25% Convert Rate\n+25% Dandelion Field Capacity\n+5% Nectar"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Candy Cane Reindeer",
+                    "Quest Giver": "Onett",
+                    "Description": "A peppermint candy cane with plastic googly-eyes and antlers made of pipe-cleaners.",
+                    "Buffs": "+25% Convert Rate\n+25% Mountain Top Field Capacity\n+20% Pollen From Tools"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Memory Match Champion",
+                    "Quest Giver": "Spirit Bear",
+                    "Description": "A glass ornament given to the top 100 Memory Match players in 1983.",
+                    "Buffs": "+25% Convert Rate\n+25% Stump Field Capacity\n+5% Bee Ability Pollen"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Electric Candle",
+                    "Quest Giver": "Gifted Riley Bee",
+                    "Description": "A light-up replica of a holiday candle. It's powered by a single AA battery.",
+                    "Buffs": "+25% Convert Rate\n+25% Rose Field Capacity\n+25% Mushroom Field Capacity\n+10% Pollen From Flames"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Snowman",
+                    "Quest Giver": "Gifted Bucko Bee",
+                    "Description": "A felt snow man with a face resembling Frosty Bee.",
+                    "Buffs": "+25% Convert Rate\n+25% Blue Flower Field Capacity\n+25% Pine Tree Forest Capacity\n+10% Blue Field Capacity"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Partridge in a Stick Bug",
+                    "Quest Giver": "Stick Bug",
+                    "Description": "A clearly hand-crafted ornament representing the first of the \"12 Days of Beesmas\".",
+                    "Buffs": "+25% Convert Rate\n+25% Cactus Field Capacity\n+25% Pepper Patch Capacity\n+5% Pollen"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Bag of Honey",
+                    "Quest Giver": "Honey Bee (NPC)",
+                    "Description": "A sandwich bag filled with honey. A very happy Honey Bee floats inside.",
+                    "Buffs": "+25% Convert Rate\n+5% Mark Duration\n+10% Honey From Tokens"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Gummy Globe",
+                    "Quest Giver": "Gummy Bear",
+                    "Description": "A figurine of the ideal planet covered entirely in goo.",
+                    "Buffs": "+10% Capacity\n+25% Coconut Field Capacity\n+10% Goo\n+1% Critical Chance"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Bread Climp",
+                    "Quest Giver": "Bubble Bee Man",
+                    "Description": "A small device used to keep plastic bread bags closed.",
+                    "Buffs": "+10% Capacity\n+25% Spider Field Capacity\n+10% Bubble Pollen\n+10% Instant Bee Gather Conversion"
+                }
+            ]
+        },
+        {
+            "Beesmas 2020": [
+                {
+                    "Picture": "",
+                    "Name": "Honey Jar",
+                    "Quest Giver": "Black Bear",
+                    "Description": "A replica of an expensive jar of artisanal honey.",
+                    "Buffs": "+25% Convert Rate\n+25% Sunflower Field Capacity\n+5% Honey Per Pollen"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Stuffed Heart",
+                    "Quest Giver": "Mother Bear",
+                    "Description": "A silky heart with lacy frills, representing the bond between you and your bees.",
+                    "Buffs": "+25% Convert Rate\n+25% Strawberry Field Capacity\n+10% Bee Gather Pollen"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Royal Jelly",
+                    "Quest Giver": "Brown Bear",
+                    "Description": "A plastic replica of a Royal Jelly jar with Brown Bear's face on it.",
+                    "Buffs": "+25% Convert Rate\n+25% Clover Field Capacity\n+20% Bomb Pollen"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Boxing Glove",
+                    "Quest Giver": "Panda Bear",
+                    "Description": "A miniture  boxing glove with the word \"POW\" engraved on it.",
+                    "Buffs": "+25% Convert Rate\n+25% Bamboo Field Capacity\n+5% Bee Attack"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Conical Flask",
+                    "Quest Giver": "Science Bear",
+                    "Description": "A small replica of an Erlenmeyer flask - a glass vessel used in precise laboratory experiments.",
+                    "Buffs": "+25% Convert Rate\n+25% Pineapple Patch Capacity\n+25% Convert Rate At Hive"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Cast Iron Skillet",
+                    "Quest Giver": "Polar Bear",
+                    "Description": "A miniature cast iron skillet - a type of pan that's naturally non-stick and great for browning.",
+                    "Buffs": "+25% Convert Rate\n+25% Pumpkin Patch Capacity\n+10% White Field Capacity"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Candy Cane Reindeer",
+                    "Quest Giver": "Onett",
+                    "Description": "A peppermint candy cane with plastic googly-eyes and antlers made of pipe-cleaners.",
+                    "Buffs": "+25% Convert Rate\n+25% Mountain Top Field Capacity\n+20% Bee Ability Pollen"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Memory Match Champion",
+                    "Quest Giver": "Spirit Bear",
+                    "Description": "A glass ornament given to the top 100 Memory Match players in 1983.",
+                    "Buffs": "+25% Convert Rate\n+25% Dandelion Field Capacity\n+25% Stump Field Capacity\n+5% Bee Ability Pollen"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Electric Candle",
+                    "Quest Giver": "Gifted Riley Bee",
+                    "Description": "A light-up replica of a holiday candle. It's powered by a single AA battery.",
+                    "Buffs": "+25% Convert Rate\n+25% Rose Field Capacity\n+25% Mushroom Field Capacity\n+10% Pollen From Flames"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Snowman",
+                    "Quest Giver": "Gifted Bucko Bee",
+                    "Description": "A felt snow man with a face resembling Frosty Bee.",
+                    "Buffs": "+25% Convert Rate\n+25% Blue Flower Field Capacity\n+25% Pine Tree Forest Capacity\n+10% Blue Field Capacity"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Partridge in a Stick Bug",
+                    "Quest Giver": "Stick Bug",
+                    "Description": "A clearly hand-crafted ornament representing the first of the \"12 Days of Beesmas\".",
+                    "Buffs": "+10% Convert Rate\n+25% Cactus Field Capacity\n+25% Pepper Patch Capacity\n+5% Pollen"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Bag of Honey",
+                    "Quest Giver": "Honey Bee (NPC)",
+                    "Description": "A sandwich bag filled with honey. A very happy Honey Bee floats inside.",
+                    "Buffs": "+10% Convert Rate\n+10% Capacity\n+5% Mark Duration\n+10% Honey From Tokens"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Gummy Globe",
+                    "Quest Giver": "Gummy Bear",
+                    "Description": "A figurine of the ideal planet covered entirely in goo.",
+                    "Buffs": "+10% Capacity\n+25% Coconut Field Capacity\n+10% Goo\n+1% Critical Chance"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Bread Climp",
+                    "Quest Giver": "Bubble Bee Man",
+                    "Description": "A small device used to keep plastic bread bags closed.",
+                    "Buffs": "+10% Capacity\n+25% Spider Field Capacity\n+10% Bubble Pollen\n+10% Instant Bee Gather Conversion"
+                }
+            ]
+        },
+        {
+            "Beesmas 2019": [
+                {
+                    "Picture": "",
+                    "Name": "Honey Jar",
+                    "Quest Giver": "Black Bear",
+                    "Description": "A replica of an expensive jar of artisanal honey.",
+                    "Buffs": "+10% Capacity\n+5% Honey Per Pollen\nx1.25 Sunflower Field Pollen."
+                },
+                {
+                    "Picture": "",
+                    "Name": "Stuffed Heart",
+                    "Quest Giver": "Mother Bear",
+                    "Description": "A silky heart with lacy frills, representing the bond between you and your bees.",
+                    "Buffs": "+10% Capacity\n+10% Bee Gather Pollen\nx1.25 Strawberry Field Pollen"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Royal Jelly",
+                    "Quest Giver": "Brown Bear",
+                    "Description": "A plastic replica of a Royal Jelly jar with Brown Bear's face on it.",
+                    "Buffs": "+10% Capacity\n1.15x Bomb Pollen\nx1.25 Clover Field Pollen"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Boxing Glove",
+                    "Quest Giver": "Panda Bear",
+                    "Description": "A miniture  boxing glove with the word \"POW\" engraved on it.",
+                    "Buffs": "+10% Capacity\n+3% Critical Chance\nx1.25 Bamboo Field Pollen"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Conical Flask",
+                    "Quest Giver": "Science Bear",
+                    "Description": "A small replica of an Erlenmeyer flask - a glass vessel used in precise laboratory experiments.",
+                    "Buffs": "+10% Capacity\n+50% Hive Convert Rate\nx1.25 Pineapple Patch Pollen"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Cast Iron Skillet",
+                    "Quest Giver": "Polar Bear",
+                    "Description": "A miniature cast iron skillet - a type of pan that's naturally non-stick and great for browning.",
+                    "Buffs": "+10% Capacity\nx1.1 White Pollen\nx1.25 Pumpkin Patch Pollen"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Candy Cane Reindeer",
+                    "Quest Giver": "Onett",
+                    "Description": "A peppermint candy cane with plastic googly-eyes and antlers made of pipe-cleaners.",
+                    "Buffs": "+10% Capacity\nx1.2 Pollen From Tools\nx1.25 Mountain Top Field Pollen"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Memory Match Champion",
+                    "Quest Giver": "Spirit Bear",
+                    "Description": "A glass ornament given to the top 100 Memory Match players in 1983.",
+                    "Buffs": "+10% Capacity\n+25% Hive Convert Rate\nx1.25 Dandelion Field Pollen\nx1.25 Stump Field Pollen"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Electric Candle",
+                    "Quest Giver": "Gifted Riley Bee",
+                    "Description": "A light-up replica of a holiday candle. It's powered by a single AA battery.",
+                    "Buffs": "+10% Capacity\nx1.1 Red Pollen\nx1.25 Mushroom Field Pollen\nx1.25 Rose Field Pollen"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Snowman",
+                    "Quest Giver": "Gifted Bucko Bee",
+                    "Description": "A felt snow man with a face resembling Frosty Bee.",
+                    "Buffs": "+10% Capacity\nx1.1 Blue Pollen\nx1.25 Blue Flower Field Pollen\nx1.25 Pine Tree Forest Pollen"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Partridge in a Stick Bug",
+                    "Quest Giver": "Stick Bug",
+                    "Description": "A clearly hand-crafted ornament representing the first of the \"12 Days of Beesmas\".",
+                    "Buffs": "+10% Capacity\n+10% Pollen\nx1.25 Cactus Field Pollen\nx1.25 Pepper Patch Pollen"
+                },
+                {
+                    "Picture": "",
+                    "Name": "Bread Climp",
+                    "Quest Giver": "Bubble Bee Man",
+                    "Description": "A small device used to keep plastic bread bags closed.",
+                    "Buffs": "+10% Capacity\n+10% Pollen\nx1.5 Bubble Pollen\nx1.25 Coconut Field Pollen\nx1.25 Spider Field Pollen"
+                }
+            ]
+        }
+    ]
+}

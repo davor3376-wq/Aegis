@@ -1,0 +1,30 @@
+{
+    "title": "Coconut",
+    "stats": {},
+    "data_tables": [
+        {
+            "Crafting Uses": [
+                {
+                    "Coconuts": "10",
+                    "Other ingredients": "2 Enzymes\n2 Oils",
+                    "Result": "Tropical Drink"
+                },
+                {
+                    "Coconuts": "150",
+                    "Other ingredients": "10B Honey\n50 Tropical Drinks\n100 Glues\n100 Oils",
+                    "Result": "Coconut Clogs"
+                },
+                {
+                    "Coconuts": "250",
+                    "Other ingredients": "25B Honey\n150 Tropical Drinks\n150 Red Extracts\n150 Blue Extracts",
+                    "Result": "Coconut Canister"
+                },
+                {
+                    "Coconuts": "500",
+                    "Other ingredients": "7.5T Honey\n200 Purple Potions\n1,500 Tropical Drinks\n200 Hard Waxes\n3 Turpentines\n3 Refreshing Vials",
+                    "Result": "Coconut Belt"
+                }
+            ]
+        }
+    ]
+}

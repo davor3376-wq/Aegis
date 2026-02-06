@@ -1,0 +1,73 @@
+{
+    "title": "Bandage",
+    "stats": {},
+    "data_tables": [
+        {
+            "Possible Stats": [
+                {
+                    "Stat Caustic Req.": "Chance",
+                    "Base": "Chance",
+                    "Max": "Limit"
+                },
+                {
+                    "Stat Caustic Req.": "+Gather Amount",
+                    "Base": "3 to 6",
+                    "Max": "16",
+                    "Upgrade": "1"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "50%",
+                    "Max": "10"
+                },
+                {
+                    "Stat Caustic Req.": "+%Energy",
+                    "Base": "5% to 10%",
+                    "Max": "20%",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "50%",
+                    "Max": "10"
+                },
+                {
+                    "Stat Caustic Req.": "+%Bee Attack",
+                    "Base": "1% to 3%",
+                    "Max": "3%",
+                    "Upgrade": "-"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "-",
+                    "Max": "-"
+                },
+                {
+                    "Stat Caustic Req.": "+Bee AttackCaustic Only",
+                    "Base": "-",
+                    "Max": "1",
+                    "Upgrade": "1"
+                },
+                {
+                    "Stat Caustic Req.": "-",
+                    "Base": "1% to 10%",
+                    "Max": "1"
+                },
+                {
+                    "Stat Caustic Req.": "Hive Bonus"
+                },
+                {
+                    "Stat Caustic Req.": "xBee AttackCaustic Only",
+                    "Base": "-",
+                    "Max": "x1.01",
+                    "Upgrade": "1.01%"
+                },
+                {
+                    "Stat Caustic Req.": "-",
+                    "Base": "0.1% to 1%",
+                    "Max": "1"
+                }
+            ]
+        }
+    ]
+}

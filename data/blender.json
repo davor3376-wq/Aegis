@@ -1,0 +1,90 @@
+{
+    "title": "Blender",
+    "stats": {},
+    "data_tables": [
+        {
+            "Crafting": [
+                {
+                    "Result": "Red Extract",
+                    "Ingredients\u200e": "10 Royal Jellies50 Strawberries"
+                },
+                {
+                    "Result": "Blue Extract",
+                    "Ingredients\u200e": "10 Royal Jellies50 Blueberries"
+                },
+                {
+                    "Result": "Enzymes",
+                    "Ingredients\u200e": "10 Royal Jellies50 Pineapples"
+                },
+                {
+                    "Result": "Oil",
+                    "Ingredients\u200e": "10 Royal Jellies50 Sunflower Seeds"
+                },
+                {
+                    "Result": "Glue",
+                    "Ingredients\u200e": "10 Royal Jellies50 Gumdrops"
+                },
+                {
+                    "Result": "Tropical Drink",
+                    "Ingredients\u200e": "10 Coconuts2 Enzymes2 Oils"
+                },
+                {
+                    "Result": "Gumdrops",
+                    "Ingredients\u200e": "3 Pineapples3 Strawberries3 Blueberries"
+                },
+                {
+                    "Result": "Moon Charm",
+                    "Ingredients\u200e": "1 Royal Jelly5 Pineapples5 Gumdrops"
+                },
+                {
+                    "Result": "Glitter",
+                    "Ingredients\u200e": "25 Moon Charms1 Magic Bean"
+                },
+                {
+                    "Result": "Star Jelly",
+                    "Ingredients\u200e": "100 Royal Jellies3 Glitter"
+                },
+                {
+                    "Result": "Purple Potion",
+                    "Ingredients\u200e": "3 Neonberries3 Red Extracts3 Blue Extracts3 Glues"
+                },
+                {
+                    "Result": "Soft Wax",
+                    "Ingredients\u200e": "5 Honeysuckles1 Oil1 Enzymes10 Royal Jellies"
+                },
+                {
+                    "Result": "Hard Wax",
+                    "Ingredients\u200e": "3 Soft Waxes3 Enzymes33 Bitterberries33 Royal Jellies"
+                },
+                {
+                    "Result": "Swirled Wax",
+                    "Ingredients\u200e": "3 Hard Waxes9 Soft Waxes6 Purple Potions3,333 Royal Jellies"
+                },
+                {
+                    "Result": "Caustic Wax",
+                    "Ingredients\u200e": "5 Hard Waxes5 Enzymes25 Neonberries5,252 Royal Jellies"
+                },
+                {
+                    "Result": "Field Dice",
+                    "Ingredients\u200e": "1 Soft Wax1 Whirligig1 Red Extract1 Blue Extract"
+                },
+                {
+                    "Result": "Smooth Dice",
+                    "Ingredients\u200e": "3 Field Dice3 Soft Waxes3 Whirligigs3 Oils"
+                },
+                {
+                    "Result": "Loaded Dice",
+                    "Ingredients\u200e": "3 Smooth Dice3 Hard Waxes3 Oils1 Glue"
+                },
+                {
+                    "Result": "Super Smoothie",
+                    "Ingredients\u200e": "3 Neonberries3 Star Jellies3 Purple Potions6 Tropical Drinks"
+                },
+                {
+                    "Result": "Turpentine",
+                    "Ingredients\u200e": "10 Super Smoothies10 Caustic Waxes100 Star Jellies1,000 Honeysuckles"
+                }
+            ]
+        }
+    ]
+}

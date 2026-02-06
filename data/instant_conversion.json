@@ -1,0 +1,90 @@
+{
+    "title": "Instant Conversion",
+    "stats": {},
+    "data_tables": [
+        {
+            "Effects": [
+                {
+                    "Instant Conversion": "5%",
+                    "Increase in effective capacity": "5.26%"
+                },
+                {
+                    "Instant Conversion": "10%",
+                    "Increase in effective capacity": "11.11%"
+                },
+                {
+                    "Instant Conversion": "15%",
+                    "Increase in effective capacity": "17.65%"
+                },
+                {
+                    "Instant Conversion": "20%",
+                    "Increase in effective capacity": "25%"
+                },
+                {
+                    "Instant Conversion": "25%",
+                    "Increase in effective capacity": "33.33%"
+                },
+                {
+                    "Instant Conversion": "30%",
+                    "Increase in effective capacity": "42.86%"
+                },
+                {
+                    "Instant Conversion": "35%",
+                    "Increase in effective capacity": "53.85%"
+                },
+                {
+                    "Instant Conversion": "40%",
+                    "Increase in effective capacity": "66.67%"
+                },
+                {
+                    "Instant Conversion": "45%",
+                    "Increase in effective capacity": "81.82%"
+                },
+                {
+                    "Instant Conversion": "50%",
+                    "Increase in effective capacity": "100%"
+                },
+                {
+                    "Instant Conversion": "55%",
+                    "Increase in effective capacity": "122.22%"
+                },
+                {
+                    "Instant Conversion": "60%",
+                    "Increase in effective capacity": "150%"
+                },
+                {
+                    "Instant Conversion": "65%",
+                    "Increase in effective capacity": "185.71%"
+                },
+                {
+                    "Instant Conversion": "70%",
+                    "Increase in effective capacity": "233.33%"
+                },
+                {
+                    "Instant Conversion": "75%",
+                    "Increase in effective capacity": "300%"
+                },
+                {
+                    "Instant Conversion": "80%",
+                    "Increase in effective capacity": "400%"
+                },
+                {
+                    "Instant Conversion": "85%",
+                    "Increase in effective capacity": "566.67%"
+                },
+                {
+                    "Instant Conversion": "90%",
+                    "Increase in effective capacity": "900%"
+                },
+                {
+                    "Instant Conversion": "95%",
+                    "Increase in effective capacity": "1,900%"
+                },
+                {
+                    "Instant Conversion": "100%",
+                    "Increase in effective capacity": "\u221e"
+                }
+            ]
+        }
+    ]
+}

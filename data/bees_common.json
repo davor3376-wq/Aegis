@@ -1,0 +1,54 @@
+{
+    "title": "Bees/Common",
+    "stats": {},
+    "data_tables": [
+        {
+            "Unknown_Table": [
+                {
+                    "Bee": "Basic Bee",
+                    "Icon": "",
+                    "Description": "An ordinary bee. Well rounded and hard working!"
+                }
+            ]
+        },
+        {
+            "Unknown_Table": [
+                {
+                    "Egg and Jelly Probability": "Item",
+                    "col_1": "Base Probability",
+                    "col_2": "Probability of getting a particular common bee."
+                },
+                {
+                    "Egg and Jelly Probability": "Basic Egg",
+                    "col_1": "87%",
+                    "col_2": "87%"
+                },
+                {
+                    "Egg and Jelly Probability": "Silver Egg",
+                    "col_1": "0%",
+                    "col_2": "0%"
+                },
+                {
+                    "Egg and Jelly Probability": "Gold Egg",
+                    "col_1": "0%",
+                    "col_2": "0%"
+                },
+                {
+                    "Egg and Jelly Probability": "Diamond Egg",
+                    "col_1": "0%",
+                    "col_2": "0%"
+                },
+                {
+                    "Egg and Jelly Probability": "Mythic Egg",
+                    "col_1": "0%",
+                    "col_2": "0%"
+                },
+                {
+                    "Egg and Jelly Probability": "Royal Jelly",
+                    "col_1": "0%",
+                    "col_2": "0%"
+                }
+            ]
+        }
+    ]
+}

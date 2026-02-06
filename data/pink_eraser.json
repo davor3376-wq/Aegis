@@ -1,0 +1,95 @@
+{
+    "title": "Pink Eraser",
+    "stats": {},
+    "data_tables": [
+        {
+            "Possible Stats": [
+                {
+                    "Stat Caustic Req.": "Chance",
+                    "Base": "Chance",
+                    "Max": "Limit"
+                },
+                {
+                    "Stat Caustic Req.": "+Convert Amount",
+                    "Base": "20 to 40",
+                    "Max": "100",
+                    "Upgrade": "2, 3"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "50%",
+                    "Max": "20"
+                },
+                {
+                    "Stat Caustic Req.": "+%Instant Conversion",
+                    "Base": "15% to 20%",
+                    "Max": "30%",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "50%",
+                    "Max": "10"
+                },
+                {
+                    "Stat Caustic Req.": "-%Mark Duration",
+                    "Base": "-90%",
+                    "Max": "-90%",
+                    "Upgrade": "-"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "-",
+                    "Max": "-"
+                },
+                {
+                    "Stat Caustic Req.": "Hive Bonus"
+                },
+                {
+                    "Stat Caustic Req.": "+%Instant Red Bomb Conversion",
+                    "Base": "7% to 10%",
+                    "Max": "15%",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "5% to 20%",
+                    "Max": "5"
+                },
+                {
+                    "Stat Caustic Req.": "+%Instant Bee Gather Conversion",
+                    "Base": "3% to 5%",
+                    "Max": "8%",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "5% to 20%",
+                    "Max": "3"
+                },
+                {
+                    "Stat Caustic Req.": "+%Honey From Instant ConversionCaustic Only",
+                    "Base": "0.5% to 1%",
+                    "Max": "4%",
+                    "Upgrade": "0.5%"
+                },
+                {
+                    "Stat Caustic Req.": "10% to 50%",
+                    "Base": "0.02% to 0.2%",
+                    "Max": "6"
+                },
+                {
+                    "Stat Caustic Req.": "+%Unique Instant ConversionCaustic Only",
+                    "Base": "-",
+                    "Max": "5%",
+                    "Upgrade": "1%, 5%"
+                },
+                {
+                    "Stat Caustic Req.": "-",
+                    "Base": "0.02% to 0.1%",
+                    "Max": "1"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,286 @@
+{
+    "title": "Chicks",
+    "stats": {},
+    "data_tables": [
+        {
+            "Drops": [
+                {
+                    "Mob": "Rhino Beetle/Ladybug",
+                    "Corresponding Hostage Chick Level": "1-5"
+                },
+                {
+                    "Mob": "Spider",
+                    "Corresponding Hostage Chick Level": "3-6"
+                },
+                {
+                    "Mob": "Mantis",
+                    "Corresponding Hostage Chick Level": "4-9"
+                },
+                {
+                    "Mob": "Scorpion",
+                    "Corresponding Hostage Chick Level": "4-9"
+                },
+                {
+                    "Mob": "Werewolf",
+                    "Corresponding Hostage Chick Level": "6-10"
+                },
+                {
+                    "Mob": "King Beetle",
+                    "Corresponding Hostage Chick Level": "7-12"
+                },
+                {
+                    "Mob": "Tunnel Bear",
+                    "Corresponding Hostage Chick Level": "9-15"
+                }
+            ]
+        },
+        {
+            "Drops": [
+                {
+                    "Number of Captures and Health": "51 Captures\n400,000 Health\nLevel 13",
+                    "Reward": "\u224839,000,000 Honey\n1x Ticket\n11x Sunflower Seed\n11x Pineapple\n4x Bitterberry"
+                },
+                {
+                    "Number of Captures and Health": "52 Captures\n400,000 Health\nLevel 13",
+                    "Reward": "\u224840,000,000 Honey\n1x Ticket\n11x Sunflower Seed\n11x Pineapple\n4x Bitterberry"
+                },
+                {
+                    "Number of Captures and Health": "53 Captures\n400,000 Health\nLevel 13",
+                    "Reward": "\u224840,000,000 Honey\n1x Ticket\n11x Sunflower Seed\n11x Pineapple\n4x Bitterberry"
+                },
+                {
+                    "Number of Captures and Health": "54 Captures\n500,000 Health\nLevel 14",
+                    "Reward": "\u224844,000,000 Honey\n1x Ticket\n11x Sunflower Seed\n11x Pineapple\n4x Bitterberry"
+                },
+                {
+                    "Number of Captures and Health": "55 Captures\n500,000 Health\nLevel 14",
+                    "Reward": "\u224845,000,000 Honey\n1x Ticket\n12x Sunflower Seed\n12x Pineapple\n4x Bitterberry"
+                },
+                {
+                    "Number of Captures and Health": "56 Captures\n500,000 Health\nLevel 14",
+                    "Reward": "\u224850,000,000 Honey\n1x Ticket\n12x Sunflower Seed\n12x Pineapple\n4x Bitterberry"
+                },
+                {
+                    "Number of Captures and Health": "57 Captures\n500,000 Health\nLevel 14",
+                    "Reward": "\u224851,000,000 Honey\n1x Ticket\n12x Sunflower Seed\n12x Pineapple\n4x Bitterberry"
+                },
+                {
+                    "Number of Captures and Health": "58 Captures\n500,000 Health\nLevel 14",
+                    "Reward": "\u224855,000,000 Honey\n1x Ticket\n12x Sunflower Seed\n12x Pineapple\n4x Bitterberry"
+                },
+                {
+                    "Number of Captures and Health": "59 Captures\n500,000 Health\nLevel 14",
+                    "Reward": "\u224860,000,000 Honey\n1x Ticket\n12x Sunflower Seed\n4x Bitterberry"
+                },
+                {
+                    "Number of Captures and Health": "60 Captures\n500,000 Health\nLevel 14",
+                    "Reward": "\u224860,000,000 Honey\n1x Ticket\n12x Sunflower Seed\n12x Pineapple\n4x Bitterberry"
+                },
+                {
+                    "Number of Captures and Health": "61 Captures\n500,000 Health\nLevel 14",
+                    "Reward": "\u224860,000,000 Honey\n1x Ticket\n12x Sunflower Seed\n12x Pineapple\n4x Bitterberry"
+                },
+                {
+                    "Number of Captures and Health": "62 Captures\n500,000 Health\nLevel 14",
+                    "Reward": "\u224865,000,000 Honey\n1x Ticket\n12x Sunflower Seed\n12x Pineapple\n4x Bitterberry"
+                },
+                {
+                    "Number of Captures and Health": "63 Captures\n750,000 Health\nLevel 15",
+                    "Reward": "\u224877,000,000\n1x Ticket\n13x Sunflower Seed\n13x Pineapple\n4x Bitterberry"
+                },
+                {
+                    "Number of Captures and Health": "64 Captures\n750,000 Health\nLevel 15",
+                    "Reward": "\u224880,000,000 Honey\n1x Ticket\n13x Sunflower Seed\n13x Pineapple\n4x Bitterberry"
+                },
+                {
+                    "Number of Captures and Health": "65 Captures\n750,000 Health\nLevel 15",
+                    "Reward": "\u224880,000,000 Honey\n1x Ant Pass\n1x Ticket\n13x Sunflower Seed\n13x Pineapple\n4x Bitterberry"
+                },
+                {
+                    "Number of Captures and Health": "66 Captures\n750,000 Health\nLevel 15",
+                    "Reward": "\u224885,000,000 Honey\n1x Ticket\n13x Sunflower Seed\n13x Pineapple\n4x Bitterberry"
+                },
+                {
+                    "Number of Captures and Health": "67 Captures\n750,000 Health\nLevel 15",
+                    "Reward": "\u2248100,000,000 Honey\n0-1x Ant Pass\n1x Ticket\n13x Sunflower seed\n13x Pineapple\n4x Bitterberry"
+                },
+                {
+                    "Number of Captures and Health": "68 Captures\n750,000 Health\nLevel 15",
+                    "Reward": "\u2248100,000,000 Honey\n1x Ticket\n13x Sunflower seed\n13x Pineapple\n4x Bitterberry"
+                },
+                {
+                    "Number of Captures and Health": "69 Captures\n750,000 Health\nLevel 15",
+                    "Reward": "\u2248100,000,000 Honey\n1x Ticket\n13x Sunflower seed\n13x Pineapple\n4x Bitterberry"
+                },
+                {
+                    "Number of Captures and Health": "70 Captures\n750,000 Health\nLevel 15",
+                    "Reward": "\u2248125,000,000 Honey\n1x Ticket\n13x Sunflower Seed\n13x Pineapple\n4x Bitterberry"
+                },
+                {
+                    "Number of Captures and Health": "71 Captures\n750,000 Health\nLevel 15",
+                    "Reward": "\u2248200,000,000 Honey\n1x Ticket\n13x Sunflower seed\n13x Pineapple\n4x Bitterberry"
+                },
+                {
+                    "Number of Captures and Health": "72 Captures\n750,000 Health\nLevel 15",
+                    "Reward": "\u2248200,000,000 Honey\n1x Ticket\n14x Sunflower seed\n14x Pineapple\n4x Bitterberry"
+                },
+                {
+                    "Number of Captures and Health": "73 Captures\n1,000,000 Health\nLevel 16",
+                    "Reward": "\u2248200,000,000 Honey\n0-1x Ant pass\n1x Ticket\n14x Sunflower seed\n14x Pineapple\n4x Bitterberry"
+                },
+                {
+                    "Number of Captures and Health": "74 Captures\n1,000,000 Health\nLevel 16",
+                    "Reward": "\u2248200,000,000 Honey\n1x Ticket\n14x Sunflower seed\n14x Pineapple\n4x Bitterberry"
+                },
+                {
+                    "Number of Captures and Health": "75 Captures\n1,000,000 Health\nLevel 16",
+                    "Reward": "\u2248173,500,000 Honey\n1x Ticket\n14x Sunflower Seed\n14x Pineapple\n4x Bitterberry"
+                },
+                {
+                    "Number of Captures and Health": "76 Captures\n1,000,000 Health\nLevel 16",
+                    "Reward": "\u2248175,000,000 Honey\n1x Ticket\n14x Sunflower Seed\n14x Pineapple\n4x Bitterberry"
+                },
+                {
+                    "Number of Captures and Health": "77 Captures\n1,000,000 Health\nLevel 16",
+                    "Reward": "\u2248225,000,000 Honey\n0-1x Ant Pass\n1x Ticket\n14x Sunflower Seed\n14x Pineapple\n4x Bitterberry"
+                },
+                {
+                    "Number of Captures and Health": "78 Captures\n1,000,000 Health\nLevel 16",
+                    "Reward": "\u2248225,000,000 Honey\n0-1x Ant Pass\n1x Ticket\n14x Sunflower Seed\n14x Pineapple\n4x Bitterberry"
+                },
+                {
+                    "Number of Captures and Health": "79 Captures\n1,000,000 Health\nLevel 16",
+                    "Reward": "\u2248250,000,000 Honey\n1x Ticket\n14x Sunflower Seed\n14x Pineapple\n4x Bitterberry"
+                },
+                {
+                    "Number of Captures and Health": "80 Captures\n1,000,000 Health\nLevel 16",
+                    "Reward": "~300,000,000 Honey\n14x Sunflower Seed\n14x Pineapple\n1x Ticket\n4x Bitterberry"
+                },
+                {
+                    "Number of Captures and Health": "81 Captures\n1,000,000 Health\nLevel 16",
+                    "Reward": "\u2248400,000,000 Honey\n1x Ticket\n14x Sunflower Seed\n14x Pineapple\n4x Bitterberry"
+                },
+                {
+                    "Number of Captures and Health": "82 Captures\n1,000,000 Health\nLevel 16",
+                    "Reward": "\u2248400,000,000 Honey\n1x Ticket\n15x Sunflower Seed\n15x Pineapple\n4x Bitterberry"
+                },
+                {
+                    "Number of Captures and Health": "83 Captures\n1,000,000 Health\nLevel 16",
+                    "Reward": "\u2248400,000,000 Honey\n1x Ticket\n15x Sunflower Seed\n15x Pineapple\n4x Bitterberry"
+                },
+                {
+                    "Number of Captures and Health": "84 Captures\n2,500,000 Health\nLevel 17",
+                    "Reward": "\u2248400,000,000 Honey\n1x Ticket\n15x Sunflower Seed\n15x Pineapple\n4x Bitterberry"
+                },
+                {
+                    "Number of Captures and Health": "85 Captures\n2,500,000 Health\nLevel 17",
+                    "Reward": "\u2248400,000,000 Honey\n1x Ticket\n15x Sunflower Seed\n15x Pineapple\n4x Bitterberry"
+                },
+                {
+                    "Number of Captures and Health": "86 Captures\n2,500,000 Health\nLevel 17",
+                    "Reward": "\u2248400,000,000 Honey\n1x Ticket\n15x Sunflower Seed\n15x Pineapple\n4x Bitterberry"
+                },
+                {
+                    "Number of Captures and Health": "87 Captures\n2,500,000 Health\nLevel 17",
+                    "Reward": "\u2248500,000,000 Honey\n1x Ticket\n15x Sunflower Seed\n15x Pineapple\n4x Bitterberry\n1x Ant Pass"
+                },
+                {
+                    "Number of Captures and Health": "88 Captures\n2,500,000 Health\nLevel 17",
+                    "Reward": "\u2248500,000,000 Honey\n1x Ticket\n15x Sunflower Seed\n15x Pineapple\n4x Bitterberry"
+                },
+                {
+                    "Number of Captures and Health": "89 Captures\n2,500,000 Health\nLevel 17",
+                    "Reward": "\u2248500,000,000 Honey\n1x Ticket\n15x Sunflower Seed\n15x Pineapple\n4x Bitterberry"
+                },
+                {
+                    "Number of Captures and Health": "90 Captures\n2,500,000 Health\nLevel 17",
+                    "Reward": "\u2248485,000,000 Honey\n1x Ant Pass\n1x Ticket\n15x Sunflower Seed\n15x Pineapple\n4x Bitterberry"
+                },
+                {
+                    "Number of Captures and Health": "91 Captures\n2,500,000 Health\nLevel 17",
+                    "Reward": "\u2248560,000,000 Honey\n15x Sunflower Seed\n1x Ticket\n15x Pineapple\n4x Bitterberry"
+                },
+                {
+                    "Number of Captures and Health": "92 Captures\n2,500,000 Health\nLevel 17",
+                    "Reward": "\u2248520,000,000 Honey\n16x Sunflower Seed\n1x Ticket\nx16 Pineapple\n4x Bitterberry\n1x Ant Pass"
+                },
+                {
+                    "Number of Captures and Health": "93 Captures\n2,500,000 Health\nLevel 17",
+                    "Reward": "\u2248502,000,000 Honey\n16x Sunflower Seed\n1x Ticket\nx16 Pineapple\n4x Bitterberry"
+                },
+                {
+                    "Number of Captures and Health": "94 Captures\n2,500,000 Health\nLevel 17",
+                    "Reward": "\u2248586,000,000 Honey\n16x Sunflower Seed\n1x Ticket\nx16 Pineapple\n4x Bitterberry\n1x Ant Pass"
+                },
+                {
+                    "Number of Captures and Health": "95 Captures\n5,000,000 Health\nLevel 18",
+                    "Reward": "\u2248662,000,000 Honey\n16x Sunflower Seed\n1x Ticket\nx16 Pineapple\n4x Bitterberry\n1x Ant Pass"
+                },
+                {
+                    "Number of Captures and Health": "96 Captures\n5,000,000 Health\nLevel 18",
+                    "Reward": "\u2248437,000,000 Honey\n16x Sunflower Seed\n1x Ticket\nx16 Pineapple\n4x Bitterberry"
+                },
+                {
+                    "Number of Captures and Health": "97 Captures\n5,000,000 Health\nLevel 18",
+                    "Reward": "\u2248482,000,000 Honey\n16x Sunflower Seed\n1x Ticket\nx16 Pineapple\n4x Bitterberry\n1x Ant Pass"
+                },
+                {
+                    "Number of Captures and Health": "98 Captures\n5,000,000 Health\nLevel 18",
+                    "Reward": "\u2248449,500,000 Honey\n16x Sunflower Seed\n1x Ticket\nx16 Pineapple\n4x Bitterberry"
+                },
+                {
+                    "Number of Captures and Health": "99 Captures\n5,000,000 Health\nLevel 18",
+                    "Reward": "\u2248431,000,000 Honey\n16x Sunflower Seed\n1x Ticket\n16x Pineapple\n4x Bitterberry"
+                },
+                {
+                    "Number of Captures and Health": "100 Captures\n5,000,000 Health\nLevel 18",
+                    "Reward": "\u224840,000,000,000 Honey\n1x Star Treat\n1x Ticket\n16x Sunflower Seed\n16x Pineapple\n4x Bitterberry"
+                }
+            ]
+        },
+        {
+            "Respawns Every": [
+                {
+                    "Time took to defeat the Mondo Chick": "<5 seconds",
+                    "Amount of Mondo Chick Blessing": "x10"
+                },
+                {
+                    "Time took to defeat the Mondo Chick": "6 \u2013 10 seconds",
+                    "Amount of Mondo Chick Blessing": "x9"
+                },
+                {
+                    "Time took to defeat the Mondo Chick": "11 \u2013 15 seconds",
+                    "Amount of Mondo Chick Blessing": "x8"
+                },
+                {
+                    "Time took to defeat the Mondo Chick": "16 \u2013 20 seconds",
+                    "Amount of Mondo Chick Blessing": "x7"
+                },
+                {
+                    "Time took to defeat the Mondo Chick": "21 \u2013 30 seconds",
+                    "Amount of Mondo Chick Blessing": "x6"
+                },
+                {
+                    "Time took to defeat the Mondo Chick": "31 \u2013 59 seconds",
+                    "Amount of Mondo Chick Blessing": "x5"
+                },
+                {
+                    "Time took to defeat the Mondo Chick": "1:00 - 2:30",
+                    "Amount of Mondo Chick Blessing": "x4"
+                },
+                {
+                    "Time took to defeat the Mondo Chick": "2:31 - 4:59",
+                    "Amount of Mondo Chick Blessing": "x3"
+                },
+                {
+                    "Time took to defeat the Mondo Chick": "5:01 - 10:00",
+                    "Amount of Mondo Chick Blessing": "x2"
+                },
+                {
+                    "Time took to defeat the Mondo Chick": "10:01 - 15:00",
+                    "Amount of Mondo Chick Blessing": "x1"
+                }
+            ]
+        }
+    ]
+}

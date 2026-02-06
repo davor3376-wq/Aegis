@@ -1,0 +1,35 @@
+{
+    "title": "Gumdrops",
+    "stats": {},
+    "data_tables": [
+        {
+            "Crafting Uses": [
+                {
+                    "Gumdrops": "5",
+                    "Other ingredients": "1 Royal Jelly\n5 Pineapples",
+                    "Result": "Moon Charm"
+                },
+                {
+                    "Gumdrops": "25",
+                    "Other ingredients": "2,500,000 Honey\n100 Pineapples\n5 Moon Charms",
+                    "Result": "Propeller Hat"
+                },
+                {
+                    "Gumdrops": "50",
+                    "Other ingredients": "10 Royal Jellies",
+                    "Result": "Glue"
+                },
+                {
+                    "Gumdrops": "2000",
+                    "Other ingredients": "1,500 Glues\n50 Caustic Waxes\n50 Super Smoothies\n5 Turpentines\n5 Satisfying Vials",
+                    "Result": "Gummyballer"
+                },
+                {
+                    "Gumdrops": "2500",
+                    "Other ingredients": "-",
+                    "Result": "Gummy Bee"
+                }
+            ]
+        }
+    ]
+}

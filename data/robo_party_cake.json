@@ -1,0 +1,210 @@
+{
+    "title": "Robo Party Cake",
+    "stats": {},
+    "data_tables": [
+        {
+            "Rewards": [
+                {
+                    "Rank Level": "1",
+                    "Rewards": "1 Ticket\n3 Stingers\n1 Pink Balloon\n1 Neonberry\n5 Field Dice"
+                },
+                {
+                    "Rank Level": "2",
+                    "Rewards": "2 Tickets\n3 Stingers\n1 Pink Balloon\n10 Whirligigs\n2 Oils"
+                },
+                {
+                    "Rank Level": "3",
+                    "Rewards": "3 Tickets\n3 Stingers\n1 Pink Balloon\n1 Glitter\n1 Ant Pass"
+                },
+                {
+                    "Rank Level": "4",
+                    "Rewards": "4 Tickets\n4 Stingers\n1 Pink Balloon\n30 Honeysuckles\n2 Glues"
+                },
+                {
+                    "Rank Level": "5",
+                    "Rewards": "5 Tickets\n4 Stingers\n1 Pink Balloon\n5 Soft Waxes\n1 Star Jelly"
+                },
+                {
+                    "Rank Level": "6",
+                    "Rewards": "6 Tickets\n5 Stingers\n1 Pink Balloon\n10 Jelly Beans\n1 Robo Pass"
+                },
+                {
+                    "Rank Level": "7",
+                    "Rewards": "7 Tickets\n5 Stingers\n1 Pink Balloon\n3 Smooth Dice\n3 Blue Extracts"
+                },
+                {
+                    "Rank Level": "8",
+                    "Rewards": "8 Tickets\n6 Stingers\n1 Pink Balloon\n6 Soft Waxes\n2 Glitter"
+                },
+                {
+                    "Rank Level": "9",
+                    "Rewards": "9 Tickets\n6 Stingers\n1 Pink Balloon\n1 Atomic Treat\n1 Robo Pass"
+                },
+                {
+                    "Rank Level": "10",
+                    "Rewards": "10 Tickets\n7 Stingers\n1 Red Balloon\n1 Ticket Planter\n1 Purple Potion"
+                },
+                {
+                    "Rank Level": "11",
+                    "Rewards": "11 Tickets\n7 Stingers\n1 Pink Balloon\n3 Magic Beans\n3 Neonberries"
+                },
+                {
+                    "Rank Level": "12",
+                    "Rewards": "12 Tickets\n8 Stingers\n1 Red Balloon\n4 Enzymes\n5 Micro-Converters"
+                },
+                {
+                    "Rank Level": "13",
+                    "Rewards": "13 Tickets\n8 Stingers\n1 Pink Balloon\n20 Jelly Beans\n5 Hard Waxes"
+                },
+                {
+                    "Rank Level": "14",
+                    "Rewards": "14 Tickets\n9 Stingers\n1 Red Balloon\n20 Whirligigs\n1 Robo Pass"
+                },
+                {
+                    "Rank Level": "15",
+                    "Rewards": "15 Tickets\n9 Stingers\n1 Red Balloon\n1 Loaded Dice\n3 Star Jellies"
+                },
+                {
+                    "Rank Level": "16",
+                    "Rewards": "16 Tickets\n10 Stingers\n1 Red Balloon\n20 Honeysuckles\n100 Gumdrops"
+                },
+                {
+                    "Rank Level": "17",
+                    "Rewards": "17 Tickets\n10 Stingers\n1 Red Balloon\n5 Enzymes\n10 Neonberries"
+                },
+                {
+                    "Rank Level": "18",
+                    "Rewards": "18 Tickets\n11 Stingers\n1 Red Balloon\n10 Micro-Converters\n3 Glitter"
+                },
+                {
+                    "Rank Level": "19",
+                    "Rewards": "19 Tickets\n11 Stingers\n1 Red Balloon\n1 Red Drive\n3 Glues"
+                },
+                {
+                    "Rank Level": "20",
+                    "Rewards": "20 Tickets\n12 Stingers\n1 White Balloon\n1 Ticket Planter\n1 Red Drive\n1 White Drive\n1 Blue Drive"
+                },
+                {
+                    "Rank Level": "21",
+                    "Rewards": "21 Tickets\n12 Stingers\n3 Pink Balloons\n1 Blue Drive\n1 Smooth Dice\n300 Pineapples"
+                },
+                {
+                    "Rank Level": "22",
+                    "Rewards": "22 Tickets\n13 Stingers\n1 White Balloon\n1 Red Drive\n1 Robo Pass\n4 Glitter"
+                },
+                {
+                    "Rank Level": "23",
+                    "Rewards": "23 Tickets\n13 Stingers\n2 Red Balloons\n1 Blue Drive\n25 Whirligigs\n1 Swirled Wax"
+                },
+                {
+                    "Rank Level": "24",
+                    "Rewards": "24 Tickets\n14 Stingers\n1 White Balloon\n1 White Drive\n40 Honeysuckles\n1 Caustic Wax"
+                },
+                {
+                    "Rank Level": "25",
+                    "Rewards": "25 Tickets\n14 Stingers\n1 Present\n1 Black Balloon\n1 Glitched Drive\n10 Neonberries"
+                },
+                {
+                    "Rank Level": "26",
+                    "Rewards": "26 Tickets\n15 Stingers\n3 Pink Balloons\n1 Red Drive\n5 Oils\n1 Purple Potion"
+                },
+                {
+                    "Rank Level": "27",
+                    "Rewards": "27 Tickets\n15 Stingers\n1 Red Balloon\n1 Blue Drive\n5 Blue Extracts\n5 Hard Waxes"
+                },
+                {
+                    "Rank Level": "28",
+                    "Rewards": "28 Tickets\n16 Stingers\n1 White Balloon\n1 White Drive\n25 Honeysuckles\n3 Magic Beans"
+                },
+                {
+                    "Rank Level": "29",
+                    "Rewards": "29 Tickets\n16 Stingers\n1 White Balloon\n1 Red Drive\n1 Purple Potion\n2 Robo Passes"
+                },
+                {
+                    "Rank Level": "30",
+                    "Rewards": "30 Tickets\n17 Stingers\n1 Black Balloon\n1 Glitched Drive\n10 Neonberries\n1 Super Smoothie"
+                },
+                {
+                    "Rank Level": "31",
+                    "Rewards": "31 Tickets\n17 Stingers\n2 Red Balloons\n1 Red Drive\n500 Pineapples\n1 Swirled Wax"
+                },
+                {
+                    "Rank Level": "32",
+                    "Rewards": "32 Tickets\n18 Stingers\n4 Pink Balloons\n1 Blue Drive\n500 Sunflower Seeds\n1 Caustic Wax\n1 Party Robo Bear Sticker"
+                },
+                {
+                    "Rank Level": "33",
+                    "Rewards": "33 Tickets\n18 Stingers\n1 White Balloon\n1 White Drive\n5 Tropical Drinks\n15 Soft Waxes"
+                },
+                {
+                    "Rank Level": "34",
+                    "Rewards": "34 Tickets\n19 Stingers\n2 Red Balloons\n2 Red Drives\n100 Moon Charms\n1 Swirled Wax"
+                },
+                {
+                    "Rank Level": "35",
+                    "Rewards": "35 Tickets\n19 Stingers\n1 White Balloon\n2 Blue Drives\n100 Gumdrops\n1 Caustic Wax"
+                },
+                {
+                    "Rank Level": "36",
+                    "Rewards": "36 Tickets\n20 Stingers\n5 Pink Balloons\n2 White Drives\n5 Red Extracts\n3 Star Jellies"
+                },
+                {
+                    "Rank Level": "37",
+                    "Rewards": "37 Tickets\n20 Stingers\n1 White Balloon\n2 Red Drives\n5 Blue Extracts\n1 Purple Potion"
+                },
+                {
+                    "Rank Level": "38",
+                    "Rewards": "38 Tickets\n21 Stingers\n1 White Balloon\n2 Blue Drives\n3 Smooth Dice\n200 Honeysuckles"
+                },
+                {
+                    "Rank Level": "39",
+                    "Rewards": "39 Tickets\n21 Stingers\n1 White Balloon\n2 White Drives\n25 Whirligigs\n1 Super Smoothie"
+                },
+                {
+                    "Rank Level": "40",
+                    "Rewards": "40 Tickets\n22 Stingers\n1 Black Balloon\n1 Glitched Drive\n1 Atomic Treat\n1 Festive Planter"
+                },
+                {
+                    "Rank Level": "41",
+                    "Rewards": "41 Tickets\n22 Stingers\n1 Black Balloon\n3 Red Drives\n500 Strawberries\n5 Glitter"
+                },
+                {
+                    "Rank Level": "42",
+                    "Rewards": "42 Tickets\n23 Stingers\n1 Black Balloon\n3 White Drives\n1 Swirled Wax\n5 Glues"
+                },
+                {
+                    "Rank Level": "43",
+                    "Rewards": "43 Tickets\n23 Stingers\n1 Black Balloon\n3 White Drives\n1 Caustic Wax\n3 Robo Passes"
+                },
+                {
+                    "Rank Level": "44",
+                    "Rewards": "44 Tickets\n24 Stingers\n1 Black Balloon\n1 Glitched Drive\n4 Magic Beans\n1 Super Smoothie"
+                },
+                {
+                    "Rank Level": "45",
+                    "Rewards": "45 Tickets\n24 Stingers\n1 Black Balloon\n1 Glitched Drive\n10 Neonberries\n1 Turpentine"
+                },
+                {
+                    "Rank Level": "46",
+                    "Rewards": "46 Tickets\n25 Stingers\n1 Black Balloon\n1 Glitched Drive\n25 Whirligigs\n1 Super Smoothie"
+                },
+                {
+                    "Rank Level": "47",
+                    "Rewards": "47 Tickets\n25 Stingers\n1 Black Balloon\n1 Glitched Drive\n3 Loaded Dice\n1 Super Smoothie"
+                },
+                {
+                    "Rank Level": "48",
+                    "Rewards": "48 Tickets\n26 Stingers\n1 Black Balloon\n1 Glitched Drive\n3 Loaded Dice\n1 Super Smoothie"
+                },
+                {
+                    "Rank Level": "49",
+                    "Rewards": "49 Tickets\n26 Stingers\n1 Black Balloon\n1 Glitched Drive\n10 Glitter\n1 Super Smoothie"
+                },
+                {
+                    "Rank Level": "50",
+                    "Rewards": "50 Tickets\n27 Stingers\n1 Black Balloon\n1 Glitched Drive\n1 Festive Planter\n1 Turpentine"
+                }
+            ]
+        }
+    ]
+}

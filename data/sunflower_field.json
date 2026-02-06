@@ -1,0 +1,61 @@
+{
+    "title": "Sunflower Field",
+    "stats": {},
+    "data_tables": [
+        {
+            "Unknown_Table": [
+                {
+                    "Item Drops list": "Sunflower Seeds (20% Chance)\nOils (0.0167% Chance)\nMagic Beans (0.0025% Chance)"
+                }
+            ]
+        },
+        {
+            "Unknown_Table": [
+                {
+                    "Flowers": "Single",
+                    "White": "416",
+                    "Red": "63%",
+                    "Blue": "89",
+                    "Total": "13.5%",
+                    "col_5": "89",
+                    "col_6": "13.5%",
+                    "col_7": "594",
+                    "col_8": "90%"
+                },
+                {
+                    "Flowers": "Double",
+                    "White": "46",
+                    "Red": "7%",
+                    "Blue": "10",
+                    "Total": "1.5%",
+                    "col_5": "10",
+                    "col_6": "1.5%",
+                    "col_7": "66",
+                    "col_8": "10%"
+                },
+                {
+                    "Flowers": "Triple",
+                    "White": "0",
+                    "Red": "0%",
+                    "Blue": "0",
+                    "Total": "0%",
+                    "col_5": "0",
+                    "col_6": "0%",
+                    "col_7": "0",
+                    "col_8": "0%"
+                },
+                {
+                    "Flowers": "Total",
+                    "White": "462",
+                    "Red": "70%",
+                    "Blue": "99",
+                    "Total": "15%",
+                    "col_5": "99",
+                    "col_6": "15%",
+                    "col_7": "660",
+                    "col_8": "100%"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "title": "Hub Field",
+    "stats": {},
+    "data_tables": [
+        {
+            "Unknown_Table": [
+                {
+                    "Flowers": "Single",
+                    "White": "58",
+                    "Red": "8.33%",
+                    "Blue": "58",
+                    "Total": "8.33%",
+                    "col_5": "58",
+                    "col_6": "8.33%",
+                    "col_7": "174",
+                    "col_8": "25%"
+                },
+                {
+                    "Flowers": "Double",
+                    "White": "116",
+                    "Red": "16.67%",
+                    "Blue": "116",
+                    "Total": "16.67%",
+                    "col_5": "116",
+                    "col_6": "16.67%",
+                    "col_7": "349",
+                    "col_8": "50%"
+                },
+                {
+                    "Flowers": "Triple",
+                    "White": "58",
+                    "Red": "8.33%",
+                    "Blue": "58",
+                    "Total": "8.33%",
+                    "col_5": "58",
+                    "col_6": "8.33%",
+                    "col_7": "174",
+                    "col_8": "25%"
+                },
+                {
+                    "Flowers": "Total",
+                    "White": "232",
+                    "Red": "33.33%",
+                    "Blue": "232",
+                    "Total": "33.33%",
+                    "col_5": "232",
+                    "col_6": "33.33%",
+                    "col_7": "697",
+                    "col_8": "100%"
+                }
+            ]
+        }
+    ]
+}

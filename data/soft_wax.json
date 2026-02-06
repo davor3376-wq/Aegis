@@ -1,0 +1,90 @@
+{
+    "title": "Soft Wax",
+    "stats": {},
+    "data_tables": [
+        {
+            "Crafting Uses": [
+                {
+                    "Soft Waxes": "1",
+                    "Other ingredients": "750,000 Honey\n3 Magic Beans",
+                    "Result": "Plastic Planter"
+                },
+                {
+                    "Soft Waxes": "1",
+                    "Other ingredients": "1 Whirligig\n1 Red Extract\n1 Blue Extract",
+                    "Result": "Field Dice"
+                },
+                {
+                    "Soft Waxes": "1",
+                    "Other ingredients": "12,400,000 Honey\n150 Pineapples\n150 Sunflower Seeds\n10 Stingers",
+                    "Result": "Mondo Belt Bag"
+                },
+                {
+                    "Soft Waxes": "2",
+                    "Other ingredients": "12,500,000 Honey\n2 Red Extracts",
+                    "Result": "Red Port-O-Hive"
+                },
+                {
+                    "Soft Waxes": "2",
+                    "Other ingredients": "12,500,000 Honey\n2 Blue Extracts",
+                    "Result": "Blue Port-O-Hive"
+                },
+                {
+                    "Soft Waxes": "3",
+                    "Other ingredients": "3 Field Dice\n3 Whirligigs\n3 Oils",
+                    "Result": "Smooth Dice"
+                },
+                {
+                    "Soft Waxes": "3",
+                    "Other ingredients": "3 Enzymes\n33 Bitterberries\n33 Royal Jellies",
+                    "Result": "Hard Wax"
+                },
+                {
+                    "Soft Waxes": "3",
+                    "Other ingredients": "250,000,000 Honey\n3 Glitter\n10 Moon Charms",
+                    "Result": "Porcelain Port-O-Hive"
+                },
+                {
+                    "Soft Waxes": "5",
+                    "Other ingredients": "5,000,000 Honey\n5 Magic Beans\n30 Gumdrops\n3 Jelly Beans",
+                    "Result": "Candy Planter"
+                },
+                {
+                    "Soft Waxes": "5",
+                    "Other ingredients": "7,000,000 Honey\n1 Glue\n1 Oil\n5 Neonberries\n10 Micro-Converters",
+                    "Result": "Sticker-Seeker"
+                },
+                {
+                    "Soft Waxes": "9",
+                    "Other ingredients": "3 Hard Waxes\n6 Purple Potions\n3,333 Royal Jellies",
+                    "Result": "Swirled Wax"
+                },
+                {
+                    "Soft Waxes": "20",
+                    "Other ingredients": "10,000,000 Honey\n5 Magic Beans\n15 Red Extracts",
+                    "Result": "Red Clay Planter"
+                },
+                {
+                    "Soft Waxes": "20",
+                    "Other ingredients": "10,000,000 Honey\n5 Magic Beans\n15 Blue Extracts",
+                    "Result": "Blue Clay Planter"
+                },
+                {
+                    "Soft Waxes": "20",
+                    "Other ingredients": "50,000,000 Honey\n10 Magic Beans\n1 Purple Potion\n5 Hard Waxes",
+                    "Result": "Tacky Planter"
+                },
+                {
+                    "Soft Waxes": "250",
+                    "Other ingredients": "5T Honey\n100 Magic Beans\n100 Glitter\n50 Swirled Waxes\n25 Super Smoothies",
+                    "Result": "Petal Planter"
+                },
+                {
+                    "Soft Waxes": "500",
+                    "Other ingredients": "750B Honey\n75 Magic Beans\n750 Blue Extracts\n25 Caustic Waxes\n1 Turpentine",
+                    "Result": "Hydroponic Planter"
+                }
+            ]
+        }
+    ]
+}

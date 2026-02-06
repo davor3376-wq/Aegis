@@ -1,0 +1,30 @@
+{
+    "title": "Rhino Beetle",
+    "stats": {},
+    "data_tables": [
+        {
+            "Locations": [
+                {
+                    "Field": "Blue Flower Field",
+                    "Quantity": "1",
+                    "Level": "1"
+                },
+                {
+                    "Field": "Clover Field",
+                    "Quantity": "1 (with 1 Ladybug)",
+                    "Level": "2"
+                },
+                {
+                    "Field": "Bamboo Field",
+                    "Quantity": "2",
+                    "Level": "2 (on left)\n3 (on right)"
+                },
+                {
+                    "Field": "Pineapple Patch",
+                    "Quantity": "1 (with 1 Mantis)",
+                    "Level": "5"
+                }
+            ]
+        }
+    ]
+}

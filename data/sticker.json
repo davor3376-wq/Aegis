@@ -1,0 +1,2551 @@
+{
+    "title": "Sticker",
+    "stats": {},
+    "data_tables": [
+        {
+            "Storage": [
+                {
+                    "Tickets": "20",
+                    "Total Cost": "20",
+                    "Total Storage": "24"
+                },
+                {
+                    "Tickets": "50",
+                    "Total Cost": "70",
+                    "Total Storage": "32"
+                },
+                {
+                    "Tickets": "90",
+                    "Total Cost": "160",
+                    "Total Storage": "40"
+                },
+                {
+                    "Tickets": "140",
+                    "Total Cost": "300",
+                    "Total Storage": "48"
+                },
+                {
+                    "Tickets": "200",
+                    "Total Cost": "500",
+                    "Total Storage": "56"
+                },
+                {
+                    "Tickets": "270",
+                    "Total Cost": "770",
+                    "Total Storage": "64"
+                },
+                {
+                    "Tickets": "350",
+                    "Total Cost": "1,120",
+                    "Total Storage": "72"
+                },
+                {
+                    "Tickets": "440",
+                    "Total Cost": "1,560",
+                    "Total Storage": "80"
+                },
+                {
+                    "Tickets": "540",
+                    "Total Cost": "2,100",
+                    "Total Storage": "88"
+                },
+                {
+                    "Tickets": "650",
+                    "Total Cost": "2,750",
+                    "Total Storage": "96"
+                },
+                {
+                    "Tickets": "770",
+                    "Total Cost": "3,520",
+                    "Total Storage": "104"
+                },
+                {
+                    "Tickets": "900",
+                    "Total Cost": "4,420",
+                    "Total Storage": "112"
+                },
+                {
+                    "Tickets": "1,000",
+                    "Total Cost": "5,420",
+                    "Total Storage": "120+"
+                }
+            ]
+        },
+        {
+            "Sticker Index": [
+                {
+                    "": "",
+                    "Name": "Brown Cub Skin",
+                    "Description": "\"A slightly chubby cub that got into the Royal Jelly.\"",
+                    "Stack Boost": "\u200b+1% Pollen",
+                    "Stack Reward": "10 Tickets",
+                    "Where it's from:": "Rewarded after completing 300 Brown Bear Quests"
+                },
+                {
+                    "": "",
+                    "Name": "Robo Cub Skin",
+                    "Description": "\"They forgot a few drives when constructing this Robo Bear.\"",
+                    "Stack Boost": "\u200b+1% Duped Ability Pollen",
+                    "Stack Reward": "10 Tickets",
+                    "Where it's from:": "Reward from finishing in the top 10 of the Daily Robo Bear Challenge Leaderboard\nReward for winning round 25 of Robo Bear's Challenge for the first time...\nOr: Rewarded after collecting 250,000 Cogs"
+                },
+                {
+                    "": "",
+                    "Name": "Stick Cub Skin",
+                    "Description": "\"This stick nymph evolved to camouflage itself as a bear.\"",
+                    "Stack Boost": "\u200b+1% Bee Attack",
+                    "Stack Reward": "10 Tickets",
+                    "Where it's from:": "Reward from finishing in the top 25 of the Daily Stick Bug Challenge Leaderboard\nDropped by Stick Bug (Unbelievably Rare)\nStick Bug Challenge Reward (Unbelievably Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Star Cub Skin",
+                    "Description": "\"A cosmic cub visiting from another galaxy.\"",
+                    "Stack Boost": "\u200b+1% Gifted Bee Pollen",
+                    "Stack Reward": "10 Tickets",
+                    "Where it's from:": "Awarded after sticking all 12 Star Signs to the Sticker Stack\nUsing the Diamond Star Amulet Generator (1 in a million chance)\nSticker Printer (Star Egg, All Gifted Eggs)"
+                },
+                {
+                    "": "",
+                    "Name": "Noob Cub Skin",
+                    "Description": "\"This little noob doesn't know the first thing about running a shop.\"",
+                    "Stack Boost": "\u200b+10,000 Capacity",
+                    "Stack Reward": "10 Tickets",
+                    "Where it's from:": "This was included in the Cub Buddy Launch Pack"
+                },
+                {
+                    "": "",
+                    "Name": "Bee Cub Skin",
+                    "Description": "\"A young polar bear going through an identity crisis.\"",
+                    "Stack Boost": "\u200b+10,000 Capacity",
+                    "Stack Reward": "10 Tickets",
+                    "Where it's from:": "This was the final reward of Bee Bear's 2019 quests"
+                },
+                {
+                    "": "",
+                    "Name": "Gingerbread Cub Skin",
+                    "Description": "\"A cub made of cookies, brought to life by Honeyday Magic!\"",
+                    "Stack Boost": "\u200b+10,000 Capacity",
+                    "Stack Reward": "10 Tickets",
+                    "Where it's from:": "Purchased in Bee Bear's 2020 Catalog for 250 Gingerbread Bears"
+                },
+                {
+                    "": "",
+                    "Name": "Snow Cub Skin",
+                    "Description": "\"This cruel cub was carved from a Lvl 20 Snowbear's snowball.\"",
+                    "Stack Boost": "\u200b+10,000 Capacity",
+                    "Stack Reward": "10 Tickets",
+                    "Where it's from:": "This was the final reward of Bee Bear's March 2022 quests"
+                },
+                {
+                    "": "",
+                    "Name": "Peppermint Robo Cub Skin",
+                    "Description": "\"A clockwork cub composed of cogs and candycanes.\"",
+                    "Stack Boost": "\u200b+10,000 Capacity",
+                    "Stack Reward": "10 Tickets",
+                    "Where it's from:": "This was the final reward of Bee Bear's April 2023 quests"
+                },
+                {
+                    "": "",
+                    "Name": "Doodle Cub Skin",
+                    "Description": "\"Cut from cardboard and scribbled up with magic crayons.\"",
+                    "Stack Boost": "\u200b+10,000 Capacity",
+                    "Stack Reward": "10 Tickets",
+                    "Where it's from:": "This was the final reward of Bee Bear's Summer 2024 quests"
+                },
+                {
+                    "": "",
+                    "Name": "Gloomy Cub Skin",
+                    "Description": "\"This crybaby's pessimism is reified as a permanent cloud.\"",
+                    "Stack Boost": "\u200b+10,000 Capacity",
+                    "Stack Reward": "10 Tickets",
+                    "Where it's from:": "This was the final reward of Bee Bear's March 2025 quests"
+                }
+            ]
+        },
+        {
+            "Sticker Index": [
+                {
+                    "": "",
+                    "Name": "Basic Red Hive Skin",
+                    "Description": "\"A recolored version of your everyday hive.\"",
+                    "Stack Boost": "\u200b+1% Honey At Hive",
+                    "Stack Reward": "5 Tickets",
+                    "Where it's from:": "Completing 64 Riley Bee Quests\nDropped by King Beetle (Unbelievably Rare)\nSticker-Seeker Quest Reward (Very Rare)\nSticker Planter in the Rose Field or Pepper Patch (Extremely Rare)\nSticker Printer (Basic, Silver, Gold, and Diamond Egg)"
+                },
+                {
+                    "": "",
+                    "Name": "Basic Blue Hive Skin",
+                    "Description": "\"A recolored version of your everyday hive.\"",
+                    "Stack Boost": "\u200b+1% Honey At Hive",
+                    "Stack Reward": "5 Tickets",
+                    "Where it's from:": "Completing 64 Bucko Bee Quests\nDropped by King Beetle (Unbelievably Rare)\nSticker-Seeker Quest Reward (Very Rare)\nSticker Planter in the Blue Flower Field or Bamboo Field (Extremely Rare)\nSticker Printer (Basic, Silver, Gold, and Diamond Egg)"
+                },
+                {
+                    "": "",
+                    "Name": "Basic Pink Hive Skin",
+                    "Description": "\"A recolored version of your everyday hive.\"",
+                    "Stack Boost": "\u200b+1% Honey At Hive",
+                    "Stack Reward": "5 Tickets",
+                    "Where it's from:": "Reward for finishing in the top 100 of the Daily Haste Tokens Leaderboard\nDropped by Mondo Chick (Extremely Rare)\nSticker-Seeker Quest Reward (Extremely Rare)\nSticker Planter in the Strawberry Field or Pineapple Patch (Extremely Rare)\nSticker Printer (Basic, Silver, Gold, and Diamond Egg)"
+                },
+                {
+                    "": "",
+                    "Name": "Basic Green Hive Skin",
+                    "Description": "\"A recolored version of your everyday hive.\"",
+                    "Stack Boost": "\u200b+1% Honey At Hive",
+                    "Stack Reward": "5 Tickets",
+                    "Where it's from:": "Reward for finishing in the top 100 of the Daily Sprout Tokens Leaderboard\nDropped by Stump Snail (Extremely Rare)\nSticker-Seeker Quest Reward (Extremely Rare)\nSticker Planter in the Clover Field or Cactus Field (Extremely Rare)\nSticker Printer (Basic, Silver, Gold, and Diamond Egg)"
+                },
+                {
+                    "": "",
+                    "Name": "Basic White Hive Skin",
+                    "Description": "\"A recolored version of your everyday hive.\"",
+                    "Stack Boost": "\u200b+1% Honey At Hive",
+                    "Stack Reward": "5 Tickets",
+                    "Where it's from:": "Reward for finishing in the top 25 of the Daily White Pollen Leaderboard\nDropped by Coconut Crab (Extremely Rare)\nSticker-Seeker Quest Reward (Extremely Rare)\nSticker Planter in the Dandelion Field or Coconut Field (Unbelievably Rare)\nSticker Printer (Basic, Gold, Diamond, Star, Gifted Silver, and Gifted Diamond Eggs)"
+                },
+                {
+                    "": "",
+                    "Name": "Basic Black Hive Skin",
+                    "Description": "\"A recolored version of your everyday hive.\"",
+                    "Stack Boost": "\u200b+1% Honey At Hive",
+                    "Stack Reward": "5 Tickets",
+                    "Where it's from:": "Reward for finishing in the top 25 of the Daily Buzz Bomb Pollen Leaderboard\nDropped by Tunnel Bear (Extremely Rare)\nSticker-Seeker Quest Reward (Extremely Rare)\nSticker Planter in the Sunflower Field or Stump Field (Unbelievably Rare)\nSticker Printer (Basic, Gold, Diamond, Mythic, Gifted Gold, Gifted Mythic)"
+                },
+                {
+                    "": "",
+                    "Name": "Wavy Yellow Hive Skin",
+                    "Description": "\"A hive with curvy, undulating edges.\"",
+                    "Stack Boost": "\u200b+1% Honey At Hive",
+                    "Stack Reward": "5 Tickets",
+                    "Where it's from:": "Dropped by Golden Cogmower (Unbelievably Rare)\nEpic Puffshrooms+ in the Sunflower Field or Pineapple Path (Unfathomably Rare)\nSticker Printer (Gold Egg, Gifted Gold Egg)"
+                },
+                {
+                    "": "",
+                    "Name": "Wavy Cyan Hive Skin",
+                    "Description": "\"A hive with curvy, undulating edges.\"",
+                    "Stack Boost": "\u200b+1% Honey At Hive",
+                    "Stack Reward": "5 Tickets",
+                    "Where it's from:": "Dropped by Diamond Aphid (Unbelievably Rare)\nReward for finishing in the top 5 of the Daily Aphid Exterminators Leaderboard\nLegendary+ Puffshrooms in Blue fields (Unfathomably Rare)\nSticker Printer (Diamond Egg, Gifted Diamond Egg)"
+                },
+                {
+                    "": "",
+                    "Name": "Wavy Purple Hive Skin",
+                    "Description": "\"A hive with curvy, undulating edges.\"",
+                    "Stack Boost": "\u200b+1% Honey At Hive",
+                    "Stack Reward": "5 Tickets",
+                    "Where it's from:": "Mythic Puffshrooms (Unfathomably Rare)\nSticker Printer (Mythic Egg, Gifted Mythic Egg)"
+                },
+                {
+                    "": "",
+                    "Name": "Wavy Festive Hive Skin",
+                    "Description": "\"A hive with undulating edges in the color scheme of Festive Bee.\"",
+                    "Stack Boost": "\u200b+1% Honey At Hive",
+                    "Stack Reward": "5 Tickets",
+                    "Where it's from:": "Purchased in Bee Bear's Catalog\nWas a reward for completing Bee Bear's 10th quest of Summer 2024"
+                },
+                {
+                    "": "",
+                    "Name": "Wavy Doodle Hive Skin",
+                    "Description": "\"A hive with undulating edges that's been drawn on in crayon.\"",
+                    "Stack Boost": "\u200b+10,000 Capacity",
+                    "Stack Reward": "5 Tickets",
+                    "Where it's from:": "Exclusive to the Wavy Doodle Hive Bundle of Summer 2024"
+                },
+                {
+                    "": "",
+                    "Name": "Icy Crowned Hive Skin",
+                    "Description": "\"A hive adorned with curved ascending peaks carved from ice.\"",
+                    "Stack Boost": "\u200b+10,000 Capacity",
+                    "Stack Reward": "5 Tickets",
+                    "Where it's from:": "Exclusive to the Royal Winter Wonder Haul of Winter 2024/25"
+                }
+            ]
+        },
+        {
+            "Sticker Index": [
+                {
+                    "": "",
+                    "Name": "Bear Bee Voucher",
+                    "Description": "\"Can be redeemed for a Bear Bee Egg (once per account).\"",
+                    "Stack Boost": "\u200b+0.5% Pollen",
+                    "Stack Reward": "10 Tickets",
+                    "Where it's from:": "Purchased for 800 Robux\nReward from Retro Swarm Challenge (Nearly Impossible)\nDropped by Tunnel Bear (Nearly Impossible)"
+                },
+                {
+                    "": "",
+                    "Name": "Cub Buddy Voucher",
+                    "Description": "\"Can be redeemed for a Cub Buddy (if you don't already have one).\"",
+                    "Stack Boost": "\u200b+2% Honey From Tokens",
+                    "Stack Reward": "3 Micro-Converters",
+                    "Where it's from:": "Rewarded from Bee Bear's 15th Quest (if you already own a Cub Buddy)\nPurchased for 600 Robux (if you already own a Cub Buddy)\nReward from Robo Bear Challenge (Unfathomably Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "x2 Bee Gather Voucher",
+                    "Description": "\"Redeem to activate x2 Bee Gather (once per account).\"",
+                    "Stack Boost": "\u200b+2% Bee Gather Pollen",
+                    "Stack Reward": "1 Glue",
+                    "Where it's from:": "Purchased for 400 Robux\nReward from Retro Swarm Challenge (Nearly Impossible)\nDropped by Wild Windy Bee (Nearly Impossible)"
+                },
+                {
+                    "": "",
+                    "Name": "x2 Convert Speed Voucher",
+                    "Description": "\"Redeem to activate x2 Convert Speed (once per account).\"",
+                    "Stack Boost": "\u200b+10% Convert Rate",
+                    "Stack Reward": "1 Enzymes",
+                    "Where it's from:": "Purchased for 250 Robux\nReward from Retro Swarm Challenge (Nearly Impossible)\nReward from Ant Challenge (Nearly Impossible)\n(Not listed) Reward for completing Bubble Bee Man's Beesmas 2024 quest"
+                },
+                {
+                    "": "",
+                    "Name": "Offline Voucher",
+                    "Description": "\"Permanently allows Planters and Blender to progress offline (up to 24 hours at a time).\"",
+                    "Stack Boost": "\u200b+5% Epic Bee Pollen",
+                    "Stack Reward": "1 Nectar Shower Vial",
+                    "Where it's from:": "Included in the Seasonal Slumber Special\nIncluded in the Restful Gift Box\nReward from Stick Bug Challenge (Unfathomably Rare)\nReward from Robo Bear Challenge (Unfathomably Rare)\nSticker Planter (Unfathomably Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Ticket Voucher",
+                    "Description": "\"Can be redeemed for 100 Tickets (max 1 redeemed per day).\"",
+                    "Stack Boost": "\u200b+1% Ticket Chance",
+                    "Stack Reward": "1 Ticket Planter",
+                    "Where it's from:": "Purchased for 400 Robux\nIncluded in various Beemsas bundles and quest rewards\nReward for completing 250 Sticker-Seeker quests\nReward for finishing in the top 100 of the following Daily Leaderboards: Ant Challenge, Stick Bug Challenge, Robo Bear Challenge, Retro Swarm Challenge, Damage to a Single Puffshroom\nTicket Planter (Unfathomably Rare)"
+                }
+            ]
+        },
+        {
+            "Sticker Index": [
+                {
+                    "": "",
+                    "Name": "Play Button",
+                    "Description": "\"For being a loyal viewer.\"",
+                    "Stack Boost": "\u200b+10,000 Capacity",
+                    "Stack Reward": "10 Tickets",
+                    "Where it's from:": "Can be given out by certain video content creators"
+                },
+                {
+                    "": "",
+                    "Name": "Gamer Chat Icon",
+                    "Description": "\"For positively contributing to BSS discorse.\"",
+                    "Stack Boost": "\u200b+10,000 Capacity",
+                    "Stack Reward": "10 Tickets",
+                    "Where it's from:": "Can be given out by official Bee Swarm Simulator Discord staff"
+                },
+                {
+                    "": "",
+                    "Name": "Flying Rad Bee",
+                    "Description": "\"The sun can't stop this bee from soaring.\"",
+                    "Stack Boost": "\u200b+2% Red Pollen",
+                    "Stack Reward": "1 Red Extract",
+                    "Where it's from:": "Found by Rad Bee when gathering while very happy (Extremely Rare)\nSticker Printer (Silver Egg)\nSticker Planter (Extremely Rare)\nSticker Sprout (Unbelievably Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Flying Ninja Bee",
+                    "Description": "\"A rare sight. Ninja Bee sticks to the shadows.\"",
+                    "Stack Boost": "\u200b+0.25% Bee Movespeed",
+                    "Stack Reward": "1 Blue Extract",
+                    "Where it's from:": "Found by Ninja Bee when gathering while very happy (Extremely Rare)\nSticker Printer (Diamond Egg)\nSticker Planter (Extremely Rare)\nSticker Sprout (Unbelievably Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Flying Brave Bee",
+                    "Description": "\"What monsters see before they go away forever.\"",
+                    "Stack Boost": "\u200b+2 Rare Bee Attack",
+                    "Stack Reward": "3 Stingers",
+                    "Where it's from:": "Found by Brave Bee when gathering while very happy (Extremely Rare)\nSticker Printer (Silver Egg)\nSticker Planter (Extremely Rare)\nSticker Sprout (Unbelievably Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Flying Photon Bee",
+                    "Description": "\"Doing what it does best.\"",
+                    "Stack Boost": "\u200b+5% Instant Event Bee Conversion",
+                    "Stack Reward": "1 Oil",
+                    "Where it's from:": "Found by Photon Bee when gathering while very happy (Extremely Rare)\nSticker Sprout (Unbelievably Rare)\nSticker Planter (Unbelievably Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Drooping Stubborn Bee",
+                    "Description": "\"It was forced to go where it didn't want to go.\"",
+                    "Stack Boost": "\u200b+1% Ability Token Lifespan",
+                    "Stack Reward": "1 Oil",
+                    "Where it's from:": "Found by Stubborn Bee when gathering while upset (Extremely Rare)\nFeeding a Neonberry to a Stubborn Bee (1 in 1,000 chance)\nSticker Planter (Extremely Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Wobbly Looker Bee",
+                    "Description": "\"It looked a little too closely.\"",
+                    "Stack Boost": "\u200b+1% Critical Power",
+                    "Stack Reward": "3 Neonberry",
+                    "Where it's from:": "Found by Looker Bee when gathering while very happy (Extremely Rare)\nFeeding a Neonberry to a Looker Bee (1 in 1,000 chance)"
+                },
+                {
+                    "": "",
+                    "Name": "Blob Bumble Bee",
+                    "Description": "\"This fellow is getting a little too mellow.\"",
+                    "Stack Boost": "\u200b+5% Blue Bomb Pollen",
+                    "Stack Reward": "1 Blue Extract",
+                    "Where it's from:": "Found by Mutated Bumble Bees in the Sunflower Field (Very Rare)\nFeeding a Neonberry to a Bumble Bee (1 in 1,000 chance)\nSticker Printer (Silver Egg, Gifted Silver Egg)\nSticker Planter (Unbelievably Rare)\nPurchased in Bee Bear's Catalog for 2500 Snowflakes"
+                },
+                {
+                    "": "",
+                    "Name": "Round Rascal Bee",
+                    "Description": "\"Built for rolling in laughter.\"",
+                    "Stack Boost": "\u200b+5% Red Bomb Pollen",
+                    "Stack Reward": "1 Red Extract",
+                    "Where it's from:": "Found by Mutated Rascal Bees in the Sunflower Field (Very Rare)\nFeeding a Neonberry to a Rascal Bee (1 in 1,000 chance)\nSticker Printer (Silver Egg, Gifted Silver Egg)\nSticker Planter (Unbelievably Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Round Basic Bee",
+                    "Description": "\"An unnaturally rotund sight.\"",
+                    "Stack Boost": "x3 Common Bee Pollen",
+                    "Stack Reward": "1 Basic Egg",
+                    "Where it's from:": "Found by Mutated Basic Bee in the Pumpkin Patch (Nearly Impossible)\nFeeding a Neonberry to a Basic Bee (Odds increase with level from 1 in 250,000 to 1 in 25,000)\nSticker Planter (Unfathomably Rare)\nSticker Printer (Basic Egg)"
+                },
+                {
+                    "": "",
+                    "Name": "Diamond Diamond Bee",
+                    "Description": "\"It took its name too literally.\"",
+                    "Stack Boost": "\u200b+5% Mutated Bee Convert Rate",
+                    "Stack Reward": "10 Tickets",
+                    "Where it's from:": "Found by Gifted Diamond Bee on the Mountain Top Field (Unbelievably Rare)\nFeeding a Neonberry to a Diamond Bee (1 in 2,500 chance)\nSticker Planter (Unbelievably Rare)\nSticker Printer (Gifted Diamond Egg)"
+                },
+                {
+                    "": "",
+                    "Name": "4-Pronged Vector Bee",
+                    "Description": "\"When the Mythic Egg gets the math wrong.\"",
+                    "Stack Boost": "\u200b+1% Mark Ability Pollen",
+                    "Stack Reward": "10 Tickets",
+                    "Where it's from:": "Sticker-Seeker Quest Reward (Extremely Rare)\nFeeding a Neonberry to a Vector Bee (1 in 2,500 chance)\nSticker Printer (Mythic Egg, Gifted Mythic Egg)\n(Not listed) Potential reward from the Mythic Gift Box"
+                },
+                {
+                    "": "",
+                    "Name": "Shocked Hive Slot",
+                    "Description": "\"It's totally real. The bee is lvl 1.\"",
+                    "Stack Boost": "\u200b+1% White Pollen",
+                    "Stack Reward": "50 Pineapples",
+                    "Where it's from:": "Found by Shocked Bee in the Mushroom Field (Very Rare)\nFeeding a Neonberry to a Shocked Bee (1 in 1,000 chance)\nSticker Planter (Extremely Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Bear Bee Offer",
+                    "Description": "\"Only available for a limited time! (your lifespan).\"",
+                    "Stack Boost": "\u200b+2% Event Bee Pollen",
+                    "Stack Reward": "10 Tickets",
+                    "Where it's from:": "Found by Gifted Bear Bee in the Pineapple Patch (Extremely Rare)\nFeeding a Star Treat to an already Gifted Bear Bee (1 in 3 chance)\nSticker Planter (Unbelievably Rare)\nSticker Sprout (Unbelievably Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Tabby Scratch",
+                    "Description": "\"A demonstration of feline ferocity.\"",
+                    "Stack Boost": "\u200b+10% Scratch Pollen",
+                    "Stack Reward": "10 Tickets",
+                    "Where it's from:": "Collecting Tabby Love after max stacks while a Stinger is active (Extremely Rare). The chance increases with Tabby Bee's level (From 1 in 10,000 to 1 in 100)."
+                },
+                {
+                    "": "",
+                    "Name": "Tabby From Behind",
+                    "Description": "\"The first thing you see when you wake up.\"",
+                    "Stack Boost": "\u200b+1% Critical Power",
+                    "Stack Reward": "10 Tickets",
+                    "Where it's from:": "Feeding a Moon Charm to a Tabby Bee at max Tabby Love. Odds increase with Tabby Bee's level (from 1 in 100,000 to 1 in 10,000).\nSticker Printer (Gold Egg, Gifted Gold Egg)\nSticker Planter (Unbelievably Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Fuzz Bomb",
+                    "Description": "\"They look sharp and spikey, but it's just an illusion.\"",
+                    "Stack Boost": "\u200b+5% Buzz Bomb Pollen",
+                    "Stack Reward": "1 Oil",
+                    "Where it's from:": "Found by Fuzzy Bee in the Bamboo Field (Extremely Rare)\nPopping Fuzz Bombs on the Bamboo Field (1 in 10,000 chance)\nSticker Printer (Mythic Egg)"
+                },
+                {
+                    "": "",
+                    "Name": "Precise Eye",
+                    "Description": "\"An extremely judgemental glare.\"",
+                    "Stack Boost": "\u200b+1% Super Crit Power",
+                    "Stack Reward": "1 Hard Wax",
+                    "Where it's from:": "Spawned after activating all 3 Target Practice targets on the Clover Field (1 in 3,333 chance)\nSticker Printer (Mythic Egg)\n(Not listed) Potential reward from the Mythic Gift Box"
+                },
+                {
+                    "": "",
+                    "Name": "Chef Hat Polar Bear",
+                    "Description": "\"The hat, a Toque, dates back to the 16th century.\"",
+                    "Stack Boost": "\u200b+5% Instant Colorless Bee Conversion",
+                    "Stack Reward": "10 Tickets",
+                    "Where it's from:": "Reward from Polar Bear Quests (1 in 100 chance)"
+                },
+                {
+                    "": "",
+                    "Name": "Honey Bee Bear",
+                    "Description": "\"Its looks are as large as its appetite.\"",
+                    "Stack Boost": "\u200b+2% Honey From Tokens",
+                    "Stack Reward": "1 Enzymes",
+                    "Where it's from:": "Found by Honey Bee in the Mountain Top Field (Extremely Rare)\nSticker Planter (Extremely Rare)\nSticker Printer (Gold Egg, Gifted Gold Egg)"
+                },
+                {
+                    "": "",
+                    "Name": "Bomber Bee Bear",
+                    "Description": "\"The Hero Bakudan Kuma.\"",
+                    "Stack Boost": "\u200b+5% Buzz Bomb Pollen",
+                    "Stack Reward": "1 Loaded Dice",
+                    "Where it's from:": "Found by Bomber Bee in the Mountain Top Field (Extremely Rare)\nSticker Planter (Extremely Rare)\nSticker Printer (Silver Egg)"
+                },
+                {
+                    "": "",
+                    "Name": "Uplooking Bear",
+                    "Description": "\"Rolling its eyes? Or stuck in the clouds?\"",
+                    "Stack Boost": "\u200b+1% Critical Power",
+                    "Stack Reward": "5 Tickets",
+                    "Where it's from:": "Using the Sticker-Seeker in any field (Very Rare)\nSticker Sprout (Very Rare)\nSticker Printer (Gold Egg)"
+                },
+                {
+                    "": "",
+                    "Name": "Sitting Green Shirt Bear",
+                    "Description": "\"Nothing interesting about this bear, apart from its shirt.\"",
+                    "Stack Boost": "\u200b+10,000 Capacity",
+                    "Stack Reward": "5 Tickets",
+                    "Where it's from:": "Found by Bubble Bee in the Clover Field (Uncommon)\nTacky Planter in the Clover Field (Very Rare)\nSticker Printer (Gold Egg)\nSticker Sprout (Extremely Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Shy Brown Bear",
+                    "Description": "\"He doesn't do well in crowds.\"",
+                    "Stack Boost": "\u200b+0.25% Bee Ability Pollen",
+                    "Stack Reward": "5 Royal Jellies",
+                    "Where it's from:": "Completing 123 Brown Bear Quests\nSticker Printer (Gold Egg)"
+                },
+                {
+                    "": "",
+                    "Name": "Sitting Mother Bear",
+                    "Description": "\"She needs a rest from all that parenting.\"",
+                    "Stack Boost": "\u200b+0.5% Gifted Bee Pollen",
+                    "Stack Reward": "10 Tickets",
+                    "Where it's from:": "Using the Sticker-Seeker in the Sunflower Field (Extremely Rare)\nHydroponic Planter in the Sunflower Field (Extremely Rare)\nSticker Printer (Gold Egg)"
+                },
+                {
+                    "": "",
+                    "Name": "Squashed Head Bear",
+                    "Description": "\"It got hit by a Mythic Meteor. It'll never be the same.\"",
+                    "Stack Boost": "\u200b+1% Super Critical Power",
+                    "Stack Reward": "25 Bitterberries",
+                    "Where it's from:": "Mythic Meteors (Extremely Rare)\nSticker-Seeker Quest Reward (Extremely Rare)\nSticker Planter (Extremely Rare)\nUsing the Sticker-Seeker in any field (Nearly Impossible)"
+                },
+                {
+                    "": "",
+                    "Name": "Stretched Head Bear",
+                    "Description": "\"Its head was nearly blown off by a Windy Bee. It'll never be the same.\"",
+                    "Stack Boost": "\u200b+1% Super Crit Power",
+                    "Stack Reward": "25 Bitterberries",
+                    "Where it's from:": "Dropped by Wild Windy Bee (Extremely Rare)\nSticker-Seeker Quest Reward (Extremely rare)\nSticker Planter (Extremely Rare)\nUsing the Sticker-Seeker in any field (Nearly Impossible)"
+                },
+                {
+                    "": "",
+                    "Name": "Panicked Science Bear",
+                    "Description": "\"There was a miscalculation.\"",
+                    "Stack Boost": "\u200b+5% Mutated Bee Convert Rate",
+                    "Stack Reward": "1 Enzymes",
+                    "Where it's from:": "Found by Radioactive Bees in the Pineapple Patch\nUsing a Micro-Converter in the Hive Hub (1 in 500 chance)\nSticker Sprout (Extremely Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Dapper From Above",
+                    "Description": "\"What most others see when talking to him.\"",
+                    "Stack Boost": "\u200b+0.5% Pollen",
+                    "Stack Reward": "1 Ticket Planter",
+                    "Where it's from:": "Achievement: Tacky Planter chain involving 5 different fields... (Clover \u2192 Coconut \u2192 Stump \u2192 Pepper \u2192 Mountain Top, in that order, must be at 100% harvest)\nAwarded to the daily top 5 Nectar Collectors\nSticker-Seeker Quest Reward (Unbelievably Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Sideways Spirit Bear",
+                    "Description": "\"She's just sleeping, I promise.\"",
+                    "Stack Boost": "\u200b+10% Instant Tool Conversion",
+                    "Stack Reward": "1 Glitter",
+                    "Where it's from:": "Extreme Memory Match (Extremely Rare)\nUsing the Petal Wand in the Hub Field (Unbelievably Rare)\nUsing a Glitter on the Hub Field (1 in 500 chance)"
+                },
+                {
+                    "": "",
+                    "Name": "Glowering Gummy Bear",
+                    "Description": "\"He oozes an aura of pure determination for conquest.\"",
+                    "Stack Boost": "\u200b+1% Honey Per Goo",
+                    "Stack Reward": "1 Glue",
+                    "Where it's from:": "Awarded to the #1 Daily Top Gummy Soldier\nWas rewarded for completing Gummy Bear's Beesmas Quest of Summer 2024 (Not rewarded during Beesmas Winter 2024)"
+                },
+                {
+                    "": "",
+                    "Name": "Stranded Sun Bear",
+                    "Description": "\"No gas, signal, or search party...\"",
+                    "Stack Boost": "\u200b+10,000 Capacity",
+                    "Stack Reward": "10 Jelly Beans",
+                    "Where it's from:": "Reward for completing all 6 \"Waiting With Sun Bear\" quests of Fall 2024"
+                },
+                {
+                    "": "",
+                    "Name": "Menacing Mantis",
+                    "Description": "\"It's praying for your doom.\"",
+                    "Stack Boost": "\u200b+5% Pineapple Patch Pollen",
+                    "Stack Reward": "1 Blue Extract",
+                    "Where it's from:": "Dropped by Mantis (Extremely Rare)\nFound by Rage Bee in the Pine Tree Forest (Very Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Little Scorpion",
+                    "Description": "\"Sort of looks like a lobster.\"",
+                    "Stack Boost": "\u200b+5% Rose Field Pollen",
+                    "Stack Reward": "1 Red Extract",
+                    "Where it's from:": "Dropped by Scorpion (Extremely Rare)\nFound by Basic Bee in the Rose Field (Very Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Left Facing Ant",
+                    "Description": "\"The bain of picnics.\"",
+                    "Stack Boost": "\u200b+1 Legendary Bee Attack",
+                    "Stack Reward": "1 Ant Pass",
+                    "Where it's from:": "Rewarded from Ant Challenge (Very Rare)\nFound by Lion Bee in the Ant Field"
+                },
+                {
+                    "": "",
+                    "Name": "Walking Stick Nymph",
+                    "Description": "\"It was just born and it's coming for you.\"",
+                    "Stack Boost": "\u200b+1% Bee Attack",
+                    "Stack Reward": "3 Stingers",
+                    "Where it's from:": "Dropped by Stick Nymphs (Extremely Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Forward Facing Spider",
+                    "Description": "\"Not enough legs to technically be a spider.\"",
+                    "Stack Boost": "\u200b+10% Spider Field Capacity",
+                    "Stack Reward": "1 Enzymes",
+                    "Where it's from:": "Dropped from Spider (Extremely Rare)\nUsing the Sticker-Seeker in the Spider Field (Extremely Rare)\nFound by Demon Bee when gathering in the Spider Field (Very Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Forward Facing Aphid",
+                    "Description": "\"A tiny sapelievipping bug staring you down.\"",
+                    "Stack Boost": "\u200b+1% Bee Attack",
+                    "Stack Reward": "1 Magic Bean",
+                    "Where it's from:": "Dropped by Aphids (Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Right Facing Stump Snail",
+                    "Description": "\"It scoots clockwise forever.\"",
+                    "Stack Boost": "\u200b+5% Stump Field Pollen",
+                    "Stack Reward": "1 Glue",
+                    "Where it's from:": "Dropped by Stump Snail (Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Standing Bean Bug",
+                    "Description": "\"It's done with jumping.\"",
+                    "Stack Boost": "\u200b+2% Pollen From Tools",
+                    "Stack Reward": "5 Jelly Beans",
+                    "Where it's from:": "Bean Bugs (Very Rare)\nSticker-Seeker Quest Reward (Extremely Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Small Blue Chick",
+                    "Description": "\"It hatched, yet it's still an egg.\"",
+                    "Stack Boost": "\u200b+2% Blue Pollen",
+                    "Stack Reward": "1 Blue Extract",
+                    "Where it's from:": "Dropped from Mondo Chick (Very Rare)\nSticker Planter (Extremely Rare)\nSticker Printer (Gold Egg)"
+                },
+                {
+                    "": "",
+                    "Name": "Tadpole",
+                    "Description": "\"A strange Tadpole Bee without wings.\"",
+                    "Stack Boost": "\u200b+3% Bubble Pollen",
+                    "Stack Reward": "1 Blue Extract",
+                    "Where it's from:": "1 in a million chance to spawn when a bubble is popped\nFound by Tadpole Bee in the Mushroom Field (Very Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Happy Fish",
+                    "Description": "\"When you smile at it, it smiles at you.\"",
+                    "Stack Boost": "\u200b+3% Bubble Pollen",
+                    "Stack Reward": "3 Tickets",
+                    "Where it's from:": "Using the Sticker-Seeker in any field (Very Rare)\nSticker Planter (Very Rare)\nSticker Sprout\nSticker Printer (Gold Egg)"
+                },
+                {
+                    "": "",
+                    "Name": "Coiled Snake",
+                    "Description": "\"Don't tread on this.\"",
+                    "Stack Boost": "\u200b+1 Epic Bee Attack",
+                    "Stack Reward": "3 Stingers",
+                    "Where it's from:": "Sticker-Seeker Quest Reward (Rare)\nSticker Planter (Very Rare)\nSticker Sprout (Uncommon)\n(Not listed) Potential reward from the Sweet-n-Sour Gift Box"
+                },
+                {
+                    "": "",
+                    "Name": "Standing Caterpillar",
+                    "Description": "\"Wiggling it's way up in life.\"",
+                    "Stack Boost": "\u200b+10% Rare Bee Pollen",
+                    "Stack Reward": "1 Enzymes",
+                    "Where it's from:": "Using Super-Scooper in the Pineapple Patch (Uncommon)\nSticker Planter on the Pineapple Patch\nHidden Sticker\n(Not listed) Potential reward from the Sweet-n-Sour Gift Box"
+                },
+                {
+                    "": "",
+                    "Name": "Round Green Critter",
+                    "Description": "\"A little creature that lives on Sprouts.\"",
+                    "Stack Boost": "\u200b+2% Bee Gathering Pollen",
+                    "Stack Reward": "1 Magic Bean",
+                    "Where it's from:": "Sprouts in the Clover Field (Very Rare)\nUsing the Sticker-Seeker in the Clover Field (Very Rare)\n(Not listed) Potential reward from the Woodland Gift Box"
+                },
+                {
+                    "": "",
+                    "Name": "Flying Magenta Critter",
+                    "Description": "\"A little creature that lives on Sprouts.\"",
+                    "Stack Boost": "\u200b+2% Bee Gathering Pollen",
+                    "Stack Reward": "1 Magic Bean",
+                    "Where it's from:": "Sprouts in the Dandelion Field (Very Rare)\nUsing the Sticker-Seeker in the Dandelion Field (Very Rare)\n(Not listed) Potential reward from the Woodland Gift Box"
+                },
+                {
+                    "": "",
+                    "Name": "Blue Triangle Critter",
+                    "Description": "\"A little creature that lives on Sprouts.\"",
+                    "Stack Boost": "\u200b+2% Bee Gathering Pollen",
+                    "Stack Reward": "1 Magic Bean",
+                    "Where it's from:": "Sprouts in the Blue Flower Field (Very Rare)\nUsing the Sticker-Seeker in the Blue Flower Field (Very Rare)\n(Not listed) Potential reward from the Woodland Gift Box"
+                },
+                {
+                    "": "",
+                    "Name": "Purple Pointed Critter",
+                    "Description": "\"A little creature that lives on Sprouts.\"",
+                    "Stack Boost": "\u200b+2% Bee Gathering Pollen",
+                    "Stack Reward": "1 Magic Bean",
+                    "Where it's from:": "Sprouts in the Cactus Field (Very Rare)\nUsing the Sticker-Seeker in the Cactus Field (Very Rare)\n(Not listed) Potential reward from the Woodland Gift Box"
+                },
+                {
+                    "": "",
+                    "Name": "Orange Leg Critter",
+                    "Description": "\"A little creature that lives on Sprouts.\"",
+                    "Stack Boost": "\u200b+2% Bee Gathering Pollen",
+                    "Stack Reward": "1 Magic Bean",
+                    "Where it's from:": "Sprouts in the Pumpkin Patch (Very Rare)\nUsing the Sticker-Seeker in the Pumpkin Patch (Very Rare)\n(Not listed) Potential reward from the Woodland Gift Box"
+                },
+                {
+                    "": "",
+                    "Name": "Green Plus Sign",
+                    "Description": "\"May indicate addition or a pharmacy.\"",
+                    "Stack Boost": "\u200b+10,000 Capacity",
+                    "Stack Reward": "3 Tickets",
+                    "Where it's from:": "Using the Sticker-Seeker in any field\nSticker-Seeker Quest Reward\nSticker Planter\nHidden Sticker\nSticker Sprout\nSticker Printer (Basic Egg)\n(Not listed) Potential reward from the Chartreuse Gift Box"
+                },
+                {
+                    "": "",
+                    "Name": "Green Check Mark",
+                    "Description": "\"A standard seal of approval.\"",
+                    "Stack Boost": "\u200b+10,000 Capacity",
+                    "Stack Reward": "3 Tickets",
+                    "Where it's from:": "Using the Sticker-Seeker in any field\nSticker-Seeker Quest Reward\nSticker Planter\nHidden Sticker\nSticker Sprout\nSticker Printer (Basic Egg)\n(Not listed) Potential reward from the Chartreuse Gift Box"
+                },
+                {
+                    "": "",
+                    "Name": "Red X",
+                    "Description": "\"Demonstrates disdain or a desire for removal.\"",
+                    "Stack Boost": "\u200b+10% Convert Rate",
+                    "Stack Reward": "1 Red Extract",
+                    "Where it's from:": "Using the Sticker-Seeker on any field (Uncommon)\nSticker Planter (Rare)\nHidden Sticker (Uncommon)\nSticker Printer (Basic Egg)"
+                },
+                {
+                    "": "",
+                    "Name": "Alert Icon",
+                    "Description": "\"Let's you know something's up.\"",
+                    "Stack Boost": "\u200b+5% Red Bomb Pollen",
+                    "Stack Reward": "3 Micro-Converters",
+                    "Where it's from:": "Using the Sticker-Seeker in any field (Rare)\nSticker Planter (Extremely Rare)\nSticker Sprout (Very Rare)\nSticker Printer (Gold Egg)"
+                },
+                {
+                    "": "",
+                    "Name": "Yellow Right Arrow",
+                    "Description": "\"A directional indicator.\"",
+                    "Stack Boost": "\u200b+5% Instant Bee Gather Conversion",
+                    "Stack Reward": "3 Tickets",
+                    "Where it's from:": "Sticker-Seeker Quest Reward\nUsing the Sticker-Seeker in any field\n(Not listed) Potential reward from the Marigold Gift Box"
+                },
+                {
+                    "": "",
+                    "Name": "Yellow Left Arrow",
+                    "Description": "\"A directional indicator.\"",
+                    "Stack Boost": "\u200b+5% Instant Bee Gather Conversion",
+                    "Stack Reward": "3 Tickets",
+                    "Where it's from:": "Sticker-Seeker Quest Reward\nUsing the Sticker-Seeker in any field\n(Not listed) Potential reward from the Marigold Gift Box"
+                },
+                {
+                    "": "",
+                    "Name": "Simple Sun",
+                    "Description": "\"It sustains almost all life on Earth.\"",
+                    "Stack Boost": "\u200b+10% Convert Rate",
+                    "Stack Reward": "5 Tickets",
+                    "Where it's from:": "Using the Sticker-Seeker in any field\nHidden Sticker\nSticker Planter\nSticker Printer (Basic Egg, Gold Egg)\nPurchased in Bee Bear's Catalog for 100 Snowflakes\n(Not listed) Potential reward from the Marigold Gift Box"
+                },
+                {
+                    "": "",
+                    "Name": "Pink Cupcake",
+                    "Description": "\"There's strawberry jam inside.\"",
+                    "Stack Boost": "\u200b+0.5% Honey Per Goo",
+                    "Stack Reward": "50 Strawberries",
+                    "Where it's from:": "Found by Gifted Stubborn Bee in the Strawberry Field (Rare)\nUsing the Sticker-Seeker in the Strawberry Field (Extremely Rare)\nCandy Planter in the Strawberry Field (Extremely Rare)\nSticker Printer (Gold Egg)\nPurchases in Bee Bear's Catalog for 600 Snowflakes\n(Not listed) Potential reward from the Sweet-n-Sour Gift Box"
+                },
+                {
+                    "": "",
+                    "Name": "Rubber Duck",
+                    "Description": "\"Squeeks(sic) instead of quacks.\"",
+                    "Stack Boost": "\u200b+10% Rare Bee Pollen",
+                    "Stack Reward": "3 Tickets",
+                    "Where it's from:": "Using the Sticker-Seeker in any field\nHidden Sticker\nSticker Planter\nSticker Printer (Basic Egg)\nPurchased in Bee Bear's Catalog for 30 Snowflakes\n(Not listed) Potential reward from the Marigold Gift Box"
+                },
+                {
+                    "": "",
+                    "Name": "Baseball Swing",
+                    "Description": "\"Hit it out of the park.\"",
+                    "Stack Boost": "\u200b+2% Pollen From Tools",
+                    "Stack Reward": "5 Jelly Beans",
+                    "Where it's from:": "Using the Sticker-Seeker on fields in the starter zone (Uncommon)\nSticker Planter\nSticker Sprout (Uncommon)\nSticker Printer (Basic Egg)\n(Not listed) Potential reward from the Marigold Gift Box"
+                },
+                {
+                    "": "",
+                    "Name": "Yellow Coffee Mug",
+                    "Description": "\"The best part of waking up.\"",
+                    "Stack Boost": "\u200b+10% Convert Rate",
+                    "Stack Reward": "1 Oil",
+                    "Where it's from:": "Using the Sticker-Seeker in any field\nHidden Sticker\nSticker Planter\nSticker Printer (Basic Egg)"
+                },
+                {
+                    "": "",
+                    "Name": "Launching Rocket",
+                    "Description": "\"The sky is not the limit.\"",
+                    "Stack Boost": "\u200b+15,000 Capacity",
+                    "Stack Reward": "10 Whirligigs",
+                    "Where it's from:": "Found by Gummy Bee in the Clover Field\nSticker Planter\nHidden Sticker (Uncommon)\nSticker Sprout (Uncommon)\nSticker Printer (Basic Egg)"
+                },
+                {
+                    "": "",
+                    "Name": "Thumbs Up Hand",
+                    "Description": "\"Good job!\"",
+                    "Stack Boost": "\u200b+10,000 Capacity",
+                    "Stack Reward": "5 Tickets",
+                    "Where it's from:": "Sticker-Seeker Quest Reward\nFound by Gifted Cool Bee in the Stump Field (Rare)\nSticker Sprout (Very Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Peace Sign Hand",
+                    "Description": "\"Could also mean Victory.\"",
+                    "Stack Boost": "\u200b+10% Convert Rate",
+                    "Stack Reward": "5 Tickets",
+                    "Where it's from:": "Sticker-Seeker Quest Reward\nFound by Gifted Cool Bee in the Pepper Patch (Rare)\nSticker Sprout (Very Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Traffic Light",
+                    "Description": "\"It's sending mixed messages.\"",
+                    "Stack Boost": "\u200b+10,000 Capacity",
+                    "Stack Reward": "3 Neonberries",
+                    "Where it's from:": "Found by Shocked Bee while gathering when very happy\nSticker Sprout (Uncommon)\nPurchased in Bee Bear's Catalog for 300 Snowflakes"
+                },
+                {
+                    "": "",
+                    "Name": "Window",
+                    "Description": "\"Turn your hive into a home.\"",
+                    "Stack Boost": "\u200b+1% Honey At Hive",
+                    "Stack Reward": "3 Soft Waxes",
+                    "Where it's from:": "Sticker Planter (Uncommon)\nSticker Printer (Basic Egg, Gold Egg)\nSticker Sprout (Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Simple Skyscraper",
+                    "Description": "\"High density living.\"",
+                    "Stack Boost": "\u200b+1% Honey At Hive",
+                    "Stack Reward": "3 Micro-Converters",
+                    "Where it's from:": "Using the Sticker-Seeker on the Mountain Top Field (Rare)\nSticker Planter (Uncommon)\nSticker Printer (Basic Egg)\nSticker Sprout (Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Simple Mountain",
+                    "Description": "\"It simply dominates the landscape.\"",
+                    "Stack Boost": "\u200b+19% Mountain Top Field Capacity (Listed as 10% in-game)",
+                    "Stack Reward": "10 Whirligigs",
+                    "Where it's from:": "Found by Basic Bee in the Mountain Top Field (Rare)\nPuffshrooms on the Mountain Top Field (Rare)\nSticker Planter on the Mountain Top Field (Rare)\nUsing the Sticker-Seeker on the Mountain Top Field (Rare)\nPurchased in Bee Bear's Catalog for 250 Snowflakes"
+                },
+                {
+                    "": "",
+                    "Name": "Pale Heart",
+                    "Description": "\"A subtle hint of love.\"",
+                    "Stack Boost": "\u200b+2% Bee Gathering Pollen",
+                    "Stack Reward": "50 Strawberries",
+                    "Where it's from:": "Found by Gifted Baby Bee when gathering while very happy (Very Rare)\nFound by Puppy Bee when gathering while very happy (Uncommon)\nPetal Planter in the Strawberry Field (Very Rare)\nPurchased in Bee Bear's Catalog for 300 Snowflakes"
+                },
+                {
+                    "": "",
+                    "Name": "Colorful Buttons",
+                    "Description": "\"Resembles a famous gamepad layout.\"",
+                    "Stack Boost": "\u200b+10% Convert Rate",
+                    "Stack Reward": "5 Jelly Beans",
+                    "Where it's from:": "Sticker Planter\nTacky Planter (Rare)\nHidden Sticker (Uncommon)\nSticker Printer (Basic Egg)"
+                },
+                {
+                    "": "",
+                    "Name": "Giraffe",
+                    "Description": "\"It's neck is long so that it can see over horses standing in front of it.\"",
+                    "Stack Boost": "\u200b+10% Convert Rate",
+                    "Stack Reward": "5 Tickets",
+                    "Where it's from:": "Using the Sticker-Seeker in the 15 Bee Zone\nHidden Sticker (Uncommon)\nSticker Planter (Uncommon)\nSticker Printer (Basic Egg, Gold Egg)\nSticker Sprout"
+                },
+                {
+                    "": "",
+                    "Name": "Silly Tongue",
+                    "Description": "\"An irreverent gesture.\"",
+                    "Stack Boost": "\u200b+2% Honey From Tokens",
+                    "Stack Reward": "25 Gumdrops",
+                    "Where it's from:": "Found by Rascal Bee in the Pineapple Patch (Uncommon)\nCandy Planter in the Pineapple Patch (Very Rare)\n(Not listed) Potential reward from the Sweet-n-Sour Gift Box"
+                },
+                {
+                    "": "",
+                    "Name": "White Flag",
+                    "Description": "\"Let the world know you've given up.\"",
+                    "Stack Boost": "\u200b+2% White Pollen",
+                    "Stack Reward": "1 Oil",
+                    "Where it's from:": "Using the Rake in the Spider Field (Rare)\nSticker Planter on the Spider Field (Rare)\nHidden Sticker"
+                },
+                {
+                    "": "",
+                    "Name": "Pyramid",
+                    "Description": "\"This tomb withstands the test of time.\"",
+                    "Stack Boost": "\u200b+19% Cactus Field Capacity (Listed at 10% in-game)",
+                    "Stack Reward": "5 Tickets",
+                    "Where it's from:": "Found by Lion Bee in the Cactus Field (Rare)\nHidden Sticker (Very Rare)\nSticker Printer (Gold Egg)"
+                },
+                {
+                    "": "",
+                    "Name": "Tiny House",
+                    "Description": "\"Demands a minimalist lifestyle.\"",
+                    "Stack Boost": "\u200b+10% Convert Rate At Hive",
+                    "Stack Reward": "50 Sunflower Seeds",
+                    "Where it's from:": "Using the Sticker-Seeker in the starter zone\nSticker Sprout"
+                },
+                {
+                    "": "",
+                    "Name": "TNT",
+                    "Description": "\"Trinitrotoluene.\"",
+                    "Stack Boost": "\u200b+2% Bomb Pollen",
+                    "Stack Reward": "3 Soft Waxes",
+                    "Where it's from:": "Found by Demo Bee when gathering while very happy (Uncommon)\nUsing any Cannon (1 in 25,000 chance)"
+                },
+                {
+                    "": "",
+                    "Name": "Wishbone",
+                    "Description": "\"Snap it for a 50% chance at good luck.\"",
+                    "Stack Boost": "\u200b+1% Critical Power",
+                    "Stack Reward": "5 Field Dice",
+                    "Where it's from:": "Using the Scythe in the Cactus Field (Very Rare)\nHidden Sticker (Uncommon)\nSticker Planter (Uncommon)\nSticker Printer (Basic Egg)"
+                },
+                {
+                    "": "",
+                    "Name": "Yellow Umbrella",
+                    "Description": "\"Make your own sun on a rainy day.\"",
+                    "Stack Boost": "\u200b+10% Instant Rare Bee Conversion",
+                    "Stack Reward": "1 Cloud Vial",
+                    "Where it's from:": "Sticker-Seeker Quest Reward\nSticker Sprout\nSticker Planter"
+                },
+                {
+                    "": "",
+                    "Name": "Red Palm Hand",
+                    "Description": "\"This means it's time to stop.\"",
+                    "Stack Boost": "\u200b+2% Red Field Capacity",
+                    "Stack Reward": "1 Hard Wax",
+                    "Where it's from:": "Found by Rage Bee on the Stump Field (Uncommon)\nUsing the Sticker-Seeker in any field (Extremely Rare)\nSticker Planter (Extremely Rare)\nSticker Printer (Basic Egg, Gifted Gold Egg)"
+                },
+                {
+                    "": "",
+                    "Name": "Yellow Sticky Hand",
+                    "Description": "\"Lets you grab things from afar maybe a couple times.\"",
+                    "Stack Boost": "\u200b+0.5 Honey Per Goo",
+                    "Stack Reward": "1 Glue",
+                    "Where it's from:": "Found by Gummy Bee in the Sunflower Field (Very Rare)\nUsing Glue in the Hive Hub (1 in 100 chance)\nSticker Sprout (Extremely Rare)\nUsing the Sticker-Seeker in any field (Unbelievably Rare)\nSticker Printer (Basic Egg, Gold Egg)"
+                },
+                {
+                    "": "",
+                    "Name": "Yellow Walking Wiggly Person",
+                    "Description": "\"It struts around without a care in the world.\"",
+                    "Stack Boost": "\u200b+5% Movement Collection Pollen",
+                    "Stack Reward": "25 Gumdrops",
+                    "Where it's from:": "Achievement: Walk on a specific flower in the Starter Zone (except the Mushroom Field), 5 Bee Zone, or 10 Bee Zone with the Basic Boots (different flower for each player)"
+                },
+                {
+                    "": "",
+                    "Name": "Green SELL",
+                    "Description": "\"Perfect for setting up your own sticker shop.\"",
+                    "Stack Boost": "\u200b+10% Convert Rate At Hive",
+                    "Stack Reward": "5 Tickets",
+                    "Where it's from:": "Using the Sticker-Seeker in the starter zone or Hub Field (Rare)\nSticker Planter (Very Rare)\nSticker Printer (Basic Egg)\n(Not listed) Potential reward from the Chartreuse Gift Box"
+                },
+                {
+                    "": "",
+                    "Name": "Yellow Hi",
+                    "Description": "\"English greeting.\"",
+                    "Stack Boost": "\u200b+10% Convert Rate",
+                    "Stack Reward": "1 Enzymes",
+                    "Where it's from:": "Using the Sticker-Seeker on any field (Uncommon)\nHidden Sticker (Rare)\nSticker Planter (Rare)\nSticker Printer (Basic Egg)\n(Not listed) Reward for completing Bubble Bee Man's Beesmas 2024 quest"
+                },
+                {
+                    "": "",
+                    "Name": "AFK",
+                    "Description": "\"Away From Keyboard.\"",
+                    "Stack Boost": "\u200b+10% Convert Rate At Hive",
+                    "Stack Reward": "1 Red Extract",
+                    "Where it's from:": "Awarded after every 24 hours spent in the Hive Hub\nSticker Sprout (Extremely Rare)\nSticker Planter (Unbelievably Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Auryn",
+                    "Description": "\"A weary and neverending cycle, automated.\"",
+                    "Stack Boost": "\u200b+3% Capacity",
+                    "Stack Reward": "1 Swirled Wax",
+                    "Where it's from:": "Achievement: Remain in game for 7 days straight (15 minute grace period between sessions)\nSticker-Seeker Quest Reward (Unbelievably Rare)\nSticker Planter (Unfathomably Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Pink Chair",
+                    "Description": "\"Vibrant and functional.\"",
+                    "Stack Boost": "\u200b+0.25% Bee Ability Pollen",
+                    "Stack Reward": "10 Tickets",
+                    "Where it's from:": "Sticker-Seeker Quest Reward (Very Rare)\nFound by Shy Bee when gathering while very happy (Extremely Rare)\nSticker Planter (Extremely Rare)\nSticker Printer (Basic Egg, Silver Egg)"
+                },
+                {
+                    "": "",
+                    "Name": "Doodle S",
+                    "Description": "\"A really neat geometric shape that only cool people can draw.\"",
+                    "Stack Boost": "\u200b+10,000 Capacity",
+                    "Stack Reward": "5 Tickets",
+                    "Where it's from:": "Sticker-Seeker Quest Reward (Uncommon)\nUsing the Sticker-Seeker on the Spider Field (Rare)\nHidden Sticker (Uncommon)"
+                },
+                {
+                    "": "",
+                    "Name": "Triple Exclamation",
+                    "Description": "\"When one just doesn't get the point across.\"",
+                    "Stack Boost": "\u200b+1% Critical Power",
+                    "Stack Reward": "1 Loaded Dice",
+                    "Where it's from:": "Rolling the same field 3 times in a row with Field Dice\nSticker Planter (Unbelievably Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Eighth Note",
+                    "Description": "\"Also known as a quaver.\"",
+                    "Stack Boost": "\u200b+1% Critical Power",
+                    "Stack Reward": "5 Tickets",
+                    "Where it's from:": "Found by Music Bee when gathering while very happy (Very Rare)\nSticker Printer (Basic Egg)\nSticker Planter (Unbelievably Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Eviction",
+                    "Description": "\"Given to bees when their time is up.\"",
+                    "Stack Boost": "\u200b+20,000 Capacity",
+                    "Stack Reward": "1 Hard Wax",
+                    "Where it's from:": "Discarding a Sticker (1 in 5,000 Chance)\nDiscarding a Beequip (1 in 2,500 Chance)"
+                },
+                {
+                    "": "",
+                    "Name": "Fork And Knife",
+                    "Description": "\"The dynamic duo of dining.\"",
+                    "Stack Boost": "\u200b+2% White Field Capacity",
+                    "Stack Reward": "500 Treats",
+                    "Where it's from:": "Rewarded from Polar Bear Quests (1 in 500 Chance)\nSticker Printer (Silver Egg)"
+                },
+                {
+                    "": "",
+                    "Name": "Shining Halo",
+                    "Description": "\"Bestowed upon the divine.\"",
+                    "Stack Boost": "\u200b+0.5% Pollen",
+                    "Stack Reward": "1 Glitter",
+                    "Where it's from:": "Sticker-Seeker Quest Reward (Very Rare)\nSticker Planter (Extremely Rare)\nSticker Sprout (Extremely Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Rhubarb",
+                    "Description": "\"Good for pies and cobblers.\"",
+                    "Stack Boost": "\u200b+2% Bee Gathering Pollen",
+                    "Stack Reward": "50 Pineapples",
+                    "Where it's from:": "Using the Petal Wand in Pineapple Patch (Rare)\nGathering Leaves in the Pineapple Patch (Extremely Rare)\nSticker Printer (Basic Egg, Gold Egg)\n(Not listed) Potential reward from the Sweet-n-Sour Gift Box"
+                },
+                {
+                    "": "",
+                    "Name": "Sprout",
+                    "Description": "\"Not all sprouts are magical giants.\"",
+                    "Stack Boost": "\u200b+1% Capacity",
+                    "Stack Reward": "1 Magic Bean",
+                    "Where it's from:": "Sprout (Very Rare)\n(Not listed) Potential reward from the Chartreuse Gift Box"
+                },
+                {
+                    "": "",
+                    "Name": "Palm Tree",
+                    "Description": "\"The fronds can weight  over 100 pounds.\"",
+                    "Stack Boost": "\u200b+19% Coconut Field Capacity (listed as 10% in-game)",
+                    "Stack Reward": "10 Coconuts",
+                    "Where it's from:": "Using the Sticker-Seeker in the Coconut Field (Very Rare)\nPlanters in the Coconut Field (Very Rare)\nIncluded in the Tropical Bundle in Bee Bear's Catalog"
+                },
+                {
+                    "": "",
+                    "Name": "Jack-O-Lantern",
+                    "Description": "\"A pumpkin carved for a rarely mentioned Honeyday.\"",
+                    "Stack Boost": "\u200b+19% Pumpkin Patch Capacity (listed as 10% in-game)",
+                    "Stack Reward": "3 Soft Waxes",
+                    "Where it's from:": "Found by Rascal Bee in the Pumpkin Patch (Extremely Rare)\nUsing the Sticker-Seeker in the Pumpkin Patch (Very Rare)\nHeat-Treated Planter in the Pumpkin Patch (Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Lightning",
+                    "Description": "\"A bolt from the heavens.\"",
+                    "Stack Boost": "\u200b+1% Tool Swing Speed",
+                    "Stack Reward": "3 Micro-Converters",
+                    "Where it's from:": "Sticker-Seeker Quest Reward\nUsing the Spark Staff in any field (Rare)\nSticker Planter (Very Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Simple Cloud",
+                    "Description": "\"Doing its best to lower the UV Index.\"",
+                    "Stack Boost": "\u200b+1% White Pollen",
+                    "Stack Reward": "1 Cloud Vial",
+                    "Where it's from:": "Sticker-Seeker Quest Reward\nDropped by Wild Windy Bee\nSticker Printer (Basic Egg)"
+                },
+                {
+                    "": "",
+                    "Name": "Grey Raining Cloud",
+                    "Description": "\"A storm's a-brewing.\"",
+                    "Stack Boost": "\u200b+2% Blue Pollen",
+                    "Stack Reward": "3 Cloud Vials",
+                    "Where it's from:": "Using a Cloud Vial on the Clover Field (1 in 250 Chance)\nDropped by Wild Windy Bee (Very Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Tornado",
+                    "Description": "\"A destructive force of nature.\"",
+                    "Stack Boost": "\u200b+10% Tornado Pollen",
+                    "Stack Reward": "3 Cloud Vials",
+                    "Where it's from:": "Dropped by Wild Windy Bee (Extremely Rare)\n(Not listed) Reward for finishing in the top 5 of the Daily Top Wild Windy Token Collectors Leaderboard"
+                },
+                {
+                    "": "",
+                    "Name": "Small Flame",
+                    "Description": "\"Heat up your hive.\"",
+                    "Stack Boost": "\u200b+3% Flame Pollen",
+                    "Stack Reward": "1 Red Extract",
+                    "Where it's from:": "Found by Fire Bee when gathering while upset (Uncommon)\nUsing the Scythe in the Blue Flower Field (Very Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Dark Flame",
+                    "Description": "\"Someone's burning some cream of tartar.\"",
+                    "Stack Boost": "\u200b+3% Flame Pollen",
+                    "Stack Reward": "5 Stingers",
+                    "Where it's from:": "Found by Demon Bee when gathering while upset (Extremely Rare)\nHeat-Treated Planter in the Pine Tree Forest (Rare)\n(Not listed) Heat-Treater Planter in any field (Exceptionally Rare)\n(Not listed) Potential reward from the Mythic Gift Box"
+                },
+                {
+                    "": "",
+                    "Name": "Small Shield",
+                    "Description": "\"Could deflect a pebble or two.\"",
+                    "Stack Boost": "\u200b+0.5% Dodge Chance",
+                    "Stack Reward": "1 Hard Wax",
+                    "Where it's from:": "Dropped by Armored Aphid (Extremely Rare)\nReward from Robo Bear Challenge (Very Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Robot Head",
+                    "Description": "\"Beeps and boops.\"",
+                    "Stack Boost": "\u200b+1% Duped Ability Pollen",
+                    "Stack Reward": "1 Robo Pass",
+                    "Where it's from:": "Reward from Robo Bear Challenge (Extremely Rare)\nUsing a Micro-Converter in the Hive Hub (1 in 2500 chance)\nSticker Sprout (Extremely Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Cyan Hilted Sword",
+                    "Description": "\"Defend your hive in style.\"",
+                    "Stack Boost": "\u200b+2% Bee Attack",
+                    "Stack Reward": "10 Stingers",
+                    "Where it's from:": "Awarded to the top 25 Daily Fastest Coconut Crab Slayers\nDropped by Coconut Crab (Unbelievably Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Cool Backpack",
+                    "Description": "\"Worn by self-sufficient folk.\"",
+                    "Stack Boost": "\u200b+1% Capacity",
+                    "Stack Reward": "1 Blue Extract",
+                    "Where it's from:": "Mythic Meteors (Extremely Rare)\nBlue Clay Planter in the Mountain Top Field (Extremely Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Standing Beekeeper",
+                    "Description": "\"It's just standing there when it should be making honey.\"",
+                    "Stack Boost": "\u200b+2% White Pollen",
+                    "Stack Reward": "1 Oil",
+                    "Where it's from:": "Achievement: Equip certain gear from Top Bear's Shop, then wait a while\nSticker Planter (Unbelievably Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Red Wailing Cry",
+                    "Description": "\"Pure agony expressed.\"",
+                    "Stack Boost": "\u200b+2% Instant Red Bee Conversion",
+                    "Stack Reward": "3 Stingers",
+                    "Where it's from:": "Achievement: Use 100,000 Royal Jellies in a row without getting a Mythic Bee\nDropped by Rage Aphid (Extremely Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Hourglass",
+                    "Description": "\"A somewhat reliable timekeeping method.\"",
+                    "Stack Boost": "\u200b+20,000 Capacity",
+                    "Stack Reward": "5 Tickets",
+                    "Where it's from:": "Using the Wealth Clock a (1 in 250 chance)\nThe Planter Of Plenty in the Clover Field (Very Rare)\nSticker Printer (Gold Egg)\n(Not listed) Potential reward from the Glass Gift Box"
+                },
+                {
+                    "": "",
+                    "Name": "Atom Symbol",
+                    "Description": "\"Electrons orbiting a nucleus.\"",
+                    "Stack Boost": "\u200b+5% Instant Bomb Conversion",
+                    "Stack Reward": "5 Neonberries",
+                    "Where it's from:": "Using the Pulsar in any field (Extremely Rare)\nFound by Radioactive Bees (Very Rare)\nPesticide Planter (Unbelievably Rare)\nSticker Printer (Gifted Silver Egg)"
+                },
+                {
+                    "": "",
+                    "Name": "Barcode",
+                    "Description": "\"An omnipresent method of representing data.\"",
+                    "Stack Boost": "\u200b+10% Convert Rate",
+                    "Stack Reward": "3 Soft Waxes",
+                    "Where it's from:": "Found by Digital Bee when gathering while very happy (Rare)\nUsing the Sticker-Seeker on fields in the 5 Bee Zone (Rare)\nHidden Sticker (Very Rare)\nSticker Printer (Silver Egg)"
+                },
+                {
+                    "": "",
+                    "Name": "Wall Crack",
+                    "Description": "\"There might be something wrong with your foundation.\"",
+                    "Stack Boost": "\u200b+10% Colorless Bee Convert Rate",
+                    "Stack Reward": "10 Tickets",
+                    "Where it's from:": "Sticker-Seeker Quest Reward (Extremely Rare)\nHidden Sticker (Unbelievably Rare)\nSticker Printer (Basic Egg)"
+                },
+                {
+                    "": "",
+                    "Name": "Green Circle",
+                    "Description": "\"For novice skiers.\"",
+                    "Stack Boost": "\u200b+1% Critical Power",
+                    "Stack Reward": "3 Tickets",
+                    "Where it's from:": "Found by Commander Bee when gathering while very happy (Uncommon)\nSticker Sprout (Uncommon)\nSticker Planter (Rare)\nSticker Printer (Basic Egg, Silver Egg, Gold Egg)\n(Not listed) Hidden Sticker\n(Not listed) Potential reward from the Chartreuse Gift Box"
+                },
+                {
+                    "": "",
+                    "Name": "Blue Square",
+                    "Description": "\"For the skiers inbetween.\"",
+                    "Stack Boost": "\u200b+2% Critical Power",
+                    "Stack Reward": "5 Tickets",
+                    "Where it's from:": "Found by Bumble Bee when gathering while very happy (Rare)\nSticker Planter (Very Rare)\nSticker Printer (Basic, Silver, and Gold Egg)\n(Not listed) Hidden Sticker"
+                },
+                {
+                    "": "",
+                    "Name": "Black Diamond",
+                    "Description": "\"Not for novice skiers.\"",
+                    "Stack Boost": "\u200b+3% Critical Power",
+                    "Stack Reward": "1 Caustic Wax",
+                    "Where it's from:": "Dropped by Tunnel Bear (Unbelievably Rare)\nFound by Diamond Bee when gathering while upset (Extremely Rare)\nSticker Planter (Unbelievably Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Waxing Crescent Moon",
+                    "Description": "\"Earth's sidekick.\"",
+                    "Stack Boost": "\u200b+1% Capacity",
+                    "Stack Reward": "10 Moon Charms",
+                    "Where it's from:": "Chasing Fireflies\nPurchased in Bee Bear's Catalog for 400 Snowflakes"
+                },
+                {
+                    "": "",
+                    "Name": "Glowing Smile",
+                    "Description": "\"A happy little case of happenstance.\"",
+                    "Stack Boost": "\u200b+2% Capacity",
+                    "Stack Reward": "1 Glitter",
+                    "Where it's from:": "Reward for finishing in the top 25 of the Daily Firefly Chasers Leaderboard\nChasing Fireflies (Extremely Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Saturn",
+                    "Description": "\"The sixth planet from our Sun.\"",
+                    "Stack Boost": "\u200b+1% Mark Ability Pollen",
+                    "Stack Reward": "5 Tickets",
+                    "Where it's from:": "Achievement: Connect 10 Marks at once\nSticker Sprout (Unbelievably Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Black Star",
+                    "Description": "\"From a village in Norway.\"",
+                    "Stack Boost": "\u200b+3% Bomb Pollen",
+                    "Stack Reward": "1 Black Balloon",
+                    "Where it's from:": "Dropped by Tunnel Bear (Unbelievably Rare)\nSticker-Seeker Quest Reward (Extremely Rare)\nUsing the Bronze Star Amulet Generator (1 in 100.000 chance)\nSticker Printer (Gifted Silver Egg)\nPurchased in Bee Bear's Catalog for 10,000 Snowflakes"
+                },
+                {
+                    "": "",
+                    "Name": "Cyan Star",
+                    "Description": "\"Twinkle in teal.\"",
+                    "Stack Boost": "\u200b+3% Instant Gifted Bee Conversion",
+                    "Stack Reward": "10 Tickets",
+                    "Where it's from:": "Chasing Fireflies (Nearly Impossible)\nUsing the Diamond Star Amulet Generator (1 in 10,000 Chance)\nSticker Printer (Star Egg, Gifted Silver Egg, Gifted Gold Egg, Gifted Diamond Egg)\nPurchased in Bee Bear's Catalog for 10,000 Snowflakes"
+                },
+                {
+                    "": "",
+                    "Name": "Shining Star",
+                    "Description": "\"Slowly losing mass.\"",
+                    "Stack Boost": "\u200b+0.5% Gifted Bee Pollen",
+                    "Stack Reward": "10 Tickets",
+                    "Where it's from:": "Found by Gifted Bees when very happy (Nearly Impossible)\nChasing Fireflies (Nearly Impossible)\nUsing the Gold Star Amulet Generator (1 in 100,000 chance)\nSticker Printer (Star Egg, Gifted Silver Egg, Gifted Gold Egg, Gifted Diamond Egg)\nPurchased in Bee Bear's Catalog for 10,000 Snowflakes"
+                },
+                {
+                    "": "",
+                    "Name": "Grey Diamond Logo",
+                    "Description": "\"Fueling ingenuity. Or something like that.\"",
+                    "Stack Boost": "\u200b+2% Event Bee Pollen",
+                    "Stack Reward": "3 Micro-Converters",
+                    "Where it's from:": "Sticker-Seeker Quest Reward (Rare)\nSticker Sprout (Extremely Rare)\nSticker Printer (Silver Egg)"
+                },
+                {
+                    "": "",
+                    "Name": "Orphan Dog",
+                    "Description": "\"This golden retriever needs a home.\"",
+                    "Stack Boost": "\u200b+2% Bee Gathering Pollen",
+                    "Stack Reward": "3 Tickets",
+                    "Where it's from:": "Using the Sticker-Seeker in any field\nHidden Sticker\nSticker Sprout (Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Pizza Delivery Man",
+                    "Description": "\"He's hustling in this gig economy.\"",
+                    "Stack Boost": "\u200b+10% Red Bee Convert Rate",
+                    "Stack Reward": "3 Tickets",
+                    "Where it's from:": "Using the Sticker-Seeker in any field (Rare)\nHidden Sticker\nSticker Sprout"
+                },
+                {
+                    "": "",
+                    "Name": "Interrobang Block",
+                    "Description": "\"Whatever's inside will inspire both excitement and confusion.\"",
+                    "Stack Boost": "\u200b+1% Critical Power",
+                    "Stack Reward": "3 Tickets",
+                    "Where it's from:": "Using the Sticker-Seeker in any field\nHidden Sticker\nSticker Sprout (Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Theatrical Intruder",
+                    "Description": "\"It makes an unwelcome dramatic entrance.\"",
+                    "Stack Boost": "\u200b+1% Bee Attack",
+                    "Stack Reward": "3 Tickets",
+                    "Where it's from:": "Using the Sticker-Seeker in any field (Rare)\nHidden Sticker\nSticker Sprout (Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Desperate Booth",
+                    "Description": "\"Everyone needs a little help sometimes.\"",
+                    "Stack Boost": "\u200b+2% Honey From Tokens",
+                    "Stack Reward": "3 Tickets",
+                    "Where it's from:": "Using the Sticker-Seeker in any field (Rare)\nHidden Sticker\nSticker Sprout (Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Built Ship",
+                    "Description": "\"Perfectly constructed for treasure hunting.\"",
+                    "Stack Boost": "\u200b+2% Blue Field Capacity",
+                    "Stack Reward": "3 Tickets",
+                    "Where it's from:": "Using the Sticker-Seeker in any field (Rare)\nHidden Sticker\nSticker Sprout (Very Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Grey Shape Companion",
+                    "Description": "\"This peculiar creature subsists purely on a diet of coins.\"",
+                    "Stack Boost": "\u200b+2% Honey From Tokens",
+                    "Stack Reward": "3 Tickets",
+                    "Where it's from:": "Using the Sticker-Seeker in any field (Rare)\nHidden Sticker\nSticker Sprout (Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Evil Pig",
+                    "Description": "\"An innocuous cartoon gone crazy.\"",
+                    "Stack Boost": "\u200b+1 Epic Bee Attack",
+                    "Stack Reward": "3 Tickets",
+                    "Where it's from:": "Using the Sticker-Seeker in any field\nHidden Sticker\nSticker Sprout (Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Waving Townsperson",
+                    "Description": "\"He greets you to the Roblox top rated sort.\"",
+                    "Stack Boost": "\u200b+10% Blue Bee Convert Rate",
+                    "Stack Reward": "3 Tickets",
+                    "Where it's from:": "Using the Sticker-Seeker in any field (Rare)\nHidden Sticker\nSticker Sprout (Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Cop And Robber",
+                    "Description": "\"The criminal modded a smartphone to sideload apps.\"",
+                    "Stack Boost": "\u200b+0.5 Blue Bee Attack",
+                    "Stack Reward": "3 Tickets",
+                    "Where it's from:": "Using the Sticker-Seeker in any field (Rare)\nHidden Sticker"
+                },
+                {
+                    "": "",
+                    "Name": "Tough Potato",
+                    "Description": "\"It's a one-tuber army.\"",
+                    "Stack Boost": "\u200b+1% Bee Attack",
+                    "Stack Reward": "3 Stingers",
+                    "Where it's from:": "Sticker-Seeker Quest Reward (Uncommon)\nHidden Sticker (Uncommon)\nSticker Sprout (Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Young Elf",
+                    "Description": "\"He'll gain more polygons as he ages.\"",
+                    "Stack Boost": "\u200b+2% Ungifted Bee Pollen",
+                    "Stack Reward": "5 Paper Planters",
+                    "Where it's from:": "Using the Sticker-Seeker in the Cactus Field (Very Rare)\nSticker Planter on the Cactus Field (Uncommon)\nHidden Sticker"
+                },
+                {
+                    "": "",
+                    "Name": "Shrugging Heart",
+                    "Description": "\"It doesn't know what it loves.\"",
+                    "Stack Boost": "\u200b+2% Red Pollen",
+                    "Stack Reward": "1 Red Extract",
+                    "Where it's from:": "Using the Sticker-Seeker in the Rose Field (Very Rare)\nHidden Sticker (Very Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Classic Killroy",
+                    "Description": "\"The sneaky sniffing proto-meme.\"",
+                    "Stack Boost": "\u200b+1% White Pollen",
+                    "Stack Reward": "5 Tickets",
+                    "Where it's from:": "Hidden Sticker"
+                },
+                {
+                    "": "",
+                    "Name": "Killroy With Hair",
+                    "Description": "\"A variation of the proto-meme.\"",
+                    "Stack Boost": "\u200b+10% Convert Rate",
+                    "Stack Reward": "5 Tickets",
+                    "Where it's from:": "Hidden Sticker (Very Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Taunting Doodle Person",
+                    "Description": "\"The disputed king of groove.\"",
+                    "Stack Boost": "\u200b+1% Critical Power",
+                    "Stack Reward": "1 Enzymes",
+                    "Where it's from:": "Sticker-Seeker Quest Reward (Extremely Rare)\nUsing the Sticker-Seeker in the 15 Bee Zone (Unbelievably Rare)\nHidden Sticker (Unbelievably Rare)\nSticker Sprout (Unbelievably Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Prehistoric Hand",
+                    "Description": "\"The handpront of someone who sadly never got to play ROBLOX.\"",
+                    "Stack Boost": "\u200b+20% Convert Rate",
+                    "Stack Reward": "1 Hard Wax",
+                    "Where it's from:": "Sticker-Seeker Quest Reward (Extremely Rare)\nUsing the Sticker-Seeker in the 35 Bee Zone (Very Rare)\nSticker Planter in the 35 Bee Zone (Very Rare)\nHidden Sticker (Extremely Rare)\nSticker Printer (Gifted Gold Egg)"
+                },
+                {
+                    "": "",
+                    "Name": "Prehistoric Boar",
+                    "Description": "\"A drawing of a certified non-GMO pig.\"",
+                    "Stack Boost": "\u200b+2% Capacity",
+                    "Stack Reward": "1 Hard Wax",
+                    "Where it's from:": "Sticker-Seeker Quest Reward (Extremely Rare)\nUsing the Sticker-Seeker in the 35 Bee Zone (Very Rare)\nSticker Planter in the 35 Bee Zone (Very Rare)\nHidden Sticker (Extremely Rare)\nSticker Printer (Gifted Gold Egg)"
+                },
+                {
+                    "": "",
+                    "Name": "Red Doodle Person",
+                    "Description": "\"Spontaneously shows up in subways.\"",
+                    "Stack Boost": "\u200b+2% Red Field Capacity",
+                    "Stack Reward": "1 Red Extract",
+                    "Where it's from:": "Red Clay Planter (Unbelievably Rare)\nUsing a Red Extract in the Hive Hub (1 in 1,000 chance)\nHidden Sticker (Very Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Pearl Girl",
+                    "Description": "\"A study of a painting by a Dutch master of the Baroque period.\"",
+                    "Stack Boost": "\u200b+2% White Field Capacity",
+                    "Stack Reward": "1 Swirled Wax",
+                    "Where it's from:": "Sticker-Seeker Quest Reward (Extremely Rare)\nSticker Planter (Unbelievably Rare)\nSticker Sprout (Unfathomably Rare)\nSticker Printer (Star Egg)"
+                },
+                {
+                    "": "",
+                    "Name": "Abstract Color Painting",
+                    "Description": "\"The colored rectangles seem to blur together.\"",
+                    "Stack Boost": "\u200b+20,000 Capacity",
+                    "Stack Reward": "1 Purple Potion",
+                    "Where it's from:": "Sticker-Seeker Quest Reward (Extremely Rare)\nUsing the Sticker-Seeker in the Hub Field (Unbelievably Rare)\nSticker Planter (Unbelievably Rare)\nSticker Sprout (Unfathomably Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Prism Painting",
+                    "Description": "\"All colors you can see exists in white light.\"",
+                    "Stack Boost": "\u200b+5% Legendary Bee Pollen",
+                    "Stack Reward": "10 Tickets",
+                    "Where it's from:": "Sticker-Seeker Quest Reward (Very Rare)\nSticker Sprout (Extremely Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Banana Painting",
+                    "Description": "\"Painted on a Sunday morning.\"",
+                    "Stack Boost": "\u200b+5% Legendary Bee Pollen",
+                    "Stack Reward": "10 Tickets",
+                    "Where it's from:": "Sticker-Seeker Quest Reward (Very Rare)\nSticker Sprout (Extremely Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Moai",
+                    "Description": "\"One of many famous monolithic islanders.\"",
+                    "Stack Boost": "\u200b+2% Capacity",
+                    "Stack Reward": "10 Tickets",
+                    "Where it's from:": "Found by Exhausted Bee when gathering while very happy (Unbelievably Rare)\nHidden Sticker (Unbelievably Rare)\nSticker Printer (Silver Egg, Gifted Silver Egg)"
+                },
+                {
+                    "": "",
+                    "Name": "Nessie",
+                    "Description": "\"The lonely beast from Loch Ness.\"",
+                    "Stack Boost": "\u200b+2% Event Bee Pollen",
+                    "Stack Reward": "10 Tickets",
+                    "Where it's from:": "Hidden Sticker (Unfathomably Rare)\nSticker-Seeker Quest Reward (Unfathomably Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Ionic Column Top",
+                    "Description": "\"Definitely not Doric.\"",
+                    "Stack Boost": "\u200b+20,000 Capacity",
+                    "Stack Reward": "1 Hard Wax",
+                    "Where it's from:": "Sticker-Seeker Quest Reward (Very Rare)\nSticker Planter in the 15 Bee Zone (Unbelievably Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Ionic Column Middle",
+                    "Description": "\"Just a segment of a shaft.\"",
+                    "Stack Boost": "\u200b+20,000 Capacity",
+                    "Stack Reward": "1 Hard Wax",
+                    "Where it's from:": "Sticker-Seeker Quest Reward (Rare)\nSticker Planter in the 5 Bee Zone (Extremely Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Ionic Column Base",
+                    "Description": "\"A solid foundation.\"",
+                    "Stack Boost": "\u200b+20,000 Capacity",
+                    "Stack Reward": "1 Hard Wax",
+                    "Where it's from:": "Sticker-Seeker Quest Reward (Very Rare)\nSticker Planter in the Starter Zone (Unbelievably Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Orange Step Array",
+                    "Description": "\"A structure from another world.\"",
+                    "Stack Boost": "\u200b+5 Convert Amount",
+                    "Stack Reward": "1 Enzymes",
+                    "Where it's from:": "Sticker-Seeker Quest Reward (Very Rare)\nFound by Hasty Bee when gathering while very happy (Very Rare)\nUsing the Sticker-Seeker in the Sunflower Field or Pumpkin Patch (Extremely Rare)\nSticker Planter (Extremely Rare)\nSticker Printer (Gold Egg)"
+                },
+                {
+                    "": "",
+                    "Name": "Orange Green Tri Deco",
+                    "Description": "\"Snazzy and sharp.\"",
+                    "Stack Boost": "\u200b+5 Convert Amount",
+                    "Stack Reward": "1 Enzymes",
+                    "Where it's from:": "Sticker-Seeker Quest Reward (Very Rare)\nUsing the Sticker-Seeker in the Dandelion Field or Pumpkin Patch (Extremely Rare)\nPuffshrooms on the Pumpkin Patch (Extremely Rare)\nSticker Planter (Extremely Rare)\nSticker Printer (Gold Egg)"
+                },
+                {
+                    "": "",
+                    "Name": "Orange Swirled Marble",
+                    "Description": "\"A small glass orb filled with orange-red streaks.\"",
+                    "Stack Boost": "\u200b+3% Flame Pollen",
+                    "Stack Reward": "Smooth Dice 3",
+                    "Where it's from:": "Sticker-Seeker Quest Reward (Very Rare)\nUsing the Sticker-Seeker in any field (Unbelievably Rare)\nUsing the Sticker-Seeker in the Hub Field (Extremely Rare)\nSticker Printer (Silver Egg, Diamond Egg)\nSticker Planter (Unbelievably Rare)\n(Not listed) Potential reward from the Glass Gift Box"
+                },
+                {
+                    "": "",
+                    "Name": "Blue And Green Marble",
+                    "Description": "\"A glass orb that kinda resembles the Earth.\"",
+                    "Stack Boost": "\u200b+2% Blue Pollen",
+                    "Stack Reward": "Smooth Dice 3",
+                    "Where it's from:": "Sticker-Seeker Quest Reward (Very Rare)\nUsing the Sticker-Seeker in any field (Unbelievably Rare)\nUsing the Sticker-Seeker in the Hub Field (Extremely Rare)\nSticker Printer (Silver Egg, Diamond Egg)\nSticker Planter (Unbelievably Rare)\n(Not listed) Potential reward from the Glass Gift Box"
+                },
+                {
+                    "": "",
+                    "Name": "Yellow Swirled Marble",
+                    "Description": "\"A small orb with a yellow streak through the middle.\"",
+                    "Stack Boost": "\u200b+0.5% Honey Per Pollen",
+                    "Stack Reward": "Smooth Dice 3",
+                    "Where it's from:": "Sticker-Seeker Quest Reward (Very Rare)\nUsing the Sticker-Seeker in any field (Unbelievably Rare)\nUsing the Sticker-Seeker in the Hub Field (Extremely Rare)\nSticker Printer (Silver Egg, Diamond Egg)\n(Not listed) Potential reward from the Glass Gift Box\n(Not listed) Sticker Planter (Unbelievably Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Diamond Cluster",
+                    "Description": "\"Bedazzle your hive.\"",
+                    "Stack Boost": "\u200b+15% Convert Rate",
+                    "Stack Reward": "10 Tickets",
+                    "Where it's from:": "Found by Diamond Bee in the Mountain Top Field (Extremely Rare)\nFound by Gifted Diamond Bee in any field (Unbelievably Rare)\nDropped by Diamond Aphid (Very Rare)\nSticker Printer (Diamond Egg, Gifted Diamond Egg)\n(Not listed) Hidden Sticker\n(Not listed) Potential reward from the Glass Gift Box"
+                },
+                {
+                    "": "",
+                    "Name": "Diamond Trim",
+                    "Description": "\"For hives overflowing with wealth.\"",
+                    "Stack Boost": "\u200b+0.5% Honey Per Pollen",
+                    "Stack Reward": "10 Tickets",
+                    "Where it's from:": "Dropped by Diamond Aphid (Uncommon)\nSticker Printer (Diamond Egg, Gifted Diamond Egg)\n(Not listed) Potential reward from the Glass Gift Box"
+                },
+                {
+                    "": "",
+                    "Name": "Cyan Decorative Border",
+                    "Description": "\"Resembles a snazzy M. Works well on trims.\"",
+                    "Stack Boost": "\u200b+0.5% Honey Per Pollen",
+                    "Stack Reward": "10 Tickets",
+                    "Where it's from:": "Mega Memory Match (Extremely Rare)\nSticker Planter (Unbelievably Rare)\nSticker Printer (Diamond Egg, Gifted Silver Egg, Gifted Diamond Egg)"
+                },
+                {
+                    "": "",
+                    "Name": "Left Gold Swirl Fleuron",
+                    "Description": "\"A decorative fleurish reserved for the greatest.\"",
+                    "Stack Boost": "\u200b+0.5% Honey Per Pollen",
+                    "Stack Reward": "10 Tickets",
+                    "Where it's from:": "Possible reward for finishing in the top 100 of Daily Top Honeymaker Leaderboard\nDropped by Stump Snail (Unfathomably Rare)\nSticker Printer (Gold Egg, Gifted Gold Egg)"
+                },
+                {
+                    "": "",
+                    "Name": "Right Gold Swirl Fleuron",
+                    "Description": "\"A decorative fleurish reserved for the greatest.\"",
+                    "Stack Boost": "\u200b+0.5% Honey Per Pollen",
+                    "Stack Reward": "10 Tickets",
+                    "Where it's from:": "Possible reward for finishing in the top 100 of Daily Top Honeymaker Leaderboard\nDropped by Stump Snail (Unfathomably Rare)\nSticker Printer (Gold Egg, Gifted Gold Egg)"
+                },
+                {
+                    "": "",
+                    "Name": "Left Shining Diamond Fleuron",
+                    "Description": "\"A pompous flourish.\"",
+                    "Stack Boost": "\u200b+0.5% Honey Per Pollen",
+                    "Stack Reward": "10 Tickets",
+                    "Where it's from:": "Possible reward for finishing in the top 100 of Daily Blue Pollen Leaderboard\nSticker Printer (Diamond Egg, Gifted Diamond Egg)"
+                },
+                {
+                    "": "",
+                    "Name": "Right Shining Diamond Fleuron",
+                    "Description": "\"A pompous flourish.\"",
+                    "Stack Boost": "\u200b+0.5% Honey Per Pollen",
+                    "Stack Reward": "10 Tickets",
+                    "Where it's from:": "Possible reward for finishing in the top 100 of Daily Blue Pollen Leaderboard\nSticker Printer (Diamond Egg, Gifted Diamond Egg)"
+                },
+                {
+                    "": "",
+                    "Name": "Left Mythic Gem Fleuron",
+                    "Description": "\"An incredible statement piece.\"",
+                    "Stack Boost": "\u200b+0.5% Honey Per Pollen",
+                    "Stack Reward": "10 Tickets",
+                    "Where it's from:": "Possible reward for finishing in the top 100 of Daily Red Pollen Leaderboard\nSticker Printer (Mythic Egg, Gifted Mythic Egg)"
+                },
+                {
+                    "": "",
+                    "Name": "Right Mythic Gem Fleuron",
+                    "Description": "\"An incredible statement piece.\"",
+                    "Stack Boost": "\u200b+0.5% Honey Per Pollen",
+                    "Stack Reward": "10 Tickets",
+                    "Where it's from:": "Possible reward for finishing in the top 100 of Daily Red Pollen Leaderboard\nSticker Printer (Mythic Egg, Gifted Mythic Egg)"
+                },
+                {
+                    "": "",
+                    "Name": "Purple Fleuron",
+                    "Description": "\"A vibrant decorative flourish.\"",
+                    "Stack Boost": "\u200b+1% Super Crit Power",
+                    "Stack Reward": "1 Purple Potion",
+                    "Where it's from:": "Sticker Printer (Mythic Egg, Gifted Mythic Egg)\nSticker Planter (Unbelievably Rare)\n(Not listed) Potential reward from the Mythic Gift Box"
+                },
+                {
+                    "": "",
+                    "Name": "Royal Symbol",
+                    "Description": "\"For when you can't be conveyed in words.\"",
+                    "Stack Boost": "\u200b+1% Super Crit Power",
+                    "Stack Reward": "1 Purple Potion",
+                    "Where it's from:": "Mythic Meteors (Unbelievably Rare)\nSticker Printer (Gifted Mythic Egg)"
+                },
+                {
+                    "": "",
+                    "Name": "Royal Bear",
+                    "Description": "\"From before democracy revolutionize the mountain.\"",
+                    "Stack Boost": "\u200b+1% Super Crit Power",
+                    "Stack Reward": "1 Purple Potion",
+                    "Where it's from:": "Sticker-Seeker Quest Reward (Extremely Rare)\nSticker Printer (Mythic Egg, Gifted Mythic Egg)\n(Not listed) Potential reward from the Mythic Gift Box"
+                },
+                {
+                    "": "",
+                    "Name": "Mythic M",
+                    "Description": "\"The M stands for Most useful bee.\"",
+                    "Stack Boost": "\u200b+1% Mythic Bee Pollen",
+                    "Stack Reward": "10 Tickets",
+                    "Where it's from:": "Reward for finishing in the top 25 of the Daily Mythic Bee Pollen Leaderboard\nSticker Printer (Mythic Egg, Gifted Mythic Egg)\n(Not listed) Potential reward from the Mythic Gift Box"
+                },
+                {
+                    "": "",
+                    "Name": "Satisfying Nectar Icon",
+                    "Description": "\"Sweet stuff that hits the spot.\"",
+                    "Stack Boost": "\u200b+2% White Pollen",
+                    "Stack Reward": "1 Satisfying Vial",
+                    "Where it's from:": "Condensing Satisfying Nectar with the Nectar Condenser (1 in 25 chance)"
+                },
+                {
+                    "": "",
+                    "Name": "Refreshing Nectar Icon",
+                    "Description": "\"The cure to feeling parched.\"",
+                    "Stack Boost": "\u200b+1% Unique Instant Conversion",
+                    "Stack Reward": "1 Refreshing Vial",
+                    "Where it's from:": "Condensing Refreshing Nectar with the Nectar Condenser (1 in 25 chance)"
+                },
+                {
+                    "": "",
+                    "Name": "Motivating Nectar Icon",
+                    "Description": "\"Psychoactive syrup that inspires work.\"",
+                    "Stack Boost": "\u200b+0.25% Bee Ability Rate",
+                    "Stack Reward": "1 Motivating Vial",
+                    "Where it's from:": "Condensing Motivating Nectar with the Nectar Condenser (1 in 25 chance)"
+                },
+                {
+                    "": "",
+                    "Name": "Invigorating Nectar Icon",
+                    "Description": "\"Spicy syrup that gets your blood flowing.\"",
+                    "Stack Boost": "\u200b+2% Red Pollen",
+                    "Stack Reward": "1 Invigorating Vial",
+                    "Where it's from:": "Condensing Invigorating Nectar with the Nectar Condenser (1 in 25 chance)"
+                },
+                {
+                    "": "",
+                    "Name": "Comforting Nectar Icon",
+                    "Description": "\"The syrup that settles you down.\"",
+                    "Stack Boost": "\u200b+2% Blue Pollen",
+                    "Stack Reward": "1 Comforting Vial",
+                    "Where it's from:": "Condensing Comforting Nectar with the Nectar Condenser (1 in 25 chance)"
+                },
+                {
+                    "": "",
+                    "Name": "Small Tickseed",
+                    "Description": "\"Much prettier than the name suggests.\"",
+                    "Stack Boost": "\u200b+5% Sunflower Field Pollen",
+                    "Stack Reward": "10 Honeysuckles",
+                    "Where it's from:": "Using Clippers or Scissors in the Sunflower Field or Pumpkin Patch (Rare)\nFound by Bucko Bee in the Sunflower Field or Pumpkin Patch (Uncommon)\nPlanters in the Sunflower Field (Very Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Small White Daisy",
+                    "Description": "\"A simple perennial.\"",
+                    "Stack Boost": "\u200b+1% White Pollen",
+                    "Stack Reward": "10 Honeysuckles",
+                    "Where it's from:": "Using Clippers or Scissors in the Spider Field or Pineapple Patch (Rare)\nFound by Hasty Bee in the Spider Field or Pineapple Patch (Uncommon)\nPlanters in the Spider Field (Very Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Small Pink Tulip",
+                    "Description": "\"Their buds can be very valuable.\"",
+                    "Stack Boost": "\u200b+5% Mushroom Field Pollen",
+                    "Stack Reward": "10 Honeysuckles",
+                    "Where it's from:": "Using Clippers or Scissors in the Mushroom Field or Strawberry Field (Rare)\nFound by Riley Bee in the Mushroom Field or Strawberry Field (Uncommon)\nPlanters in the Strawberry Field (Very Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Small Dandelion",
+                    "Description": "\"Scientic  Name Taraxacum.\"",
+                    "Stack Boost": "\u200b+5% Dandelion Field Pollen",
+                    "Stack Reward": "10 Honeysuckles",
+                    "Where it's from:": "Using Clippers or Scissors in the Dandelion Field or Clover Field (Rare)\nFound by Frosty Bee in the Dandelion Field or Clover Field (Uncommon)\nPlanters in the Dandelion Field (Very Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Purple 4-Point Flower",
+                    "Description": "\"A tall and angular indigo blossom.\"",
+                    "Stack Boost": "\u200b+1% Super Crit Power",
+                    "Stack Reward": "10 Tickets",
+                    "Where it's from:": "Using Clippers or Scissors in the Hub Field (Unbelievably Rare)\nUsing a Purple Potion in the Hive Hub (1 in 250 chance)\nSticker Printer (Mythic Egg)\n(Not listed) Potential reward from the Mythic Gift Box"
+                },
+                {
+                    "": "",
+                    "Name": "Spore Covered Puffshroom",
+                    "Description": "\"Dapper Bear's favorite fungus.\"",
+                    "Stack Boost": "\u200b+2% Pollen From Tools",
+                    "Stack Reward": "3 Soft Waxes",
+                    "Where it's from:": "Puffshrooms\nPurchased in Bee Bear's Catalog for 1,200 Snowflakes"
+                },
+                {
+                    "": "",
+                    "Name": "White Button Mushroom",
+                    "Description": "\"Commonly sliced onto salads.\"",
+                    "Stack Boost": "\u200b+25% Common Bee Pollen",
+                    "Stack Reward": "3 Soft Waxes",
+                    "Where it's from:": "Puffshrooms in the 5 Bee Zone\nSticker Planter in the 5 Bee Zone (Very Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Fly Agaric Mushroom",
+                    "Description": "\"An iconic looking red-capped shroom.\"",
+                    "Stack Boost": "\u200b+10% Rare Bee Pollen",
+                    "Stack Reward": "3 Soft Waxes",
+                    "Where it's from:": "Puffshrooms in the Starter Zone\nSticker Planter in the Starter Zone (Very Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Porcini Mushroom",
+                    "Description": "\"Thick, short and stout.\"",
+                    "Stack Boost": "\u200b+5% Epic Bee Pollen",
+                    "Stack Reward": "3 Soft Waxes",
+                    "Where it's from:": "Puffshrooms in the 15 Bee Zone\nSticker Planter in the 15 Bee Zone (Very Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Oiler Mushroom",
+                    "Description": "\"Grows on stumps and mosses.\"",
+                    "Stack Boost": "\u200b+5% Epic Bee Pollen",
+                    "Stack Reward": "3 Soft Waxes",
+                    "Where it's from:": "Puffshrooms in the 10 Bee Zone\nSticker Planter in the 10 Bee Zone (Very Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Morel Mushroom",
+                    "Description": "\"Delicious but may trigger trypophobia.\"",
+                    "Stack Boost": "\u200b+10% Rare Bee Pollen",
+                    "Stack Reward": "3 Soft Waxes",
+                    "Where it's from:": "Puffshrooms in the Mountain Top Field\nSticker Planter in the Mountain Top Field (Extremely Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Chanterelle Mushroom",
+                    "Description": "\"A trupet-shaped delicacy.\"",
+                    "Stack Boost": "\u200b+5% Epic Bee Pollen",
+                    "Stack Reward": "3 Soft Waxes",
+                    "Where it's from:": "Puffshrooms in the 35 Bee Zone\nSticker Planter in the 35 Bee Zone (Very Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Shiitake Mushroom",
+                    "Description": "\"A staple vegan umami source.\"",
+                    "Stack Boost": "\u200b+1% Event Bee Pollen",
+                    "Stack Reward": "1 Hard Wax",
+                    "Where it's from:": "Puffshrooms in the Starter Zone or 10 Bee Zone (Very Rare)\nSticker Planter in the Starter Zone or 10 Bee Zone (Extremely Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Black Truffle Mushroom",
+                    "Description": "\"Has a rich, early flavor that overpowers everything.\"",
+                    "Stack Boost": "\u200b+5% Legendary Bee Pollen",
+                    "Stack Reward": "1 Hard Wax",
+                    "Where it's from:": "Reward for finishing in the top 10 of the Daily Top Damage to A Single Puffshroom Leaderboard\nEpic+ Puffshrooms (Unbelievably Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Prismatic Mushroom",
+                    "Description": "\"It can show us colors we've never seen before.\"",
+                    "Stack Boost": "\u200b+1% Mythic Bee Pollen",
+                    "Stack Reward": "1 Caustic Wax",
+                    "Where it's from:": "Awarded after sticking all other mushrooms to the Sticker Stack\nMythic Puffshrooms (Unbelievably Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Blowing Leaf",
+                    "Description": "\"The answer my friend.\"",
+                    "Stack Boost": "\u200b+1% White Pollen",
+                    "Stack Reward": "3 Cloud Vials",
+                    "Where it's from:": "Gathering Leaves in any field (Extremely Rare)\nDropped by Wild Windy Bee (Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Cordate Leaf",
+                    "Description": "\"Heart-shaped leaf, nature's love letter.\"",
+                    "Stack Boost": "\u200b+1% Capacity",
+                    "Stack Reward": "5 Tickets",
+                    "Where it's from:": "Gathering Leaves in the Sunflower Field or Rose Field\nSticker Planter in the Sunflower Field or Rose Field (Very Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Cunate Leaf",
+                    "Description": "\"Leaf like a slender, tapering sunset.\"",
+                    "Stack Boost": "\u200b+1% Capacity",
+                    "Stack Reward": "5 Tickets",
+                    "Where it's from:": "Gathering Leaves in the Strawberry Field or Pumpkin Patch\nSticker Planter in the Strawberry Field or Pumpkin Patch (Very Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Elliptic Leaf",
+                    "Description": "\"Ocal elegance in every green whisper.\"",
+                    "Stack Boost": "\u200b+1% Capacity",
+                    "Stack Reward": "5 Tickets",
+                    "Where it's from:": "Gathering Leaves in the Blue Flower Field or Pine Tree Forest\nSticker Planter in the Blue Flower Field or Pine Tree Forest (Very Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Hastate Leaf",
+                    "Description": "\"Spear-pointed leaf, nature's valiant knight.\"",
+                    "Stack Boost": "\u200b+1% Capacity",
+                    "Stack Reward": "5 Tickets",
+                    "Where it's from:": "Gathering Leaves in the Spider Field or Pepper Patch\nSticker Planter in the Spider Field or Pepper Patch (Very Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Lanceolate Leaf",
+                    "Description": "\"Long, slender like a green lance.\"",
+                    "Stack Boost": "\u200b+1% Capacity",
+                    "Stack Reward": "5 Tickets",
+                    "Where it's from:": "Gathering Leaves in the Dandelion Field or Bamboo Field\nSticker Planter in the Dandelion Field or Bamboo Field (Very Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Lyrate Leaf",
+                    "Description": "\"Musical curves in a lyre-shaped leaf.\"",
+                    "Stack Boost": "\u200b+1% Capacity",
+                    "Stack Reward": "5 Tickets",
+                    "Where it's from:": "Gathering Leaves in the Clover Field or Mountain Top Field\nSticker Planter in the Clover Field or Mountain Top Field (Very Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Oblique Leaf",
+                    "Description": "\"Asymmetry at its finest, uniquely tilted.\"",
+                    "Stack Boost": "\u200b+1% Capacity",
+                    "Stack Reward": "5 Tickets",
+                    "Where it's from:": "Gathering Leaves in the Hub Field or Coconut Field\nSticker Planter in the Coconut Field (Very Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Rhomboid Leaf",
+                    "Description": "\"Diamond-shaped dazzler in yellow hues.\"",
+                    "Stack Boost": "\u200b+1% Capacity",
+                    "Stack Reward": "5 Tickets",
+                    "Where it's from:": "Gathering Leaves in the Cactus Field or Stump Field\nSticker Planter in the Cactus Field or Stump Field (Very Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Reniform Leaf",
+                    "Description": "\"Kidney-shaped leaf, nature's healthy organ.\"",
+                    "Stack Boost": "\u200b+1% Capacity",
+                    "Stack Reward": "5 Tickets",
+                    "Where it's from:": "Gathering Leaves in the Mushroom Field or Stump Forest\nSticker Planter in the Mushroom Field or Stump Forest (Very Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Spatulate Leaf",
+                    "Description": "\"Spoon-like leaf, nature's kitchen tool.\"",
+                    "Stack Boost": "\u200b+1% Capacity",
+                    "Stack Reward": "5 Tickets",
+                    "Where it's from:": "Gathering Leaves in the Pineapple Patch, Pine Tree Forest, or Pumpkin Patch\nSticker Planter in the Pineapple Patch or Pine Tree Forest (Very Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Scooper",
+                    "Description": "\"A tool from out humble beginnings.\"",
+                    "Stack Boost": "\u200b+2% Pollen From Tools",
+                    "Stack Reward": "3 Tickets",
+                    "Where it's from:": "Using the Scooper in any field (Extremely Rare). Higher chances in the Mountain Top Field or Hub Field."
+                },
+                {
+                    "": "",
+                    "Name": "Rake",
+                    "Description": "\"Gently scrapes pollen from flowers without harming their stems.\"",
+                    "Stack Boost": "\u200b+2% Pollen From Tools",
+                    "Stack Reward": "3 Tickets",
+                    "Where it's from:": "Using the Rake in any field (Extremely Rare). Higher chances in the Coconut Field or Hub Field."
+                },
+                {
+                    "": "",
+                    "Name": "Clippers",
+                    "Description": "\"Don't run with these.\"",
+                    "Stack Boost": "\u200b+2% Pollen From Tools",
+                    "Stack Reward": "3 Tickets",
+                    "Where it's from:": "Using the Clippers in any field (Extremely Rare). Higher chances in the Pine Tree Forest or Hub Field."
+                },
+                {
+                    "": "",
+                    "Name": "Magnet",
+                    "Description": "\"Exaggerated Electromagnetism.\"",
+                    "Stack Boost": "\u200b+2% Pollen From Tools",
+                    "Stack Reward": "3 Tickets",
+                    "Where it's from:": "Using the Magnet in any field (Extremely Rare). Higher chances in the Pineapple Patch or Hub Field."
+                },
+                {
+                    "": "",
+                    "Name": "Vacuum",
+                    "Description": "\"It doesn't suck at sucking.\"",
+                    "Stack Boost": "\u200b+2% Pollen From Tools",
+                    "Stack Reward": "3 Tickets",
+                    "Where it's from:": "Using the Vacuum in any field (Extremely Rare). Higher chances in the Rose Field or Hub Field."
+                },
+                {
+                    "": "",
+                    "Name": "Super-Scooper",
+                    "Description": "\"The blue and yellow paint job makes it more aerodynamic.\"",
+                    "Stack Boost": "\u200b+2% Pollen From Tools",
+                    "Stack Reward": "3 Tickets",
+                    "Where it's from:": "Using the Super-Scooper in any field (Extremely Rare). Higher chances in the Clover Field or Hub Field."
+                },
+                {
+                    "": "",
+                    "Name": "Pulsar",
+                    "Description": "\"Might be radioactive.\"",
+                    "Stack Boost": "\u200b+2% Pollen From Tools",
+                    "Stack Reward": "3 Neonberries",
+                    "Where it's from:": "Using the Pulsar in any field (Extremely Rare). Higher chances in the Spider Field or Hub Field."
+                },
+                {
+                    "": "",
+                    "Name": "Electro-Magnet",
+                    "Description": "\"Two magnets in one for twice the pollen.\"",
+                    "Stack Boost": "\u200b+2% Pollen From Tools",
+                    "Stack Reward": "3 Tickets",
+                    "Where it's from:": "Using the Electro-Magnet in any field (Extremely Rare). Higher chances in the Stump Field or Hub Field."
+                },
+                {
+                    "": "",
+                    "Name": "Scissors",
+                    "Description": "\"Snips and snaps.\"",
+                    "Stack Boost": "\u200b+2% Pollen From Tools",
+                    "Stack Reward": "3 Tickets",
+                    "Where it's from:": "Using the Scissors in any field (Extremely Rare). Higher chances in the Pumpkin Patch or Hub Field."
+                },
+                {
+                    "": "",
+                    "Name": "Honey Dipper",
+                    "Description": "\"The prototypical Honeymaking tool.\"",
+                    "Stack Boost": "\u200b+2% Pollen From Tools",
+                    "Stack Reward": "3 Tickets",
+                    "Where it's from:": "Using the Honey Dipper in any field (Extremely Rare). Higher chances in the Pepper Patch or Hub Field."
+                },
+                {
+                    "": "",
+                    "Name": "Bubble Wand",
+                    "Description": "\"For covering flowers in soapy water.\"",
+                    "Stack Boost": "\u200b+2% Pollen From Tools",
+                    "Stack Reward": "1 Blue Extract",
+                    "Where it's from:": "Using the Bubble Wand in any field (Extremely Rare). Higher chances in the Strawberry Field or Hub Field."
+                },
+                {
+                    "": "",
+                    "Name": "Scythe",
+                    "Description": "\"Slices and burns.\"",
+                    "Stack Boost": "\u200b+2% Pollen From Tools",
+                    "Stack Reward": "1 Red Extract",
+                    "Where it's from:": "Using the Scythe in any field (Extremely Rare). Higher chances in the Bamboo Field or Hub Field."
+                },
+                {
+                    "": "",
+                    "Name": "Golden Rake",
+                    "Description": "\"A superflous piece of yard work equipment.\"",
+                    "Stack Boost": "\u200b+2% Pollen From Tools",
+                    "Stack Reward": "3 Tickets",
+                    "Where it's from:": "Using the Golden Rake in any field (Extremely Rare). Higher chances in the Cactus Field or Hub Field."
+                },
+                {
+                    "": "",
+                    "Name": "Spark Staff",
+                    "Description": "\"Zap zap zap.\"",
+                    "Stack Boost": "\u200b+2% Pollen From Tools",
+                    "Stack Reward": "3 Micro-Converters",
+                    "Where it's from:": "Using the Spark Staff in any field (Extremely Rare). Higher chances in the Mountain Top Field or Hub Field."
+                },
+                {
+                    "": "",
+                    "Name": "Porcelain Dipper",
+                    "Description": "\"A tool wielded by those still in the so called early-mid game.\"",
+                    "Stack Boost": "\u200b+2% Pollen From Tools",
+                    "Stack Reward": "3 Soft Waxes",
+                    "Where it's from:": "Using the Porcelain Dipper in any field (Extremely Rare). Higher chances in the Sunflower Field or Hub Field."
+                },
+                {
+                    "": "",
+                    "Name": "Petal Wand",
+                    "Description": "\"Spirit Bear's sun shade.\"",
+                    "Stack Boost": "\u200b+2% Pollen From Tools",
+                    "Stack Reward": "10 Moon Charms",
+                    "Where it's from:": "Using the Petal Wand in any field (Extremely Rare). Higher chances in the Dandelion Field or Hub Field."
+                },
+                {
+                    "": "",
+                    "Name": "Tide Popper",
+                    "Description": "\"Waving it around creates waves.\"",
+                    "Stack Boost": "\u200b+2% Pollen From Tools",
+                    "Stack Reward": "1 Blue Extract",
+                    "Where it's from:": "Using the Tide Popper in any field (Unfathomably Rare). Higher chances in the Mushroom Field or Hub Field."
+                },
+                {
+                    "": "",
+                    "Name": "Dark Scythe",
+                    "Description": "\"For flame reaping.\"",
+                    "Stack Boost": "\u200b+2% Pollen From Tools",
+                    "Stack Reward": "1 Red Extract",
+                    "Where it's from:": "Using the Dark Scythe in any field (Unfathomably Rare). Higher chances in the Blue Flower Field or Hub Field."
+                },
+                {
+                    "": "",
+                    "Name": "Gummyballer",
+                    "Description": "\"A Gummy Soldier's weapon of choice.\"",
+                    "Stack Boost": "\u200b+2% Pollen From Tools",
+                    "Stack Reward": "25 Gumdrops",
+                    "Where it's from:": "Using the Gummyballer in any field (Unfathomably Rare). Higher chances in the Clover Field or Hub Field."
+                },
+                {
+                    "": "",
+                    "Name": "Capricorn Star Sign",
+                    "Description": "\"Disciplined, ambitious, cautious, superstitious.\"",
+                    "Stack Boost": "\u200b+2% Capacity",
+                    "Stack Reward": "1 Glitter",
+                    "Where it's from:": "Chasing Fireflies between December 22 and January 19 (Unbelievably Rare)\nMythic Meteors between December 22 and January 19 (Unbelievably Rare)\nUsing Star Jelly between December 22 and January 19 (1 in 1,000 chance)\nUsing the Sticker-Seeker in the Stump Field during Nighttime (Unfathomably Rare)\nSticker Printer (Star Eggs, most Gifted Eggs)"
+                },
+                {
+                    "": "",
+                    "Name": "Aquarius Star Sign",
+                    "Description": "\"Innovative, detached, accentric, superstitious.\"",
+                    "Stack Boost": "\u200b+2% Capacity",
+                    "Stack Reward": "1 Glitter",
+                    "Where it's from:": "Chasing Fireflies between January 20 and February 18 (Unbelievably Rare)\nMythic Meteors between January 20 and February 18 (Unbelievably Rare)\nUsing Star Jelly between January 20 and February 18 (1 in 1,000 chance)\nUsing the Sticker-Seeker in the Mushroom Field during Nighttime (Unfathomably Rare)\nSticker Printer (Star Eggs, most Gifted Eggs)"
+                },
+                {
+                    "": "",
+                    "Name": "Pisces Star Sign",
+                    "Description": "\"Dreamy, empathetic, artistic, superstitious.\"",
+                    "Stack Boost": "\u200b+2% Capacity",
+                    "Stack Reward": "1 Glitter",
+                    "Where it's from:": "Chasing Fireflies between February 19 and March 20 (Unbelievably Rare)\nMythic Meteors between February 19 and March 20 (Unbelievably Rare)\nUsing Star Jelly between February 19 and March 20 (1 in 1,000 chance)\nUsing the Sticker-Seeker in the Pineapple Patch during Nighttime (Unfathomably Rare)\nSticker Printer (Star Eggs, most Gifted Eggs)"
+                },
+                {
+                    "": "",
+                    "Name": "Aries Star Sign",
+                    "Description": "\"Bold, energetic, confident, superstitious.\"",
+                    "Stack Boost": "\u200b+2% Capacity",
+                    "Stack Reward": "1 Glitter",
+                    "Where it's from:": "Chasing Fireflies between March 21 and April 19 (Unbelievably Rare)\nMythic Meteors between March 21 and April 19 (Unbelievably Rare)\nUsing Star Jelly between March 21 and April 19 (1 in 1,000 chance)\nUsing the Sticker-Seeker in the Pepper Patch (Unfathomably Rare)\nSticker Printer (Star Eggs, most Gifted Eggs)"
+                },
+                {
+                    "": "",
+                    "Name": "Taurus Star Sign",
+                    "Description": "\"Stubborn, sensual, loyal, superstitious.\"",
+                    "Stack Boost": "\u200b+2% Capacity",
+                    "Stack Reward": "1 Glitter",
+                    "Where it's from:": "Chasing Fireflies between April 20 and May 20 (Unbelievably Rare)\nMythic Meteors between April 20 and May 20 (Unbelievably Rare)\nUsing Star Jelly between April 20 and May 20 (1 in 1,000 chance)\nUsing the Sticker-Seeker in the Rose Field during Nighttime (Unfathomably Rare)\nSticker Printer (Star Eggs, most Gifted Eggs)"
+                },
+                {
+                    "": "",
+                    "Name": "Gemini Star Sign",
+                    "Description": "\"Talkative, curious, intelligence, superstitious.\"",
+                    "Stack Boost": "\u200b+2% Capacity",
+                    "Stack Reward": "1 Glitter",
+                    "Where it's from:": "Chasing Fireflies between May 21 and June 20 (Unbelievably Rare)\nMythic Meteors between May 21 and June 20 (Unbelievably Rare)\nUsing Star Jelly between May 21 and June 20 (1 in 1,000 chance)\nUsing the Sticker-Seeker in the Dandelion Field during Nighttime (Unfathomably Rare)\nSticker Printer (Star Eggs, most Gifted Eggs)"
+                },
+                {
+                    "": "",
+                    "Name": "Cancer Star Sign",
+                    "Description": "\"Emotional, nurturing, moody, superstitious.\"",
+                    "Stack Boost": "\u200b+2% Capacity",
+                    "Stack Reward": "1 Glitter",
+                    "Where it's from:": "Chasing Fireflies between June 21 and July 22 (Unbelievably Rare)\nMythic Meteors between June 21 and July 22 (Unbelievably Rare)\nUsing Star Jelly between June 21 and July 22 (1 in 1,000 chance)\nUsing the Sticker-Seeker in the Clover Field during Nighttime (Unfathomably Rare)\nSticker Printer (Star Eggs, most Gifted Eggs)"
+                },
+                {
+                    "": "",
+                    "Name": "Leo Star Sign",
+                    "Description": "\"Dramatic, outgoing, vain, superstitious.\"",
+                    "Stack Boost": "\u200b+2% Capacity",
+                    "Stack Reward": "1 Glitter",
+                    "Where it's from:": "Chasing Fireflies between July 23 and August 22 (Unbelievably Rare)\nMythic Meteors between July 23 and August 22 (Unbelievably Rare)\nUsing Star Jelly between July 23 and August 22 (1 in 1,000 chance)\nUsing the Sticker-Seeker in the Sunflower Field during Nighttime (Unfathomably Rare)\nSticker Printer (Star Eggs, most Gifted Eggs)"
+                },
+                {
+                    "": "",
+                    "Name": "Virgo Star Sign",
+                    "Description": "\"Analytical, meticulous, practical, superstitious.\"",
+                    "Stack Boost": "\u200b+2% Capacity",
+                    "Stack Reward": "1 Glitter",
+                    "Where it's from:": "Chasing Fireflies between August 23 and September 22 (Unbelievably Rare)\nMythic Meteors between August 23 and September 22 (Unbelievably Rare)\nUsing Star Jelly between August 23 and September 22 (1 in 1,000 chance)\nUsing the Sticker-Seeker in the Bamboo Field during Nighttime (Unfathomably Rare)\nSticker Printer (Star Eggs, most Gifted Eggs)"
+                },
+                {
+                    "": "",
+                    "Name": "Libra Star Sign",
+                    "Description": "\"Diplomatic, elegant, social, superstitious.\"",
+                    "Stack Boost": "\u200b+2% Capacity",
+                    "Stack Reward": "1 Glitter",
+                    "Where it's from:": "Chasing Fireflies between September 23 and October 22 (Unbelievably Rare)\nMythic Meteors between September 23 and October 22 (Unbelievably Rare)\nUsing Star Jelly between September 23 and October 22 (1 in 1,000 chance)\nUsing the Sticker-Seeker in the Blue Flower Field during Nighttime (Unfathomably Rare)\nSticker Printer (Star Eggs, most Gifted Eggs)"
+                },
+                {
+                    "": "",
+                    "Name": "Scorpio Star Sign",
+                    "Description": "\"Intense, secretive, passionate, superstitious.\"",
+                    "Stack Boost": "\u200b+2% Capacity",
+                    "Stack Reward": "1 Glitter",
+                    "Where it's from:": "Chasing Fireflies between October 23 and November 21 (Unbelievably Rare)\nMythic Meteors between October 23 and November 21 (Unbelievably Rare)\nUsing Star Jelly between October 23 and November 21 (1 in 1,000 chance)\nUsing the Sticker-Seeker in the Spider Field during Nighttime (Unfathomably Rare)\nSticker Printer (Star Eggs, most Gifted Eggs)"
+                },
+                {
+                    "": "",
+                    "Name": "Sagittarius Star Sign",
+                    "Description": "\"Adventurous, optimistic, blunt, superstitious.\"",
+                    "Stack Boost": "\u200b+2% Capacity",
+                    "Stack Reward": "1 Glitter",
+                    "Where it's from:": "Chasing Fireflies between November 22 and December 21 (Unbelievably Rare)\nMythic Meteors between November 22 and December 21 (Unbelievably Rare)\nUsing Star Jelly between November 22 and December 21 (1 in 1,000 chance)\nUsing the Sticker-Seeker in the Mountain Top Field during Nighttime (Unfathomably Rare)\nSticker Printer (Star Eggs, most Gifted Eggs)"
+                },
+                {
+                    "": "",
+                    "Name": "Sunflower Field Stamp",
+                    "Description": "\"Sent on letters from the Sunflower Field.\"",
+                    "Stack Boost": "\u200b+10% Sunflower Field Pollen",
+                    "Stack Reward": "10 Tickets",
+                    "Where it's from:": "Awarded to the Top 25 Daily Sunflower Field Pollen Collectors\nUsing the Sticker-Seeker in the Sunflower Field (Unfathomably Rare)\nPlanters on the Sunflower Field (Unfathomably Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Dandelion Field Stamp",
+                    "Description": "\"Sent on letters from the Dandelion Field.\"",
+                    "Stack Boost": "\u200b+10% Dandelion Field Pollen",
+                    "Stack Reward": "10 Tickets",
+                    "Where it's from:": "Awarded to the Top 25 Daily Dandelion Field Pollen Collectors\nUsing the Sticker-Seeker in the Dandelion Field (Unfathomably Rare)\nPlanters on the Dandelion Field (Unfathomably Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Mushroom Field Stamp",
+                    "Description": "\"Sent on letters from the Mushroom Field.\"",
+                    "Stack Boost": "\u200b+10% Mushroom Field Pollen",
+                    "Stack Reward": "10 Tickets",
+                    "Where it's from:": "Awarded to the Top 25 Daily Mushroom Field Pollen Collectors\nUsing the Sticker-Seeker in the Mushroom Field (Unfathomably Rare)\nPlanters on the Mushroom Field (Unfathomably Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Blue Flower Field Stamp",
+                    "Description": "\"Sent on letters from the Blue Flower Field.\"",
+                    "Stack Boost": "\u200b+10% Blue Flower Field Pollen",
+                    "Stack Reward": "10 Tickets",
+                    "Where it's from:": "Awarded to the Top 25 Daily Blue Flower Field Pollen Collectors\nUsing the Sticker-Seeker in the Blue Flower Field (Unfathomably Rare)\nPlanters on the Blue Flower Field (Unfathomably Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Clover Field Stamp",
+                    "Description": "\"Sent on letters from the Clover Field.\"",
+                    "Stack Boost": "\u200b+10% Clover Field Pollen",
+                    "Stack Reward": "10 Tickets",
+                    "Where it's from:": "Awarded to the Top 25 Daily Clover Field Pollen Collectors\nUsing the Sticker-Seeker in the Clover Field (Unfathomably Rare)\nPlanters on the Clover Field (Unfathomably Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Strawberry Field Stamp",
+                    "Description": "\"Sent on letters from the Strawberry Field.\"",
+                    "Stack Boost": "\u200b+10% Strawberry Field Pollen",
+                    "Stack Reward": "10 Tickets",
+                    "Where it's from:": "Awarded to the Top 25 Daily Strawberry Field Pollen Collectors\nUsing the Sticker-Seeker in the Strawberry Field (Unfathomably Rare)\nPlanters on the Strawberry Field (Unfathomably Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Spider Field Stamp",
+                    "Description": "\"Sent on letters from the Spider Field.\"",
+                    "Stack Boost": "\u200b+10% Spider Field Pollen",
+                    "Stack Reward": "10 Tickets",
+                    "Where it's from:": "Awarded to the Top 25 Daily Spider Field Pollen Collectors\nUsing the Sticker-Seeker in the Spider Field (Unfathomably Rare)\nPlanters on the Spider Field (Unfathomably Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Bamboo Field Stamp",
+                    "Description": "\"Sent on letters from the Bamboo Field.\"",
+                    "Stack Boost": "\u200b+10% Bamboo Field Pollen",
+                    "Stack Reward": "10 Tickets",
+                    "Where it's from:": "Awarded to the Top 25 Daily Bamboo Field Pollen Collectors\nUsing the Sticker-Seeker in the Bamboo Field (Unfathomably Rare)\nPlanters on the Bamboo Field (Unfathomably Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Pineapple Patch Stamp",
+                    "Description": "\"Sent on letters from the Pineapple Patch.\"",
+                    "Stack Boost": "\u200b+10% Pineapple Patch Pollen",
+                    "Stack Reward": "10 Tickets",
+                    "Where it's from:": "Awarded to the Top 25 Daily Pineapple Patch Pollen Collectors\nUsing the Sticker-Seeker in the Pineapple Patch (Unfathomably Rare)\nPlanters on the Pineapple Patch (Unfathomably Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Stump Field Stamp",
+                    "Description": "\"Sent on letters from the Stump Field.\"",
+                    "Stack Boost": "\u200b+10% Stump Field Pollen",
+                    "Stack Reward": "10 Tickets",
+                    "Where it's from:": "Awarded to the Top 25 Daily Stump Field Pollen Collectors\nUsing the Sticker-Seeker in the Stump Field (Unfathomably Rare)\nPlanters on the Stump Field (Unfathomably Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Cactus Field Stamp",
+                    "Description": "\"Sent on letters from the Cactus Field.\"",
+                    "Stack Boost": "\u200b+10% Cactus Field Pollen",
+                    "Stack Reward": "10 Tickets",
+                    "Where it's from:": "Awarded to the Top 25 Daily Cactus Field Pollen Collectors\nUsing the Sticker-Seeker in the Cactus Field (Unfathomably Rare)\nPlanters on the Cactus Field (Unfathomably Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Pumpkin Patch Stamp",
+                    "Description": "\"Sent on letters from the Pumpkin Patch.\"",
+                    "Stack Boost": "\u200b+10% Pumpkin Patch Pollen",
+                    "Stack Reward": "10 Tickets",
+                    "Where it's from:": "Awarded to the Top 25 Daily Pumpkin Patch Pollen Collectors\nUsing the Sticker-Seeker in the Pumpkin Patch (Unfathomably Rare)\nPlanters on the Pumpkin Patch (Unfathomably Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Pine Tree Forest Stamp",
+                    "Description": "\"Sent on letters from the Pine Tree Forest.\"",
+                    "Stack Boost": "\u200b+10% Pine Tree Forest Pollen",
+                    "Stack Reward": "10 Tickets",
+                    "Where it's from:": "Awarded to the Top 25 Daily Pine Tree Forest Pollen Collectors\nUsing the Sticker-Seeker in the Pine Tree Forest (Unfathomably Rare)\nPlanters on the Pine Tree Forest (Unfathomably Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Rose Field Stamp",
+                    "Description": "\"Sent on letters from the Rose Field.\"",
+                    "Stack Boost": "\u200b+10% Rose Field Pollen",
+                    "Stack Reward": "10 Tickets",
+                    "Where it's from:": "Awarded to the Top 25 Daily Rose Field Pollen Collectors\nUsing the Sticker-Seeker in the Rose Field (Unfathomably Rare)\nPlanters on the Rose Field (Unfathomably Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Hub Field Stamp",
+                    "Description": "\"Sent on letters from the Hub Field.\"",
+                    "Stack Boost": "\u200b+10% Hub Field Pollen",
+                    "Stack Reward": "10 Tickets",
+                    "Where it's from:": "Awarded to the Top 25 Daily Hub Field Pollen Collectors\nUsing the Sticker-Seeker in the Hub Field (Unfathomably Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Mountain Top Field Stamp",
+                    "Description": "\"Sent on letters from the Mountain Top Field.\"",
+                    "Stack Boost": "\u200b+10% Mountain Top Field Pollen",
+                    "Stack Reward": "10 Tickets",
+                    "Where it's from:": "Awarded to the Top 25 Daily Mountain Top Field Pollen Collectors\nUsing the Sticker-Seeker in the Mountain Top Field (Unfathomably Rare)\nPlanters on the Mountain Top Field (Unfathomably Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Pepper Patch Stamp",
+                    "Description": "\"Sent on letters from the Pepper Patch.\"",
+                    "Stack Boost": "\u200b+10% Pepper Patch Pollen",
+                    "Stack Reward": "10 Tickets",
+                    "Where it's from:": "Awarded to the Top 25 Daily Pepper Patch Pollen Collectors\nUsing the Sticker-Seeker in the Pepper Patch (Unfathomably Rare)\nPlanters on the Pepper Patch (Unfathomably Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Coconut Field Stamp",
+                    "Description": "\"Sent on letters from the Coconut Field.\"",
+                    "Stack Boost": "\u200b+10% Coconut Field Pollen",
+                    "Stack Reward": "10 Tickets",
+                    "Where it's from:": "Awarded to the Top 25 Daily Coconut Field Pollen Collectors\nUsing the Sticker-Seeker in the Coconut Field (Unfathomably Rare)\nPlanters on the Coconut Field (Unfathomably Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Ant Field Stamp",
+                    "Description": "\"Sent on letters from the Ant Field.\"",
+                    "Stack Boost": "\u200b+0.5% Bee Attack",
+                    "Stack Reward": "10 Tickets",
+                    "Where it's from:": "Awarded to the Top 25 Daily Ant Challenge Scorers each day\nAnt Challenge Reward (Unfathomably Rare)\nPreviously awarded to Top 100 Daily Ant Field Pollen Collectors"
+                },
+                {
+                    "": "",
+                    "Name": "Green Beesmas Light",
+                    "Description": "\"A magical LED that exudes the Beesmas aura.\"",
+                    "Stack Boost": "\u200b+1% Critical Power",
+                    "Stack Reward": "3 Neonberries",
+                    "Where it's from:": "Catching a Green Falling Beesmas Light (1 in 10,000 chance)\nWas a potential reward from the Flourescent Gift Box of 2024\nWas potentially included in the Blinding Bundle in Bee Bear's Catalog 2024"
+                },
+                {
+                    "": "",
+                    "Name": "Blue Beesmas Light",
+                    "Description": "\"A magical LED that exudes the Beesmas aura.\"",
+                    "Stack Boost": "\u200b+2% Blue Pollen",
+                    "Stack Reward": "3 Neonberries",
+                    "Where it's from:": "Catching a Blue Falling Beesmas Light (1 in 10,000 chance)\nWas a potential reward from the Flourescent Gift Box of 2024\nWas potentially included in the Blinding Bundle in Bee Bear's Catalog 2024"
+                },
+                {
+                    "": "",
+                    "Name": "Red Beesmas Light",
+                    "Description": "\"A magical LED that exudes the Beesmas aura.\"",
+                    "Stack Boost": "\u200b+2% Red Pollen",
+                    "Stack Reward": "3 Neonberries",
+                    "Where it's from:": "Catching a Red Falling Beesmas Light (1 in 10,000 chance)\nWas a potential reward from the Flourescent Gift Box of 2024\nWas potentially included in the Blinding Bundle in Bee Bear's Catalog 2024"
+                },
+                {
+                    "": "",
+                    "Name": "Yellow Beesmas Light",
+                    "Description": "\"A magical LED that exudes the Beesmas aura.\"",
+                    "Stack Boost": "\u200b+10% Convert Rate",
+                    "Stack Reward": "3 Neonberries",
+                    "Where it's from:": "Catching a Yellow Falling Beesmas Light (1 in 10,000 chance)\nWas a potential reward from the Flourescent Gift Box of 2024\nWas potentially included in the Blinding Bundle in Bee Bear's Catalog 2024"
+                },
+                {
+                    "": "",
+                    "Name": "Critter In A Stocking",
+                    "Description": "\"It's stealing your goodies.\"",
+                    "Stack Boost": "\u200b+2% Bee Gathering Pollen",
+                    "Stack Reward": "1 Magic Bean",
+                    "Where it's from:": "Brown Bear's Stockings (Extremely Rare)\nIncluded in the Critter Comforts Pack in Bee Bear's Catalog\nWas included in the Purple Planter Pack of 2024"
+                },
+                {
+                    "": "",
+                    "Name": "Flying Festive Bee",
+                    "Description": "\"On its way to give out gifts!\"",
+                    "Stack Boost": "\u200b+10% Red Bee Convert Rate",
+                    "Stack Reward": "1 Red Extract",
+                    "Where it's from:": "Festive Gifts and Festive Wreaths in Red Fields during Beesmas (Unbelivevably Rare, odds increase with level)\nPurchased in Bee Bear's Catalog\nWas included in the Gifted Giga-Bundle of 2024"
+                },
+                {
+                    "": "",
+                    "Name": "Flying Bee Bear",
+                    "Description": "\"He is flying at over 25,000 MPH.\"",
+                    "Stack Boost": "\u200b+1% Event Bee Pollen",
+                    "Stack Reward": "10 Tickets",
+                    "Where it's from:": "Festive Sprouts (Rare)\nFestive Planter (Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Party Robo Bear",
+                    "Description": "\"Celebrate our manufacturing date!\"",
+                    "Stack Boost": "\u200b+1% Duped Ability Pollen",
+                    "Stack Reward": "1 Robo Pass",
+                    "Where it's from:": "Reward for completing rank 32 of the Robo Party Cake\nDropped by Party Mega Mechsquito (Unbelievably Rare)"
+                },
+                {
+                    "": "",
+                    "Name": "Festive Pufferfish",
+                    "Description": "\"They call him ol' Saint Puff.\"",
+                    "Stack Boost": "\u200b+2% Bomb Pollen",
+                    "Stack Reward": "10 Tickets",
+                    "Where it's from:": "Was included in the Pokey Gift Box of 2024\nReward from Bee Bear's 17th quest of Winter 24/25"
+                },
+                {
+                    "": "",
+                    "Name": "Festive Pea",
+                    "Description": "\"The unassuming VIP of the honeyday arsenal.\"",
+                    "Stack Boost": "\u200b+1% Gifted Bee Attack",
+                    "Stack Reward": "1 Magic Bean",
+                    "Where it's from:": "Supreme Sprouts during Beesmas\nWas included in the Pea Power Bundle in Bee Bear's Catalog of Summer 2024"
+                },
+                {
+                    "": "",
+                    "Name": "BBM From Below",
+                    "Description": "\"Gaze into this abyss, and.. it'll gaze too... at you...\"",
+                    "Stack Boost": "x1.01 Pollen",
+                    "Stack Reward": "1 Box-O-Frogs",
+                    "Where it's from:": "Reward from the Mondo Gift Box"
+                }
+            ]
+        },
+        {
+            "Hidden Stickers Locations": [
+                {
+                    "To the right of Royal Jelly Dispenser.": "Inside Ticket Tent, left and right walls.",
+                    "Wall to the left below Ant Gate entrance.": "Wall near Clover Field.",
+                    "Over Ticket Tent.": "Inside Commando Chick's Hideout."
+                },
+                {
+                    "To the right of Royal Jelly Dispenser.": "Inside Noob Shop, left, back and right walls.",
+                    "Wall to the left below Ant Gate entrance.": "Inside Blue HQ, roof wedge next to the Blue Field Booster.",
+                    "Over Ticket Tent.": "In the Lava Obby, on the path to Noob Shop."
+                },
+                {
+                    "To the right of Royal Jelly Dispenser.": "On the wall below Blue Teleporter.",
+                    "Wall to the left below Ant Gate entrance.": "To the bottom right from Basic Bee Gate.",
+                    "Over Ticket Tent.": "The wall near the Strawberry Dispenser."
+                },
+                {
+                    "To the right of Royal Jelly Dispenser.": "Inside Blue HQ, on the way up to the second floor.",
+                    "Wall to the left below Ant Gate entrance.": "To the left of the Treat Shop.",
+                    "Over Ticket Tent.": "On the left or right wall of the Blue Flower Field."
+                },
+                {
+                    "To the right of Royal Jelly Dispenser.": "On the right outer wall of the Blue HQ, near the Wealth Clock.",
+                    "Wall to the left below Ant Gate entrance.": "On the ramp leading into the 5 bee gate.",
+                    "Over Ticket Tent.": "On the left wall of the Sunflower field below the red HQ."
+                },
+                {
+                    "To the right of Royal Jelly Dispenser.": "Next to the right wall of the Ant Gate entrance.",
+                    "Wall to the left below Ant Gate entrance.": "Outside the Ticket Tent enterance, on the left of the Red Cannon.",
+                    "Over Ticket Tent.": "Next to the Blueberry Dispenser in the Blue HQ."
+                },
+                {
+                    "To the right of Royal Jelly Dispenser.": "Behind the Honey Dispenser, on the right wall of the Noob Shop.",
+                    "Wall to the left below Ant Gate entrance.": "On a rock right beside the Ant Gate."
+                }
+            ]
+        },
+        {
+            "Hidden Stickers Locations": [
+                {
+                    "Blue wall near Bamboo Field.": "At the start of the secret passageway to Royal Jelly inside the blue slope near Bamboo Field.",
+                    "Blue slope near Strawberry Field.": "Behind bamboo in the Bamboo Field.",
+                    "On the left side of the Vicious Bee Egg Claim platform.": "On the Panda Bear's platform."
+                }
+            ]
+        },
+        {
+            "Hidden Stickers Locations": [
+                {
+                    "Right wall of Dapper Bear's Shop building.": "To the left from Dapper Bear's Shop.",
+                    "Left wall of Pineapple Patch.": "Behind Instant Converter.",
+                    "Left wall at the start of stairs to Dapper Bear's Shop.": "On top of Dapper Bear's Shop."
+                },
+                {
+                    "Right wall of Dapper Bear's Shop building.": "On the left wall inside of Dapper Bear's Shop.",
+                    "Left wall of Pineapple Patch.": "Inside Pro Shop Maze.",
+                    "Left wall at the start of stairs to Dapper Bear's Shop.": "At the entrance of the White Tunnel."
+                },
+                {
+                    "Right wall of Dapper Bear's Shop building.": "On the left wall to the entrance of Dapper Bear's Shop.",
+                    "Left wall of Pineapple Patch.": "Undeneath the Magic Bean Shop, front and left walls.",
+                    "Left wall at the start of stairs to Dapper Bear's Shop.": "Right wall of the Pro Shop."
+                },
+                {
+                    "Right wall of Dapper Bear's Shop building.": "At the front of Blue HQ, left inside the tunnel and then jump to the right."
+                }
+            ]
+        },
+        {
+            "Hidden Stickers Locations": [
+                {
+                    "Near Badge Bearer's Guild entrance, behind a wedge.": "Inside Badge Bearer's Guild, left wall in accessories room.",
+                    "End of slope to the Rose Field.": "Near Mythic Meteor Shower summon.",
+                    "Inside Badge Bearer's Guild behind Mega Memory Match.": "To the left from Robo Bear."
+                },
+                {
+                    "Near Badge Bearer's Guild entrance, behind a wedge.": "Wall in front of Honey Bee.",
+                    "End of slope to the Rose Field.": "Inside Badge Bearer's Guild, wall between Blender and Sprinklers.",
+                    "Inside Badge Bearer's Guild behind Mega Memory Match.": "On the side of snow platform behind Polar Bear."
+                },
+                {
+                    "Near Badge Bearer's Guild entrance, behind a wedge.": "To the right from Robo Bear.",
+                    "End of slope to the Rose Field.": "On the left side of Red HQ roof.",
+                    "Inside Badge Bearer's Guild behind Mega Memory Match.": "Side of the brown slope near Rose Field."
+                },
+                {
+                    "Near Badge Bearer's Guild entrance, behind a wedge.": "In Red HQ, behind ladder.",
+                    "End of slope to the Rose Field.": "Entrance of the Diamond Mask parkour.",
+                    "Inside Badge Bearer's Guild behind Mega Memory Match.": "Inside the Badge Bearer's Guild, behind the Ace Badge Honeycomb shop."
+                },
+                {
+                    "Near Badge Bearer's Guild entrance, behind a wedge.": "Next to Honey Bee, hidden behind a pine tree.",
+                    "End of slope to the Rose Field.": "Hidden behind or next to the Red Teleporter inside Red HQ.",
+                    "Inside Badge Bearer's Guild behind Mega Memory Match.": "Hidden between the Honey Bee Gate and the small pine tree besides it."
+                },
+                {
+                    "Near Badge Bearer's Guild entrance, behind a wedge.": "On the back side of the Honey Bee Gate, by the cactus."
+                }
+            ]
+        },
+        {
+            "Hidden Stickers Locations": [
+                {
+                    "Behind Ant Field challenge building.": "On the left side of the gate, next to the Stinger Shop.",
+                    "Next to Ant Challenge Info sign.": "In the tunnel behind the Top Ant Exterminators leaderboard."
+                }
+            ]
+        },
+        {
+            "Hidden Stickers Locations": [
+                {
+                    "Inside Mountain Top Shop, on walls.": "Right side of the Mountain Top Field.",
+                    "On the side of the platform below Sticker Printer platform.": "Behind Ticket Shop.",
+                    "On the side of Instant Converter platform.": "On a wall, near the entrance of Mountain Top Shop."
+                }
+            ]
+        },
+        {
+            "Hidden Stickers Locations": [
+                {
+                    "In front of Nectar Pot": "Behind Onett.",
+                    "In front of Robo Pass Dispenser.": "On the side of the floor, near the Robo Pass Dispenser.",
+                    "Wall next to Bubble Bee Man.": "On the wall, near the edge of Onett's platform."
+                }
+            ]
+        },
+        {
+            "Hidden Stickers Locations": [
+                {
+                    "Left wall right behind Windy Bee Gate.": "On the right wall inside of the coconut cave.",
+                    "On the side of Pepper Patch platform.": "On the back side of the Petal Shop entrance.",
+                    "On the left side of Wind Shrine platform.": "Behind the Petal Shop."
+                },
+                {
+                    "Left wall right behind Windy Bee Gate.": "On the right side of the Wind Shrine platform, behind the Nectar Condenser.",
+                    "On the side of Pepper Patch platform.": "Right wall beside the Coconut Field."
+                }
+            ]
+        }
+    ]
+}

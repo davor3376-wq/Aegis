@@ -1,0 +1,98 @@
+{
+    "title": "Pink Shades",
+    "stats": {},
+    "data_tables": [
+        {
+            "Possible Stats": [
+                {
+                    "Stat Caustic Req.": "Chance",
+                    "Base": "Chance",
+                    "Max": "Limit"
+                },
+                {
+                    "Stat Caustic Req.": "+%Ability Pollen",
+                    "Base": "15% to 25%",
+                    "Max": "65%",
+                    "Upgrade": "1%, 2%"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "15%",
+                    "Max": "20"
+                },
+                {
+                    "Stat Caustic Req.": "+%Critical Power",
+                    "Base": "25% to 50%",
+                    "Max": "50%",
+                    "Upgrade": "-"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "-",
+                    "Max": "-"
+                },
+                {
+                    "Stat Caustic Req.": "+%Critical Chance",
+                    "Base": "20% to 30%",
+                    "Max": "68%",
+                    "Upgrade": "1%, 2%"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "55%",
+                    "Max": "19"
+                },
+                {
+                    "Stat Caustic Req.": "+%Super-Crit Chance",
+                    "Base": "10% to 15%",
+                    "Max": "55%",
+                    "Upgrade": "1%, 2%"
+                },
+                {
+                    "Stat Caustic Req.": "25% to 75%",
+                    "Base": "30%",
+                    "Max": "20"
+                },
+                {
+                    "Stat Caustic Req.": "Ability"
+                },
+                {
+                    "Stat Caustic Req.": "+FocusCaustic Only",
+                    "Base": "-",
+                    "Max": "-",
+                    "Upgrade": "-"
+                },
+                {
+                    "Stat Caustic Req.": "0%",
+                    "Base": "5% to 25%",
+                    "Max": "-"
+                },
+                {
+                    "Stat Caustic Req.": "Hive Bonus"
+                },
+                {
+                    "Stat Caustic Req.": "+%Super-Crit ChanceCaustic Only",
+                    "Base": "-",
+                    "Max": "1%",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "-",
+                    "Base": "2.5% to 10%",
+                    "Max": "1"
+                },
+                {
+                    "Stat Caustic Req.": "+%Super-Crit Power",
+                    "Base": "-",
+                    "Max": "30%",
+                    "Upgrade": "2%, 3%"
+                },
+                {
+                    "Stat Caustic Req.": "-",
+                    "Base": "2.5% to 10%",
+                    "Max": "10"
+                }
+            ]
+        }
+    ]
+}

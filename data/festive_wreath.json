@@ -1,0 +1,131 @@
+{
+    "title": "Festive Wreath",
+    "stats": {},
+    "data_tables": [
+        {
+            "Possible Stats": [
+                {
+                    "Stat Caustic Req.": "Chance",
+                    "Base": "Chance",
+                    "Max": "Limit"
+                },
+                {
+                    "Stat Caustic Req.": "+Gather Amount",
+                    "Base": "5 to 15",
+                    "Max": "55",
+                    "Upgrade": "1, 2Bias: 3"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "100%",
+                    "Max": "20"
+                },
+                {
+                    "Stat Caustic Req.": "+Convert Amount",
+                    "Base": "15 to 30",
+                    "Max": "110",
+                    "Upgrade": "2, 4Bias: 3"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "100%",
+                    "Max": "20"
+                },
+                {
+                    "Stat Caustic Req.": "+%Red Bomb Pollen",
+                    "Base": "20% to 40%",
+                    "Max": "40%",
+                    "Upgrade": "-"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "-",
+                    "Max": "-"
+                },
+                {
+                    "Stat Caustic Req.": "+%Mark Duration",
+                    "Base": "2% to 8%",
+                    "Max": "13%",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "1% to 10%",
+                    "Max": "5"
+                },
+                {
+                    "Stat Caustic Req.": "+%Bee Ability Rate",
+                    "Base": "1%",
+                    "Max": "1%",
+                    "Upgrade": "-"
+                },
+                {
+                    "Stat Caustic Req.": "10%",
+                    "Base": "-",
+                    "Max": "-"
+                },
+                {
+                    "Stat Caustic Req.": "Ability"
+                },
+                {
+                    "Stat Caustic Req.": "+Festive Mark",
+                    "Base": "-",
+                    "Max": "-",
+                    "Upgrade": "-"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "-",
+                    "Max": "-"
+                },
+                {
+                    "Stat Caustic Req.": "Hive Bonus"
+                },
+                {
+                    "Stat Caustic Req.": "+Capacity",
+                    "Base": "5000 to 15000",
+                    "Max": "110000",
+                    "Upgrade": "500, 5000Bias: 2"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "1% to 10%",
+                    "Max": "20"
+                },
+                {
+                    "Stat Caustic Req.": "+%Ticket Chance",
+                    "Base": "-",
+                    "Max": "5%",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "-",
+                    "Base": "0.01% to 0.05%",
+                    "Max": "5"
+                },
+                {
+                    "Stat Caustic Req.": "+%Red Bee Convert RateCaustic Only",
+                    "Base": "-",
+                    "Max": "10%",
+                    "Upgrade": "2%"
+                },
+                {
+                    "Stat Caustic Req.": "-",
+                    "Base": "4% to 15%",
+                    "Max": "5"
+                },
+                {
+                    "Stat Caustic Req.": "+%Honey At HiveCaustic Only",
+                    "Base": "-",
+                    "Max": "10%",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "-",
+                    "Base": "8% to 30%",
+                    "Max": "10"
+                }
+            ]
+        }
+    ]
+}

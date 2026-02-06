@@ -1,0 +1,110 @@
+{
+    "title": "Stinger",
+    "stats": {},
+    "data_tables": [
+        {
+            "If Regular": [
+                {
+                    "Level": "Level 1-3",
+                    "Stingers": "1"
+                },
+                {
+                    "Level": "Level 4-6",
+                    "Stingers": "2"
+                },
+                {
+                    "Level": "Level 7-9",
+                    "Stingers": "3"
+                },
+                {
+                    "Level": "Level 10-12",
+                    "Stingers": "4"
+                }
+            ]
+        },
+        {
+            "If Gifted": [
+                {
+                    "Level": "Level 1-3",
+                    "Stingers": "6"
+                },
+                {
+                    "Level": "Level 4-6",
+                    "Stingers": "9"
+                },
+                {
+                    "Level": "Level 7-9",
+                    "Stingers": "12"
+                },
+                {
+                    "Level": "Level 10-12",
+                    "Stingers": "15"
+                }
+            ]
+        },
+        {
+            "Crafting Uses": [
+                {
+                    "Stingers": "1",
+                    "Other ingredients": "750,000 Honey\n50 Strawberries\n1 Royal Jelly",
+                    "Result": "Red Guard"
+                },
+                {
+                    "Stingers": "3",
+                    "Other ingredients": "300,000 Honey",
+                    "Result": "Brave Guard"
+                },
+                {
+                    "Stingers": "3",
+                    "Other ingredients": "440,000 Honey\n50 Pineapples\n50 Sunflower Seeds",
+                    "Result": "Belt Bag"
+                },
+                {
+                    "Stingers": "5",
+                    "Other ingredients": "5,000,000 Honey\n3 Red Extracts\n50 Strawberries\n5 Royal Jellies",
+                    "Result": "Elite Red Guard"
+                },
+                {
+                    "Stingers": "10",
+                    "Other ingredients": "12,400,000 Honey\n1 Soft Wax\n150 Pineapples\n150 Sunflower Seeds",
+                    "Result": "Mondo Belt Bag"
+                },
+                {
+                    "Stingers": "25",
+                    "Other ingredients": "30,000,000 Honey\n10 Red Extracts\n100 Strawberries\n5 Glues",
+                    "Result": "Riley Guard"
+                },
+                {
+                    "Stingers": "100",
+                    "Other ingredients": "200,000,000 Honey\n100 Red Extracts\n50 Oils\n25 Glitter",
+                    "Result": "Crimson Guard"
+                },
+                {
+                    "Stingers": "100",
+                    "Other ingredients": "200,000,000 Honey\n100 Blue Extracts\n50 Enzymes\n25 Glitter",
+                    "Result": "Cobalt Guard"
+                },
+                {
+                    "Stingers": "150",
+                    "Other ingredients": "2.5T Honey\n1,500 Red Extracts\n100 Hard Waxes\n50 Caustic Waxes\n50 Super Smoothies\n3 Invigorating Vials",
+                    "Result": "Dark Scythe"
+                },
+                {
+                    "Stingers": "150",
+                    "Other ingredients": "2.5T Honey\n1,500 Blue Extracts\n150 Tropical Drinks\n75 Swirled Waxes\n50 Super Smoothies\n3 Comforting Vials",
+                    "Result": "Tide Popper"
+                },
+                {
+                    "Stingers": "250",
+                    "Other ingredients": "-",
+                    "Result": "Vicious Bee"
+                },
+                {
+                    "Stingers": "500",
+                    "Other ingredients": "5B Honey\n250 Red Extracts\n150 Enzymes\n100 Glues\n1 Invigorating Vial",
+                    "Result": "Demon Mask"
+                }
+            ]
+        }
+    ]
+}

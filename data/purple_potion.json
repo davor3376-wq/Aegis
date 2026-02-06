@@ -1,0 +1,25 @@
+{
+    "title": "Purple Potion",
+    "stats": {},
+    "data_tables": [
+        {
+            "Crafting Uses": [
+                {
+                    "Purple Potions": "3",
+                    "Other ingredients": "3 Neonberries\n3 Star Jellies\n6 Tropical Drinks",
+                    "Result": "Super Smoothie"
+                },
+                {
+                    "Purple Potions": "6",
+                    "Other ingredients": "3 Hard Waxes\n9 Soft Waxes\n3,333 Royal Jellies",
+                    "Result": "Swirled Wax"
+                },
+                {
+                    "Purple Potions": "200",
+                    "Other ingredients": "7.5T Honey\n500 Coconuts\n1,500 Tropical Drinks\n200 Hard Waxes\n3 Turpentines\n3 Refreshing Vials",
+                    "Result": "Coconut Belt"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "title": "Thumbtack",
+    "stats": {},
+    "data_tables": [
+        {
+            "Possible Stats": [
+                {
+                    "Stat Caustic Req.": "Chance",
+                    "Base": "Chance",
+                    "Max": "Limit"
+                },
+                {
+                    "Stat Caustic Req.": "+Gather Amount",
+                    "Base": "1 to 3",
+                    "Max": "33",
+                    "Upgrade": "1, 2Bias: 4"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "20%",
+                    "Max": "15"
+                },
+                {
+                    "Stat Caustic Req.": "+%Critical Power",
+                    "Base": "5% to 10%",
+                    "Max": "40%",
+                    "Upgrade": "1%, 2%Bias: 5"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "40%",
+                    "Max": "15"
+                },
+                {
+                    "Stat Caustic Req.": "+%Bee Attack",
+                    "Base": "2% to 5%",
+                    "Max": "35%",
+                    "Upgrade": "1%, 2%Bias: 5"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "40%",
+                    "Max": "15"
+                },
+                {
+                    "Stat Caustic Req.": "+Bee Attack",
+                    "Base": "1",
+                    "Max": "2",
+                    "Upgrade": "1"
+                },
+                {
+                    "Stat Caustic Req.": "0.2% to 10%",
+                    "Base": "0.1% to 1%",
+                    "Max": "1"
+                },
+                {
+                    "Stat Caustic Req.": "Hive Bonus"
+                },
+                {
+                    "Stat Caustic Req.": "+%Red Attack",
+                    "Base": "1% to 3%",
+                    "Max": "6%",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "1% to 10%",
+                    "Base": "0.04% to 1%",
+                    "Max": "3"
+                },
+                {
+                    "Stat Caustic Req.": "+%Bee AttackCaustic Only",
+                    "Base": "-",
+                    "Max": "3%",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "-",
+                    "Base": "0.04% to 1%",
+                    "Max": "3"
+                }
+            ]
+        }
+    ]
+}

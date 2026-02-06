@@ -1,0 +1,48 @@
+{
+    "title": "Ladybug",
+    "stats": {},
+    "data_tables": [
+        {
+            "Locations": [
+                {
+                    "Field": "Mushroom Field",
+                    "Spawn": "1",
+                    "Level": "1",
+                    "HP": "12"
+                },
+                {
+                    "Field": "Clover Field",
+                    "Spawn": "1",
+                    "Level": "2",
+                    "HP": "20"
+                },
+                {
+                    "Field": "Strawberry Field",
+                    "Spawn": "1 (Left)",
+                    "Level": "3",
+                    "HP": "28"
+                },
+                {
+                    "Field": "Strawberry Field",
+                    "Spawn": "1 (Right)",
+                    "Level": "2",
+                    "HP": "20"
+                }
+            ]
+        },
+        {
+            "Drops": [
+                {
+                    "Guaranteed Drops list": "75 Honey (increased by Honey From Tokens)"
+                }
+            ]
+        },
+        {
+            "Drops": [
+                {
+                    "Possible Drops list": "Tickets (2% Chance, Increments of 1, 5 or 10)\nStrawberries (Increments of 1, 5 or 10)\nGumdrops (Increments of 1, 5 or 10)\nTreats (Increments of 1 or 50)\nRoyal Jelly (Uncommon)\nRobo Pass (Rare)\nMagic Bean (Rare)\nRed Extract (Rare)\nField Dice (Rare)\nHoneysuckle (Rare)\nBitterberries (Rare, increments of 1 or 5)\nNeonberry (Very Rare)\nAnt Pass (Very Rare)\nElf Cap (Rare, Exclusive to Beesmas only)\nGingerbread Bear (Rare, Exclusive to Beesmas only)\nRascal Bee Egg (Exceptionally Rare)\nPink Balloon (Nearly Impossible)"
+                }
+            ]
+        }
+    ]
+}

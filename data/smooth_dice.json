@@ -1,0 +1,15 @@
+{
+    "title": "Smooth Dice",
+    "stats": {},
+    "data_tables": [
+        {
+            "Crafting Uses": [
+                {
+                    "Smooth Dice": "3",
+                    "Other ingredients": "3 Hard Waxes\n3 Oils\n1 Glue",
+                    "Result": "Loaded Dice"
+                }
+            ]
+        }
+    ]
+}

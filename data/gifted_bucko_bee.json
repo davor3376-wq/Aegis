@@ -1,0 +1,397 @@
+{
+    "title": "Gifted Bucko Bee",
+    "stats": {},
+    "data_tables": [
+        {
+            "Quests": [
+                {
+                    "Quest Name": "Bucko Bee: Abilities",
+                    "Type of Requirements": "Collect \n\n\n\n1000\n+\n15\n\u00d7\n(\nX\n\u2212\n1\n)\n\n\n{\\displaystyle 1000+15\\times (X-1)}\n\n Blue Ability Tokens."
+                },
+                {
+                    "Quest Name": "Bucko Bee: Bamboo",
+                    "Type of Requirements": "Collect \n\n\n\n5\n,\n000\n,\n000\n\u00d7\nX\n\n\n{\\displaystyle 5,000,000\\times X}\n\n pollen from the Bamboo Field."
+                },
+                {
+                    "Quest Name": "Bucko Bee: Bombard",
+                    "Type of Requirements": "Collect \n\n\n\n400\n+\n5\n\u00d7\n(\nX\n\u2212\n1\n)\n\n\n{\\displaystyle 400+5\\times (X-1)}\n\n Bomb Tokens.\nDefeat 10 Rhino Beetles.\nDefeat \n\n\n\n20\n+\n5\n\u00d7\n\n\u230a\n\n\nX\n25\n\n\n\u230b\n\n\n\n{\\displaystyle 20+5\\times \\left\\lfloor {\\frac {X}{25}}\\right\\rfloor }\n\n Ants.\nDefeat \n\n\n\n10\n+\n5\n\u00d7\n\n\u230a\n\n\nX\n25\n\n\n\u230b\n\n\n\n{\\displaystyle 10+5\\times \\left\\lfloor {\\frac {X}{25}}\\right\\rfloor }\n\n Army Ants."
+                },
+                {
+                    "Quest Name": "Bucko Bee: Booster",
+                    "Type of Requirements": "Collect \n\n\n\n500\n+\n5\n\u00d7\n(\nX\n\u2212\n1\n)\n\n\n{\\displaystyle 500+5\\times (X-1)}\n\n Blue Boost Tokens.\nUse the Blue Field Booster 1 time."
+                },
+                {
+                    "Quest Name": "Bucko Bee: Clean-up",
+                    "Type of Requirements": "Collect \n\n\n\n250\n,\n000\n\u00d7\nX\n\n\n{\\displaystyle 250,000\\times X}\n\n Goo from the Blue Flower Field.\nCollect \n\n\n\n250\n,\n000\n\u00d7\nX\n\n\n{\\displaystyle 250,000\\times X}\n\n Goo from the Bamboo Field.\nCollect \n\n\n\n250\n,\n000\n\u00d7\nX\n\n\n{\\displaystyle 250,000\\times X}\n\n Goo from the Pine Tree Forest."
+                },
+                {
+                    "Quest Name": "Bucko Bee: Extraction",
+                    "Type of Requirements": "Collect \n\n\n\n1\n,\n000\n,\n000\n\u00d7\nX\n\n\n{\\displaystyle 1,000,000\\times X}\n\n Blue Pollen from the Clover Field.\nCollect \n\n\n\n1\n,\n000\n,\n000\n\u00d7\nX\n\n\n{\\displaystyle 1,000,000\\times X}\n\n Blue Pollen from the Cactus Field.\nCollect \n\n\n\n1\n,\n000\n,\n000\n\u00d7\nX\n\n\n{\\displaystyle 1,000,000\\times X}\n\n Blue Pollen from the Pumpkin Patch."
+                },
+                {
+                    "Quest Name": "Bucko Bee: Flowers",
+                    "Type of Requirements": "Collect \n\n\n\n3\n,\n000\n,\n000\n\u00d7\nX\n\n\n{\\displaystyle 3,000,000\\times X}\n\n Pollen from the Blue Flower Field."
+                },
+                {
+                    "Quest Name": "Bucko Bee: Goo",
+                    "Type of Requirements": "Collect \n\n\n\n2\n,\n500\n,\n000\n\u00d7\nX\n\n\n{\\displaystyle 2,500,000\\times X}\n\n Goo from Blue Flowers."
+                },
+                {
+                    "Quest Name": "Bucko Bee: Medley",
+                    "Type of Requirements": "Collect \n\n\n\n250\n+\n5\n\u00d7\n(\nX\n\u2212\n1\n)\n\n\n{\\displaystyle 250+5\\times (X-1)}\n\n Blue Ability Tokens.\nCollect \n\n\n\n500\n,\n000\n\u00d7\nX\n\n\n{\\displaystyle 500,000\\times X}\n\n Goo from the Bamboo Field.\nCollect \n\n\n\n3\n,\n000\n,\n000\n\u00d7\nX\n\n\n{\\displaystyle 3,000,000\\times X}\n\n Pollen from the Pine Tree Forest."
+                },
+                {
+                    "Quest Name": "Bucko Bee: Petals",
+                    "Type of Requirements": "Catch \n\n\n\n250\n+\n10\n\u00d7\n\n\u230a\n\n\n\nX\n\u2212\n1\n\n4\n\n\n\u230b\n\n\n\n{\\displaystyle 250+10\\times \\left\\lfloor {\\frac {X-1}{4}}\\right\\rfloor }\n\n Blue Bloom Petals.\nCatch \n\n\n\n10\n+\n5\n\u00d7\n\n\u230a\n\n\n\nX\n\u2212\n1\n\n20\n\n\n\u230b\n\n\n\n{\\displaystyle 10+5\\times \\left\\lfloor {\\frac {X-1}{20}}\\right\\rfloor }\n\n Blue Bloom Petals in the Clover Field.\nCatch 1 Blue Bloom Petal in the Pineapple Patch."
+                },
+                {
+                    "Quest Name": "Bucko Bee: Picnic",
+                    "Type of Requirements": "Collect \n\n\n\n1\n,\n000\n,\n000\n\u00d7\nX\n\n\n{\\displaystyle 1,000,000\\times X}\n\n Pollen from the Blue Flower Field.\nCollect \n\n\n\n25\n+\n5\n\u00d7\n\n\u230a\n\n\nX\n10\n\n\n\u230b\n\n\n\n{\\displaystyle 25+5\\times \\left\\lfloor {\\frac {X}{10}}\\right\\rfloor }\n\n Blueberry Tokens.\nFeed \n\n\n\n25\n+\n5\n\u00d7\n\n\u230a\n\n\nX\n50\n\n\n\u230b\n\n\n\n{\\displaystyle 25+5\\times \\left\\lfloor {\\frac {X}{50}}\\right\\rfloor }\n\n Blueberries to your Bees.\nDefeat \n\n\n\n10\n+\n5\n\u00d7\n\n\u230a\n\n\nX\n10\n\n\n\u230b\n\n\n\n{\\displaystyle 10+5\\times \\left\\lfloor {\\frac {X}{10}}\\right\\rfloor }\n\n Ants.\nDefeat \n\n\n\n5\n+\n5\n\u00d7\n\n\u230a\n\n\nX\n10\n\n\n\u230b\n\n\n\n{\\displaystyle 5+5\\times \\left\\lfloor {\\frac {X}{10}}\\right\\rfloor }\n\n Army Ants."
+                },
+                {
+                    "Quest Name": "Bucko Bee: Pine Trees",
+                    "Type of Requirements": "Collect \n\n\n\n7\n,\n500\n,\n000\n\u00d7\nX\n\n\n{\\displaystyle 7,500,000\\times X}\n\n Pollen from the Pine Tree Forest."
+                },
+                {
+                    "Quest Name": "Bucko Bee: Pollen",
+                    "Type of Requirements": "Collect \n\n\n\n10\n,\n000\n,\n000\n\u00d7\nX\n\n\n{\\displaystyle 10,000,000\\times X}\n\n Blue Pollen."
+                },
+                {
+                    "Quest Name": "Bucko Bee: Scavenge",
+                    "Type of Requirements": "Collect \n\n\n\n2\n,\n500\n,\n000\n\u00d7\nX\n\n\n{\\displaystyle 2,500,000\\times X}\n\n Blue Pollen.\nCollect \n\n\n\n500\n+\n5\n\u00d7\n(\nX\n\u2212\n1\n)\n\n\n{\\displaystyle 500+5\\times (X-1)}\n\n Blue Ability Tokens.\nCollect \n\n\n\n25\n+\n10\n\u00d7\n\n\u230a\n\n\nX\n10\n\n\n\u230b\n\n\n\n{\\displaystyle 25+10\\times \\left\\lfloor {\\frac {X}{10}}\\right\\rfloor }\n\n Blueberry Tokens."
+                },
+                {
+                    "Quest Name": "Bucko Bee: Skirmish",
+                    "Type of Requirements": "Collect \n\n\n\n1\n,\n250\n,\n000\n\u00d7\nX\n\n\n{\\displaystyle 1,250,000\\times X}\n\n Pollen from the Blue Flower Field.\nDefeat 10 Rhino Beetles."
+                },
+                {
+                    "Quest Name": "Bucko Bee: Tango",
+                    "Type of Requirements": "Collect \n\n\n\n2\n,\n500\n,\n000\n\u00d7\nX\n\n\n{\\displaystyle 2,500,000\\times X}\n\n Blue Pollen.\nCollect \n\n\n\n500\n+\n5\n\u00d7\n(\nX\n\u2212\n1\n)\n\n\n{\\displaystyle 500+5\\times (X-1)}\n\n Blue Ability Tokens.\nDefeat 5 Mantises."
+                },
+                {
+                    "Quest Name": "Bucko Bee: Tour",
+                    "Type of Requirements": "Collect \n\n\n\n1\n,\n000\n,\n000\n\u00d7\nX\n\n\n{\\displaystyle 1,000,000\\times X}\n\n Pollen from the Blue Flower Field.\nCollect \n\n\n\n1\n,\n000\n,\n000\n\u00d7\nX\n\n\n{\\displaystyle 1,000,000\\times X}\n\n Pollen from the Bamboo Field.\nCollect \n\n\n\n1\n,\n000\n,\n000\n\u00d7\nX\n\n\n{\\displaystyle 1,000,000\\times X}\n\n Pollen from the Pine Tree Forest.\nDefeat 5 Rhino Beetles.\nDefeat 3 Mantises."
+                }
+            ]
+        },
+        {
+            "Rewards": [
+                {
+                    "Quest Milestone": "Every 100th quest",
+                    "Honey Amount": "25\n,\n000\n,\n000\n\u00d7\nQ\n\n\n{\\displaystyle 25,000,000\\times Q}"
+                },
+                {
+                    "Quest Milestone": "Every 5th quest",
+                    "Honey Amount": "2\n,\n500\n,\n000\n\u00d7\n\n\u230a\n\nQ\n\n0.95\n\n\n\u230b\n\n\n\n{\\displaystyle 2,500,000\\times \\left\\lfloor Q^{0.95}\\right\\rfloor }"
+                },
+                {
+                    "Quest Milestone": "All other quests",
+                    "Honey Amount": "1\n,\n000\n,\n000\n\u00d7\n\n\u230a\n\nQ\n\n0.9\n\n\n\u230b\n\n\n\n{\\displaystyle 1,000,000\\times \\left\\lfloor Q^{0.9}\\right\\rfloor }"
+                }
+            ]
+        },
+        {
+            "Rewards": [
+                {
+                    "Item": "Treat",
+                    "Amount": "(\n1\n+\n\n\u230a\n\n\nQ\n\n\n\u230b\n\n\u00d7\n25\n\n\n{\\displaystyle (1+\\left\\lfloor {\\sqrt {Q}}\\right\\rfloor \\times 25}",
+                    "Chance to be picked": "~23.175%"
+                },
+                {
+                    "Item": "Royal Jelly",
+                    "Amount": "(\n1\n+\n\n\u230a\n\n\nQ\n\n\n\u230b\n\n\u00d7\n5\n\n\n{\\displaystyle (1+\\left\\lfloor {\\sqrt {Q}}\\right\\rfloor \\times 5}",
+                    "Chance to be picked": "~17.381%"
+                },
+                {
+                    "Item": "Gumdrops",
+                    "Amount": "25",
+                    "Chance to be picked": "~11.587%"
+                },
+                {
+                    "Item": "Blueberry",
+                    "Amount": "(\n1\n+\n\n\u230a\n\nQ\n\n0.25\n\n\n\u230b\n\n\u00d7\n10\n\n\n{\\displaystyle (1+\\left\\lfloor Q^{0.25}\\right\\rfloor \\times 10}",
+                    "Chance to be picked": "~11.587%"
+                },
+                {
+                    "Item": "Ticket",
+                    "Amount": "5",
+                    "Chance to be picked": "~11.587%"
+                },
+                {
+                    "Item": "Moon Charm",
+                    "Amount": "20",
+                    "Chance to be picked": "~11.587%"
+                },
+                {
+                    "Item": "Magic Bean",
+                    "Amount": "3",
+                    "Chance to be picked": "~11.587%"
+                },
+                {
+                    "Item": "Moon Charm",
+                    "Amount": "50",
+                    "Chance to be picked": "~1.159%"
+                },
+                {
+                    "Item": "Blue Extract",
+                    "Amount": "10",
+                    "Chance to be picked": "~0.116%"
+                },
+                {
+                    "Item": "Oil",
+                    "Amount": "10",
+                    "Chance to be picked": "~0.116%"
+                },
+                {
+                    "Item": "Moon Charm",
+                    "Amount": "100",
+                    "Chance to be picked": "~0.116%"
+                }
+            ]
+        },
+        {
+            "Rewards": [
+                {
+                    "Quest Number": "3",
+                    "Reward": "5 Moon Charms"
+                },
+                {
+                    "Quest Number": "9",
+                    "Reward": "50 Moon Charms"
+                },
+                {
+                    "Quest Number": "25",
+                    "Reward": "1 Star Jelly"
+                },
+                {
+                    "Quest Number": "50",
+                    "Reward": "1 Gifted Gold Egg"
+                },
+                {
+                    "Quest Number": "64",
+                    "Reward": "1 Basic Blue Hive Skin"
+                },
+                {
+                    "Quest Number": "75",
+                    "Reward": "50 Moon Charms"
+                },
+                {
+                    "Quest Number": "100",
+                    "Reward": "1 Gifted Diamond Egg"
+                },
+                {
+                    "Quest Number": "111",
+                    "Reward": "500 Blueberries"
+                },
+                {
+                    "Quest Number": "125",
+                    "Reward": "50 Moon Charms"
+                },
+                {
+                    "Quest Number": "150",
+                    "Reward": "10 Glitter\nAccess to the Hydroponic Planter"
+                },
+                {
+                    "Quest Number": "175",
+                    "Reward": "50 Moon Charms"
+                },
+                {
+                    "Quest Number": "200",
+                    "Reward": "100 Moon Charms"
+                },
+                {
+                    "Quest Number": "222",
+                    "Reward": "25 Magic Beans"
+                },
+                {
+                    "Quest Number": "250",
+                    "Reward": "1 Gifted Diamond Egg\nAccess to the  Tide Popper"
+                },
+                {
+                    "Quest Number": "500, 750, 1000",
+                    "Reward": "1 Gifted Diamond Egg"
+                }
+            ]
+        },
+        {
+            "Dialogue": [
+                {
+                    "Quest": "Initial Talk (without translator)",
+                    "Dialogue": "Buzzuh bz bzz bzz. BUZZ bzz bz. Bzzzuh? (Gifted Bucko Bee is speaking buzzes) You are given a choice to use a translator or to leave. You leave. Bzzh zz zz."
+                },
+                {
+                    "Quest": "Initial Talk (with translator)",
+                    "Dialogue": "Buzzuh bz bzz bzz. BUZZ bzz bz. Bzzzuh? (Gifted Bucko Bee is speaking buzzes) You are given a choice to use a translator or to leave. You use a translator. What's this? Hmm, amazing... A device that lets me talk to beekeepers... Well then, let me introduce myself! I'm Bucko Bee - Leader of the Blue Bees! And this is the Blue Headquarters. Here, the Blue Bees and I are constantly working... Thinking, planning, honing our skills... Doing everything we can to advance the Blue cause. We've discovered a method to boost the blue fields. We've developed highly advanced Blue Guards. That's what sets us apart - why we're always one step ahead of the Red Bees! I see you've discovered quite a few Blue Bees. Seem to have some great Blue potential. But you'll need some training if you're hoping to rank up to a Blue Master. Complete my quests, and I'll reward you with some . Those can be used to boost your blue pollen collection... Or to craft some of the equipment we've developed in house. Each time you complete one of my quests, they'll become more challenging. To make it worth your effort, you'll be rewarded a bonus after every 5. What do you say? Ready to start? Talk to me again, and we'll dive right in."
+                },
+                {
+                    "Quest": "Repeatable Quests",
+                    "Dialogue": "Brave, Bold, Blue. It's time for another blue-themed quest. Complete it, and you'll be another step closer to realizing your True Blue potential! I'll also reward you with a .  boost blue pollen by x1.25 for 10 minutes. They're also used as materials for making advanced blue equipment. After every 5th quest, I'll reward you a bonus. And after certain milestones, the bonus may be truly brilliant. I've loaded the next quest into your Quest Menu. Report back when it's complete.\n-During-\nMy quests becoming progressively more challenging. There's no end to this fight - we just keep moving. It's this ongoing work that gives us an edge over other bees. Do you have what it takes to become True Blue? Complete my quests to prove it.\n-Completion-\nBeautiful work! You've earned yourself a . But there's no time to rest. Blue Bees are constantly working, striving... That's what gives us an edge over the Red Bees. Keep moving forward, into the blue."
+                },
+                {
+                    "Quest": "Exclusive Beesmas Dialogue 2018",
+                    "Dialogue": "The cool, calm spirit of winter reflects the nature of us Blue Bees. Still yet thoughtful. Calm and steady. That's what gives us our edge. You are given a choice to give a present to Gifted Bucko Bee or continue talking like normal. You choose to give him a present.Hah hah, of course you'd do this. Suprise  me with a  out of the blue! You're a stand up beekeeper, you know that? Let me just open this thing up... ...(krumple krumple)... Nice! Some ticket to see the Blue Bee Group in Vegas. Not sure how I'll get there or when I'll find the time to go, But it doesn't look like they expire. Now's your turn! A little something from all us Blue Bees at the HQ."
+                },
+                {
+                    "Quest": "Exclusive Beesmas Dialogue 2020",
+                    "Dialogue": "I'm just happy it's Winter. You are given a choice to give a present to Gifted Bucko Bee or continue talking like normal. You choose to give him a present. Wait, don't tell me you've brought a ? Of all the beekeepers I've met, you really are the coolest! One second, let me just try to unwrap this with my wings somehow... ...(krumple krumple)... Oh, it's a  Beequip! Well, this is a little awkward... Bucko Bees can't equip ,. But don't worry. I've got plenty of blue bee friends here at the HQ who will make great use out of this! Thanks! And now some gifts for you, including the ! With this on the Beesmas Tree, you'll receive the following boosts: +25% Convert Rate +25% Capacity in the Blue Flower Field and Pine Tree Forest and +10% Blue Field Capacity! Hope that helps! Merry blue Beesmas!"
+                },
+                {
+                    "Quest": "Exclusive Beesmas Dialogue 2021",
+                    "Dialogue": "I'm just happy it's Winter. You are given a choice to give a present to Gifted Bucko Bee or continue talking like normal. You choose to give him a present. Wait, don't tell me you've brought a ? Of all the beekeepers I've met, you really are the coolest! One second, let me just try to unwrap this with my wings somehow... ...(krumple krumple)... Oh, it's a  Beequip! Well, this is a little awkward... Bucko Bees can't equip . But don't worry. I've got plenty of blue bee friends here at the HQ who will make great use out of this! Thanks! And now some gifts for you, including the ! With that on the Beesmas Tree, you'll receive the following boosts: (+25% Convert Rate) (+25% Capacity in the Blue Flower Field and Pine Tree Forest) and (+10% Blue Field Capacity!) Hope that helps! Merry blue Beesmas!"
+                },
+                {
+                    "Quest": "Exclusive Beesmas Dialogue 2022",
+                    "Dialogue": "I'm just happy it's Winter. You are given a choice to give a present to Gifted Bucko Bee or continue talking like normal. You choose to give him a present. Well, if it isn't the coolest Beekeeper around! You bringing me a  makes you even cooler. Let's see what it is... ...(krumple krumple)... Well I'll be! An entire gallon of Comforting Nectar! No wonder that thing was so heavy. Soo... I happened to get you some Comforting Nectar as well.. That's just part of my gift though, so this isn't too awkward. The most important part is the ! With this on the Beesmas Tree, you'll receive the following boosts: +25% Convert Rate +25% Capacity in the Blue Flower Field and Pine Tree Forest and +10% Blue Field Capacity! Thanks for the nectar. Have a merry blue Beesmas!"
+                },
+                {
+                    "Quest": "Exclusive Beesmas Dialogue 2024 Summer",
+                    "Dialogue": "Look at all that beautiful snow! You are given a choice to give a present to Gifted Bucko Bee or continue talking like normal. You choose to give him a present. You brought me a present? Now that's what I call cool. I'll go ahead and open it up! ...(krumple krumple)... What is this thing? Oh, an automatic bubble blower! Wow, with one of these, my boosts will be better than ever! We might just break the Pop Star record with this. Guess I don't need any Bubble or Tadpole Bees around anymore! Just kidding, haha. Thanks for the thoughtful gift! I also got you something: the ! With that on the Beesmas Tree, you'll receive the following boosts: +25% Convert Rate +25% Capacity in the Blue Flower Field and Pine Tree Forest and +15% Pollen from Bubbles! Enjoy it! And have a merry blue Beesmas!"
+                },
+                {
+                    "Quest": "Exclusive Beesmas Dialogue 2024 Winter",
+                    "Dialogue": "Looks chilly out there! You are given a choice to give a present to Gifted Bucko Bee or continue talking like normal. You choose to give him a present. Wait, don't tell me you've brought a ? Of all the beekeepers I've met, you really are the coolest! One second, let me just try to unwrap this with my wings somehow... ...(krumple krumple)... What's this? Oooh, it's a jigsaw puzzle! Looks like it's supposed to be a picture of the ocean against a blue sky. Man, that's a lot of blue... might be tricky. I'll try my best! Thanks! And now some gifts for you, including the ! With that on the Beesmas Tree, you'll receive the following boosts: +25% Convert Rate +25% Capacity in the Blue Flower Field and Pine Tree Forest and +15% Pollen from Bubbles! Hope that helps! Merry blue Beesmas!"
+                },
+                {
+                    "Quest": "Exclusive Beesmas Dialogue 2025",
+                    "Dialogue": "Looks chilly out there! You are given a choice to give a present to Gifted Bucko Bee or continue talking like normal. You choose to give him a present. Well, if it isn't the coolest beekeeper around! You bringing me a  makes you even cooler. Let's see what it is... ...(krumple krumple)... Well I'll be! A whole jar of marbles! Man... that's a lot of marbles. Some pretty cool ones in there. I see one that kind of looks like a . That's neat. Can't wait to crack this open and roll those bad boys around. Thanks. You're truly cool. Take this, why don't you: The ! With that on the Beesmas Tree, you'll recieve the following boosts: +25% Convert Rate +25% Capacity in the Blue Flower Field and the Pine Tree Forest and +10% Blue Field Capacity! Hope that helps your Blue Beesmas dreams come true!"
+                }
+            ]
+        },
+        {
+            "Beesmas Quest - Bucko Bee's Snow Machine": [
+                {
+                    "Quest": "Bucko Bee's Snow Machine",
+                    "Requirements": "Collect 250,000,000 Pollen from the Stump Field.\nCollect 100,000,000 Pollen with Epic Bees.\nCatch 200 Cyan Bloom Petals.\nCatch 100 Violet Bloom Petals.\nUse 250 Snowflakes.\nUse 100 Cloud Vials.\nPop 5 Puffshrooms in the Bamboo Field.\nPop 5 Puffshrooms in the Blue Flower Field.",
+                    "Rewards": "2,000,000,000 Honey\n25 Tickets\n25 Blue Extracts\n1 Comforting Vial\n10 Tropical Drinks\n1 Beret\n50 Snowflakes\nAccess to the Snow Machine"
+                }
+            ]
+        },
+        {
+            "Beesmas Quest - Bucko Bee's Snow Machine": [
+                {
+                    "Quest": "Bucko Bee's Snow Machine",
+                    "Dialogue": "Winter is when Blue Bees truly excel. We crave the crisp, cool air. We thrive in the soothing snow. But sometimes winters are just a bit too mild for our liking. That's why this year, we're giving nature a helping hand. With this Snow Machine, we'll be able to summon Snow Storms on command! Unfortunately, construction is still under way. If you and your swarm pitch in, we should have it operational in no time. Time to paint this Beesmas white and blue.\n\n-During-\nN/A\n\n-Completion-\nBeautiful! The Snow Machine is just about ready to go. Just a few more adjustments and... It's online! Now that's cool. Using the Snow Machine, you'll be able to summon Snow Storms on command every 2 hours. Think of all those . I bet your friends will really appreciate it too. We here at the Blue HQ can't thank you enough. Now it's time to enjoy our Blue Beesmas!"
+                }
+            ]
+        },
+        {
+            "Beesmas Quest - Bucko Bee's Snow Machine": [
+                {
+                    "Quest": "Bucko Bee's Snow Machine",
+                    "Requirements": "Collect 1,000,000,000 Blue Pollen.\nCollect 50,000,000 Pollen with the Bubble Wand.\nCollect 50,000,000 Goo from the Cactus Field.\nCollect 3 Hours of Comforting Nectar.\nCollect 3 Hours of Refreshing Nectar.\nCollect 10 Micro-Converters.\nCollect 25 Cloud Vials.\nCollect 5 Smooth Dice.\nUse 250 Snowflakes.",
+                    "Rewards": "2,500,000,000 Honey\n10x Tickets\n25x Blue Extracts\n3x Purple Potion\n1x Silver Egg\n1x Snowglobe\n50x Snowflakes\nAccess to the Snow Machine"
+                }
+            ]
+        },
+        {
+            "Beesmas Quest - Bucko Bee's Snow Machine": [
+                {
+                    "Quest": "Bucko Bee's Snow Machine",
+                    "Dialogue": "Beesmas in the summer has been a real blessing for us Blue Bees. We can't stand the heat or humidity. So we're thrilled about this change of pace. But things can always get cooler! That's why we're working on this. It's a Snow Machine that'll let us to summon Snow Storms on command! Unfortunately, construction is still under way. If you and your swarm pitch in, we should have it operational in no time. Let's take this summertime Beesmas from cool to coldest!\n-During-\nN/A\n-Completion-\nThat's everything we need to fix this Snow Machine right up! Just a few more adjustments and... It's online! Now that's cool. Using the Snow Machine, you'll be able to summon Snow Storms on command every 2 hours. Think of all those . I bet your friends will really appreciate it too. We here at the Blue HQ can't thank you enough. Now it's time to enjoy our Blue Beesmas!"
+                }
+            ]
+        },
+        {
+            "Beesmas Quest - Bucko Bee's Snow Machine": [
+                {
+                    "Quest": "Bucko Bee's Snow Machine",
+                    "Requirements": "Collect 10,000,000 Goo from Blue Flowers.\nCollect 5,000,000 Pollen with the Bubble Wand.\nCollect 10,000,000 Pollen from the Blue Brick Field.\nCollect 30 Tokens from Blue Clay Planters.\nPop 1,000 Bubbles.\nUse 100 Snowflakes.\nObtain 5 Small Dandelion Stickers, 3 Simple Mountain Stickers, or 5 Simple Cloud Stickers to give to Bucko Bee.\nObtain 1 Bubble Wand Sticker to give to Bucko Bee.\nObtain 1 Blue Square Sticker or 2 Window Stickers to give to Bucko Bee.",
+                    "Rewards": "50,000,000 Honey\n25x Tickets\n25x Blue Extracts\n1x Star Jelly\n1x Snowglobe\n1x Loaded Dice\n50x Snowflakes\nAccess to the Snow Machine"
+                }
+            ]
+        },
+        {
+            "Beesmas Quest - Bucko Bee's Snow Machine": [
+                {
+                    "Quest": "Bucko Bee's Snow Machine",
+                    "Dialogue": "Beesmas in the summer has been a real blessing for us Blue Bees. We can't stand the heat or humidity. So we're thrilled about this change of pace. But things can always get cooler! That's why we're working on this. It's a Snow Machine that'll let us to summon Snow Storms on command! Unfortunately, construction is still under way. If you and your swarm pitch in, we should have it operational in no time. Let's take this summertime Beesmas from cool to coldest!\n-During-\nN/A\n-Completion-\nThat's everything we need to fix this Snow Machine right up! Just a few more adjustments and... It's online! Now that's cool. Using the Snow Machine, you'll be able to summon Snow Storms on command every 2 hours. Think of all those . I bet your friends will really appreciate it too. We here at the Blue HQ can't thank you enough. Now it's time to enjoy our Blue Beesmas!"
+                }
+            ]
+        },
+        {
+            "Beesmas Quest - Bucko Bee's Snow Machine": [
+                {
+                    "Quest": "Bucko Bee's Snow Machine",
+                    "Requirements": "Collect 50,000,000 Blue Pollen.\nCollect 8 Hours of Comforting Nectar.\nPop 2,000 Bubbles.\nDefeat 25 Mechsquitos\nUse 250 Snowflakes.",
+                    "Rewards": "100,000,000 Honey\n1x Robo Pass\n1x Ticket Planter\n10x Blue Extracts\n1x Comforting Vial\n50x Snowflakes\nAccess to the Snow Machine"
+                }
+            ]
+        },
+        {
+            "Beesmas Quest - Bucko Bee's Snow Machine": [
+                {
+                    "Quest": "Bucko Bee's Snow Machine",
+                    "Dialogue": "Winter is when Blue Bees truly excel. We crave the crisp, cool air. We thrive in the soothing snow. But sometimes winters are just a bit too mild for our liking. That's why this year, we're giving nature a helping hand. With this Snow Machine, we'll be able to summon Snow Storms on command! Unfortunately, construction is still under way. If you and your swarm pitch in, we should have it operational in no time. Time to paint this Beesmas white and blue: Collect 50,000,000 Blue Pollen... Collect 8 Hours of Comforting Nectar... Pop 2,000 Bubbles... Use 250 Snowflakes... And defeat 25 Mechsquitos!\n-During-\nN/A\n-Completion-\nBeautiful! The Snow Machine is just about ready to go. Just a few more adjustments and... It's online! Now that's cool. Using the Snow Machine, you'll be able to summon Snow Storms on command every 2 hours. Think of all those . I bet your friends will really appreciate it too. We here at the Blue HQ can't thank you enough. Now it's time to enjoy our Blue Beesmas!"
+                }
+            ]
+        },
+        {
+            "Beesmas Quest - Bucko Bee's Snow Machine": [
+                {
+                    "Quest": "Bucko Bee's Snow Machine",
+                    "Requirements": "Collect 100,000,000 Blue Pollen.\nDefeat 5 Rare Puffshrooms on the Blue Flower Field.\nDefeat 5 Rare Puffshrooms on the Bamboo Field.\nDefeat 5 Rare Puffshrooms on the Pine Tree Forest.\nCollect 4 Hours of Comforting Nectar from Planters.\nCollect 4 Hours of Refreshing Nectar from Planters.\nUse 250 Snowflakes.",
+                    "Rewards": "250,000,000 Honey\n5x Tickets\n5x Gingerbread Bears1x Ticket Planter\n25x Blue Extracts\n1x Swirled Wax\n3x Smooth Dice\nAccess to the Snow Machine"
+                }
+            ]
+        },
+        {
+            "Beesmas Quest - Bucko Bee's Snow Machine": [
+                {
+                    "Quest": "Bucko Bee's Snow Machine",
+                    "Dialogue": "Winter is when Blue Bees truly excel. We crave the crisp, cool air. We thrive in the soothing snow. But sometimes winters are just a bit too mild for our liking. That's why this year, we're giving nature a helping hand. With this Snow Machine, we'll be able to summon Snow Storms on command! Unfortunately, construction is still under way. If you and your swarm pitch in, we should have it operational in no time. Time to paint this Beesmas white and blue: Collect 100,000,000 Blue Pollen... Defeat 5 Rare Puffshrooms on the Blue Flower Field... Defeat 5 Rare Puffshrooms on the Bamboo Field... Defeat 5 Rare Puffshrooms on the Pine Tree Forest... Collect 4 hours of Comforting Nectar... Collect 4 hours of Refreshing Nectar... And use 250 Snowflakes.\n-During-\nN/A\n-Completion-\nBeautiful! The Snow Machine is just about ready to go. Just a few more adjustments and... It's online! Now that's cool. Using the Snow Machine, you'll be able to summon Snow Storms on command every 2 hours. Think of all those . I bet your friends will really appreciate it too. We here at the Blue HQ can't thank you enough. Now it's time to enjoy our Blue Beesmas!"
+                }
+            ]
+        },
+        {
+            "Beesmas Quest - Bucko Bee's Snow Machine": [
+                {
+                    "Quest": "Bucko Bee's Snow Machine",
+                    "Requirements": "Collect 150,000,000 Blue Pollen.\nCollect 50,000,000 Pollen from the Blue Flower Field.\nCollect 50,000,000 Pollen from the Pineapple Patch.\nCollect 1,000 Blue Boost Tokens.\nDefeat 5 Spiders.\nUse 250 Snowflakes.",
+                    "Rewards": "250,000,000 Honey\n5x Gingerbread Bear\n5x Micro-Converter\n5x Blue Extract\nAccess to the Snow Machine"
+                }
+            ]
+        },
+        {
+            "Beesmas Quest - Bucko Bee's Snow Machine": [
+                {
+                    "Quest": "Bucko Bee's Snow Machine",
+                    "Dialogue": "Winter is when Blue Bees truly excel. We crave the crisp, cool air. We thrive in the soothing snow. But sometimes winters are just a bit too mild for our liking. That's why this year, we're giving nature a helping hand. With this Snow Machine, we'll be able to summon Snow Storms on command! Unfortunately, construction is still under way. If you and your swarm pitch in, we should have it operational in no time. Time to paint this Beesmas white and blue: Collect 150,000,000 Blue Pollen... Collect 50,000,000 pollen from the Blue Flower Field... Collect 50,000,000 pollen from the Pineapple Patch... Collect 1,000 \"Blue Boost\" Tokens... Defeat 10 Spiders... And use 250 Snowflakes.\n-During-\nN/A\n-Completion-\nBeautiful! The Snow Machine is just about ready to go. Just a few more adjustments and... It's online! Now that's cool. Using the Snow Machine, you'll be able to summon Snow Storms on command every 2 hours. Think of all those . I bet your friends will really appreciate it too. We here at the Blue HQ can't thank you enough. Now it's time to enjoy our Blue Beesmas!"
+                }
+            ]
+        },
+        {
+            "Other quests": [
+                {
+                    "Quest": "Egg Hunt: Bucko Bee",
+                    "Requirements": "Collect 200 blueberry tokens.\nCollect 200 treat tokens.\nCollect 10 gumdrops tokens.\nCollect 50 pineapple tokens.\nCollect 1 Royal Jelly token.\nCollect 5 Moon Charm tokens.\nCollect 5 blue jelly bean tokens.\nCollect 5 ticket tokens.",
+                    "Reward": "15,000,000 honey\n5 Marshmallow Bees\n10 Blue Extracts\n50 Moon Charms\n15 Micro-Converters\n5 Jelly Beans\nBlue Flower Field Boost \u00d75"
+                }
+            ]
+        },
+        {
+            "Other quests": [
+                {
+                    "Quest": "Egg Hunt: Bucko Bee",
+                    "Dialogue": "Egg Hunts are all about the thrill of hunting for hidden stuff, And the excitement that comes with a stroke of luck. When us bees at the Blue HQ were told to come up with an Egg Hunt quest... We knew exactly what to do. Keep it simple. Keep it cool. But simple doesn't have to be easy! For our quest, we want you to hunt for a bunch of different tokens. Nothing else. Just token hunting, to really capture that traditional thrill. We put together a brilliant basket for you when you're done. As a heads up, you might want to make room for .\n-During- \nSome tokens are pretty obscure.  tokens,  tokens, you'll probably need to get those from mobs. The rest will show up eventually. You know how it is.\n-Completion- \nLook at all those beautiful tokens. We really put the hunt in Egg Hunt, didn't we? Well then, like I said, we've got something special for you. Just think of me as your own personal Beeaster Bunny!"
+                }
+            ]
+        },
+        {
+            "Other quests": [
+                {
+                    "Quest": "Bucko Bee's Ornament",
+                    "Requirements": "Collect 250,000,000 Blue Pollen\nCollect 100,000,000 Blue Pollen from the Cactus Field\nCollect 500 Blueberry Tokens\nDefeat 25 Mantises\nDefeat 10 Army Ants\nUse the Blue Field Booster 5 Times",
+                    "Reward": "250,000,000 Honey\n5x Ticket\n5x Blue Extract\nSnowman Ornament"
+                }
+            ]
+        },
+        {
+            "Other quests": [
+                {
+                    "Quest": "Bucko Bee's Ornament",
+                    "Dialogue": "Nothing clears one's mind more than a serene landscape covered in snow. Cool everything down and helps silence noise. Literally and figuratively. Winter is definitely the season of choice for the cool, calm, collected Blue Bees. This year, we've got a perfect idea for an  that'll celebrate winter. But we'll need your help to finish it, here's what you've got to do: Collect 250,000,000 Blue pollen... Collect 100,000,000 Blue pollen from the Cactus Field... Collect 500 Blueberry Tokens... Defeat 25 Mantises... Defeat 10 Army Ants... And use Blue Field Booster 5 times.\n-During-\nN/A\n-Completion-\nBeautiful work out there! Now I can wrap this up... ...(Snip snip snip)... ...(Knock knock knock)... Here we are: The ! The perfect representation of the Blue Bees' love for winter. It's even got the face of a Frosty Bee. Snowmen are a classic icon of Beesmas, At least they have been ever since that cartoon came out in the 60s. With this  on the tree, you'll receive the following boosts: +10% Capacity; x1.1 Blue Pollen; x1.25 Pollen from the Blue Flower Field; And x1.25 Pollen from the Pine Tree Forest! Can't wait to see Riley Bee's face when you put that on the tree. Merry Beesmas and happy new year!"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "title": "Bubble Light",
+    "stats": {},
+    "data_tables": [
+        {
+            "Possible Stats": [
+                {
+                    "Stat Caustic Req.": "Chance",
+                    "Base": "Chance",
+                    "Max": "Limit"
+                },
+                {
+                    "Stat Caustic Req.": "+Convert Amount",
+                    "Base": "30 to 50",
+                    "Max": "170",
+                    "Upgrade": "2, 6Bias: 2"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "100%",
+                    "Max": "20"
+                },
+                {
+                    "Stat Caustic Req.": "+Bee Movespeed",
+                    "Base": "3 to 5",
+                    "Max": "10",
+                    "Upgrade": "1"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "5% to 10%",
+                    "Max": "5"
+                },
+                {
+                    "Stat Caustic Req.": "+%Bubble Pollen",
+                    "Base": "15% to 30%",
+                    "Max": "60%",
+                    "Upgrade": "1%, 3%Bias: 2"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "10% to 25%",
+                    "Max": "10"
+                },
+                {
+                    "Stat Caustic Req.": "+%Mark Duration",
+                    "Base": "5% to 15%",
+                    "Max": "25%",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "10% to 25%",
+                    "Max": "10"
+                },
+                {
+                    "Stat Caustic Req.": "Hive Bonus"
+                },
+                {
+                    "Stat Caustic Req.": "+%Bubble Pollen",
+                    "Base": "1%",
+                    "Max": "11%",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "1% to 10%",
+                    "Base": "1% to 10%",
+                    "Max": "10"
+                },
+                {
+                    "Stat Caustic Req.": "+%Bee Movespeed",
+                    "Base": "-",
+                    "Max": "5%",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "-",
+                    "Base": "0.1% to 1%",
+                    "Max": "5"
+                }
+            ]
+        }
+    ]
+}

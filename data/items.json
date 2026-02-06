@@ -1,0 +1,1200 @@
+{
+    "title": "Items",
+    "stats": {},
+    "data_tables": [
+        {
+            "Unknown_Table": [
+                {
+                    "Tool": "Scooper",
+                    "Use": "Collects 5 pollen per second.",
+                    "Cost": "0 Honey(Default tool)",
+                    "Source": "Noob Shop"
+                },
+                {
+                    "Tool": "Rake",
+                    "Use": "Collects 8 pollen per second.",
+                    "Cost": "800 Honey",
+                    "Source": "Noob Shop"
+                },
+                {
+                    "Tool": "Clippers",
+                    "Use": "Collects 13.85 pollen per second.",
+                    "Cost": "2,200 Honey",
+                    "Source": "Noob Shop"
+                },
+                {
+                    "Tool": "Magnet",
+                    "Use": "Collects 18 pollen per second.",
+                    "Cost": "5,500 Honey",
+                    "Source": "Noob Shop"
+                },
+                {
+                    "Tool": "Vacuum",
+                    "Use": "Collects 32.5 pollen per second.",
+                    "Cost": "14,000 Honey",
+                    "Source": "Noob Shop"
+                },
+                {
+                    "Tool": "Super-Scooper",
+                    "Use": "Collects 40 pollen per second.",
+                    "Cost": "40,000 Honey",
+                    "Source": "Pro Shop"
+                },
+                {
+                    "Tool": "Pulsar",
+                    "Use": "Collects 58 pollen per second.",
+                    "Cost": "125,000 Honey",
+                    "Source": "Pro Shop"
+                },
+                {
+                    "Tool": "Electro-Magnet",
+                    "Use": "Collects 72 pollen per second.",
+                    "Cost": "300,000 Honey",
+                    "Source": "Pro Shop"
+                },
+                {
+                    "Tool": "Scissors",
+                    "Use": "Collects 120 pollen per second.",
+                    "Cost": "850,000 Honey",
+                    "Source": "Pro Shop"
+                },
+                {
+                    "Tool": "Honey Dipper",
+                    "Use": "Collects 108.89 pollen per second.",
+                    "Cost": "1,500,000 Honey",
+                    "Source": "Pro Shop"
+                },
+                {
+                    "Tool": "Bubble Wand",
+                    "Use": "Collects 240 pollen per second from blue flowers and 120 from white and red flowers.",
+                    "Cost": "3,500,000 Honey",
+                    "Source": "Blue HQ"
+                },
+                {
+                    "Tool": "Scythe",
+                    "Use": "Collects 238 pollen per second from red flowers and 119 from white and blue flowers.",
+                    "Cost": "3,500,000 Honey",
+                    "Source": "Red HQ"
+                },
+                {
+                    "Tool": "Sticker-Seeker",
+                    "Use": "Collects 130 pollen per second.",
+                    "Cost": "7,000,000 Honey\n1 Glue\n1 Oil\n5 Soft Waxes\n5 Neonberries\n10 Micro-Converters",
+                    "Source": "Hub Field Shop"
+                },
+                {
+                    "Tool": "Golden Rake",
+                    "Use": "Collects 149.33 pollen per second (238.93 with supercharged scoop). Every 5th scoop is supercharged to reach further and collect more.",
+                    "Cost": "20,000,000 Honey",
+                    "Source": "Mountain Top Shop"
+                },
+                {
+                    "Tool": "Spark Staff",
+                    "Use": "Collects 345 pollen per second at full potential.",
+                    "Cost": "60,000,000 Honey",
+                    "Source": "Mountain Top Shop"
+                },
+                {
+                    "Tool": "Porcelain Dipper",
+                    "Use": "Collects 324 pollen per second from white flowers and 216 from blue and red flowers. Every 10th scoop summons a pillar of light that collects massive pollen.",
+                    "Cost": "150,000,000 Honey",
+                    "Source": "Mountain Top Shop"
+                },
+                {
+                    "Tool": "Petal Wand",
+                    "Use": "Collects 528.57 pollen per second. Every 3rd swing fires a Petal Shuriken that causes bees to instantly convert pollen to honey.",
+                    "Cost": "1.5B Honey\n1 Spirit Petal\n10 Star Jellies\n25 Glitter\n75 Enzymes",
+                    "Source": "Petal Shop"
+                },
+                {
+                    "Tool": "Tide Popper",
+                    "Use": "Pierce through flowers and bubbles with torriental waves. Ramps up the more you pop, then unleashes tidal waves in a violent surge. Splash Balloons with tall waves to earn Tide Blessing.",
+                    "Cost": "2.5T Honey\n1,500 Blue Extracts\n150 Stingers\n150 Tropical Drinks\n75 Swirled Waxes\n50 Super Smoothies\n3 Comforting Vials",
+                    "Source": "Blue HQ"
+                },
+                {
+                    "Tool": "Dark Scythe",
+                    "Use": "Harvest flames to unlock their Dark potential. Tend a violent field of violet fire to enhance your Super-Crit power and Red Ability Conversion.",
+                    "Cost": "2.5T Honey\n1,500 Red Extracts\n150 Stingers\n100 Hard Waxes\n50 Caustic Waxes\n50 Super Smoothies\n3 Invigorating Vials",
+                    "Source": "Red HQ"
+                },
+                {
+                    "Tool": "Gummyballer",
+                    "Use": "Conjures up a delectible arsenal of gummy wrecking balls. Bombard Marks and Honey Tokens for massive gooey gains.",
+                    "Cost": "10T Honey\n1,500 Glues\n2,000 Gumdrops\n50 Caustic Waxes\n50 Super Smoothies\n5 Turpentines\n3 Satisfying Vials",
+                    "Source": "Gummy Bear's Lair"
+                }
+            ]
+        },
+        {
+            "Unknown_Table": [
+                {
+                    "Bag": "Pouch",
+                    "Capacity and bonus": "Holds 200 pollen.",
+                    "Cost": "0 Honey(Default bag)",
+                    "Source": "Noob Shop"
+                },
+                {
+                    "Bag": "Jar",
+                    "Capacity and bonus": "Holds 750 pollen.",
+                    "Cost": "650 Honey",
+                    "Source": "Noob Shop"
+                },
+                {
+                    "Bag": "Backpack",
+                    "Capacity and bonus": "Holds 3,500 pollen.",
+                    "Cost": "5,500 Honey",
+                    "Source": "Noob Shop"
+                },
+                {
+                    "Bag": "Canister",
+                    "Capacity and bonus": "Holds 10,000 pollen.\n+30% Convert Rate",
+                    "Cost": "22,000 Honey",
+                    "Source": "Noob Shop"
+                },
+                {
+                    "Bag": "Mega-Jug",
+                    "Capacity and bonus": "Holds 25,000 pollen.\n+40% Convert Rate",
+                    "Cost": "50,000 Honey",
+                    "Source": "Pro Shop"
+                },
+                {
+                    "Bag": "Compressor",
+                    "Capacity and bonus": "Holds 50,000 pollen.\n+55% Convert Rate",
+                    "Cost": "160,000 Honey",
+                    "Source": "Pro Shop"
+                },
+                {
+                    "Bag": "Elite Barrel",
+                    "Capacity and bonus": "Holds 125,000 pollen.\n+70% Convert Rate",
+                    "Cost": "650,000 Honey",
+                    "Source": "Pro Shop"
+                },
+                {
+                    "Bag": "Port-O-Hive",
+                    "Capacity and bonus": "Holds 250,000 pollen.\n+100% Convert Rate\n+5% Instant Conversion.",
+                    "Cost": "1,250,000 Honey",
+                    "Source": "Pro Shop"
+                },
+                {
+                    "Bag": "Blue Port-O-Hive",
+                    "Capacity and bonus": "Holds 400,000 pollen.\n+150% Convert Rate\n+10% Instant Blue Conversion\n+5% Blue Pollen\n+1 Blue Bee Attack",
+                    "Cost": "12,500,000 Honey\n2 Blue Extracts\n2 Soft Waxes",
+                    "Source": "Blue HQ"
+                },
+                {
+                    "Bag": "Red Port-O-Hive",
+                    "Capacity and bonus": "Holds 400,000 pollen.\n+150% Convert Rate\n+10% Instant Red Conversion\n+5% Red Pollen\n+1 Red Bee Attack",
+                    "Cost": "12,500,000 Honey\n2 Red Extracts\n2 Soft Waxes",
+                    "Source": "Red HQ"
+                },
+                {
+                    "Bag": "Porcelain Port-O-Hive",
+                    "Capacity and bonus": "Holds 600,000 pollen.\n+250% Convert Rate\n+10% Instant Conversion\n+50% White Pollen\n+10% Red Pollen\n+10% Blue Pollen\n+1 Bee Attack",
+                    "Cost": "250,000,000 Honey\n3 Glitter\n3 Soft Waxes\n10 Moon Charms",
+                    "Source": "Mountain Top Shop"
+                },
+                {
+                    "Bag": "Coconut Canister",
+                    "Capacity and bonus": "Holds 1,000,000 pollen.\n+400% Convert Rate\n+10% Instant Conversion\n+10% Instant White Conversion\n+100% White Pollen\n+5% Pollen\n+1 Bee Attack\n+Passive: Emergency Coconut Shield\n+Passive: Inspire Coconuts",
+                    "Cost": "25B Honey\n150 Tropical Drinks\n250 Coconuts\n150 Red Extracts\n150 Blue Extracts\n2 Refreshing Vials",
+                    "Source": "Coconut Cave"
+                }
+            ]
+        },
+        {
+            "Unknown_Table": [
+                {
+                    "Hat/Mask": "Helmet",
+                    "Description": "A hard hat that helps prevent head injuries.\n+10% Pollen\n+25% Defense",
+                    "Cost/Requirements": "30,000 Honey\n5 Pineapples\n1 Moon Charm",
+                    "Source": "Noob Shop"
+                },
+                {
+                    "Hat/Mask": "Propeller Hat",
+                    "Description": "A playful hat that keeps the sun out of your eyes.\n+15% Pollen\n+5% Bee Ability Rate\n+10% Defense\n+10 Jump Power",
+                    "Cost/Requirements": "2,500,000 Honey\n25 Gumdrops\n100 Pineapples\n5 Moon Charms",
+                    "Source": "Pro Shop"
+                },
+                {
+                    "Hat/Mask": "Beekeeper's Mask",
+                    "Description": "A veiled hat only worn by real-deal beekeepers.\n+20% Pollen\n+20% Bee Gather Pollen\n+10% Bee Ability Rate\n+25% Defense",
+                    "Cost/Requirements": "20,000,000 Honey\n5 Enzymes\n3 Glues\n1 Glitter",
+                    "Source": "Mountain Top Shop"
+                },
+                {
+                    "Hat/Mask": "Honey Mask",
+                    "Description": "This handsome mask is guaranteed to bring satisfaction into your life.\n+25% Pollen\n+25% Bee Gather Pollen\nx1.25 Capacity\n+50% Honey From Tokens\n+80 Convert Amount\n+30% Defense\n+15% Bee Ability Rate\n+Passive: Coin Scatter",
+                    "Cost/Requirements": "100,000,000 Honey\n9,999 Treats\n50 Oils\n25 Enzymes\n5 Gold Eggs",
+                    "Source": "Badge Bearer's Guild"
+                },
+                {
+                    "Hat/Mask": "Fire Mask",
+                    "Description": "Ignite your mind to enhance your Red bees.\nx1.5 Red Pollen\n+15% Instant Red Conversion\nx1.25 Capacity\n+50% Instant Flame Conversion\n+15% Bee Attack\n+35% Defense\n+15% Bee Ability Rate\n+Passive: Ignite",
+                    "Cost/Requirements": "100,000,000 Honey\n500 Strawberries\n50 Red Extracts\n25 Enzymes\n15 Glues",
+                    "Source": "Red HQ"
+                },
+                {
+                    "Hat/Mask": "Bubble Mask",
+                    "Description": "Harness the power of the sea to enhance your Blue Pollen gathering.\nx1.5 Blue Pollen\nx1.5 Capacity\nx1.25 Blue Field Capacity\nx1.25 Bubble Pollen\n+30% Defense\n+15% Bee Ability Rate\n+Passive: Bubble Bombs",
+                    "Cost/Requirements": "100,000,000 Honey\n500 Blueberries\n50 Blue Extracts\n25 Oils\n15 Glitter",
+                    "Source": "Blue HQ"
+                },
+                {
+                    "Hat/Mask": "Gummy Mask",
+                    "Description": "The official mask of a Gummy Soldier.\n+75% Goo\n+10% Goo Conversion\nx1.25 White Pollen\n+25% Pollen\nx1.5 Capacity\nx1.5 White Field Capacity\n+30% Defense\n+20% Bee Ability Rate\n+Passive: Coin Scatter (Need Honey Mask)\n+Passive: Gummy Morph",
+                    "Cost/Requirements": "5B Honey\n250 Glues\n100 Enzymes\n100 Oils\n100 Glitter\n1 Satisfying Vial",
+                    "Source": "Gummy Bear's Lair"
+                },
+                {
+                    "Hat/Mask": "Demon Mask",
+                    "Description": "Embrace hate to take on the form of a Demon Bee. Become both extremely unpleasant and powerful.\nx1.5 Red Pollen\n+25% Pollen\nx1.5 Capacity\nx1.5 Red Field Capacity\n+20% Instant Red Conversion\n+50% Instant Flame Conversion\nx1.25 Flame Pollen\n+25% Bee Attack\n+35% Defense\n+20% Bee Ability Rate\n+Passive: Ignite (Need Fire Mask)\n+Passive: X-Flame",
+                    "Cost/Requirements": "5B Honey\n500 Stingers\n250 Red Extracts\n150 Enzymes\n100 Glues\n1 Invigorating Vial",
+                    "Source": "Lava Obby"
+                },
+                {
+                    "Hat/Mask": "Diamond Mask",
+                    "Description": "Proudly show your extreme wealth to the world. Shine so brightly that others will complain.\nx1.5 Blue Pollen\n+25% Pollen\n+15% Instant Blue Conversion\nx1.5 Bubble Pollen\nx3 Capacity\n+35% Defense\n+20% Bee Ability Rate\n+Passive: Bubble Bombs (Needs Bubble Mask)\n+Passive: Diamond Drain",
+                    "Cost/Requirements": "5B Honey\n250 Blue Extracts\n150 Oils\n100 Glitter\n5 Diamond Eggs\n1 Comforting Vial",
+                    "Source": "Cloud Obby"
+                },
+                {
+                    "Hat/Mask": "Bubble Bee Man Mask",
+                    "Description": "+75,000 Capacity\n+25 Convert Amount\n+50% Honey From Tokens\n+1 Blue Bee Attack",
+                    "Cost/Requirements": "Obtained by completing Bubble Bee Man's quest, \"Helping B.B.M.\" during the Beesmas 2018 Event.",
+                    "Source": "Bubble Bee Man"
+                },
+                {
+                    "Hat/Mask": "Mondo Bubble Bee Man Mask",
+                    "Description": "+250,000 Capacity\n+50 Convert Amount\n+100% Honey From Tokens\n+1 Bee Attack",
+                    "Cost/Requirements": "Obtained by completing Bubble Bee Man's quest, \"B.B.M. Mission\", which was given out in the 30 Bee Zone during the Beesmas 2018 Event.",
+                    "Source": "Bubble Bee Man",
+                    "col_4": ""
+                }
+            ]
+        },
+        {
+            "Unknown_Table": [
+                {
+                    "Guard": "Brave Guard",
+                    "Description": "A right shoulder pad crafted by a Brave Bee.\n\n+15,000 Capacity\n+5% White Pollen\n+1 Colorless Bee Attack",
+                    "Cost/Requirement": "300,000 Honey\n3 Stingers",
+                    "Source": "Pro Shop"
+                },
+                {
+                    "Guard": "Hasty Guard",
+                    "Description": "A right shoulder pad crafted by a Hasty Bee.\n\n+15,000 Capacity\n+1% Bee Movespeed\nx1.1 Player Movespeed",
+                    "Cost/Requirement": "300,000 Honey\n5 Moon Charms",
+                    "Source": "Pro Shop"
+                },
+                {
+                    "Guard": "Bomber Guard",
+                    "Description": "A left shoulder pad crafted by a Bomber Bee.\n\n+15,000 Capacity\n+5% White Pollen\n+15% Bomb Pollen",
+                    "Cost/Requirement": "300,000 Honey\n25 Sunflower Seeds",
+                    "Source": "Pro Shop"
+                },
+                {
+                    "Guard": "Looker Guard",
+                    "Description": "A left shoulder pad crafted by a Looker Bee.\n\n+15,000 Capacity\n+1% Critical Chance\n+25% Critical Power",
+                    "Cost/Requirement": "300,000 Honey\n25 Sunflower Seeds",
+                    "Source": "Pro Shop"
+                },
+                {
+                    "Guard": "Blue Guard",
+                    "Description": "A durable pad worn on the right shoulder of Blue Beekeepers.\n\n+25,000 Capacity\n+15% Blue Pollen\n+5% Defense\n+1 Blue Bee Attack",
+                    "Cost/Requirement": "1,000,000 Honey\n50 Blueberries\n1 Royal Jelly\n3 Moon Charms",
+                    "Source": "Blue HQ"
+                },
+                {
+                    "Guard": "Elite Blue Guard",
+                    "Description": "A Blue Guard reserved for the most dedicated Blue Beekeepers.\n\n+75,000 Capacity\n+25% Blue Pollen\n+7% Defense\n+50% Critical Power\n+1 Blue Bee Attack",
+                    "Cost/Requirement": "5,000,000 Honey\n3 Blue Extracts\n50 Blueberries\n5 Royal Jellies\n15 Moon Charms",
+                    "Source": "Blue HQ"
+                },
+                {
+                    "Guard": "Bucko Guard",
+                    "Description": "A piece of armor forged by the leader of the Blue Bees!\n\n+150,000 Capacity\n+35% Blue Pollen\n+10% Defense\n+75% Critical Power\n+2 Blue Bee Attack",
+                    "Cost/Requirement": "30,000,000 Honey\n10 Blue Extracts\n100 Blueberries\n5 Glues\n75 Moon Charms",
+                    "Source": "Blue HQ"
+                },
+                {
+                    "Guard": "Red Guard",
+                    "Description": "A durable pad worn on the left shoulder of Red Beekeepers.\n\n+25,000 Capacity\n+15% Red Pollen\n+5% Defense\n+1 Red Bee Attack",
+                    "Cost/Requirement": "750,000 Honey\n50 Strawberries\n1 Royal Jelly\n1 Stinger",
+                    "Source": "Red HQ"
+                },
+                {
+                    "Guard": "Elite Red Guard",
+                    "Description": "A Red Guard reserved for the most dedicated Red Beekeepers.\n\n+75,000 Capacity\n+25% Red Pollen\n+7% Defense\n+5% Critical Chance\n+1 Red Bee Attack",
+                    "Cost/Requirement": "5,000,000 Honey\n3 Red Extracts\n50 Strawberries\n5 Royal Jellies\n5 Stingers",
+                    "Source": "Red HQ"
+                },
+                {
+                    "Guard": "Riley Guard",
+                    "Description": "A piece of armor forged by the leader of the Red Bees!\n\n+150,000 Capacity\n+35% Red Pollen\n+10% Defense\n+8% Critical Chance\n+2 Red Bee Attack",
+                    "Cost/Requirement": "30,000,000 Honey\n10 Red Extracts\n100 Strawberries\n5 Glues\n25 Stingers",
+                    "Source": "Red HQ"
+                },
+                {
+                    "Guard": "Cobalt Guard",
+                    "Description": "A guard bestowed with the heroic power of Cobalt Bee - Defender of the Blue Bees.\n\n+250,000 Capacity\n+50% Blue Pollen\n+20% Blue Bomb Pollen\n+3 Blue Bee Attack\n+10% Defense\n+100% Critical Power\n+Passive: Haste Pulser",
+                    "Cost/Requirement": "200,000,000 Honey\n100 Blue Extracts\n100 Stingers\n50 Enzymes\n25 Glitter",
+                    "Source": "Badge Bearer's Guild"
+                },
+                {
+                    "Guard": "Crimson Guard",
+                    "Description": "A guard bestowed with the heroic power of Crimson Bee - Defender of the Red Bees.\n\n+250,000 Capacity\n+50% Red Pollen\n+20% Red Bomb Pollen\n+3 Red Bee Attack\n+10% Defense\n+10% Critical Chance\n+Passive: Focus Pulser",
+                    "Cost/Requirement": "200,000,000 Honey\n100 Red Extracts\n100 Stingers\n50 Oils\n25 Glitter",
+                    "Source": "Badge Bearer's Guild"
+                }
+            ]
+        },
+        {
+            "Unknown_Table": [
+                {
+                    "Belt": "Belt Pocket",
+                    "Description": "Attaches to your waist to expand the size of your container.\n+5,000 Capacity\n+10 Convert Amount\n+15% Loot Luck",
+                    "Cost/Requirements": "14,000 Honey\n10 Sunflower Seeds",
+                    "Source": "Noob Shop"
+                },
+                {
+                    "Belt": "Belt Bag",
+                    "Description": "A convenient pouch designed for easy access.\n\n+25,000 Capacity\n+20 Convert Amount\n+50% Loot Luck",
+                    "Cost/Requirements": "440,000 Honey\n50 Pineapples\n50 Sunflower Seeds\n3 Stingers",
+                    "Source": "Pro Shop or Sun Bear"
+                },
+                {
+                    "Belt": "Mondo Belt Bag",
+                    "Description": "A highly-embelished Belt Bag imported from a far away land.\n+100,000 Capacity\n+50 Convert Amount\n+75% Loot Luck",
+                    "Cost/Requirements": "12,400,000 Honey\n1 Soft Wax\n150 Pineapples\n150 Sunflower Seeds\n10 Stingers",
+                    "Source": "Mountain Top Shop or Sun Bear"
+                },
+                {
+                    "Belt": "Honeycomb Belt",
+                    "Description": "A luxurious faux honeycombs you can wear as a belt to greatly enhance your pollen capacity.\n+150,000 Capacity\n+25% Capacity\n+75 Convert Amount\n+100% Loot Luck\n+20% Buzz Bomb Pollen\n+50% Honey From Tokens\n+1 Colorless Bee Attack",
+                    "Cost/Requirements": "75,000,000 Honey\n50 Enzymes\n50 Glues\n25 Oils",
+                    "Source": "Badge Bearer's Guild"
+                },
+                {
+                    "Belt": "Petal Belt",
+                    "Description": "Drape these petals about your waist to harness unlimited flower power.\n+250,000 Capacity\n+50% Capacity\n+100 Convert Amount\n+101% Loot Luck\n+75% Honey From Tokens\n+25% Buzz Bomb Pollen\n+1 Colorless Bee Attack\n+Passive: Petal Storm",
+                    "Cost/Requirements": "15B Honey\n25 Star Jellies\n50 Glitter\n100 Glues\n1 Spirit Petal",
+                    "Source": "Petal Shop"
+                },
+                {
+                    "Belt": "Coconut Belt",
+                    "Description": "This cumberbund creates Combo Coconuts that can be juggled for massive boosts!\n+350,000 Capacity\n+75% Capacity\n+120 Convert Amount\n+102% Loot Luck\n+100% Honey From Tokens\nx1.1 Coconut Field Pollen\n+10% Gifted Bee Pollen\n+1 Bee Attack\n+Passive Petal Storm (Needs Petal Belt)\n+Passive Combo Coconuts",
+                    "Cost/Requirements": "7.5T Honey\n500 Coconuts\n1,500 Tropical Drinks\n200 Purple Potions\n200 Hard Waxes\n3 Turpentines\n3 Refreshing Vials",
+                    "Source": "Coconut Cave"
+                }
+            ]
+        },
+        {
+            "Unknown_Table": [
+                {
+                    "Boots": "Basic Boots",
+                    "Description": "Collect pollen as you walk through flowers!\n+4 Player Movespeed\n+2 Movement Collection",
+                    "Cost/Requirements": "4,400 Honey\n3 Sunflower Seeds\n3 Blueberries",
+                    "Source": "Noob Shop"
+                },
+                {
+                    "Boots": "Hiking Boots",
+                    "Description": "A durable pair of boots helpful for traversing the mountain.\n+5 Player Movespeed\n+10 Jump Power\n+6 Movement Collection",
+                    "Cost/Requirements": "2,200,000 Honey\n50 Blueberries\n50 Strawberries",
+                    "Source": "Pro Shop"
+                },
+                {
+                    "Boots": "Beekeeper's Boots",
+                    "Description": "Practical and stylish boots that aid in the beekeeping process.\n+20% Bee Gather Pollen\n+6 Player Movespeed\n+20 Jump Power\n+10 Movement Collection",
+                    "Cost/Requirements": "15,000,000 Honey\n5 Oils\n3 Red Extracts\n3 Blue Extracts",
+                    "Source": "Mountain Top Shop"
+                },
+                {
+                    "Boots": "Coconut Clogs",
+                    "Description": "Kick around Coconuts with a pair of clunky kicks for a surge of speed.\n+15% Pollen\nx1.15 Coconut Field Pollen\n+25% Honey From Tokens\n+2 Bee Attack\n+7 Player Movespeed\n+22 Jump Power\n+14 Movement Collection\n+Passive: Coconut Haste",
+                    "Cost/Requirements": "10B Honey\n150 Coconuts\n50 Tropical Drinks\n100 Glues\n100 Oils\n1 Refreshing Vial",
+                    "Source": "Coconut Cave"
+                },
+                {
+                    "Boots": "Gummy Boots",
+                    "Description": "Squishy boots that leave a trail of Goo wherever you go.\n+25% Goo\n+20% Pollen\n+3 Bee Attack\n+50% Honey From Tokens\n+9 Player Movespeed\n+22 Jump Power\n+16 Movement Collection\n+Passive: Coconut Haste\n+Passive: Goo Trail",
+                    "Cost/Requirements": "100B Honey\n500 Glues\n250 Glitter\n250 Red Extracts\n250 Blue Extracts\n1 Satisfying Vial\n1 Motivating Vial",
+                    "Source": "Gummy Bear's Lair"
+                }
+            ]
+        },
+        {
+            "Unknown_Table": [
+                {
+                    "Amulet": "King Beetle Amulet",
+                    "Description": "The King Beetle Amulet is an amulet with a one in seven (or 14.287%) chance of dropping upon defeating the King Beetle (Loot Luck does not affect the probability or stats).",
+                    "Cost": "-",
+                    "Source": "King Beetle"
+                },
+                {
+                    "Amulet": "Moon Amulet",
+                    "Description": "The Moon Amulet is an amulet created by spending 100 Moon Charms at the Moon Amulet Generator. This amulet gives a few buffs and allows the player to walk on the moon-shaped platforms (located at the back of Dapper Bear\u2019s Shop, in the Diamond Room, and at the 30 Bee Zone Obby) at night.",
+                    "Cost": "100 Moon Charms",
+                    "Source": "Moon Amulet Generator"
+                },
+                {
+                    "Amulet": "Ant Amulet",
+                    "Description": "The Ant Amulet is an amulet that is always obtained from participating in the Ant Challenge.\nThe amulet gives the player buffs and will always boost Convert Rate. There are five tiers of Ant Amulets, each awarded at a certain amount of points in the Ant Challenge.",
+                    "Cost": "1 Ant Pass",
+                    "Source": "By participating in the Ant Challenge"
+                },
+                {
+                    "Amulet": "Star Amulet",
+                    "Description": "The Star Amulet is an amulet that can be purchased in five different tiers (Bronze, Silver, Gold, Diamond, and Supreme) from machines in the Star Hall. They grant buffs to the owner and always increase capacity as they go up a tier. Higher tier amulets grant more and better buffs. Diamond and Supreme Star Amulets also have additional Star Passive abilities. The more gifted bee types the player has discovered, the more likely the stats from the Star Amulets will be at maxed value.",
+                    "Cost": "25M-500B Honey",
+                    "Source": "Star Hall"
+                },
+                {
+                    "Amulet": "Shell Amulet",
+                    "Description": "The Shell Amulet is an amulet obtainable by defeating the Stump Snail in the Stump Field. Once the player's Stump Snail is defeated, the player is guaranteed to get a Shell Amulet.",
+                    "Cost": "-",
+                    "Source": "Stump Snail"
+                },
+                {
+                    "Amulet": "Stick Bug Amulet",
+                    "Description": "The Stick Bug Amulet is an amulet that can be obtained from the Stick Bug Challenge.\nIn order to obtain these amulets, the player will need to get Stick Bug to a certain level as well as reach a certain score during the Stick Bug Challenge. Stick Bug Amulets will have at least four buffs, with a fifth and sixth possible buff. These buffs can include -% monster respawn time, red or blue bee attack, general bee attack, and bond from battle.",
+                    "Cost": "-",
+                    "Source": "Stick Bug"
+                },
+                {
+                    "Amulet": "Cog Amulet",
+                    "Description": "The Cog Amulet is an amulet that can be obtained from the Robo Bear Challenge. In order to obtain these amulets, the player will need to beat certain rounds during the Robo Bear Challenge. The more rounds the player beats, the higher the tier of the Cog Amulet. The average stats of the amulet also scale higher the more cogs you collect in a round.",
+                    "Cost": "1 Robo Pass",
+                    "Source": "Robo Bear Challenge"
+                }
+            ]
+        },
+        {
+            "Unknown_Table": [
+                {
+                    "Gliding Tool": "Parachute",
+                    "Description": "A parachute you can use to glide down the mountain and reach new places! Press jump while in the air to open.",
+                    "Cost": "500,000 Honey",
+                    "Source": "Pro Shop"
+                },
+                {
+                    "Gliding Tool": "Glider",
+                    "Description": "Floats much faster than the Parachute, allowing you to fly through the sky!\nPress jump while in the air to open.",
+                    "Cost": "5,000,000 Honey",
+                    "Source": "Mountain Top Shop"
+                }
+            ]
+        },
+        {
+            "Unknown_Table": [
+                {
+                    "Planter": "Paper Planter",
+                    "Description": "When placed in a flower field, this grows in about 1 hour of playtime. Harvest it to gain around 50,000 Pollen. random items. and Nectar boosts!",
+                    "Cost/Requirement": "25,000 Honey\n1 Sunflower Seed",
+                    "Source": "Pro Shop"
+                },
+                {
+                    "Planter": "Ticket Planter",
+                    "Description": "Grows in about 2 hours of playtime. Grants tickets and spawns a Puffshroom!",
+                    "Cost/Requirement": "None",
+                    "Source": "Using the Samovar, buying it for 100 Snowflakes in Bee Bear's Catalog, completing certain quests."
+                },
+                {
+                    "Planter": "Festive Planter",
+                    "Description": "Grows in about 4 hours of playtime, grants many rewards and 3x nectar!",
+                    "Cost/Requirement": "None",
+                    "Source": "Completing certain quests of npcs during beesmas 2021, Bee Bear's Catalog."
+                },
+                {
+                    "Planter": "Sticker Planter",
+                    "Description": "Grows in about 3 hours of playtime. Always grants some Stickers and spawns a Puffshroom (Rare+)!",
+                    "Cost/Requirement": "None",
+                    "Source": "Sticker-Seeker Quest Machine, Robux Shop, Sticker Sprout"
+                },
+                {
+                    "Planter": "Plastic Planter",
+                    "Description": "A reusable planter that grows in about 2 hours. Stores around 250k Pollen. Harvest to collect random Items and Nectar boosts!",
+                    "Cost/Requirement": "750,000 Honey\n3 Magic Beans\n1 Soft Wax",
+                    "Source": "Dapper Bear's Shop"
+                },
+                {
+                    "Planter": "Candy Planter",
+                    "Description": "Alone, grows in about 4 hours and stores around 1 million Pollen. Grants bonus Gumdrops and Jelly Beans. \u2022 Grows 25% faster in the Strawberry Field, Pineapple Patch, and Coconut Field. \u2022 Gives 10% bonus White Pollen from harvests. \u2022 Grants +20% Motivating Nectar.",
+                    "Cost/Requirement": "5,000,000 Honey\n5 Magic Beans\n30 Gumdrops\n3 Jelly Beans\n5 Soft Waxes",
+                    "Source": "Dapper Bear's Shop"
+                },
+                {
+                    "Planter": "Tacky Planter",
+                    "Description": "Alone, grows in about 8 hours. Stores around 15 million Pollen. Grants bonus Field Dice and Sunflower Seeds.\n\u2022 Grows 25% faster and grants 100% Pollen on harvest in the starting zone.\n\u2022 Grants +25% Satisfying Nectar and Comforting Nectar.",
+                    "Cost/Requirement": "50,000,000 Honey\n10 Magic Beans\n1 Purple Potion\n5 Hard Waxes\n20 Soft Waxes",
+                    "Source": "Dapper Bear's Shop"
+                },
+                {
+                    "Planter": "Pesticide Planter",
+                    "Description": "Alone, grows in about 10 hours. Stores around 200 million Pollen. Grants bonus Bitterberries and Neonberries. \u2022 Grows 30% faster and grants +50% pollen on harvest in the 5 bee zone. \u2022 Bees with mutations are 25% more likely to sip Nectar from this. \u2022 Grants +30% Satisfying and Motivating Nectar.",
+                    "Cost/Requirement": "750,000,000 Honey\n25 Magic Beans\n25 Neonberries\n15 Glues\n3 Caustic Waxes\n10 Hard Waxes",
+                    "Source": "Dapper Bear's Shop"
+                },
+                {
+                    "Planter": "Blue Clay Planter",
+                    "Description": "Alone, grows in around 6 hours. Stores around 3 million pollen. Grants bonus Blue Extract, Micro-Converter and Honeysuckle. \u2022 Grows up to 25% faster in fields with blue flowers. \u2022 Gives 50% bonus blue pollen from harvests. \u2022 Blue bees are 25% more likely to sip Nectar from this. \u2022 Grants +20% Refreshing and Comforting Nectar.",
+                    "Cost/Requirement": "10,000,000 Honey\n5 Magic Beans\n15 Blue Extracts\n20 Soft Waxes",
+                    "Source": "Blue HQ"
+                },
+                {
+                    "Planter": "Red Clay Planter",
+                    "Description": "Alone, grows in around 6 hours. Stores around 3 million pollen. Grants bonus Red Extract and Wax \u2022 Grows up to 25% faster in fields with Red flowers. \u2022 Gives 50% bonus red pollen from harvests. \u2022 Red bees are 25% more likely to sip Nectar from this. \u2022 Grants +20% Invigorating and Satisfying Nectar.",
+                    "Cost/Requirement": "10,000,000 Honey\n5 Magic Beans\n15 Red Extracts\n20 Soft Waxes",
+                    "Source": "Red HQ"
+                },
+                {
+                    "Planter": "Heat-Treated Planter",
+                    "Description": "Alone, grows in about 12 hours. Stores around 10 billion Pollen. Grants Red Extracts and Enzymes.",
+                    "Cost/Requirement": "750B Honey\n75 Magic Beans\n750 Red Extracts\n150 Hard Waxes\n25 Swirled Waxes\n1 Turpentine",
+                    "Source": "Red HQ"
+                },
+                {
+                    "Planter": "Hydroponic Planter",
+                    "Description": "Alone, grows in about 12 hours. Stores around 10 billion Pollen. Grants bonus Blue Extract and Oils.",
+                    "Cost/Requirement": "750B Honey\n75 Magic Beans\n750 Blue Extracts\n500 Soft Waxes\n25 Caustic Waxes\n1 Turpentine",
+                    "Source": "Blue HQ"
+                },
+                {
+                    "Planter": "Petal Planter",
+                    "Description": "Alone, grows in about 14 hours. Stores around 100 billion Pollen. Grants bonus Jelly Beans, Field Dice and Glitter. \u2022 Grows up to 50% faster in fields with white flowers. \u2022 Colorless bees are 50% more likely to sip Nectar from this. \u2022 Grants +33% bonus white pollen on harvest. \u2022 Grants +50% Comforting and Satisfying Nectar.",
+                    "Cost/Requirement": "5T Honey\n100 Magic Beans\n100 Glitter\n250 Soft Waxes\n50 Swirled Waxes\n25 Super Smoothies",
+                    "Source": "Petal Shop"
+                },
+                {
+                    "Planter": "The Planter Of Plenty",
+                    "Description": "Alone, grows in about 16 hours. Stores around 1 trillion Pollen. Grants many bonus items, including Neonberries, Waxes and Turpentine. \u2022 Grows 50% faster and grants 50% more pollen on harvest in the Pepper Patch, Stump, Coconut and Mountain Top fields. \u2022 Gifted bees are 50% more likely to sip nectar from this. \u2022 Grants +50% of all Nectar types.",
+                    "Cost/Requirement": "100T Honey\n500 Magic Beans\n100 Super Smoothies\n100 Swirled Waxes\n100 Caustic Waxes\n25 Turpentines",
+                    "Source": "Dapper Bear's Shop"
+                }
+            ]
+        },
+        {
+            "Unknown_Table": [
+                {
+                    "Sprinkler": "Basic Sprinkler",
+                    "Description": "When planted in the ground, causes nearby flowers to regrow faster!\nCount: 1\nRadius: 7\nPower: 7\nRate: 5 Seconds\nSetup: 6 Seconds",
+                    "Cost/Requirement": "1,111,111 Honey\n15 Badges",
+                    "Source": "Badge Bearer's Guild"
+                },
+                {
+                    "Sprinkler": "Silver Soakers",
+                    "Description": "Two sprinklers which fire faster!\nCount: 2\nRadius: 7\nPower: 7\nRate: 4.5 Seconds\nSetup: 5 Seconds",
+                    "Cost/Requirement": "22,222,222 Honey\n10 Hotshot Badges",
+                    "Source": "Badge Bearer's Guild"
+                },
+                {
+                    "Sprinkler": "Golden Gushers",
+                    "Description": "Three gorgeous sprinklers with enormous range.\nCount: 3\nRadius: 8\nPower: 8\nRate: 4.5 Seconds\nSetup: 5 Seconds",
+                    "Cost/Requirement": "333,333,333 Honey\n10 Ace Badges",
+                    "Source": "Badge Bearer's Guild"
+                },
+                {
+                    "Sprinkler": "Diamond Drenchers",
+                    "Description": "Four enhanced sprinklers made of durable artificial diamond!\nCount: 4\nRadius: 8\nPower: 9\nRate: 4 Seconds\nSetup: 4 Seconds",
+                    "Cost/Requirement": "4.44B Honey\n10 Master Badges",
+                    "Source": "Badge Bearer's Guild"
+                },
+                {
+                    "Sprinkler": "The Supreme Saturator",
+                    "Description": "The ultimate sprinkler. Nobody knows how it works or where it came from.\nCount: 1\nRadius: 16\nPower: 10\nRate: 1 Second\nSetup: 3 Seconds",
+                    "Cost/Requirement": "55.5B Honey\n10 Grandmaster Badges",
+                    "Source": "Badge Bearer's Guild"
+                }
+            ]
+        },
+        {
+            "Unknown_Table": [
+                {
+                    "Item": "Sticker Book",
+                    "Description": "Stickers are cosmetics that you can stick to your hive! Some change the look of your hive or cub buddy. Earn them from achievements, loot, trading, and more!",
+                    "Cost/Requirement": "None",
+                    "Source": "-"
+                },
+                {
+                    "Item": "Beequip Case",
+                    "Description": "Holds accessories for your bees to wear!",
+                    "Cost/Requirement": "None",
+                    "Source": "Talking to Dapper Bear for the first time"
+                }
+            ]
+        },
+        {
+            "Unknown_Table": [
+                {
+                    "Item": "Hive Slot",
+                    "Description": "Adds an additional slot to your hive.",
+                    "Cost/Requirement": "Increasing honey starting at 3,000,000 honey, up to 2,169,203,229,760 for the last hive slot.",
+                    "Source": "Mountain Top Shop"
+                },
+                {
+                    "Item": "Ornaments",
+                    "Description": "N/A",
+                    "Cost/Requirement": "None",
+                    "Source": "Completing specific quests by all Quest Givers except Honey Bee (NPC) during the Beesmas 2019 Event.\nDelivering a present to all Quest Givers except Honey Bee (NPC) during the Beesmas 2020 Event.",
+                    "col_4": ""
+                },
+                {
+                    "Item": "Snowflake",
+                    "Description": "Sends a cool, soothing breeze to all the players on the server (Melts after Beesmas!)",
+                    "Cost/Requirement": "None",
+                    "Source": "None",
+                    "col_4": ""
+                },
+                {
+                    "Item": "Ticket",
+                    "Description": "Used to activate and purchase special things!",
+                    "Cost/Requirement": "Varies",
+                    "Source": "Ticket Shop, Robux Shop, Memory Match, Meteors, Mobs, Honeystorm, Sprouts"
+                },
+                {
+                    "Item": "Cog",
+                    "Description": "Used for purchases during Robo Bear's Challenge. Removed when the challenge ends.",
+                    "Cost/Requirement": "None",
+                    "Source": "None",
+                    "col_4": ""
+                },
+                {
+                    "Item": "Sprinkler Builder",
+                    "Description": "Use while standing in flowers to place a Sprinkler.",
+                    "Cost/Requirement": "None",
+                    "Source": "Obtained after getting a Sprinkler from the Badge Bearer's Guild"
+                },
+                {
+                    "Item": "Gumdrops",
+                    "Description": "Use while standing in a field to cover flowers in goo. Goo grants bonus honey.",
+                    "Cost/Requirement": "1 Ticket per 3",
+                    "Source": "Gumdrop Shop, Blender, Memory Match, Meteors, Mobs"
+                },
+                {
+                    "Item": "thumbsCoconut",
+                    "Description": "Drops a huge Coconut into the field. Catch it to convert pollen to Honey Tokens.",
+                    "Cost/Requirement": "Varies",
+                    "Source": "Coconut Crab, Coconut Field, Coconut Dispenser, Memory Match, Cub Buddy, Sprouts, certain codes"
+                },
+                {
+                    "Item": "Stinger",
+                    "Description": "Grants your bees x1.5 attack for 30 seconds.",
+                    "Cost/Requirement": "10 Tickets",
+                    "Source": "Rogue Vicious Bee, Memory Match, Stinger Shop"
+                },
+                {
+                    "Item": "Micro-Converter",
+                    "Description": "Instantly converts all Pollen in your bag to Honey.",
+                    "Cost/Requirement": "None",
+                    "Source": "Quests, Mobs, Memory Match, certain codes, Mondo Chick"
+                },
+                {
+                    "Item": "Honeysuckle",
+                    "Description": "Automatically makes bees instantly convert some Pollen into Honey when your bag becomes full. (Cooldown 30s)",
+                    "Cost/Requirement": "None",
+                    "Source": "Samovar, Ladybugs, Planters, Winter Memory Match"
+                },
+                {
+                    "Item": "Whirligig",
+                    "Description": "Swiftly carries you and your bees back to your hive.",
+                    "Cost/Requirement": "None",
+                    "Source": "Planters, Rhino Beetle"
+                },
+                {
+                    "Item": "Jelly Beans",
+                    "Description": "Scatters various buff-granting beans on nearby flowers. Works best when shared.",
+                    "Cost/Requirement": "None",
+                    "Source": "Bears' Quests, Ant Challenge, Memory Match, Cub Buddy gifts, Planters"
+                },
+                {
+                    "Item": "Red Extract",
+                    "Description": "Grants x1.25 Red Pollen for 10 minutes.",
+                    "Cost/Requirement": "50 Strawberries\n10 Royal Jellies",
+                    "Source": "Blender, Memory Match, Gifted Riley Bee's quests, Ladybug (rare), Planters"
+                },
+                {
+                    "Item": "Blue Extract",
+                    "Description": "Grants x1.25 Blue Pollen for 10 minutes.",
+                    "Cost/Requirement": "50 Blueberries\n10 Royal Jellies",
+                    "Source": "Blender, Memory Match, Gifted Bucko Bee's quests, Rhino Beetle (rare), Planters"
+                },
+                {
+                    "Item": "Glitter",
+                    "Description": "Boosts the field you're standing in, granting +100% pollen for 15 minutes.",
+                    "Cost/Requirement": "25 Moon Charms\n1 Magic Bean",
+                    "Source": "Blender, Memory Match, Spirit Bear's Quests, Meteors, Mobs, Fireflies, Planters"
+                },
+                {
+                    "Item": "Glue",
+                    "Description": "Grants x1.25 Bee Gather Pollen and Tools for 10 minutes.",
+                    "Cost/Requirement": "50 Gumdrops\n10 Royal Jellies",
+                    "Source": "Blender, Glue Dispenser, Memory Match, Mobs, Gummy Sprout, Planters"
+                },
+                {
+                    "Item": "Oil",
+                    "Description": "Grants x1.2 Bee and Player Movespeed for 10 minutes.",
+                    "Cost/Requirement": "50 Sunflower Seeds\n10 Royal Jellies",
+                    "Source": "Blender, Memory Match, Mobs, Sprouts"
+                },
+                {
+                    "Item": "Enzymes",
+                    "Description": "Grants +10% Instant Conversion and x1.25 Conversion Rate for 10 minutes.",
+                    "Cost/Requirement": "50 Pineapples\n10 Royal Jellies",
+                    "Source": "Blender, Memory Match, Mobs, Sprouts"
+                },
+                {
+                    "Item": "thumbsTropical Drink",
+                    "Description": "Grants x1.25 White Pollen and +5% Critical Chance for 10 minutes.",
+                    "Cost/Requirement": "10 Coconuts\n2 Enzymes\n2 Oils",
+                    "Source": "Coconut Crab, Coconut Field, Memory Match, Blender, Sprout (in Coconut Field)"
+                },
+                {
+                    "Item": "Purple Potion",
+                    "Description": "Grants x1.25 Capacity, x1.25 Convert Rate At Hive, x1.5 Red Pollen, x1.5 Blue Pollen, x1.3 Bee Gather Pollen, and x1.3 Pollen From Tools for 15 minutes.",
+                    "Cost/Requirement": "3 Red Extracts\n3 Blue Extracts\n3 Neonberries\n3 Glues",
+                    "Source": "Blender, Black Bear's \"Mountain Mix\" quest, Tunnel Bear, King Beetle, Mythic Meteors"
+                },
+                {
+                    "Item": "Super Smoothie",
+                    "Description": "Grants x1.5 Capacity, x1.6 Red Pollen, x1.6 Blue Pollen, x1.6 White Pollen, x1.4 Bee Gather Pollen, x1.4 Pollen From Tools, x2 Convert Rate, x1.5 Convert Rate At Hive, +12% Instant Conversion, +7% Critical Chance, x1.25 Bee Movespeed, and x1.25 Player Movespeed for 20 minutes.",
+                    "Cost/Requirement": "3 Neonberries\n3 Star Jellies\n3 Purple Potions\n6 Tropical Drinks",
+                    "Source": "Blender, Tunnel Bear, Meteors, Diamond Aphid"
+                },
+                {
+                    "Item": "Marshmallow Bee",
+                    "Description": "50% White Pollen, +50% Capacity, and +250% Conversion Rate for 30 minutes.",
+                    "Cost/Requirement": "None",
+                    "Source": "Bears' Quests during the Egg Hunt 2019 event (Currently unobtainable), Mondo Chick, Codes"
+                },
+                {
+                    "Item": "Magic Bean",
+                    "Description": "Plants a random Sprout in the field you're standing in.",
+                    "Cost/Requirement": "20 Tickets",
+                    "Source": "Magic Bean Shop, Robux Shop, Memory Match"
+                },
+                {
+                    "Item": "Festive Bean",
+                    "Description": "Plants a Festive Sprout in the field you're standing in.",
+                    "Cost/Requirement": "None",
+                    "Source": "Very rare chance from Festive Gift, certain Ornament Presents, gift boxes and packs during Beesmas."
+                },
+                {
+                    "Item": "thumbsCloud Vial",
+                    "Description": "Summons a Cloud in the field you're standing in. Lasts for 3 minutes.",
+                    "Cost/Requirement": "None",
+                    "Source": "Around the 35 area, Wild Windy Bee, Memory Match and codes"
+                },
+                {
+                    "Item": "Night Bell",
+                    "Description": "Summons nighttime. A Moon sprout and Rogue Vicious Bee are guaranteed to appear.",
+                    "Cost/Requirement": "None",
+                    "Source": "Robux Shop, Mobs, Memory Match, Wind Shrine Badge reward"
+                },
+                {
+                    "Item": "Box-O-Frogs",
+                    "Description": "Summons 3 Frogs that last for 3 minutes.",
+                    "Cost/Requirement": "None",
+                    "Source": "Completing certain quests"
+                },
+                {
+                    "Item": "Translator",
+                    "Description": "A device used to decipher languages you don't understand.",
+                    "Cost/Requirement": "None",
+                    "Source": "Science Bear\u2019s translator quests"
+                },
+                {
+                    "Item": "Present",
+                    "Description": "A festively wrapped gift.",
+                    "Cost/Requirement": "None",
+                    "Source": "Bee Bear quests and other varied ways during the Beesmas event (Currently obtainable)"
+                },
+                {
+                    "Item": "thumbsSpirit Petal",
+                    "Description": "A delicate flower petal used in rituals.",
+                    "Cost/Requirement": "None",
+                    "Source": "Spirit Bear's quests."
+                },
+                {
+                    "Item": "Bloom Shaker",
+                    "Description": "Grows Blooms in the field you're standing in. Collect their Petals for Honey and boosts.",
+                    "Cost/Requirement": "TBA",
+                    "Source": "Bee Bear Catalog",
+                    "col_4": ""
+                }
+            ]
+        },
+        {
+            "Unknown_Table": [
+                {
+                    "Item": "Field Dice",
+                    "Description": "Boosts a random field, granting +100% pollen for 15 minutes.",
+                    "Cost/Requirement": "1 Soft Wax\n1 Whirligig\n1 Red Extract\n1 Blue Extract",
+                    "Source": "Black Bear's quests, mobs, certain codes, Memory Match, Brown Bear's quests, Meteors, Mondo Chick, Blender"
+                },
+                {
+                    "Item": "Smooth Dice",
+                    "Description": "Boosts 2 random fields with +200% pollen for 15 minutes.",
+                    "Cost/Requirement": "3 Field Dice\n3 Soft Waxes\n3 Whirligigs\n3 Oils",
+                    "Source": "Mantis, King Beetle, Blender"
+                },
+                {
+                    "Item": "Loaded Dice",
+                    "Description": "Boosts 3 random fields with +300% pollen for 15 minutes. A bit biased towards the field you're in...",
+                    "Cost/Requirement": "3 Smooth Dice\n3 Hard Waxes\n3 Oils\n1 Glue",
+                    "Source": "Werewolf, Tunnel Bear, Blender, Puffshrooms"
+                }
+            ]
+        },
+        {
+            "Unknown_Table": [
+                {
+                    "Item": "Ant Pass",
+                    "Description": "Grants one attempt at the Ant Challenge.",
+                    "Cost/Requirement": "10 Tickets",
+                    "Source": "Ant Pass Dispenser, Free Ant Pass Dispenser, Panda Bear Star Treat Quests"
+                },
+                {
+                    "Item": "Robo Pass",
+                    "Description": "Used to activate Robo Bear's Challenge.",
+                    "Cost/Requirement": "50 Tickets",
+                    "Source": "Robo Pass Dispenser, Free Robo Pass Dispenser, Mobs, Ant Challenge, Puffshrooms"
+                }
+            ]
+        },
+        {
+            "Unknown_Table": [
+                {
+                    "Item": "Treat",
+                    "Use": "Raises the Bond of a bee by 10.",
+                    "Cost": "From 100 Honey to 10,000 Honey.",
+                    "Source": "Treat Shop, certain Dispensers, certain packs from the Robux Shop, Mobs, Memory Match, Meteors"
+                },
+                {
+                    "Item": "Atomic Treat",
+                    "Use": "Raises the Bond of a bee by 1,000 and grants a random mutation.",
+                    "Cost": "None",
+                    "Source": "Meteor shower, Robo Bear Challenge, Debug Sprouts"
+                },
+                {
+                    "Item": "Star Treat",
+                    "Use": "Raises the Bond of a bee by 1,000 and transforms it into a Gifted Bee.",
+                    "Cost": "1,000 Tickets",
+                    "Source": "Ticket Tent, certain quests, Memory Match, drops from certain mobs (extremely rare)"
+                },
+                {
+                    "Item": "Sunflower Seed",
+                    "Use": "Raises the Bond of a bee by 25.",
+                    "Cost": "None",
+                    "Source": "Mobs, Memory Match, Sprouts, certain codes"
+                },
+                {
+                    "Item": "Strawberry",
+                    "Use": "Raises the Bond of a bee by 25.",
+                    "Cost": "None",
+                    "Source": "Mobs, the Strawberry Dispenser, Memory Match, Sprouts, certain codes"
+                },
+                {
+                    "Item": "Pineapple",
+                    "Use": "Raises the Bond of a bee by 25.",
+                    "Cost": "None",
+                    "Source": "Mobs, the Treat Dispenser, Memory Match, Sprouts, certain codes"
+                },
+                {
+                    "Item": "Blueberry",
+                    "Use": "Raises the Bond of a bee by 25.",
+                    "Cost": "None",
+                    "Source": "Mobs, the Blueberry Dispenser, Memory Match, Sprouts, certain codes"
+                },
+                {
+                    "Item": "Bitterberry",
+                    "Use": "Raises the Bond of a bee by 100 and has a chance to grant a mutation.",
+                    "Cost": "None",
+                    "Source": "Drops from certain mobs, certain quests, certain codes, Meteors, Debug Sprouts"
+                },
+                {
+                    "Item": "Neonberry",
+                    "Use": "Raises the Bond of a bee by 500 and will make it radioactive for a short period of time.",
+                    "Cost": "None",
+                    "Source": "Drops from certain mobs, certain quests, certain codes, Meteors, Specific Planters (Pesticide)"
+                },
+                {
+                    "Item": "Moon Charm",
+                    "Use": "Raises the Bond of a bee by 250.",
+                    "Cost": "5 Pineapples\n5 Gumdrops\n1 Royal Jelly",
+                    "Source": "Blender, mobs, Memory Match, Moon Sprouts, Meteors, Fireflies"
+                },
+                {
+                    "Item": "Aged Gingerbread Bear",
+                    "Use": "This cookie has aged an entire year or more! Gives 500 bond to the fed bee and has a 1.1% chance to turn that bee Gifted.",
+                    "Cost": "None",
+                    "Source": "None",
+                    "col_4": ""
+                },
+                {
+                    "Item": "Gingerbread Bear",
+                    "Use": "\"A cookie shaped like a bear! Gives 250 bond to the fed bee and has a 1% chance to turn that bee Gifted.",
+                    "Cost": "None",
+                    "Source": "None"
+                }
+            ]
+        },
+        {
+            "Unknown_Table": [
+                {
+                    "Item": "White Drive",
+                    "Use": "Grants the following boosts during a single round of Robo Bear's Challenge:\nx1.25 White Pollen\nx1.25 White Field Capacity\n+1 White Bee Attack",
+                    "Cost": "250,000 Honey (Increases every time)\n50 Cogs",
+                    "Source": "Robo Bear's Shop, Robo Bear Challenge"
+                },
+                {
+                    "Item": "Red Drive",
+                    "Use": "Grants the following boosts during a single round of Robo Bear's Challenge:\nx1.25 Red Pollen\nx1.25 Red Field Capacity\n+1 Red Bee Attack",
+                    "Cost": "250,000 Honey (Increases every time)\n50 Cogs",
+                    "Source": "Robo Bear's Shop, Robo Bear Challenge"
+                },
+                {
+                    "Item": "Blue Drive",
+                    "Use": "Grants the following boosts during a single round of Robo Bear's Challenge:\nx1.25 Blue Pollen\nx1.25 Blue Field Capacity\n+1 Blue Bee Attack",
+                    "Cost": "250,000 Honey (Increases every time)\n50 Cogs",
+                    "Source": "Robo Bear's Shop, Robo Bear Challenge"
+                },
+                {
+                    "Item": "Glitched Drive",
+                    "Use": "Grants the following boosts during a single round of Robo Bear's Challenge:\nx1.25 Pollen\nx1.25 Capacity\n+1 Bee Attack",
+                    "Cost": "1,000,000 Honey (Increases every time)\n100 Cogs\n5 Red Drives\n5 Blue Drives\n5 White Drives",
+                    "Source": "Robo Bear's Shop, Robo Bear Challenge"
+                },
+                {
+                    "Item": "Broken Drive",
+                    "Use": "Looks like a poorly preserved computer part. Maybe someone can fix it...",
+                    "Cost": "None",
+                    "Source": "Found behind the Robo Pass Dispensers in the 30 Bee Zone."
+                }
+            ]
+        },
+        {
+            "Unknown_Table": [
+                {
+                    "Item": "Comforting Vial",
+                    "Use": "Grants 4 hours of Comforting Nectar. (Boosts: Blue Pollen, Convert Rate, Convert Rate at hive.)",
+                    "Cost": "None",
+                    "Source": "Dapper Bear's quests, Nectar Condenser"
+                },
+                {
+                    "Item": "Invigorating Vial",
+                    "Use": "Grants 4 hours of Invigorating Nectar. (Boosts: Red Pollen, Convert Rate, Bee Attack.)",
+                    "Cost": "None",
+                    "Source": "Dapper Bear's quests, Nectar Condenser"
+                },
+                {
+                    "Item": "Motivating Vial",
+                    "Use": "Grants 4 hours of Motivating Nectar. (Boosts: Blue Pollen, Convert Rate, Bee Ability Pollen)",
+                    "Cost": "None",
+                    "Source": "Dapper Bear's quests, Nectar Condenser"
+                },
+                {
+                    "Item": "Refreshing Vial",
+                    "Use": "Grants 4 hours of Refreshing Nectar. (Boosts: Red Pollen, Blue Convert Rate, Bee Ability Pollen)",
+                    "Cost": "None",
+                    "Source": "Dapper Bear's quests, Nectar Condenser"
+                },
+                {
+                    "Item": "Satisfying Vial",
+                    "Use": "Grants 4 hours of Satisfying Nectar. (Boosts: White Pollen, Red Convert Rate, Honey at Hive)",
+                    "Cost": "None",
+                    "Source": "Dapper Bear's quests, Nectar Condenser"
+                },
+                {
+                    "Item": "Nectar Shower Vial",
+                    "Use": "Grants 4 hours of all Nectar types to every player in the server!",
+                    "Cost": "None",
+                    "Source": "Purchasing the Royal Winter Wonder Haul pack from the Robux Shop"
+                },
+                {
+                    "Item": "Nectar Tester",
+                    "Use": "This test item grant 24 hours of all Nectars.",
+                    "Cost": "None",
+                    "Source": "A reward for completing Bubble Bee Man\u2019s \"BBM's Naughty List\" during Beesmas 2024."
+                }
+            ]
+        },
+        {
+            "Unknown_Table": [
+                {
+                    "Item": "Pink Balloon",
+                    "Use": "Floats on the field for 3 minutes, storing and doubling pollen you collect beneath it. Then it floats to your hive!",
+                    "Cost": "None",
+                    "Source": "Retro Swarm Challenge, Mobs"
+                },
+                {
+                    "Item": "Red Balloon",
+                    "Use": "Floats over the field for 3 minutes. Stores up to 5x your capacity and works best with Red flowers.",
+                    "Cost": "None",
+                    "Source": "Scorpion (Exceptionally Rare), Dapper Bear's quests, Sticker-Seeker Quest Machine"
+                },
+                {
+                    "Item": "White Balloon",
+                    "Use": "Floats over the field for 5 minutes. Stores up to 10x your capacity and works best with White flowers.",
+                    "Cost": "None",
+                    "Source": "Spider (Very Rare), Robo Bear Challenge, Dapper Bear's quests"
+                },
+                {
+                    "Item": "Black Balloon",
+                    "Use": "Floats over the field for 5 minutes. Stores up to 25x your capacity and increases pollen inside x4.",
+                    "Cost": "None",
+                    "Source": "Spider (Exceptionally Rare), Tunnel Bear (Exceptionally Rare), Dapper Bear's quests, Sticking Black Star Stickers to the Sticker Stack"
+                }
+            ]
+        },
+        {
+            "Unknown_Table": [
+                {
+                    "Item": "Soft Wax",
+                    "Use": "A squishy hunk of beeswax. Has a 100% chance to slightly improve a bee\u2019s Beequip.",
+                    "Cost": "5 Honeysuckles\n1 Oil\n1 Enzymes\n10 Royal Jellies",
+                    "Source": "Puffshrooms, Blender"
+                },
+                {
+                    "Item": "Hard Wax",
+                    "Use": "A firm hunk of beeswax. Has a 60% chance to improve a bee\u2019s Beequip.",
+                    "Cost": "3 Soft Waxes\n3 Enzymes\n33 Bitterberries\n33 Royal Jellies",
+                    "Source": "Rare Puffshrooms, Blender"
+                },
+                {
+                    "Item": "Caustic Wax",
+                    "Use": "A glowing hunk of beeswax. Has a 25% Chance to GREATLY improve a beequip, but a 75% chance to DESTROY it!.",
+                    "Cost": "5 Hard Waxes\n4 Enzymes\n25 Neonberries\n5,252 Royal Jellies",
+                    "Source": "Planters, Blender"
+                },
+                {
+                    "Item": "Debug Wax",
+                    "Use": "100% chance to greatly improve a Beequip.",
+                    "Cost": "None",
+                    "Source": "A reward for completing Bubble Bee Man\u2019s \"BBM's Naughty List\" during Beesmas 2024."
+                },
+                {
+                    "Item": "Swirled Wax",
+                    "Use": "A spiraled hunk of beeswax. Used to redetermine the stats of a bee's Beequip.",
+                    "Cost": "3 Hard Waxes\n9 Soft Waxes\n6 Purple Potions\n3,333 Royal Jellies",
+                    "Source": "Epic Puffshrooms, Planters, Blender"
+                },
+                {
+                    "Item": "Turpentine",
+                    "Use": "A strong solvent that can remove all Waxes from a bee's Beequip.",
+                    "Cost": "10 Super Smoothies\n10 Caustic Waxes\n100 Star Jellies\n1,000 Honeysuckles",
+                    "Source": "Epic, Legendary, and Mythic Puffshrooms, Blender, Robo Bear Challenge"
+                }
+            ]
+        },
+        {
+            "Unknown_Table": [
+                {
+                    "Item": "Basic Egg",
+                    "Use": "Usually hatches into a Basic Bee.",
+                    "Cost": "From 1,000 Honey to 10,000,000 Honey",
+                    "Source": "Basic Egg Shop, joining the game for the first time"
+                },
+                {
+                    "Item": "Silver Egg",
+                    "Use": "Hatches into a Rare, Epic, Legendary, or Mythic Bee.",
+                    "Cost": "50 Tickets",
+                    "Source": "Ticket Tent, Drops from certain mobs, certain quests, certain codes, Rare Sprouts"
+                },
+                {
+                    "Item": "Gifted Silver Egg",
+                    "Use": "Hatches into a Gifted Rare, Epic, Legendary, or Mythic Bee.",
+                    "Cost": "N/A",
+                    "Source": "Rare drop from Tunnel Bear, Stump Snail, Werewolves, and Scorpions. Reward for some Quests."
+                },
+                {
+                    "Item": "Gold Egg",
+                    "Use": "Hatches into an Epic, Legendary, or Mythic Bee.",
+                    "Cost": "100 Tickets",
+                    "Source": "Ticket Tent, drops from certain mobs, certain quests, Epic Sprouts, Memory Match"
+                },
+                {
+                    "Item": "Gifted Gold Egg",
+                    "Use": "Hatches into a Gifted Epic, Legendary, or Mythic Bee.",
+                    "Cost": "N/A",
+                    "Source": "Rare drop from Tunnel Bear, Stump Snail, Coconut Crab, and Mantises. Reward for some Quests."
+                },
+                {
+                    "Item": "Diamond Egg",
+                    "Use": "Hatches into a Legendary or Mythic Bee.",
+                    "Cost": "400 Tickets",
+                    "Source": "Ticket Tent, Drops from certain mobs, certain quests, Legendary and Supreme Sprouts, Memory Match"
+                },
+                {
+                    "Item": "Gifted Diamond Egg",
+                    "Use": "Hatches into a Gifted Legendary, or Mythic Bee.",
+                    "Cost": "N/A",
+                    "Source": "Rare drop from Tunnel Bear, Stump Snail, and Coconut Crab. Reward for some Quests."
+                },
+                {
+                    "Item": "Mythic Egg",
+                    "Use": "Always hatches into a Mythic Bee.",
+                    "Cost": "2,500 Tickets",
+                    "Source": "Ticket Tent, Mythic Meteor, drops from certain bosses, certain quests, Ornament Presents"
+                },
+                {
+                    "Item": "Gifted Mythic Egg",
+                    "Use": "Hatches into a Gifted Mythic Bee.",
+                    "Cost": "N/A",
+                    "Source": "Reward for some Quests, bought from Bee Bear's Catalog during Beesmas."
+                },
+                {
+                    "Item": "Choose-A-Mythic Egg",
+                    "Use": "Always hatches into a Mythic Bee of your choice!",
+                    "Cost": "Currently on sale in the Mythic Pack",
+                    "Source": "Purchasing specific packs from the Robux Shop"
+                },
+                {
+                    "Item": "Star Egg",
+                    "Use": "Hatches into any non-owned gifted bee.",
+                    "Cost": "N/A",
+                    "Source": "Exceptionally rare drop from Tunnel Bear, King Beetle, and Party Mechsquito. Reward from certain Quests."
+                },
+                {
+                    "Item": "Royal Jelly",
+                    "Use": "Transforms a bee into a random Rare, Epic, Legendary, or Mythic bee.",
+                    "Cost": "Varies",
+                    "Source": "Royal Jelly Shop, Royal Jelly Dispenser, Robux Shop, Memory Match, Meteors"
+                },
+                {
+                    "Item": "Star Jelly",
+                    "Use": "Transforms a bee into a random Gifted Rare, Epic, Legendary, or Mythic bee.",
+                    "Cost": "Varies",
+                    "Source": "Blender, Robux Shop, Memory Match, Meteors"
+                }
+            ]
+        },
+        {
+            "Unknown_Table": [
+                {
+                    "Item": "Eviction",
+                    "Use": "Removes a bee in your hive.",
+                    "Cost": "50,000 Honey",
+                    "Source": "Mountain Top Shop, one of Bubble Bee Man\u2019s quests (Permanently Unobtainable)"
+                },
+                {
+                    "Item": "thumbsPlastic Egg",
+                    "Use": "Turn in 3 to Brown Bear for a prize!",
+                    "Cost": "None",
+                    "Source": "Around the Starter Zone (Currently unobtainable)"
+                },
+                {
+                    "Item": "7-Pronged Cog",
+                    "Use": "A component used in mysterious electronics.",
+                    "Cost": "None",
+                    "Source": "Redeeming certain Codes"
+                },
+                {
+                    "Item": "Strange Goggles",
+                    "Use": "This futuristic looking headset doesn't seem to do very much...\n+77 Capacity\n+7% Defense",
+                    "Cost": "77 Honey\n1 Micro-Converter\n7 7-Pronged Cogs",
+                    "Source": "Noob Shop"
+                }
+            ]
+        }
+    ]
+}

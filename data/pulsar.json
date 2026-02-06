@@ -1,0 +1,78 @@
+{
+    "title": "Pulsar",
+    "stats": {},
+    "data_tables": [
+        {
+            "Unknown_Table": [
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                }
+            ]
+        },
+        {
+            "Unknown_Table": [
+                {
+                    "Flowers": "White",
+                    "Single": "2",
+                    "Double": "4",
+                    "Triple": "6",
+                    "Large": "8",
+                    "Star": "10"
+                },
+                {
+                    "Flowers": "Red",
+                    "Single": "2",
+                    "Double": "4",
+                    "Triple": "6",
+                    "Large": "8",
+                    "Star": "10"
+                },
+                {
+                    "Flowers": "Blue",
+                    "Single": "2",
+                    "Double": "4",
+                    "Triple": "6",
+                    "Large": "8",
+                    "Star": "10"
+                },
+                {
+                    "Flowers": "Special Multiplier(s): None"
+                }
+            ]
+        },
+        {
+            "Unknown_Table": [
+                {
+                    "Crafting Ingredients": "125,000 Honey"
+                }
+            ]
+        }
+    ]
+}

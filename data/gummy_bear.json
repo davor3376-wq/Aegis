@@ -1,0 +1,254 @@
+{
+    "title": "Gummy Bear",
+    "stats": {},
+    "data_tables": [
+        {
+            "Lair Dialogue": [
+                {
+                    "Dialogue": "A beekeeper approaches, Gummy Bee!"
+                },
+                {
+                    "Dialogue": "-Talk to Gummy Bear-\n\nOur Gummy Army marches forward at a steady, viscous pace. An inevitable ooze that envelopes  all things, uniting us all! This glorious gummy world awaits you and your Gummy Bee as well. A place where nothing is bitter, and EVERYTHING is sweet!",
+                    "col_1": "-Return to your hive-\n\nBack to work soldier!"
+                }
+            ]
+        },
+        {
+            "Gummy Invasion Quests (15)": [
+                {
+                    "Quest Name": "Begin The Goo Invasion",
+                    "Requirements": "Collect 500 Goo.",
+                    "Reward": "750 Honey\n1 Gumdrops\n1 Ticket"
+                },
+                {
+                    "Quest Name": "Patient Plundering",
+                    "Requirements": "Collect 5 Honey Tokens.\nCollect 2,000 Goo.",
+                    "Reward": "3,000 Honey\n1 Gumdrops\n1 Ticket"
+                },
+                {
+                    "Quest Name": "Piecewise Invasion",
+                    "Requirements": "Collect 3,500 Goo from the Clover Field.",
+                    "Reward": "6,000 Honey\n1 Gumdrops\n1 Ticket"
+                },
+                {
+                    "Quest Name": "Colorful Conquest",
+                    "Requirements": "Collect 10 Honey Tokens.\nCollect 2,000 Goo from White Flowers.\nCollect 2,000 Goo from Red Flowers.\nCollect 2,000 Goo from Blue Flowers.",
+                    "Reward": "13,000 Honey\n1 Gumdrops\n1 Ticket"
+                },
+                {
+                    "Quest Name": "Stickier Than Spider Webs",
+                    "Requirements": "Collect 20,000 Goo from the Spider Field.\nDefeat 2 Spiders.",
+                    "Reward": "26,000 Honey\n1 Royal Jelly\n1 Gumdrops\n1 Ticket"
+                },
+                {
+                    "Quest Name": "Four Front Assault",
+                    "Requirements": "Collect 20 Honey Tokens.\nCollect 30,000 Goo.\nCollect 5,000 Goo from the Mushroom Field.\nCollect 5,000 Goo from the Blue Flower Field.\nCollect 5,000 Goo from the Strawberry Field.\nCollect 5,000 Goo from the Bamboo Field.",
+                    "Reward": "50,000 Honey\n1 Gumdrops\n2 Tickets"
+                },
+                {
+                    "Quest Name": "Total Gummification",
+                    "Requirements": "Collect 60,000 Goo.",
+                    "Reward": "75,000 Honey\n1 Gumdrops\n2 Tickets"
+                },
+                {
+                    "Quest Name": "Artillery Lessons: Slingshot",
+                    "Requirements": "Collect 30 Honey Tokens.\nUse the Slingshot 10 Times.\nCollect 80,000 Goo from the Pineapple Patch.",
+                    "Reward": "100,000 Honey\n1 Gumdrops\n2 Tickets"
+                },
+                {
+                    "Quest Name": "GOO Away, Bugs",
+                    "Requirements": "Collect 100,000 Goo.\nDefeat 10 Ladybugs.\nDefeat 10 Rhino Beetles.\nDefeat 3 Spiders.",
+                    "Reward": "130,000 Honey\n1 Gumdrops\n2 Tickets"
+                },
+                {
+                    "Quest Name": "Colorful Conquest 2",
+                    "Requirements": "Use the Slingshot 20 Times.\nCollect 80,000 Goo from Red Flowers.\nCollect 80,000 Goo from Blue Flowers.\nCollect 80,000 Goo from the Clover Field.",
+                    "Reward": "170,000 Honey\n2 Royal Jellies\n1 Gumdrops\n2 Tickets"
+                },
+                {
+                    "Quest Name": "Artillery Lessons: Yellow Cannon",
+                    "Requirements": "Collect 40 Honey Tokens.\nUse the Yellow Cannon 30 Times.\nCollect 200,000 Goo from White Flowers.",
+                    "Reward": "250,000 Honey\n1 Gumdrops\n3 Tickets"
+                },
+                {
+                    "Quest Name": "Peace Through Goo-nity",
+                    "Requirements": "Collect 200,000 Goo from Red Flowers.\nCollect 200,000 Goo from the Pumpkin Patch.\nCollect 200,000 Goo from the Cactus Field.",
+                    "Reward": "400,000 Honey\n1 Gumdrops\n4 Tickets"
+                },
+                {
+                    "Quest Name": "Artillery Lessons: Blue Cannon",
+                    "Requirements": "Collect 100 Honey Tokens.\nUse the Blue Cannon 40 Times.\nCollect 300,000 Goo from Blue Flowers.\nCollect 300,000 Goo from the Rose Field.\nCollect 300,000 Goo from the Pine Tree Forest.",
+                    "Reward": "650,000 Honey\n1 Gumdrops\n4 Tickets"
+                },
+                {
+                    "Quest Name": "Goo-ing Goo-mmando",
+                    "Requirements": "Collect 500,000 Goo from White Flowers.\nUse the Blue Cannon 20 Times.\nUse the Yellow Cannon 20 Times.\nDefeat 10 Mantises.\nDefeat 10 Scorpions.\nDefeat 3 Werewolves.",
+                    "Reward": "880,000 Honey\n1 Gumdrops\n5 Tickets"
+                },
+                {
+                    "Quest Name": "Candy Conquest",
+                    "Requirements": "Collect 250 Honey Tokens.\nCollect 750,000 Goo.\nCollect 75,000 Goo from the Sunflower Field.\nCollect 75,000 Goo from the Dandelion Field.\nCollect 75,000 Goo from the Spider Field.\nCollect 75,000 Goo from the Pineapple Patch.\nCollect 75,000 Goo from the Pumpkin Patch.\nUse the Slingshot 30 Times.\nUse the Yellow Cannon 30 Times.\nUse the Blue Cannon 30 Times.",
+                    "Reward": "Gummy Bee Egg"
+                }
+            ]
+        },
+        {
+            "Dialogue": [
+                {
+                    "Quest Name": "Begin The Goo Invasion",
+                    "Dialogue": "BOOM! SPLAT! HAH... I am Gummy Bear! This is my bee, Gummy Bee. And that's my Gummy Cannon! I'm on a mission to spread my sweet Gummy Bees all around the universe! I'll cover this whole mountain in GOO to claim it for my GUMMY EMPIRE! YOU will join my cause! Complete all 15 of my initiation quests and I'll give you a ! First, Collect 500 goo. When I shoot gumdrops from my Gummy Cannon, they cover flowers in goo. Collect pollen from those flower to receive bonus honey, and GOO! The bigger the goo puddle, the more honey and goo you get! You can also create goo with , I've got some for you behind my cannon. Activate your  while standing in a field to cover the flowers in goo! If you need more , you can get them from defeating enemies. Try teaming up with your friends to share  and create large puddles! I'll tell you when I'm about to fire my cannon at a field. Let's get GOO-ing!\n\n-During-\n\nFlowers covered in goo give you bonus honey (and goo) when you collect from them. The bigger the goo puddle, the more you get! When I shoot gumdrops at a field, always look for the biggest puddle. You can even combine your own  with existing puddles to create even larger ones! Go try it! Collect 500 goo.\n\n-Completion-\n\nGOO-d job! HAH. Gummy Bee says it thinks you look promising. I'm not convinced yet! Come back when you're ready for the next test."
+                },
+                {
+                    "Quest Name": "Patient Plundering",
+                    "Dialogue": "Each place I invade offers something new to my Gummy Empire. I've heard the flowers on this mountain produce rare Honey Tokens! I need you to collect some of those to help fund my mission. Collect 5 Honey Tokens while you gather 2,000 more GOO! Remember: Always collect from the largest goo puddle! It gives you the most goo. And if you need more , you can get them from defeating bugs!\n\n-During-\n\nIt takes dedication and patience to find  Honey Tokens. Those are only some of the virtues I require out of a Gummy Soldier. Go out there and prove you've got what it take. Collect 5 Honey Tokens and gather 2,000 more goo!\n\n-Completion-\n\nWith each quest you prove yourself more loyal to my GUMMY EMPIRE! I'll give you some  each time so you can keep spreading the goo too. We won't stop until this entire mountain is PINK and TEAL."
+                },
+                {
+                    "Quest Name": "Piecewise Invasion",
+                    "Dialogue": "I've planned this invasion for months! I've figured out the optimal method of gooing up this place field by field. Gummy Bee is my advisor. And it's telling me we need to tackle the Clover Field! Take my advice: work together with other Gummy Soldiers to share . You'll both benefit from the goo. You will not complete my tests without teamwork. Collect 3,500 goo from the Clover Field! GO GO GO GO GO GO!\n\n-During-\n\nWhy would anyone oppose the GUMMY CAUSE? My only objective is to make the universe sweeter. You are here to help me accomplish that! Collect 3,500 goo from the Clover Field.\n\n-Completion-\n\nGummy Bee says you did a fine job out in those clovers. I say you've got a long way to go!"
+                },
+                {
+                    "Quest Name": "Colorful Conquest",
+                    "Dialogue": "Goo does not discriminate - white, red or blue, it doesn't matter. ALL flowers are GOO FLOWERS to me! Get out there and gunk them all until their colors are just a distant memory! Collect 2,000 goo from White, Red, and Blue flowers and collect 10 Honey Tokens.\n\n-During-\n\nPeople think I'm soft cause I'm physically soft and squishy. I use this to my advantage to catch my adversaries off guard. Nobody expects my GUMMY INVASION! Collect 2,000 goo from White, Red, and Blue flowers and collect 10 Honey Tokens.\n\n-Completion-\n\nI'm starting to open your eyes to my gummy ways. You see it now: GOO is GREAT! Gummy Bee says we're making great progress. Let's not lose our momentum!"
+                },
+                {
+                    "Quest Name": "Stickier Than Spider Webs",
+                    "Dialogue": "Spiders and their webs are nothing compared to Gummy Bees and their goo. Those puny arachnids guard those White flowers like their lives depend on it! Guess what SPIDERS, those belong to ME now. Collect 20,000 goo from the Spider Field.\n\n-During-\n\nNothing is good unless it's squishy and sweet. You look sort of squishy, probably not sweet though. You'll have to compensate for your lack of sweetness through hard work. Collect 20,000 goo from the Spider Field.\n\n-Completion-\n\nSpiders are nothing before our gummy might! Gummy Bee says those fools should have stayed in their cave. Good work soldier, but we've still got more to do."
+                },
+                {
+                    "Quest Name": "Four Front Assault",
+                    "Dialogue": "Gummy Bee says let's stop playing games. I'm inclined to agree!!!!! Each and every one of these fields will fall to my confectionary cannon. BOOM BOOOOM! No more chit chat, this is an invasion! Collect 30,000 goo.. Collect 5,000 goo from the Mushroom, Blue Flower, Strawberry, and Bamboo Fields... And collect 20 Honey Tokens!\n\n-During-\n\nGet going soldier: Collect 30,000 goo.. Collect 5,000 goo from the Mushroom, Blue Flower, Strawberry, and Bamboo Fields... And collect 20 Honey Tokens.\n\n-Completion-\n\nWhat a mess - just how I like it! And it'll only get messier from here!"
+                },
+                {
+                    "Quest Name": "Total Gummification",
+                    "Dialogue": "All around the universe, we're in the midst of war... A war between GOO and everything that's not GOO. All other conflicts are TRIVIAL DISTRACTIONS. Now collect 60,000 more GOO!\n\n-During-\n\nI ain't picky if the goo is sticky. Collect 60,000 goo.\n\n-Completion-\n\nGummy Bee says \"No flower will remain un-gummied!\" Just 8 more quests and I'll give you a  of your own."
+                },
+                {
+                    "Quest Name": "Artillery Lessons: Slingshot",
+                    "Dialogue": "A good Gummy Soldier must know how to use artillery. My Gummy Cannon takes years of experience to man, you're not ready for it. I'll start you off on something smaller - the SLINGSHOT. BOING BOING! Collect 80,000 goo from the Pineapple Patch... Collect 30 Honey Tokens... And use the Slingshot 10 times.\n\n-During-\n\nYou'll need to discover a certain number of bee types to use the Slingshot and Cannons. To discover more types, try transforming your bees with Royal Jelly. You can buy Royal Jelly for Honey at the shop near the Rose Field. You can also buy it for tickets from the dispenser near the Noob Bear's Shop. Now back to work: collect 80,000 goo from the Pineapple Patch... Collect 30 Honey Tokens... And use the Slingshot 10 times.\n\n-Completion-\n\nMy Gummy Cannon is used to shoot gumdrops, but the other cannons on the map are used to shoot YOU into the sky. They're the fastest way to move around the map. Just 7 more quests and I'll give you a  of your own."
+                },
+                {
+                    "Quest Name": "GOO Away, Bugs",
+                    "Dialogue": "Look at all those bugs sipping up slime faster than I can spread it... These beetles have got to go! Gummy Bee says your swarm looks like it could make quick work of them. Collect 100,000 goo and defeat 10 Ladybugs, 10 Rhino Beetles, and 3 Spiders.\n\n-During-\n\nGummy Bee is a military mastermind, but it only has 1 attack. With GOOd strategy, even a lone Basic Bee can take down a Werewolf. Come back when you've collected 100,000 goo and defeated 10 Ladybugs, 10 Rhino Beetles, and 3 Spiders.\n\n-Completion-\n\nSPLISH SPLAT SPLAT! BUGS BE GONE JUST LIKE THAT! Just 6 more quests and I'll give you a  of your own."
+                },
+                {
+                    "Quest Name": "Colorful Conquest 2",
+                    "Dialogue": "As you trudge your way through the goo, you get sweeter and sweeter... That's how it is with all things! I can tell you don't quite understand it yet. It'll seep in in due time. Collect 80,000 goo from Red and Blue flowers... Collect 80,000 goo from the Clover Field... And use the Slingshot 20 times...\n\n-During-\n\nI cycle through each of the 13 themed fields. Sure enough, I reach them all. Collect 80,000 goo from Red and Blue flowers... Collect 80,000 goo from the Clover Field. And use the Slingshot 20 times...\n\n-Completion-\n\nYES! HAHA! It's happening... the gooification is almost complete. Just 5 more quests and I'll give you a ."
+                },
+                {
+                    "Quest Name": "Artillery Lessons: Yellow Cannon",
+                    "Dialogue": "I love nothing more than firing endless barrages of Gumdrops at pristine fields of flowers. There's something so satisfying about the KABOOM of a cannon! You will come to know it too! Collect 200,000 white goo... Collect 40 Honey Tokens... And use the Yellow Cannon 30 times...\n\n-During-\n\nYou may not be able to experience that joy of launch gumdrops with explosives, but at least you can still fire cannons. Collect 200,000 white goo... Collect 40 Honey Tokens... And use the Yellow Cannon 30 times.\n\n-Completion-\n\nAHAH! Isn't it a rush? Just 4 more quests and I'll give you a ."
+                },
+                {
+                    "Quest Name": "Peace Through Goo-nity",
+                    "Dialogue": "Gummy Bee and I are made of the very same goo! We are practically one creature. I want to feel that same closeness with all other things. By GOO-IFYING the universe, I will unite us all! Help me in my mission of GOO-nity. Collect 200,000 from Red flowers... 200,000 goo from the Pumpkin Patch... And 200,000 goo from the Cactus Field.\n\n-During-\n\nIf you need some more Gumdrops try using the code \"Tapioca\" Those'll help you finish this up: Collect 200,000 from Red flowers... 200,000 goo from the Pumpkin Patch... And 200,000 goo from the Cactus Field.\n\n-Completion-\n\nGummy Bee says it's starting to feel close to you too! That means it's almost time... Just 3 more quests and I'll give you a ."
+                },
+                {
+                    "Quest Name": "Artillery Lessons: Blue Cannon",
+                    "Dialogue": "My primary objective is to make everything SWEETER. It may not seem that way when I'm being so strict, hahaha! I'm someone who understands that to get anything done you've got to be POWERFUL. I use the power of my Gummy Cannon to enforce my will on the universe! You are on your way to doing the same! Next up: Collect 100 Honey Tokens... Collect 300,000 goo from Blue flowers... Collect 300,000 goo from the Rose Field and Pine Tree Forest... And use the Blue Cannon 40 times!\n\n-During-\n\nThere is no greater force in the universe than my Gummy Army. All things fall to the slow, viscous march of my gooey might. Keep working, you're part of my cause! Collect 100 Honey Tokens... Collect 300,000 goo from Blue flowers... Collect 300,000 goo from the Rose Field and Pine Tree Forest... And use the Blue Cannon 40 times!\n\n-Completion-\n\nGelatinous judgement is upon us!!! All unsweet things must let my goo seep in or be banished from existence! What's that Gummy Bee? You see our glorious gooey victory approaching fast? I see it too!!!! Just 2 more quests..."
+                },
+                {
+                    "Quest Name": "Goo-ing Goo-mmando",
+                    "Dialogue": "I like it sweet, the mobs like it SOUR! That will not do... oh no no. \"Put an end to the beasts once and for all!\" Gummy Bee whispers in my ear. My sweet little bee always knows best, HAH! You - my loyal recruit - are you ready for a sweet little bee of your own?? PROVE YOURSELF TO ME, UNSWEET MEATY CREATURE! Collect 500,000 goo from White flowers... Use the Blue and Yellow Cannons 20 times each... And defeat 10 Mantises, 10 Scorpions, and 3 Werewolves.\n\n-During-\n\nThere's nothing squishy or sweet about those vile creatures! They work for the forces of SALT, SOUR, AND MEAT. Not in my GUMMY epoch... no sir... Collect 500,000 goo from White flowers... Use the Blue and Yellow Cannons 20 times each... And defeat 10 Mantises, 10 Scorpions, and 3 Werewolves.\n\n-Completion-\n\nGummy Bee! Look! Our soldier is beginning the final transformation!!! As you collect the GOO, the GOO also collects YOU! Just 1 more quests and I'll know your transformation is complete..."
+                },
+                {
+                    "Quest Name": "Candy Conquest",
+                    "Dialogue": "AHHAHAHAHAHAHAHAHA! Look Gummy Bee - it's almost ours! Not just the mountain, but the beekeepers too. Well trained soldiers of the Gummy Empire! There's only one thing left for YOU to do... Hatch a Gummy Bee of your own! Then, just like me, you'll never be alone. You'll never be lost. Gummy Bee will always guide you with it's gooey gifts! All you need to do is finally finish globulating this unGOO-dly mountain. Collect 750,000 goo... Collect 75,000 goo from the Strawberry Field, Dandelion Field, Spider Field... ...Pineapple Patch, and Pumpkin Patch... Collect 250 Honey Tokens... And use the Slingshot, Yellow Cannon, and Blue Cannon 30 times each.\n\n-During-\n\nBOOM! GLUGSPLUGGLUGLGLGOOL. SPLAT SPLAT SPLAAAAT. By now you ought to speak MY language! Collect 750,000 goo... Collect 75,000 goo from the Strawberry Field, Dandelion Field, Spider Field... ...Pineapple Patch, and Pumpkin Patch... Collect 250 Honey Tokens... And use the Slingshot, Yellow Cannon, and Blue Cannon 30 times each.\n\n-Completion-\n\nGummy Bee says \"We are done here.\" Not so fast sweet little bee! YOU, beekeeper, answer me honestly... How sweet is your soul? How squishy is your mind??? When you close your eyes, do you see the undulating waves of PINK and TEAL? Of course you do!!!!!!!!! So take it now, hatch it quick and let it lead you - this ! The universe is big, and so much of it is still ungummied... So much left to absorb into my empire! HAH! I trust you will maintain the rule of goo here. GOO-DSPEED GUMMY SOLDIER!"
+                },
+                {
+                    "Quest Name": "Conclusion",
+                    "Dialogue": "Huh? Gummy Bee... what's gotten into you??? ...Yes I know this place is the perfect place for a Gummy Bee now... But we're not looking for a place to rest! You've always told me the GOO MUST SPREAD!! It's time to go. OH. You, soldier, listen here: Why don't you and your Gummy Bee go help out the other recruits? The more Gummy Bees on the mountain, the more you help our cause."
+                }
+            ]
+        },
+        {
+            "Beesmas Quest - Goo Years Beacon": [
+                {
+                    "Requirements": "Collect 1,000,000,000,000 Goo from White Flowers.\nUse 2,500 Gumdrops.\nCollect 1,000 Tokens from Gummy Bee.\nCollect 10,000 Battle Tokens.\nComplete 10 \u201cCollect Goo\u201d Quests in Robo Bear's Challenge.\nPurchase the Fluid Simulation Upgrade in Robo Bear's Challenge.\nDeal 2,500,000 Damage with the Rocket Launcher.\nDefeat 2,000 Slimes.\nDefeat 500 Party Cogmowers.\nSummon and Defeat a Level 16 Snowbear.\nPop 1 Legendary Puffshroom.\nUse the Blue Cannon 25 Times.\nUse the Yellow Cannon 25 Times.\nUse the Red Cannon 25 Times.\nObtain a randomly assigned Sticker of the following to give to Gummy Bear:\n1 Fuzz Bomb Sticker\n1 Dark Flame Sticker\n1 Small Shield Sticker\n1 Precise Eye Sticker\n1 Black Diamond Sticker\n1 Purple 4-Point Flower\nObtain a randomly assigned Sticker of the following to give to Gummy Bear:\n1 Yellow Sticky Hand Sticker\n1 TNT Sticker",
+                    "Reward": "7.5T Honey\n100 Tickets\n1 Candy Ring\n1 Bang Snap\n1 Mythic Egg\n1 Festive Bean\n5 Caustic Waxes\n10 Bloom Shakers\n50 Glues\n500 Snowflakes\nAccess to the Gummy Beacon"
+                }
+            ]
+        },
+        {
+            "Beesmas Quest - Goo Years Beacon": [
+                {
+                    "Dialogue": "Gummy Bee and I have been watching your progress. You've crafted our gear, and begun your march down the sweet and sticky path of a Gummy Soldier. GOO-d decision, beekeeper. Now PROVE yourself to me! The asinine Bee Bear has overstayed his welcome on your mountain. Let's bring a swift and gooey end to Beesmas, and usher in the New Year - the GOO YEAR! GUNK UP their gaudy decorations with the might of your ! Light up the sky with OOEY GOOEY GUMMY EXPLOSIONS! And pave the way for a full on Goo Year's Invasion. This beacon requires a lot of goo to activate... You'll also need to blow a variety of foes into UTTER SMITHEREENS  If we're to collect the parts and intel required for its operation. But when the beacon is charged, Gummy Bee and I will be able to begin phase 2! YOU are the front line of the Gummy Empire! Through you, a saccharinely sweet ending to Beesmas is imminent! HAH!\n-During-\nA new year, a GOO YEAR, has begun! Your goo year's resolution: Prepare the beacon at once.\n-Completion-\nGOO-d work, soldier! The beacon is nearly charged! Gummy Bee, initiate confiGOOration sequence. Aligning sugar signals... proceeding with pectin protocol... HAHAH! The Gummy Beacon is online! With this, you can teleport Gummy Bee and myself to the mountain for a Gummy Siege every 8 hours. Using my Gummy Cannon, I'll bombard the flowers with GLORIOUS  AND GOO... While my Gummy Bees aid you in a swift and brutally goo-ful blitz! Bee Bear was a FOOL to attempt Beesmas this late! It ends now! Let's usher in the GOO YEAR with a BANG!"
+                }
+            ]
+        },
+        {
+            "Beesmas Quest - Goo Years Beacon": [
+                {
+                    "Requirements": "Collect 800,000,000,000 Goo from White Flowers.\nCollect 80,000,000,000 Goo from the Mountain Top Field.\nCollect 80,000,000,000 Goo from the Clover Field.\nCollect 80,000,000,000 Goo from the Pineapple Patch.\nCollect 1,000 Tokens from Gummy Bee.\nUse 2,500 Gumdrops.\nDefeat 1,000 Slimes.\nDefeat 1,000 Mechsquitos.\nDefeat 200 Party Cogturrets.\nComplete 10 \u201cCollect Goo\u201d Quests in Robo Bear's Challenge.\nCollect 5,000 Gumdrops\nCollect 100 Neonberries\nCollect 1 Glitched Drive\nPop 1 Rare Puffshroom in the Mountain Top Field.\nPop 1 Epic Puffshroom.\nUse the Blue Cannon 25 Times.\nUse the Yellow Cannon 25 Times.\nUse the Red Cannon 25 Times.",
+                    "Reward": "8T Honey\n100 Tickets\n1 Candy Ring\n1 Gifted Diamond Egg\n5 Atomic Treats\n5 Caustic Waxes\n50 Glues\n100 Stingers\n500 Snowflakes\nAccess to the Gummy Beacon"
+                }
+            ]
+        },
+        {
+            "Beesmas Quest - Goo Years Beacon": [
+                {
+                    "Dialogue": "Gummy Bee and I have been watching your progress. You've crafted our gear, and begun your march down the sweet and sticky path of a Gummy Soldier. GOO-d decision, beekeeper. Now PROVE yourself to me! The asinine Bee Bear insists on enacting Beesmas in July (sic). But there is no room for SNOW in this season - now is the time for GOO! Let's bring a swift and sticky end to Beesmas, and usher in the New Year - the GOO YEAR! GUNK UP their gaudy decorations with the might of your ! Light up the sky with OOEY GOOEY GUMMY EXPLOSIONS! And pave the way for a full on Goo Year's Invasion. This beacon requires a lot of goo to activate... As well as a large variety of Stickers essential to its operation. But when the beacon is charged, Gummy Bee and I will be able to begin phase 2! YOU are the front line of the Gummy Empire! Through you, a saccharinely sweet ending to Beesmas is imminent! HAH!\n-During-\nA new year, a GOO YEAR, has begun! Your goo year's resolution: Prepare the beacon at once.\n-Completion-\nGOO-d work, soldier! The beacon is nearly charged. Gummy Bee, initiate confiGOOration sequence. Aligning sugar signals\u2026 proceeding with pectin protocol\u2026 HAHAH! The Gummy Beacon is online! With this, you can teleport Gummy Bee and myself to the mountain for a Gummy Siege every 8 hours. Using my Gummy Cannon, I'll bombarb the flowers with GLORIOUS  AND GOO\u2026 While my Gummy Bees aid you in a swift and brutally goo-ful blitz! Bee Bear was a FOOL to attempt Beesmas this late! It ends now! Let's usher in the GOO YEAR with a BANG!"
+                }
+            ]
+        },
+        {
+            "Beesmas Quest - Goo Years Beacon": [
+                {
+                    "Requirements": "Collect 10,000,000,000 Goo from White Flowers.\nCollect 1,000 Tokens from Gummy Bee.\nUse 1,000 Gumdrops.\nDefeat 100 Flying Ants.\nDefeat 200 Party Mechsquitos.\nDefeat 400 Slimes.\nComplete 3 \u201cCollect Goo\u201d Quests in Robo Bear's Challenge.\nPop 3 Epic Puffshrooms.\nUse the Blue Cannon 25 Times.\nUse the Yellow Cannon 25 Times.\nUse the Red Cannon 25 Times.\nObtain 8 Launching Rocket, 3 Saturn, OR 2 Glowing Smile Stickers to give to Gummy Bear.\nObtain 6 White Flag, 4 Alert Icon, OR 5 Atom Symbol Stickers to give to Gummy Bear.\nObtain 4 TNT Stickers to give to Gummy Bear.\nObtain 2 Precise Eye, 3 Fuzz Bomb, OR 1 Purple Fleuron Sticker to give to Gummy Bear.\nObtain 3 Yellow Sticky Hand Stickers to give to Gummy Bear.\nObtain 1 Dark Flame OR 2 Black Diamond Stickers to give to Gummy Bear.\nObtain 1 Small Shield Sticker to give to Gummy Bear.\nObtain 1 Gummyballer Sticker to give to Gummy Bear.",
+                    "Reward": "100B Honey\nGlowering Gummy Bear Sticker\n1 Candy Ring\n100 Tickets\n2,500 Gumdrops\n100 Neonberries\n10 Glues\n5 Caustic Waxes\n5 Super Smoothies\n500 Snowflakes\nAccess to the Gummy Beacon"
+                }
+            ]
+        },
+        {
+            "Beesmas Quest - Goo Years Beacon": [
+                {
+                    "Dialogue": "Gummy Bee and I have been watching your progress. You've crafted our gear, and begun your march down the sweet and sticky path of a Gummy Soldier. GOO-d decision, beekeeper. Now PROVE yourself to me! The asinine Bee Bear insists on enacting Beesmas in July. But there is no room for SNOW in this season - now is the time for GOO! Let's bring a swift and sticky end to Beesmas, and usher in the New Year - the GOO YEAR! GUNK UP their gaudy decorations with the might of your ! Light up the sky with OOEY GOOEY GUMMY EXPLOSIONS! And pave the way for a full on Goo Year's Invasion. This beacon requires a lot of goo to activate... As well as a large variety of Stickers essential to its operation. But when the beacon is charged, Gummy Bee and I will be able to begin phase 2! YOU are the front line of the Gummy Empire! Through you, a saccharinely sweet ending to Beesmas is imminent! HAH!\n-During-\nA new year, a GOO YEAR, has begun! Your goo year's resolution: Prepare the beacon at once.\n-Completion-\nGOO-d work, soldier! The beacon is nearly charged! Gummy Bee, initiate confiGOOration sequence. Aligning sugar signals... proceeding with pectin protocol... HAHAH! The Gummy Beacon is online! With this, you can teleport Gummy Bee and myself to the mountain for a Gummy Siege every 8 hours. Using my Gummy Cannon, I'll bombard the flowers with GLORIOUS  AND GOO... While my Gummy Bees aid you in a swift and brutally goo-ful blitz! Bee Bear was a FOOL to attempt Beesmas this late! It ends now! Let's usher in the GOO YEAR with a BANG!"
+                }
+            ]
+        },
+        {
+            "Beesmas Quest - Goo Years Beacon": [
+                {
+                    "Requirements": "Collect 25,000,000,000 Goo from White Flowers.\nCollect 25,000,000,000 Goo from Red Flowers.\nCollect 25,000,000,000 Goo from Blue Flowers.\nCollect 2500 Gumdrops.\nCollect 1000 Tokens from Gummy Bee.\nDefeat 2000 Mechsquitos.\nDefeat 200 Flying Ants.\nDefeat 200 Party Cogturrets.\nComplete 75 \u201cCollect Goo\u201d Quests in Robo Bear Challenge.\nPurchase 25 Legendary Upgrades in Robo Bear's Challenge.\nUse the Blue Cannon 25 Times.\nUse the Yellow Cannon 25 Times.\nUse the Red Cannon 25 Times.",
+                    "Reward": "250B Honey\n500 Snowflakes\n2,500 Gumdrops\n100 Tickets\n100 Stingers\n100 Neonberries\n10 Glues\n10 Atomic Treats\n5 Super Smoothies\n1 Camo Bandana\n1 Whistle\nAccess to the Gummy Beacon"
+                }
+            ]
+        },
+        {
+            "Beesmas Quest - Goo Years Beacon": [
+                {
+                    "Dialogue": "Gummy Bee and I have been watching your progress. You've crafted our gear, and begun your march down the sweet and sticky path of a Gummy Soldier. GOO-d decision, beekeeper. Now PROVE yourself to me! The asinine Bee Bear has overstayed his welcome on your mountain. Let's bring a swift and gooey end to Beesmas, and usher in the New Year - the GOO YEAR! GUNK UP their gaudy decorations with the might of your ! Light up the sky with OOEY GOOEY GUMMY EXPLOSIONS! And pave the way for a full on Goo Year's Invasion. This beacon requires a lot of goo to activate... You'll also need to destroy a variety of robotic foes to collect the intel and parts required for its operation. But when the beacon is charged, Gummy Bee and I will be able to begin phase 2! YOU are the front line of the Gummy Empire! Through you, a saccharinely sweet ending to Beesmas is imminent! HAH!\n-During-\nA new year, a GOO YEAR, has begun! Your goo year's resolution: Prepare the beacon at once.\n-Completion-\nGOO-d work, soldier! The beacon is nearly charged! Gummy Bee, initiate confiGOOration sequence. Aligning sugar signals... proceeding with pectin protocol... HAHAH! The Gummy Beacon is online! With this, you can teleport Gummy Bee and myself to the mountain for a Gummy Siege every 8 hours. Using my Gummy Cannon, I'll bombard the flowers with GLORIOUS  AND GOO... While my Gummy Bees aid you in a swift and brutally goo-ful blitz! Bee Bear was a FOOL to drag Beesmas on this long. It ends now! Let's usher in the GOO YEAR with a BANG!"
+                }
+            ]
+        },
+        {
+            "Beesmas Quest - Goo Years Beacon": [
+                {
+                    "Requirements": "Collect 100,000,000,000 Goo.\nCollect 250 Gumdrops Tokens.\nUse 1,000 Gumdrops.\nCollect 1,000 Tokens from Gummy Bee.\nDefeat 25 Rare Puffshrooms in the Mountain Top Field.\nDefeat 5 Legendary Puffshrooms.\nDefeat 1 Level 17+ Puffshroom.\nUse the Blue Cannon 25 Times.\nUse the Yellow Cannon 25 Times.\nUse the Red Cannon 25 Times.",
+                    "Reward": "250B Honey\n25 Tickets\n500 Snowflakes\n100 Neonberries\n15 Glues\n15 Purple Potions\n10 Atomic Treats\n5 Super Smoothies\n5 Caustic Waxes\n1 Icicles\n1 Toy Drum\nAccess to the Gummy Beacon"
+                }
+            ]
+        },
+        {
+            "Beesmas Quest - Goo Years Beacon": [
+                {
+                    "Dialogue": "Gummy Bee and I have been watching your progress. You've crafted the mask, and begun your march down the sweet and sticky path of a Gummy Soldier. GOO-d decision, beekeeper. Now PROVE yourself to me! The asinine Bee Bear has overstayed his welcome on your mountain. Let's bring a swift and gooey end to Beesmas, and usher in the New Year - the GOO YEAR! GUNK UP their gaudy decorations with the might of your ! Light up the sky with OOEY GOOEY GUMMY EXPLOSIONS! And pave the way for a full on Goo Year's Invasion. You'll also need to defeat many Puffshrooms to collect the intel required for its operation. But when it's charged, Gummy Bee and I will be able to begin phase 2! YOU are the front line of the Gummy Empire! Through you, a saccharinely sweet ending to Beesmas is imminent! HAH!\n-During-\nA new year, a GOO YEAR, has begun! Your goo year's resolution: Prepare the beacon at once.\n-Completion-\nGOO-d work, soldier! The beacon is nearly charged! Aligning sugar signals... proceeding with pectin protocol... HAHAH! The Gummy Beacon is online! With this, you can teleport Gummy Bee and myself to the mountain for a Gummy Siege every 8 hours. Using my Gummy Cannon, I'll bombard the flowers with GLORIOUS  AND GOO... While my Gummy Bees aid you in a swift and brutally goo-ful blitz! Bee Bear was a FOOL to drag Beesmas on this long. It ends now! Let's usher in the GOO YEAR with a BANG!"
+                }
+            ]
+        },
+        {
+            "Beesmas Quest - Goo Years Beacon": [
+                {
+                    "Requirements": "Collect 75,000,000,000 Goo.\nCollect 7,500,000,000 Goo from Red Flowers.\nCollect 7,500,000,000 Goo from Blue Flowers.\nCollect 7,500,000,000 Goo from the Clover Field.\nCollect 7,500,000,000 Goo from the Coconut Field.\nUse 750 Gumdrops.\nCollect 75 Gumdrops Tokens.\nCollect 750 Tokens from Gummy Bee.\nDefeat 75 Ladybugs.\nDefeat 75 Rhino Beetles.\nDefeat 75 Ants.\nCollect 75 Tokens from Spiders.\nCollect 75 Tokens from Mondo Chick.\nCollect 75 Tokens from Coconut Crab.\nUse the Red Cannon 7 Times.\nUse the Yellow Cannon 7 Times.\nUse the Blue Cannon 7 Times.",
+                    "Reward": "50B Honey\n500 Snowflakes\n5 Atomic Treats\n50 Glues\n100 Tickets\n100 Neonberries\nAccess to the Gummy Beacon"
+                }
+            ]
+        },
+        {
+            "Beesmas Quest - Goo Years Beacon": [
+                {
+                    "Dialogue": "Gummy Bee and I have been watching your progress. You've crafted the mask, and begun your march down the sweet and sticky path of a Gummy Soldier. GOO-d decision, beekeeper. Now PROVE yourself to me! The asinine Bee Bear has overstayed his welcome on your mountain. Let's bring a swift and gooey end to Beesmas, and usher in the New Year - the GOO YEAR! GUNK UP their gaudy decorations with the might of your ! Light up the sky with OOEY GOOEY GUMMY EXPLOSIONS! And pave the way for a full on Goo Year's Invasion. You'll also need to defeat many foes to collect the intel required for its operation. But when it's charged, Gummy Bee and I will be able to begin phase 2! YOU are the front line of the Gummy Empire! Through you, a saccharinely sweet ending to Beesmas is imminent! HAH!\n-During-\nA new year, a GOO YEAR, has begun! Your goo year's resolution: Prepare the beacon at once.\n-Completion-\nGOO-d work, soldier! The beacon is nearly charged! Aligning sugar signals... proceeding with pectin protocol... HAHAH! The Gummy Beacon is online! With this, you can teleport Gummy Bee and myself to the mountain for a Gummy Siege every 8 hours. Using my Gummy Cannon, I'll bombard the flowers with GLORIOUS  AND GOO... While my Gummy Bees aid you in a swift and brutally goo-ful blitz! Bee Bear was a FOOL to drag Beesmas on this long. It ends now! Let's usher in the GOO YEAR with a BANG!"
+                }
+            ]
+        }
+    ]
+}

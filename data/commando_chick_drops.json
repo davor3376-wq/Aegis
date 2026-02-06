@@ -1,0 +1,822 @@
+{
+    "title": "Commando Chick/Drops",
+    "stats": {},
+    "data_tables": [
+        {
+            "Captures 1-50": [
+                {
+                    "Number of Captures and Level": "1 Capture\nLevel 3",
+                    "Reward": "2,400 Honey\n1 Ticket\n2 Sunflower Seeds\n2 Pineapples\n2 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "2 Captures\nLevel 3",
+                    "Reward": "1,500 Honey\n1 Ticket\n2 Sunflower Seeds\n2 Pineapples\n2 Bitterberries\n2 Treats"
+                },
+                {
+                    "Number of Captures and Level": "3 Captures\nLevel 4",
+                    "Reward": "6,500 Honey\n1 Stinger\n1 Ticket\n2 Sunflower Seeds\n2 Pineapples\n2 Bitterberries\n5 Treats"
+                },
+                {
+                    "Number of Captures and Level": "4 Captures\nLevel 5",
+                    "Reward": "10,000 Honey\n1 Ticket\n3 Sunflower Seeds\n3 Pineapples\n2 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "5 Captures\nLevel 5",
+                    "Reward": "13,000 Honey\n1 Glue\n3 Sunflower Seeds\n3 Pineapples\n2 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "6 Captures\nLevel 5",
+                    "Reward": "25,000 Honey\n1 Ticket\n3 Sunflower Seeds\n3 Pineapples\n3 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "7 Captures\nLevel 6",
+                    "Reward": "35,000 Honey\n1 Ticket\n4 Sunflower Seeds\n4 Pineapples\n3 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "8 Captures\nLevel 6",
+                    "Reward": "28,000 Honey\n1 Ticket\n4 Sunflower Seeds\n4 Pineapples\n3 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "9 Captures\nLevel 6",
+                    "Reward": "42,000 Honey\n2 Red Extracts\n1 Ticket\n4 Sunflower Seeds\n4 Pineapples\n3 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "10 Captures\nLevel 7",
+                    "Reward": "300,000 Honey\n1 Gold Egg\n1 Ticket\n4 Sunflower Seeds\n4 Pineapples\n3 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "11 Captures\nLevel 7",
+                    "Reward": "100,000 Honey\n1 Ticket\n5 Sunflower Seeds\n5 Pineapples\n3 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "12 Captures\nLevel 7",
+                    "Reward": "120,000 Honey\n3 Stingers\n1 Ticket\n5 Sunflower Seeds\n5 Pineapples\n3 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "13 Captures\nLevel 7",
+                    "Reward": "135,000 Honey\n1 Ticket\n5 Sunflower Seeds\n5 Pineapples\n3 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "14 Captures\nLevel 8",
+                    "Reward": "170,000 Honey\n1 Ticket\n5 Sunflower Seeds\n5 Pineapples\n3 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "15 Captures\nLevel 8",
+                    "Reward": "100,000 Honey\n1 Star Jelly\n1 Ticket\n6 Sunflower Seeds\n6 Pineapples\n3 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "16 Captures\nLevel 8",
+                    "Reward": "130,000 Honey\n1 Ticket\n6 Sunflower Seeds\n6 Pineapples\n3 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "17 Captures\nLevel 8",
+                    "Reward": "150,000 Honey\n1 Ticket\n6 Sunflower Seeds\n6 Pineapples\n3 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "18 Captures\nLevel 8",
+                    "Reward": "200,000 Honey\n1 Ticket\n6 Sunflower Seeds\n6 Pineapples\n3 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "19 Captures\nLevel 9",
+                    "Reward": "250,000 Honey\n1 Ticket\n6 Sunflower Seeds\n6 Pineapples\n3 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "20 Captures\nLevel 9",
+                    "Reward": "1,000,000 Honey\n3 Blue Extracts\n1 Ticket\n7 Sunflower Seeds\n7 Pineapples\n3 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "21 Captures\nLevel 9",
+                    "Reward": "1,100,000 Honey\n1 Ticket\n7 Sunflower Seeds\n7 Pineapples\n3 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "22 Captures\nLevel 9",
+                    "Reward": "900,000 Honey\n1 Ticket\n7 Sunflower Seeds\n7 Pineapples\n3 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "23 Captures\nLevel 9",
+                    "Reward": "1,800,000 Honey\n1 Ticket\n7 Sunflower Seeds\n7 Pineapples\n3 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "24 Captures\nLevel 10",
+                    "Reward": "2,000,000 Honey\n1 Ticket\n7 Sunflower Seeds\n7 Pineapples\n3 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "25 Captures\nLevel 10",
+                    "Reward": "2,300,000 Honey\n100 Tickets\n7 Sunflower Seeds\n7 Pineapples\n3 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "26 Captures\nLevel 10",
+                    "Reward": "2,700,000 Honey\n1 Ticket\n8 Pineapples\n8 Sunflower Seeds\n3 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "27 Captures\nLevel 10",
+                    "Reward": "3,000,000 Honey\n1 Ticket\n1 Ant Pass\n8 Sunflower Seeds\n8 Pineapples\n3 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "28 Captures\nLevel 10",
+                    "Reward": "4,000,000 Honey\n1 Ticket\n8 Sunflower Seeds\n8 Pineapples\n3 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "29 Captures\nLevel 10",
+                    "Reward": "4,500,000 Honey\n1 Ticket\n8 Sunflower Seeds\n8 Pineapples\n3 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "30 Captures\nLevel 11",
+                    "Reward": "5,000,000 Honey\n10 Stingers\n1 Ticket\n8 Sunflower Seeds\n8 Pineapples\n3 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "31 Captures\nLevel 11",
+                    "Reward": "5,750,000 Honey\n1 Ticket\n8 Sunflower Seeds\n8 Pineapples\n3 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "32 Captures\nLevel 11",
+                    "Reward": "7,400,000 Honey\n1 Ticket\n8 Sunflower Seeds\n8 Pineapples\n3 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "33 Captures\nLevel 11",
+                    "Reward": "7,400,000 Honey\n1 Ticket\n8 Sunflower Seeds\n8 Pineapples\n3 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "34 Captures\nLevel 11",
+                    "Reward": "9,000,000 Honey\n1 Ticket\n9 Sunflower Seeds\n9 Pineapples\n3 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "35 Captures\nLevel 11",
+                    "Reward": "10,500,000 Honey\n1 Ticket\n1 Ant Pass\n9 Sunflower Seeds\n9 Pineapples\n3 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "36 Captures\nLevel 11",
+                    "Reward": "10,200,000 Honey\n1 Ticket\n1 Ant Pass\n9 Sunflower Seeds\n9 Pineapples\n3 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "37 Captures\nLevel 12",
+                    "Reward": "11,000,000 Honey\n1 Ticket\n9 Sunflower Seeds\n9 Pineapples\n3 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "38 Captures\nLevel 12",
+                    "Reward": "14,500,000 Honey\n1 Ticket\n9 Sunflower Seeds\n9 Pineapples\n3 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "39 Captures\nLevel 12",
+                    "Reward": "13,500,000 Honey\n1 Ticket\n10 Sunflower Seeds\n10 Pineapples\n3 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "40 Captures\nLevel 12",
+                    "Reward": "55,000,000 Honey\n10 Stingers\n10 Ant Passes\n1 Ticket\n10 Sunflower Seeds\n10 Pineapples\n4 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "41 Captures\nLevel 12",
+                    "Reward": "12,500,000 Honey\n1 Ticket\n10 Sunflower Seeds\n10 Pineapples\n4 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "42 Captures\nLevel 12",
+                    "Reward": "19,000,000 Honey\n1 Ticket\n10 Sunflower Seeds\n10 Pineapples\n4 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "43 Captures\nLevel 12",
+                    "Reward": "21,000,000 Honey\n1 Ticket\n10 Sunflower Seeds\n10 Pineapples\n4 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "44 Captures\nLevel 12",
+                    "Reward": "22,000,000 Honey\n1 Ticket\n10 Sunflower Seeds\n10 Pineapples\n4 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "45 Captures\nLevel 13",
+                    "Reward": "25,000,000 Honey\n1 Ticket\n10 Sunflower Seeds\n10 Pineapples\n4 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "46 Captures\nLevel 13",
+                    "Reward": "28,750,000 Honey\n1 Ticket\n1 Ant Pass\n10 Sunflower Seeds\n10 Pineapples\n4 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "47 Captures\nLevel 13",
+                    "Reward": "38,000,000 Honey\n1 Ticket\n11 Sunflower Seeds\n11 Pineapples\n4 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "48 Captures\nLevel 13",
+                    "Reward": "25,000,000 Honey\n1 Ticket\n11 Sunflower Seeds\n11 Pineapples\n4 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "49 Captures\nLevel 13",
+                    "Reward": "25,000,000 Honey\n1 Ticket\n11 Sunflower Seeds\n11 Pineapples\n4 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "50 Captures\nLevel 13",
+                    "Reward": "25,000,000 Honey\n1 Mythic Egg\n1 Ticket\n11 Sunflower Seeds\n11 Pineapples\n4 Bitterberries"
+                }
+            ]
+        },
+        {
+            "Drops 51-100": [
+                {
+                    "Number of Captures and Level": "51 Captures\nLevel 13",
+                    "Reward": "39,000,000 Honey\n1 Ticket\n11 Sunflower Seeds\n11 Pineapples\n4 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "52 Captures\nLevel 13",
+                    "Reward": "40,000,000 Honey\n1 Ticket\n11 Sunflower Seeds\n11 Pineapples\n4 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "53 Captures\nLevel 13",
+                    "Reward": "40,000,000 Honey\n1 Ticket\n11 Sunflower Seeds\n11 Pineapples\n4 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "54 Captures\nLevel 14",
+                    "Reward": "44,000,000 Honey\n1 Ticket\n11 Sunflower Seeds\n11 Pineapples\n4 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "55 Captures\nLevel 14",
+                    "Reward": "45,000,000 Honey\n1 Ticket\n12 Sunflower Seeds\n12 Pineapples\n4 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "56 Captures\nLevel 14",
+                    "Reward": "50,000,000 Honey\n1 Ticket\n12 Sunflower Seeds\n12 Pineapples\n4 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "57 Captures\nLevel 14",
+                    "Reward": "51,000,000 Honey\n1 Ticket\n12 Sunflower Seeds\n12 Pineapples\n4 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "58 Captures\nLevel 14",
+                    "Reward": "55,000,000 Honey\n1 Ticket\n12 Sunflower Seeds\n12 Pineapples\n4 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "59 Captures\nLevel 14",
+                    "Reward": "60,000,000 Honey\n1 Ticket\n12 Sunflower Seeds\n4 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "60 Captures\nLevel 14",
+                    "Reward": "60,000,000 Honey\n1 Ticket\n12 Sunflower Seeds\n12 Pineapples\n4 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "61 Captures\nLevel 14",
+                    "Reward": "60,000,000 Honey\n1 Ticket\n12 Sunflower Seeds\n12 Pineapples\n4 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "62 Captures\nLevel 14",
+                    "Reward": "65,000,000 Honey\n1 Ticket\n12 Sunflower Seeds\n12 Pineapples\n4 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "63 Captures\nLevel 15",
+                    "Reward": "77,000,000 Honey\n1 Ticket\n13 Sunflower Seeds\n13 Pineapples\n4 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "64 Captures\nLevel 15",
+                    "Reward": "80,000,000 Honey\n1 Ticket\n13 Sunflower Seeds\n13 Pineapples\n4 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "65 Captures\nLevel 15",
+                    "Reward": "80,000,000 Honey\n1 Ant Pass\n1 Ticket\n13 Sunflower Seeds\n13 Pineapples\n4 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "66 Captures\nLevel 15",
+                    "Reward": "85,000,000 Honey\n1 Ticket\n13 Sunflower Seeds\n13 Pineapples\n4 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "67 Captures\nLevel 15",
+                    "Reward": "100,000,000 Honey\n1 Ant Pass\n1 Ticket\n13 Sunflower Seeds\n13 Pineapples\n4 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "68 Captures\nLevel 15",
+                    "Reward": "100,000,000 Honey\n1 Ticket\n13 Sunflower Seeds\n13 Pineapples\n4 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "69 Captures\nLevel 15",
+                    "Reward": "100,000,000 Honey\n1 Ticket\n13 Sunflower Seeds\n13 Pineapples\n4 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "70 Captures\nLevel 15",
+                    "Reward": "125,000,000 Honey\n1 Ticket\n13 Sunflower Seeds\n13 Pineapples\n4 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "71 Captures\nLevel 15",
+                    "Reward": "200,000,000 Honey\n1 Ticket\n13 Sunflower Seeds\n13 Pineapples\n4 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "72 Captures\nLevel 15",
+                    "Reward": "200,000,000 Honey\n1 Ticket\n14 Sunflower Seeds\n14 Pineapples\n4 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "73 Captures\nLevel 16",
+                    "Reward": "200,000,000 Honey\n1 Ant Pass\n1 Ticket\n14 Sunflower Seeds\n14 Pineapples\n4 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "74 Captures\nLevel 16",
+                    "Reward": "200,000,000 Honey\n1 Ticket\n14 Sunflower Seeds\n14 Pineapples\n4 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "75 Captures\nLevel 16",
+                    "Reward": "173,500,000 Honey\n1 Ticket\n14 Sunflower Seeds\n14 Pineapples\n4 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "76 Captures\nLevel 16",
+                    "Reward": "175,000,000 Honey\n1 Ticket\n14 Sunflower Seeds\n14 Pineapples\n4 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "77 Captures\nLevel 16",
+                    "Reward": "225,000,000 Honey\n1 Ant Pass\n1 Ticket\n14 Sunflower Seeds\n14 Pineapples\n4 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "78 Captures\nLevel 16",
+                    "Reward": "225,000,000 Honey\n1 Ant Pass\n1 Ticket\n14 Sunflower Seeds\n14 Pineapples\n4 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "79 Captures\nLevel 16",
+                    "Reward": "250,000,000 Honey\n1 Ticket\n14 Sunflower Seeds\n14 Pineapples\n4 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "80 Captures\nLevel 16",
+                    "Reward": "300,000,000 Honey\n14 Sunflower Seeds\n14 Pineapples\n1 Ticket\n4 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "81 Captures\nLevel 16",
+                    "Reward": "400,000,000 Honey\n1 Ticket\n14 Sunflower Seeds\n14 Pineapples\n4 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "82 Captures\nLevel 16",
+                    "Reward": "400,000,000 Honey\n1 Ticket\n15 Sunflower Seeds\n15 Pineapples\n4 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "83 Captures\nLevel 16",
+                    "Reward": "400,000,000 Honey\n1 Ticket\n15 Sunflower Seeds\n15 Pineapples\n4 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "84 Captures\nLevel 17",
+                    "Reward": "400,000,000 Honey\n1 Ticket\n15 Sunflower Seeds\n15 Pineapples\n4 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "85 Captures\nLevel 17",
+                    "Reward": "400,000,000 Honey\n1 Ticket\n15 Sunflower Seeds\n15 Pineapples\n4 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "86 Captures\nLevel 17",
+                    "Reward": "400,000,000 Honey\n1 Ticket\n15 Sunflower Seeds\n15 Pineapples\n4 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "87 Captures\nLevel 17",
+                    "Reward": "500,000,000 Honey\n1 Ticket\n15 Sunflower Seeds\n15 Pineapples\n4 Bitterberries\n1 Ant Pass"
+                },
+                {
+                    "Number of Captures and Level": "88 Captures\nLevel 17",
+                    "Reward": "500,000,000 Honey\n1 Ticket\n15 Sunflower Seeds\n15 Pineapples\n4 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "89 Captures\nLevel 17",
+                    "Reward": "500,000,000 Honey\n1 Ticket\n15 Sunflower Seeds\n15 Pineapples\n4 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "90 Captures\nLevel 17",
+                    "Reward": "1B Honey\n1 Ant Pass\n1 Ticket\n15 Sunflower Seeds\n15 Pineapples\n4 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "91 Captures\nLevel 17",
+                    "Reward": "560,000,000 Honey\n15 Sunflower Seeds\n1 Ticket\n15 Pineapples\n4 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "92 Captures\nLevel 17",
+                    "Reward": "520,000,000 Honey\n16 Sunflower Seeds\n1 Ticket\n16 Pineapples\n4 Bitterberries\n1 Ant Pass"
+                },
+                {
+                    "Number of Captures and Level": "93 Captures\nLevel 17",
+                    "Reward": "502,000,000 Honey\n16 Sunflower Seeds\n1 Ticket\n16 Pineapples\n4 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "94 Captures\nLevel 17",
+                    "Reward": "586,000,000 Honey\n16 Sunflower Seeds\n1 Ticket\n16 Pineapples\n4 Bitterberries\n1 Ant Pass"
+                },
+                {
+                    "Number of Captures and Level": "95 Captures\nLevel 18",
+                    "Reward": "662,000,000 Honey\n16 Sunflower Seeds\n1 Ticket\n16 Pineapples\n4 Bitterberries\n1 Ant Pass"
+                },
+                {
+                    "Number of Captures and Level": "96 Captures\nLevel 18",
+                    "Reward": "437,000,000 Honey\n16 Sunflower Seeds\n1 Ticket\n16 Pineapples\n4 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "97 Captures\nLevel 18",
+                    "Reward": "482,000,000 Honey\n16 Sunflower Seeds\n1 Ticket\n16 Pineapples\n4 Bitterberries\n1 Ant Pass"
+                },
+                {
+                    "Number of Captures and Level": "98 Captures\nLevel 18",
+                    "Reward": "449,500,000 Honey\n16 Sunflower Seeds\n1 Ticket\n16 Pineapples\n4 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "99 Captures\nLevel 18",
+                    "Reward": "431,000,000 Honey\n16 Sunflower Seeds\n1 Ticket\n16 Pineapples\n4 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "100 Captures\nLevel 18",
+                    "Reward": "12.5B Honey\n1 Star Treat\n1 Ticket\n16 Sunflower Seeds\n16 Pineapples\n4 Bitterberries"
+                }
+            ]
+        },
+        {
+            "Captures 101-151": [
+                {
+                    "Number of Captures and Level": "101 Captures\nLevel 18",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "102 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "103 Captures\nLevel 18",
+                    "Reward": "1.05B Honey\n17 Sunflower Seeds\n1 Ticket\n17 Pineapples\n4 Bitterberries"
+                },
+                {
+                    "Number of Captures and Level": "104 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "105 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "106 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "107 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "108 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "109 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "110 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "111 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "112 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "113 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "114 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "115 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "116 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "117 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "118 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "119 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "120 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "121 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "122 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "123 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "124 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "125 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "126 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "127 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "128 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "129 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "130 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "131 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "132 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "133 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "134 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "135 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "136 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "137 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "138 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "139 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "140 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "141 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "142 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "143 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "144 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "145 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "146 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "147 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "148 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "149 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "150 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                }
+            ]
+        },
+        {
+            "Captures 151-200": [
+                {
+                    "Number of Captures and Level": "151 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "152 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "153 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "154 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "155 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "156 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "157 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "158 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "159 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "160 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "161 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "162 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "163 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "164 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "165 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "166 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "167 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "168 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "169 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "170 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "171 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "172 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "173 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "174 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "175 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "176 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "177 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "178 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "179 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "180 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "181 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "182 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "183 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "184 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "185 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "186 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "187 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "188 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "189 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "190 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "191 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "192 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "193 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "194 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "195 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "196 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "197 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "198 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "199 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                },
+                {
+                    "Number of Captures and Level": "200 Captures\nLevel TBA",
+                    "Reward": "Rewards TBA"
+                }
+            ]
+        }
+    ]
+}

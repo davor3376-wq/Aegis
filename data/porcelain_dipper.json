@@ -1,0 +1,78 @@
+{
+    "title": "Porcelain Dipper",
+    "stats": {},
+    "data_tables": [
+        {
+            "Unknown_Table": [
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                },
+                {
+                    "": ""
+                }
+            ]
+        },
+        {
+            "Unknown_Table": [
+                {
+                    "Flowers": "White",
+                    "Single": "4.5",
+                    "Double": "9",
+                    "Triple": "13.5",
+                    "Large": "18",
+                    "Star": "22.5"
+                },
+                {
+                    "Flowers": "Red",
+                    "Single": "3",
+                    "Double": "6",
+                    "Triple": "9",
+                    "Large": "12",
+                    "Star": "15"
+                },
+                {
+                    "Flowers": "Blue",
+                    "Single": "3",
+                    "Double": "6",
+                    "Triple": "9",
+                    "Large": "12",
+                    "Star": "15"
+                },
+                {
+                    "Flowers": "Special Multiplier(s): 50% White Pollen Multiplier"
+                }
+            ]
+        },
+        {
+            "Unknown_Table": [
+                {
+                    "Crafting Ingredients": "150,000,000 Honey"
+                }
+            ]
+        }
+    ]
+}

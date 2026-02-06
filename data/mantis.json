@@ -1,0 +1,20 @@
+{
+    "title": "Mantis",
+    "stats": {},
+    "data_tables": [
+        {
+            "Locations": [
+                {
+                    "Field": "Pineapple Patch",
+                    "Quantity": "1 (with 1 Rhino Beetle)",
+                    "Level": "4"
+                },
+                {
+                    "Field": "Pine Tree Forest",
+                    "Quantity": "2 (with 1 Werewolf)",
+                    "Level": "5 (on left)\n6 (on right)"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "title": "Rose Headband",
+    "stats": {},
+    "data_tables": [
+        {
+            "Potential Stats": [
+                {
+                    "Stat Caustic Req.": "Chance",
+                    "Base": "Chance",
+                    "Max": "Limit"
+                },
+                {
+                    "Stat Caustic Req.": "+Bee Attack",
+                    "Base": "2 to 4",
+                    "Max": "7",
+                    "Upgrade": "1"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "15% to 25%",
+                    "Max": "3"
+                },
+                {
+                    "Stat Caustic Req.": "+%Convert Amount",
+                    "Base": "40% to 60%",
+                    "Max": "140%",
+                    "Upgrade": "2%, 4%"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "50%",
+                    "Max": "20"
+                },
+                {
+                    "Stat Caustic Req.": "+%Gather Pollination Chance",
+                    "Base": "10% to 15%",
+                    "Max": "20%",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "15% to 25%",
+                    "Max": "5"
+                },
+                {
+                    "Stat Caustic Req.": "+%Critical Chance",
+                    "Base": "5% to 10%",
+                    "Max": "20%",
+                    "Upgrade": "2%"
+                },
+                {
+                    "Stat Caustic Req.": "10% to 25%",
+                    "Base": "15% to 25%",
+                    "Max": "5"
+                },
+                {
+                    "Stat Caustic Req.": "+%Bee Ability Rate",
+                    "Base": "1% to 2%",
+                    "Max": "2%",
+                    "Upgrade": "-"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "-",
+                    "Max": "-"
+                },
+                {
+                    "Stat Caustic Req.": "Hive Bonus"
+                },
+                {
+                    "Stat Caustic Req.": "+Capacity",
+                    "Base": "20000 to 30000",
+                    "Max": "55000",
+                    "Upgrade": "2500, 5000Bias: 2"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "10% to 30%",
+                    "Max": "5"
+                },
+                {
+                    "Stat Caustic Req.": "+%Rose Field Pollen",
+                    "Base": "14% to 20%",
+                    "Max": "40%",
+                    "Upgrade": "1%, 2%Bias: 10"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "10% to 30%",
+                    "Max": "10"
+                },
+                {
+                    "Stat Caustic Req.": "+%Red Field Capacity",
+                    "Base": "6% to 10%",
+                    "Max": "20%",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "6% to 30%",
+                    "Max": "10"
+                },
+                {
+                    "Stat Caustic Req.": "+%Instant Rose Field ConversionCaustic Only",
+                    "Base": "-",
+                    "Max": "6%",
+                    "Upgrade": "2%"
+                },
+                {
+                    "Stat Caustic Req.": "-",
+                    "Base": "1% to 8%",
+                    "Max": "3"
+                },
+                {
+                    "Stat Caustic Req.": "+%Bee AttackCaustic Only",
+                    "Base": "-",
+                    "Max": "9%",
+                    "Upgrade": "2%, 3%Bias: 4"
+                },
+                {
+                    "Stat Caustic Req.": "-",
+                    "Base": "0.1% to 1%",
+                    "Max": "3"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "title": "Electric Candle",
+    "stats": {},
+    "data_tables": [
+        {
+            "Possible Stats": [
+                {
+                    "Stat Caustic Req.": "Chance",
+                    "Base": "Chance",
+                    "Max": "Limit"
+                },
+                {
+                    "Stat Caustic Req.": "+%Red Gather Amount",
+                    "Base": "5% to 10%",
+                    "Max": "50%",
+                    "Upgrade": "1%, 2%Bias: 3"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "100%",
+                    "Max": "20"
+                },
+                {
+                    "Stat Caustic Req.": "+%Flame Pollen",
+                    "Base": "5% to 10%",
+                    "Max": "50%",
+                    "Upgrade": "1%, 2%Bias: 3"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "100%",
+                    "Max": "20"
+                },
+                {
+                    "Stat Caustic Req.": "+%Gathering Flames",
+                    "Base": "1% to 5%",
+                    "Max": "25%",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "10% to 50%",
+                    "Max": "20"
+                },
+                {
+                    "Stat Caustic Req.": "+%Energy",
+                    "Base": "5% to 10%",
+                    "Max": "10%",
+                    "Upgrade": "-"
+                },
+                {
+                    "Stat Caustic Req.": "100%",
+                    "Base": "-",
+                    "Max": "-"
+                },
+                {
+                    "Stat Caustic Req.": "Hive Bonus"
+                },
+                {
+                    "Stat Caustic Req.": "+%Flame Pollen",
+                    "Base": "1%",
+                    "Max": "11%",
+                    "Upgrade": "1%"
+                },
+                {
+                    "Stat Caustic Req.": "1% to 5%",
+                    "Base": "1% to 5%",
+                    "Max": "10"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "title": "Glue",
+    "stats": {},
+    "data_tables": [
+        {
+            "Crafting Uses": [
+                {
+                    "Glues": "1",
+                    "Other ingredients": "7,000,000 Honey\n1 Oil\n5 Soft Waxes\n5 Neonberries\n10 Micro-Converters",
+                    "Result": "Sticker-Seeker"
+                },
+                {
+                    "Glues": "3",
+                    "Other ingredients": "3 Red Extracts\n3 Blue Extracts\n3 Neonberries",
+                    "Result": "Purple Potion"
+                },
+                {
+                    "Glues": "3",
+                    "Other ingredients": "20,000,000 Honey\n5 Enzymes\n1 Glitter",
+                    "Result": "Beekeeper's Mask"
+                },
+                {
+                    "Glues": "5",
+                    "Other ingredients": "30,000,000 Honey\n100 Blueberries\n10 Blue Extracts\n75 Moon Charms",
+                    "Result": "Bucko Guard"
+                },
+                {
+                    "Glues": "5",
+                    "Other ingredients": "30,000,000 Honey\n100 Strawberries\n10 Red Extracts\n25 Stingers",
+                    "Result": "Riley Guard"
+                },
+                {
+                    "Glues": "15",
+                    "Other ingredients": "100,000,000 Honey\n50 Red Extracts\n500 Strawberries\n25 Enzymes",
+                    "Result": "Fire Mask"
+                },
+                {
+                    "Glues": "50",
+                    "Other ingredients": "75,000,000 Honey\n50 Enzymes\n25 Oils",
+                    "Result": "Honeycomb Belt"
+                },
+                {
+                    "Glues": "100",
+                    "Other ingredients": "10B Honey\n150 Coconuts\n50 Tropical Drinks\n100 Oils",
+                    "Result": "Coconut Clogs"
+                },
+                {
+                    "Glues": "100",
+                    "Other ingredients": "15B Honey\n1 Spirit Petal\n25 Star Jellies\n50 Glitter",
+                    "Result": "Petal Belt"
+                },
+                {
+                    "Glues": "100",
+                    "Other ingredients": "5B Honey\n500 Stingers\n250 Red Extracts\n150 Enzymes",
+                    "Result": "Demon Mask"
+                },
+                {
+                    "Glues": "250",
+                    "Other ingredients": "5B Honey\n100 Enzymes\n100 Oils\n100 Glitter",
+                    "Result": "Gummy Mask"
+                },
+                {
+                    "Glues": "500",
+                    "Other ingredients": "100B Honey\n250 Red Extracts\n250 Blue Extracts\n250 Glitter\n1 Satisfying Vial\n1 Motivating Vial",
+                    "Result": "Gummy Boots"
+                },
+                {
+                    "Glues": "1500",
+                    "Other ingredients": "10T Honey\n2,000 Gumdrops\n50 Caustic Waxes\n50 Super Smoothies\n5 Turpentines\n3 Satisfying Vials",
+                    "Result": "Gummyballer"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "title": "Sunflower Seed",
+    "stats": {},
+    "data_tables": [
+        {
+            "Crafting Uses": [
+                {
+                    "Sunflower Seeds": "1",
+                    "Other ingredients": "25,000 Honey",
+                    "Result": "Paper Planter"
+                },
+                {
+                    "Sunflower Seeds": "3",
+                    "Other ingredients": "4,400 Honey\n3 Blueberries",
+                    "Result": "Basic Boots"
+                },
+                {
+                    "Sunflower Seeds": "10",
+                    "Other ingredients": "14,000 Honey",
+                    "Result": "Belt Pocket"
+                },
+                {
+                    "Sunflower Seeds": "25",
+                    "Other ingredients": "300,000 Honey",
+                    "Result": "Looker Guard"
+                },
+                {
+                    "Sunflower Seeds": "25",
+                    "Other ingredients": "300,000 Honey",
+                    "Result": "Bomber Guard"
+                },
+                {
+                    "Sunflower Seeds": "50",
+                    "Other ingredients": "10 Royal Jellies",
+                    "Result": "Oil"
+                },
+                {
+                    "Sunflower Seeds": "50",
+                    "Other ingredients": "440,000 Honey\n50 Pineapples\n3 Stingers",
+                    "Result": "Belt Bag"
+                },
+                {
+                    "Sunflower Seeds": "150",
+                    "Other ingredients": "12,400,000 Honey\n1 Soft Wax\n150 Pineapples\n10 Stingers",
+                    "Result": "Mondo Belt Bag"
+                }
+            ]
+        }
+    ]
+}

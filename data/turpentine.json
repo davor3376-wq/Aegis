@@ -1,0 +1,35 @@
+{
+    "title": "Turpentine",
+    "stats": {},
+    "data_tables": [
+        {
+            "Crafting uses": [
+                {
+                    "Turpentines": "1",
+                    "Other ingredients": "750B Honey\n75 Magic Beans\n750 Blue Extracts\n500 Soft Waxes\n25 Caustic Waxes",
+                    "Result": "Hydroponic Planter"
+                },
+                {
+                    "Turpentines": "1",
+                    "Other ingredients": "750B Honey\n75 Magic Beans\n750 Red Extracts\n150 Hard Waxes\n25 Swirled Waxes",
+                    "Result": "Heat-Treated Planter"
+                },
+                {
+                    "Turpentines": "3",
+                    "Other ingredients": "7.5T Honey\n500 Coconuts\n1,500 Tropical Drinks\n200 Purple Potions\n200 Hard Waxes\n3 Refreshing Vials",
+                    "Result": "Coconut Belt"
+                },
+                {
+                    "Turpentines": "5",
+                    "Other ingredients": "10T Honey\n1,500 Glues\n2,000 Gumdrops\n50 Caustic Waxes\n50 Super Smoothies\n3 Satisfying Vials",
+                    "Result": "Gummyballer"
+                },
+                {
+                    "Turpentines": "25",
+                    "Other ingredients": "100T Honey\n500 Magic Beans\n100 Super Smoothies\n100 Swirled Waxes\n100 Caustic Waxes",
+                    "Result": "The Planter Of Plenty"
+                }
+            ]
+        }
+    ]
+}

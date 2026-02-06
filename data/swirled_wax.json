@@ -1,0 +1,30 @@
+{
+    "title": "Swirled Wax",
+    "stats": {},
+    "data_tables": [
+        {
+            "Crafting Uses": [
+                {
+                    "Swirled Waxes": "25",
+                    "Other ingredients": "150 Gifted Riley Bee quests completed\n750B Honey\n75 Magic Beans\n750 Red Extracts\n150 Hard Waxes\n1 Turpentine",
+                    "Result": "Heat-Treated Planter"
+                },
+                {
+                    "Swirled Waxes": "50",
+                    "Other ingredients": "5T Honey\n100 Magic Beans\n100 Glitter\n250 Soft Waxes\n25 Super Smoothies",
+                    "Result": "Petal Planter"
+                },
+                {
+                    "Swirled Waxes": "75",
+                    "Other ingredients": "250 Gifted Bucko Bee quests completed\n2.5T Honey\n1,500 Blue Extracts\n150 Stingers\n150 Tropical Drinks\n50 Super Smoothies\n3 Comforting Vials",
+                    "Result": "Tide Popper"
+                },
+                {
+                    "Swirled Waxes": "100",
+                    "Other ingredients": "100T Honey\n500 Magic Beans\n100 Super Smoothies\n100 Caustic Waxes\n25 Turpentines",
+                    "Result": "The Planter Of Plenty"
+                }
+            ]
+        }
+    ]
+}
