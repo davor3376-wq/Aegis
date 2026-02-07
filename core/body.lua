@@ -21,9 +21,8 @@ end
 
 -- Bot-05 (Aviator): Flight Logic
 local Aviator = {}
-
--- Safety Shield Locked Y-Level
 Aviator.SAFETY_Y_LEVEL = 35
+local SproutSniperEnabled = false
 
 function Aviator.vertical_bypass()
     log_thought("Obstacle detected. Initiating Vertical Bypass.")
@@ -42,13 +41,16 @@ function Aviator.vertical_bypass()
         task.wait()
     end
 
-    -- Maintain Height logic (Safety Shield) could go here
     log_thought("Safety Shield reached (Y=" .. tostring(Aviator.SAFETY_Y_LEVEL) .. ").")
-
     task.wait(0.5) -- Stabilize
 
     bodyVelocity:Destroy()
     log_thought("Vertical Bypass complete.")
+end
+
+function Aviator.toggle_sprout_sniper(bool_state)
+    SproutSniperEnabled = bool_state
+    log_thought("Sprout Sniper toggled to: " .. tostring(bool_state))
 end
 
 -- Bot-04 (Navigator): Pathfinding Logic
@@ -56,6 +58,8 @@ local Navigator = {}
 
 -- Temporary Test Destination (Honey Bee NPC)
 Navigator.TEST_DESTINATION = Vector3.new(100, 5, 100)
+local TargetField = "Sunflower Field"
+local GatherPattern = "Elian's Snake"
 
 function Navigator.raycast_check(direction)
     local rayOrigin = HumanoidRootPart.Position
@@ -75,21 +79,10 @@ function Navigator.raycast_check(direction)
 end
 
 function Navigator.loot_divert()
-    -- Placeholder: Scan for high-value items within radius
-    -- In a real scenario, this would iterate through a folder of drops
     local high_value_found = false
-
-    -- Example logic (commented out as specific game object structure is unknown)
-    -- for _, item in pairs(Workspace.Drops:GetChildren()) do
-    --     if item.Name == "DiamondEgg" and (item.Position - HumanoidRootPart.Position).Magnitude < 20 then
-    --         high_value_found = true
-    --         break
-    --     end
-    -- end
-
+    -- Placeholder logic
     if high_value_found then
         log_thought("Loot-Divert triggered! deviating path.")
-        -- Logic to move towards loot would go here
         return true
     end
     return false
@@ -110,24 +103,30 @@ function Navigator.pathfind(target_position)
             break
         end
 
-        -- Check for Loot Divert
         if Navigator.loot_divert() then
-            -- Pause main pathfinding for loot (simplified)
             task.wait(1)
         end
 
-        -- Check for Obstacles
         if Navigator.raycast_check(direction) then
             Aviator.vertical_bypass()
         else
-            -- Move forward
             HumanoidRootPart.CFrame = HumanoidRootPart.CFrame + (direction * 0.5)
         end
 
-        task.wait() -- Yield for next frame
+        task.wait()
     end
-
     log_thought("Destination reached.")
+end
+
+-- UI API Hooks
+function Navigator.set_smart_field(field_name)
+    TargetField = field_name
+    log_thought("Target Field updated to: " .. field_name)
+end
+
+function Navigator.set_pattern(pattern_name)
+    GatherPattern = pattern_name
+    log_thought("Gather Pattern updated to: " .. pattern_name)
 end
 
 -- Expose modules
