@@ -1,21 +1,22 @@
 --[[
-    Swarm Protocol - Body Logic
-    Drafted by: Bot-04 (Navigator) & Bot-05 (Aviator)
+    Swarm Protocol - Body Logic (The Core)
     Target: Delta Executor (Roblox Luau)
+    Handles Physics, Pathfinding, and Flight.
 ]]
 
 local Body = {}
 local RunService = game:GetService("RunService")
+local TweenService = game:GetService("TweenService")
 local Players = game:GetService("Players")
 local Workspace = game:GetService("Workspace")
 
 local LocalPlayer = Players.LocalPlayer
 local Character = LocalPlayer.Character or LocalPlayer.CharacterAdded:Wait()
 local HumanoidRootPart = Character:WaitForChild("HumanoidRootPart")
+local Humanoid = Character:WaitForChild("Humanoid")
 
 -- Bot-03 (Strategist): Console Output
 local function log_thought(thought)
-    -- Option A: Console Only
     print("[Bot-03 Strategist]: " .. thought)
 end
 
@@ -56,11 +57,6 @@ end
 -- Bot-04 (Navigator): Pathfinding Logic
 local Navigator = {}
 
--- Temporary Test Destination (Honey Bee NPC)
-Navigator.TEST_DESTINATION = Vector3.new(100, 5, 100)
-local TargetField = "Sunflower Field"
-local GatherPattern = "Elian's Snake"
-
 function Navigator.raycast_check(direction)
     local rayOrigin = HumanoidRootPart.Position
     local rayDirection = direction * 5 -- Check 5 studs ahead
@@ -78,20 +74,26 @@ function Navigator.raycast_check(direction)
     return false
 end
 
-function Navigator.loot_divert()
-    local high_value_found = false
-    -- Placeholder logic
-    if high_value_found then
-        log_thought("Loot-Divert triggered! deviating path.")
-        return true
-    end
-    return false
+function Navigator.tween_to(target_position, speed)
+    speed = speed or 30
+    local distance = (target_position - HumanoidRootPart.Position).Magnitude
+    local info = TweenInfo.new(distance / speed, Enum.EasingStyle.Linear)
+
+    local tween = TweenService:Create(HumanoidRootPart, info, {CFrame = CFrame.new(target_position)})
+    tween:Play()
+    tween.Completed:Wait()
 end
 
-function Navigator.pathfind(target_position)
-    target_position = target_position or Navigator.TEST_DESTINATION
-    log_thought("Navigating to target: " .. tostring(target_position))
+function Navigator.pathfind(target_position, method)
+    method = method or "Walk" -- Default
+    log_thought("Navigating to target: " .. tostring(target_position) .. " (Method: " .. method .. ")")
 
+    if method == "Tween" then
+        Navigator.tween_to(target_position)
+        return
+    end
+
+    -- Walk Method
     local reached = false
     while not reached do
         local current_pos = HumanoidRootPart.Position
@@ -103,30 +105,26 @@ function Navigator.pathfind(target_position)
             break
         end
 
-        if Navigator.loot_divert() then
-            task.wait(1)
-        end
-
         if Navigator.raycast_check(direction) then
             Aviator.vertical_bypass()
         else
-            HumanoidRootPart.CFrame = HumanoidRootPart.CFrame + (direction * 0.5)
+            Humanoid:MoveTo(target_position)
         end
 
-        task.wait()
+        task.wait(0.1)
     end
     log_thought("Destination reached.")
 end
 
 -- UI API Hooks
 function Navigator.set_smart_field(field_name)
-    TargetField = field_name
-    log_thought("Target Field updated to: " .. field_name)
+    -- Handled by Farming module mainly, but Navigator stores context if needed
+    log_thought("Target Field context updated to: " .. field_name)
 end
 
 function Navigator.set_pattern(pattern_name)
-    GatherPattern = pattern_name
-    log_thought("Gather Pattern updated to: " .. pattern_name)
+    -- Handled by Farming module
+    log_thought("Gather Pattern context updated to: " .. pattern_name)
 end
 
 -- Expose modules
