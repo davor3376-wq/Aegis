@@ -20,10 +20,6 @@ local Window = Fluent:CreateWindow({
     MinimizeKey = Enum.KeyCode.RightControl
 })
 
--- Apply Custom Theme Colors (Dark Matter)
--- Fluent usually handles themes internally, but we can override if supported or via preset.
--- Assuming "Dark" is close, and accents are handled by the library's options.
-
 function Dashboard.init(modules)
     local Navigator = modules.Navigator
     local Combat = modules.Combat
@@ -50,7 +46,7 @@ function Dashboard.init(modules)
         Default = 1,
         Callback = function(Value)
             print("[UI] Smart Field Set: ", Value)
-            if Navigator then Navigator.set_smart_field(Value) end
+            if Navigator and Navigator.set_smart_field then Navigator.set_smart_field(Value) end
         end
     })
 
@@ -61,7 +57,7 @@ function Dashboard.init(modules)
         Default = 1,
         Callback = function(Value)
             print("[UI] Pattern Set: ", Value)
-            if Navigator then Navigator.set_pattern(Value) end
+            if Navigator and Navigator.set_pattern then Navigator.set_pattern(Value) end
         end
     })
 
@@ -71,25 +67,41 @@ function Dashboard.init(modules)
         Default = false,
         Callback = function(Value)
             print("[UI] Sprout Sniper: ", Value)
-            if Aviator then Aviator.toggle_sprout_sniper(Value) end
+            if Aviator and Aviator.toggle_sprout_sniper then Aviator.toggle_sprout_sniper(Value) end
         end
     })
 
     -- 2. SLAYER: Live Boss Buttons
     local BossToggles = {}
-    BossToggles["Tunnel Bear"] = Tabs.Slayer:AddToggle("TunnelBear", { Title = "Tunnel Bear (Loading...)", Default = false })
-    BossToggles["King Beetle"] = Tabs.Slayer:AddToggle("KingBeetle", { Title = "King Beetle (Loading...)", Default = false })
+
+    local function createBossToggle(bossName, displayName)
+        BossToggles[bossName] = Tabs.Slayer:AddToggle(bossName, {
+            Title = displayName .. " (Loading...)",
+            Default = false,
+            Callback = function(Value)
+                print("[UI] Toggle Boss " .. bossName .. ": ", Value)
+                if Combat and Combat.toggle_boss then
+                    Combat.toggle_boss(bossName, Value)
+                end
+            end
+        })
+    end
+
+    createBossToggle("Tunnel Bear", "Tunnel Bear")
+    createBossToggle("King Beetle", "King Beetle")
 
     -- Logic to update button text based on Combat module
     task.spawn(function()
         while true do
             if Combat and Combat.get_boss_status then
-                local status = Combat.get_boss_status("Tunnel Bear")
-                BossToggles["Tunnel Bear"]:SetTitle("Tunnel Bear (" .. status .. ")")
-                -- Color logic would be handled by library if supported, or text color rich text
-
-                status = Combat.get_boss_status("King Beetle")
-                BossToggles["King Beetle"]:SetTitle("King Beetle (" .. status .. ")")
+                for bossName, toggle in pairs(BossToggles) do
+                    local status = Combat.get_boss_status(bossName)
+                    -- Note: Fluent might not support dynamic title updates easily depending on version,
+                    -- ensuring SetTitle exists or fallback to just status logging.
+                    if toggle.SetTitle then
+                        toggle:SetTitle(bossName .. " (" .. status .. ")")
+                    end
+                end
             end
             task.wait(1)
         end
@@ -110,7 +122,7 @@ function Dashboard.init(modules)
         Default = false,
         Callback = function(Value)
             print("[UI] Smart Mask: ", Value)
-            -- if Combat then Combat.toggle_smart_mask(Value) end
+            if Combat and Combat.set_smart_mask then Combat.set_smart_mask(Value) end
         end
     })
 
@@ -125,12 +137,12 @@ function Dashboard.init(modules)
                 print("[UI] Quest Toggle " .. npc .. ": ", Value)
             end
         })
-        -- Visual Progress Bar (Placeholder)
-        Tabs.Quests:AddParagraph({
-            Title = "Progress: " .. npc,
-            Content = "Collecting Red Pollen: 45%" -- This would update dynamically
-        })
     end
+    -- Visual Progress Bar (Placeholder)
+    Tabs.Quests:AddParagraph({
+        Title = "Active Quest Status",
+        Content = "Collecting Red Pollen: 45%"
+    })
 
 
     -- 4. BOTANIST: Planters
@@ -140,7 +152,7 @@ function Dashboard.init(modules)
         Default = 1,
         Callback = function(Value)
             print("[UI] Planter Mode: ", Value)
-            if Planters then Planters.set_cycle_mode(Value) end
+            if Planters and Planters.set_cycle_mode then Planters.set_cycle_mode(Value) end
         end
     })
 
@@ -149,17 +161,21 @@ function Dashboard.init(modules)
         Default = true,
         Callback = function(Value)
             print("[UI] Smart Soil: ", Value)
-            if Planters then Planters.toggle_smart_soil(Value) end
+            if Planters and Planters.toggle_smart_soil then Planters.toggle_smart_soil(Value) end
         end
     })
 
 
     -- 5. ARTIFACTS: Dispensers
-    local Dispensers = {"Samovar", "Glue", "Treats", "Onett's Art", "Stockings"}
+    local Dispensers = {"Samovar", "Glue Dispenser", "Coconut Dispenser", "Blueberry Dispenser", "Strawberry Dispenser", "Onett's Lid Art"}
     for _, disp in ipairs(Dispensers) do
         Tabs.Artifacts:AddToggle(disp, {
             Title = disp,
-            Default = true
+            Default = true,
+            Callback = function(Value)
+                 print("[UI] Toggle Dispenser " .. disp .. ": ", Value)
+                 if Toys and Toys.toggle_dispenser then Toys.toggle_dispenser(disp, Value) end
+            end
         })
     end
 
@@ -169,7 +185,7 @@ function Dashboard.init(modules)
         Default = true,
         Callback = function(Value)
             print("[UI] Macro-Sync: ", Value)
-            if Toys then Toys.toggle_macro_sync(Value) end
+            if Toys and Toys.toggle_macro_sync then Toys.toggle_macro_sync(Value) end
         end
     })
 
@@ -183,7 +199,7 @@ function Dashboard.init(modules)
         Finished = true,
         Callback = function(Value)
             print("[UI] Webhook Updated")
-            if Webhook then Webhook.set_url(Value) end
+            if Webhook and Webhook.set_url then Webhook.set_url(Value) end
         end
     })
 
@@ -192,7 +208,7 @@ function Dashboard.init(modules)
         Default = false,
         Callback = function(Value)
             print("[UI] Hourly Graphs: ", Value)
-            if Webhook then Webhook.toggle_graphs(Value) end
+            if Webhook and Webhook.toggle_graphs then Webhook.toggle_graphs(Value) end
         end
     })
 
@@ -201,7 +217,7 @@ function Dashboard.init(modules)
         Default = false,
         Callback = function(Value)
             print("[UI] Anonymous Mode: ", Value)
-            if Webhook then Webhook.toggle_anonymous(Value) end
+            if Webhook and Webhook.toggle_anonymous then Webhook.toggle_anonymous(Value) end
         end
     })
 
