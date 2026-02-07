@@ -1,6 +1,6 @@
 --[[
     Swarm Protocol - Main Loader (Bot-10)
-    Executes core/body.lua and modules (combat, planters, toys, webhook) using Verified Oauth Headers
+    Executes core/body.lua and modules (combat, planters, toys, webhook, ui_dashboard) using Verified Oauth Headers
 ]]
 
 local repo_url_base = "https://raw.githubusercontent.com/username/repo/branch/"
@@ -49,8 +49,24 @@ local Combat = fetch_module("modules/combat.lua")
 local Planters = fetch_module("modules/planters.lua")
 local Toys = fetch_module("modules/toys.lua")
 local Webhook = fetch_module("modules/webhook.lua")
+local Dashboard = fetch_module("modules/ui_dashboard.lua")
 
--- 3. Execution Loop (Mock Integration)
+-- 3. Initialize Dashboard (Bot-08)
+if Dashboard then
+    print("[Bot-10 Integrator]: Launching Aegis UI Ultimate...")
+    Dashboard.init({
+        Navigator = Navigator,
+        Aviator = Aviator,
+        Combat = Combat,
+        Planters = Planters,
+        Toys = Toys,
+        Webhook = Webhook
+    })
+else
+    warn("[Bot-10 Integrator]: Failed to load UI Dashboard.")
+end
+
+-- 4. Execution Loop (Mock Integration)
 task.spawn(function()
     while true do
         -- Bot-07: Check Combat
@@ -71,11 +87,12 @@ task.spawn(function()
 
         -- Bot-08: Webhook Status
         if Webhook then
-            Webhook.send_log("1.5B/hr", "Black Bear #10", "Stump Snail")
+            -- This would be triggered by UI or logic, mocking here
+            -- Webhook.send_log("1.5B/hr", "Black Bear #10", "Stump Snail")
         end
 
         task.wait(5) -- Loop every 5 seconds
     end
 end)
 
-print("[Bot-10 Integrator]: Swarm Protocol Fully Online (Parallel Mode).")
+print("[Bot-10 Integrator]: Swarm Protocol Fully Online (Parallel Mode + UI).")
