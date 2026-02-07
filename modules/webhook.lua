@@ -1,77 +1,115 @@
 --[[
-    Swarm Protocol - Webhook Module (Bot-08)
-    Remote Monitoring via Discord Webhooks.
+    Swarm Protocol - Webhook Module (Bot-08/Voice)
+    Handles Discord Logging, Analytics, and Configuration Saving.
 ]]
 
 local Webhook = {}
 local HttpService = game:GetService("HttpService")
+local request = (syn and syn.request) or (http and http.request) or http_request or (fluxus and fluxus.request) or request
 
--- Placeholder Config
-local WEBHOOK_URL = "https://discord.com/api/webhooks/PLACEHOLDER_ID/PLACEHOLDER_TOKEN"
-local LOG_INTERVAL = 3600 -- 60 Minutes
+-- State
+local WebhookURL = ""
+local Settings = {
+    Enabled = true,
+    SendPlanters = true,
+    SendItems = true,
+    SendQuests = true,
+    SendGraph = false,
+    Anonymous = false
+}
 
-local last_log_time = 0
+-- Screenshot Logic (Mock)
+local function capture_screenshot()
+    print("[Bot-08 Webhook]: 📸 SCREENSHOT CAPTURED (Rare Drop Detected) 📸")
+    -- In real execution: rconsoleprint("SCREENSHOT SAVED\n")
+end
 
-function Webhook.send_log(honey_per_hour, current_quest, next_boss)
-    if os.time() - last_log_time < LOG_INTERVAL then
-        return
+-- Public API
+
+function Webhook.set_url(url)
+    WebhookURL = url
+    print("[Bot-08 Webhook]: URL Updated.")
+end
+
+function Webhook.send_message(data)
+    if not Settings.Enabled or not WebhookURL or WebhookURL == "" then return end
+
+    -- Check Granularity
+    if data.Type == "Planter" and not Settings.SendPlanters then return end
+    if data.Type == "Item" and not Settings.SendItems then return end
+    if data.Type == "Quest" and not Settings.SendQuests then return end
+
+    -- Check Rare Drops
+    if data.Items then
+        for _, item in ipairs(data.Items) do
+            if item == "Mythic Egg" or item == "Star Treat" then
+                capture_screenshot()
+                data.Content = "@everyone RARE DROP DETECTED: " .. item
+            end
+        end
     end
 
-    print("[Bot-08 Interface]: Preparing Remote Log...")
-
     local payload = {
-        ["content"] = "",
-        ["embeds"] = {{
-            ["title"] = "Swarm Protocol Status Report",
-            ["description"] = "Hourly Performance Log",
-            ["color"] = 16766720, -- Honey Gold
-            ["fields"] = {
-                {
-                    ["name"] = "Honey/Hr",
-                    ["value"] = tostring(honey_per_hour),
-                    ["inline"] = true
-                },
-                {
-                    ["name"] = "Current Quest",
-                    ["value"] = tostring(current_quest),
-                    ["inline"] = true
-                },
-                {
-                    ["name"] = "Next Boss Spawn",
-                    ["value"] = tostring(next_boss),
-                    ["inline"] = false
+        content = data.Content or "",
+        embeds = {
+            {
+                title = data.Title or "Aegis Ultimate Notification",
+                description = data.Description or "No description provided.",
+                color = data.Color or 0x3b82f6,
+                fields = data.Fields or {},
+                footer = {
+                    text = "Swarm Protocol v1.0"
                 }
-            },
-            ["footer"] = {
-                ["text"] = "Swarm Protocol - Bot-08"
             }
-        }}
+        }
     }
 
-    local success, result = pcall(function()
-        local json_payload = HttpService:JSONEncode(payload)
-        -- Using 'request' (standard exploit function) if available, falling back or mocking
-        if request then
-            return request({
-                Url = WEBHOOK_URL,
-                Method = "POST",
-                Headers = {
-                    ["Content-Type"] = "application/json"
-                },
-                Body = json_payload
-            })
-        else
-            print("[Bot-08 Interface]: 'request' function not found (Studio/Standard Client). Mocking send.")
-            return {StatusCode = 204}
-        end
+    if Settings.Anonymous then
+        payload.username = "Aegis Bot (Hidden)"
+    else
+        payload.username = "Aegis Bot - " .. game.Players.LocalPlayer.Name
+    end
+
+    local success, response = pcall(function()
+        return request({
+            Url = WebhookURL,
+            Method = "POST",
+            Headers = {["Content-Type"] = "application/json"},
+            Body = HttpService:JSONEncode(payload)
+        })
     end)
 
     if success then
-        print("[Bot-08 Interface]: Log Sent Successfully.")
-        last_log_time = os.time()
+        -- print("[Bot-08 Webhook]: Sent successfully.")
     else
-        warn("[Bot-08 Interface]: Failed to send log: " .. tostring(result))
+        warn("[Bot-08 Webhook]: Failed to send - " .. tostring(response))
     end
+end
+
+-- Toggles
+function Webhook.toggle_send_planters(bool_state)
+    Settings.SendPlanters = bool_state
+    print("[Bot-08 Webhook]: Send Planters: " .. tostring(bool_state))
+end
+
+function Webhook.toggle_send_items(bool_state)
+    Settings.SendItems = bool_state
+    print("[Bot-08 Webhook]: Send Items: " .. tostring(bool_state))
+end
+
+function Webhook.toggle_send_quests(bool_state)
+    Settings.SendQuests = bool_state
+    print("[Bot-08 Webhook]: Send Quests: " .. tostring(bool_state))
+end
+
+function Webhook.toggle_graphs(bool_state)
+    Settings.SendGraph = bool_state
+    print("[Bot-08 Webhook]: Hourly Graphs: " .. tostring(bool_state))
+end
+
+function Webhook.toggle_anonymous(bool_state)
+    Settings.Anonymous = bool_state
+    print("[Bot-08 Webhook]: Anonymous Mode: " .. tostring(bool_state))
 end
 
 return Webhook

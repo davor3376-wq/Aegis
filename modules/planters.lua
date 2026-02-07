@@ -1,47 +1,95 @@
 --[[
-    Swarm Protocol - Planters Module (Bot-06)
+    Swarm Protocol - Planters Module (Bot-06/Hands)
     Intelligent Nectar & Quest Management.
 ]]
 
 local Planters = {}
+local Manifest = require(script.Parent.Manifest) -- The Brain
 
--- Mock Quest Data
-local ActiveQuest = {
-    Type = "Collect Pollen",
-    Color = "Red",
-    Amount = 1000000
-}
-
--- Mock Planter Inventory
-local Inventory = {
-    ["Red Clay Planter"] = true,
-    ["Plastic Planter"] = true
-}
-
--- Active Planters in Fields
+-- State
 local ActivePlanters = {
-    {
-        Type = "Plastic Planter",
-        Field = "Sunflower Field",
-        Progress = 0.50, -- 50%
-        NectarType = "Invigorating",
-        TimeLeft = 3600 -- Seconds
-    }
+    -- { Type = "Plastic Planter", Field = "Sunflower Field", Progress = 0.50, NectarType = "Invigorating" }
 }
 
 -- Settings
-local CycleMode = "Nectar Priority" -- Default
+local CycleMode = "Nectar Priority" -- "Nectar Priority" or "Ticket Priority"
 local SmartSoilEnabled = true
+
+-- Helper: Check Field Pollen Levels (Mock)
+local function get_field_pollen_percent(field_name)
+    -- In real script, check game.Workspace.FlowerZones[field_name].Flowers
+    return 0.8 -- Mock: 80% Pollen
+end
+
+-- Nectar Optimizer
+function Planters.get_best_field_for_nectar(nectar_type)
+    local best_field = nil
+    local best_multiplier = 0
+
+    for field_name, data in pairs(Manifest.Fields) do
+        local mult = data.Nectar[nectar_type] or 0
+        if mult > best_multiplier then
+            best_multiplier = mult
+            best_field = field_name
+        end
+    end
+
+    print("[Bot-06 Planters]: Best field for " .. nectar_type .. " is " .. tostring(best_field) .. " (x" .. best_multiplier .. ")")
+    return best_field
+end
+
+-- Planter Actions
+function Planters.plant_planter(planter_name, field_name)
+    -- Check Soil
+    if SmartSoilEnabled then
+        local pollen = get_field_pollen_percent(field_name)
+        if pollen < 0.3 then
+             warn("[Bot-06 Planters]: Skipped planting " .. planter_name .. " in " .. field_name .. " (Pollen too low: " .. pollen .. ")")
+             return
+        end
+    end
+
+    print("[Bot-06 Planters]: Planting " .. planter_name .. " in " .. field_name)
+    -- Interaction logic (Equip planter, move to field, click)
+    -- Update ActivePlanters
+    table.insert(ActivePlanters, {
+        Type = planter_name,
+        Field = field_name,
+        Progress = 0,
+        NectarType = Manifest.Planters[planter_name].Nectar
+    })
+end
+
+function Planters.harvest_planter(index)
+    local planter = ActivePlanters[index]
+    if not planter then return end
+
+    print("[Bot-06 Planters]: Harvesting " .. planter.Type .. " from " .. planter.Field)
+    -- Move to field, interact
+
+    table.remove(ActivePlanters, index)
+end
+
+-- Loop Logic
+function Planters.monitor_growth()
+    for i, planter in ipairs(ActivePlanters) do
+        planter.Progress = planter.Progress + 0.1 -- Mock Growth
+
+        if planter.Progress >= 1.0 then
+             Planters.harvest_planter(i)
+        end
+    end
+end
 
 -- UI API Hooks
 function Planters.set_cycle_mode(mode_string)
     CycleMode = mode_string
-    print("[Bot-06 Harvester]: Cycle Mode set to " .. mode_string)
+    print("[Bot-06 Planters]: Cycle Mode set to " .. mode_string)
 end
 
 function Planters.toggle_smart_soil(bool_state)
     SmartSoilEnabled = bool_state
-    print("[Bot-06 Harvester]: Smart Soil set to " .. tostring(bool_state))
+    print("[Bot-06 Planters]: Smart Soil set to " .. tostring(bool_state))
 end
 
 function Planters.get_active_planters()
@@ -55,32 +103,6 @@ function Planters.get_active_planters()
         })
     end
     return ui_data
-end
-
-function Planters.check_quest_synergy()
-    print("[Bot-06 Harvester]: Checking Quest Synergy...")
-    if ActiveQuest.Color == "Red" and Inventory["Red Clay Planter"] then
-        print("[Bot-06 Harvester]: Synergy Found! Suggesting Red Clay Planter in Red Field (e.g., Strawberry/Rose/Pepper).")
-        -- Logic to plant would execute here
-        return "Red Clay Planter"
-    end
-    return nil
-end
-
-function Planters.monitor_growth()
-    print("[Bot-06 Harvester]: Monitoring Planter Growth (Mode: " .. CycleMode .. ")...")
-    for _, planter in pairs(ActivePlanters) do
-        local percent = planter.Progress * 100
-        print("[Bot-06 Harvester]: " .. planter.Type .. " in " .. planter.Field .. " is at " .. percent .. "%.")
-
-        if planter.Progress >= 1.0 then
-             print("[Bot-06 Harvester]: Harvesting " .. planter.Type .. " (100% Growth).")
-             -- Harvest logic
-        elseif planter.Progress >= 0.8 and planter.NectarType == "Critical" and CycleMode == "Nectar Priority" then
-            -- Placeholder logic for critical nectar
-             print("[Bot-06 Harvester]: Emergency Harvest - " .. planter.Type .. " (Nectar Critical).")
-        end
-    end
 end
 
 return Planters
